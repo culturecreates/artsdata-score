@@ -1,0 +1,20 @@
+PREFIX schema: <http://schema.org/>
+
+
+insert {
+  ?event schema:score ?score .
+}
+where {
+  ?event a schema:Event.
+
+  OPTIONAL {
+    ?event schema:startDate ?startDate .
+    FILTER(regex(str(?startDate), "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"))
+    BIND(10 as ?score)
+  }
+   OPTIONAL {
+    ?event schema:startDate ?startDate .
+    FILTER(regex(str(?startDate), "^[0-9]{4}-[0-9]{2}-[0-9]{2}T.*$"))
+    BIND(20 as ?score)
+  }
+}
