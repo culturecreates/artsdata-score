@@ -1,0 +1,17 @@
+@prefix schema: <http://schema.org/> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+
+<#EventName>
+    a sh:NodeShape ;
+    sh:targetClass schema:Event ;  
+    sh:property [
+        sh:path schema:name ;
+        sh:uniqueLang true ;
+        sh:minCount 1 ;
+        sh:message "Name is required." ;
+        sh:severity sh:Violation ; 
+    ]
+.
+
+
+

@@ -1,0 +1,27 @@
+[
+  {
+    "@context": "http://schema.org/",
+    "@id": "http://example.com/events/1",
+    "type": "Event",
+    "name": [
+      {
+        "@value": "Same language name 1",
+        "@language": "fr"
+      },
+      {
+        "@value": "Same language name 2",
+        "@language": "fr"
+      }
+    ]
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "http://example.com/events/2",
+    "type": "Event",
+    "name": [
+      {
+        "@id": "http://ex.com/name"
+      }
+    ]
+  }
+]

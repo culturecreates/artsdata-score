@@ -1,0 +1,15 @@
+@prefix schema: <http://schema.org/> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+
+<#EventStartDate>
+    a sh:NodeShape ;
+    sh:targetClass schema:Event ;  
+    sh:property [
+        sh:path schema:startDate ;
+        sh:minCount 1 ;
+        sh:severity sh:Violation ; 
+        sh:pattern "^[0-9]{4}-[0-9]{2}-[0-9]{2}(T[0-9]{2}:[0-9]{2}(:[0-9]{2})?)?Z?$" ;
+    ]
+.
+
+

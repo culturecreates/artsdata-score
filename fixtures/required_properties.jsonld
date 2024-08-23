@@ -1,0 +1,34 @@
+[
+  
+  {
+    "@context":"http://schema.org", 
+    "@id":"http://example.org/1",
+    "@type":"Event",
+    "location":{
+      "@type":"Place",
+      "name":"Theatre",
+      "address":{
+        "@type":"PostalAddress",
+        "postalCode":"12345"
+      }
+    },
+    "additionalType":"http://test.com/ComedyEvent",
+    "performer":"John Cleese"
+  },
+  {
+    "@context":"http://schema.org", 
+    "@id":"http://example.org/2",
+    "@type":"Event",
+    "location":{
+      "@type":"Place",
+      "name":"Theatre",
+      "address":{
+        "@type":"PostalAddress",
+        "postalCode":"12345"
+      }
+    },
+    "startDate":"2019-01-01T00:00:00Z",
+    "name":"2",
+    "additionalType":"http://test.com/OperaEvent"
+  }
+]

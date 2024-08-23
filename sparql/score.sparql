@@ -1,37 +1,43 @@
 PREFIX schema: <http://schema.org/>
 PREFIX ex: <http://example.org/>
+PREFIX sh: <http://www.w3.org/ns/shacl#> 
 
 insert {
-   ?event ex:hasScore ?EventScore .
-   ?EventScore a ex:Score;
-    ex:scoreTotal ?totalScore;
-    ex:scoreEventName ?name;
-    ex:scoreBreakdown [
-      schema:startDate  ?startDateScore 
-    ]
-  
-  
+   ?event  ex:scoreTotal ?totalScore .
 }
 where {
   ?event a schema:Event .
-  BIND(URI(CONCAT(str(?event),"#Score")) as ?EventScore)
-  # BIND(0 as ?totalScore)
- 
-
 
   OPTIONAL {
-    ?event schema:startDate ?startDate .
-    FILTER(regex(str(?startDate), "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"))
-    BIND(10 as ?startDateScore)
+    ?event a schema:Event ; schema:startDate ?startDate .
+    filter(NOT EXISTS { ?waring sh:focusNode ?event ; sh:resultPath schema:startDate  })
   }
-   OPTIONAL {
-    ?event schema:startDate ?startDate .
-    FILTER(regex(str(?startDate), "^[0-9]{4}-[0-9]{2}-[0-9]{2}T.*$"))
-    BIND(20 as ?startDatescore)
-  }
+  BIND(IF(BOUND(?startDate),12,0) as ?startDate_score)
 
-   OPTIONAL {
-    ?event schema:name ?name ; schema:location ?location ; schema:startDate ?startDate .
-    BIND(?startDate + 100 as ?totalScore)
+  OPTIONAL {
+    ?event schema:name ?name .
   }
+  BIND(IF(BOUND(?name),8,0) as ?name_score)
+
+  OPTIONAL {
+    ?event schema:location/a ?location_type . 
+  }
+  BIND(IF(BOUND(?location_type),8,0) as ?location_type_score)
+
+  OPTIONAL {
+    ?event schema:location/schema:name ?location_name . 
+  }
+  BIND(IF(BOUND(?location_name),4,0) as ?location_name_score)
+
+  OPTIONAL {
+    ?event schema:location/schema:address/schema:postalCode ?location_postalCode .
+  }
+  BIND(IF(BOUND(?location_postalCode),4,0) as ?location_postalCode_score)
+
+  OPTIONAL {
+    ?violation sh:focusNode ?event ; sh:resultSeverity sh:Violation .
+  }
+  BIND( IF(BOUND(?violation),0, ?startDate_score + ?name_score + ?location_type_score + ?location_name_score + ?location_postalCode_score) as ?totalScore)
+
+  
 }
