@@ -20,7 +20,10 @@ class SparqlTest < Minitest::Test
     graph <<  @shacl.execute(graph) 
     graph.query(@sparql)
     puts graph.dump(:ttl)
-    assert_equal 8, graph.count
+    actual = graph.query([RDF::URI('http://example.org/2'), RDF::URI('http://example.org/scoreTotal'), nil]).first.object.value.to_i
+    assert_equal 28, actual
+    actual = graph.query([RDF::URI('http://example.org/1'), RDF::URI('http://example.org/scoreTotal'), nil]).first.object.value.to_i
+    assert_equal 0, actual
 
   end
 

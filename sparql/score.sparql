@@ -1,16 +1,20 @@
 PREFIX schema: <http://schema.org/>
 PREFIX ex: <http://example.org/>
 PREFIX sh: <http://www.w3.org/ns/shacl#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 
 insert {
-   ?event  ex:scoreTotal ?totalScore .
+   ?event  ex:scoreTotal ?totalScore ; ex:startDateScore ?startDate_score ; ex:nameScore ?name_score ; ex:locationTypeScore ?location_type_score ; ex:locationNameScore ?location_name_score ; ex:locationPostalCodeScore ?location_postalCode_score .
 }
 where {
   ?event a schema:Event .
 
   OPTIONAL {
-    ?event a schema:Event ; schema:startDate ?startDate .
-    filter(NOT EXISTS { ?waring sh:focusNode ?event ; sh:resultPath schema:startDate  })
+    ?event schema:startDate ?startDate .
+    OPTIONAL {
+      ?warning sh:focusNode ?event ; sh:resultPath schema:startDate .
+    }
+    filter(!BOUND(?warning))
   }
   BIND(IF(BOUND(?startDate),12,0) as ?startDate_score)
 
@@ -20,19 +24,20 @@ where {
   BIND(IF(BOUND(?name),8,0) as ?name_score)
 
   OPTIONAL {
-    ?event schema:location/a ?location_type . 
+    ?event schema:location ?loc .
+    ?loc a ?location_type . 
   }
   BIND(IF(BOUND(?location_type),8,0) as ?location_type_score)
 
   OPTIONAL {
     ?event schema:location/schema:name ?location_name . 
   }
-  BIND(IF(BOUND(?location_name),4,0) as ?location_name_score)
+   BIND(IF(BOUND(?location_name),4,0) as ?location_name_score)
 
   OPTIONAL {
     ?event schema:location/schema:address/schema:postalCode ?location_postalCode .
   }
-  BIND(IF(BOUND(?location_postalCode),4,0) as ?location_postalCode_score)
+   BIND(IF(BOUND(?location_postalCode),4,0) as ?location_postalCode_score)
 
   OPTIONAL {
     ?violation sh:focusNode ?event ; sh:resultSeverity sh:Violation .
