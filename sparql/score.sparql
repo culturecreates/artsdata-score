@@ -3,17 +3,12 @@ PREFIX ex: <http://example.org/>
 PREFIX sh: <http://www.w3.org/ns/shacl#> 
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 
-delete {
-   ?not_event a ?not_event_type ; ?b ?c  .
-   }
 insert {
    ?event  ex:score ?totalScore  .
    ?event  ex:score ?DatasetBreakdown .
    ?DatasetBreakdown ex:startDateScore ?startDate_score ; ex:nameScore ?name_score ; ex:locationTypeScore ?location_type_score ; ex:locationNameScore ?location_name_score ; ex:locationPostalCodeScore ?location_postalCode_score  .
 }
 where {
-   ?not_event a ?not_event_type ; ?b ?c  .
-   filter(?not_event_type != schema:Event)
   ?event a schema:Event .
   BIND(BNODE() as ?DatasetBreakdown)
   OPTIONAL {
