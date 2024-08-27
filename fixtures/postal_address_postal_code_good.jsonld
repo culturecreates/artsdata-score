@@ -1,0 +1,13 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "PostalAddress",
+    "name":"Normal postalCode",
+    "postalCode": "H0H 0H0"
+  }, {
+    "@context": "http://schema.org",
+    "@type": "PostalAddress",
+    "name":"OK if missing space",
+    "postalCode": "H0H0H0"
+  }
+]

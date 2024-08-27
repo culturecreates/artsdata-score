@@ -1,0 +1,13 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "PostalAddress",
+    "name":"Incorrect number of characters",
+    "postalCode": "H0H"
+  }, {
+    "@context": "http://schema.org",
+    "@type": "PostalAddress",
+    "name":"Non alphanumeric characters",
+    "postalCode": "HOH@HOH"
+  }
+]

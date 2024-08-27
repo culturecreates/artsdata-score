@@ -1,0 +1,22 @@
+[
+  {
+    "@context": "http://schema.org/",
+    "type": "Place",
+    "description": "Missing name"
+  },
+  {
+    "@context": "http://schema.org/",
+    "type": "Place",
+   "description": "Language not unique",
+    "name": [
+      {
+        "@value": "English name",
+        "@language": "en"
+      },
+      {
+        "@value": "French name",
+        "@language": "en"
+      }
+    ]
+  }
+]

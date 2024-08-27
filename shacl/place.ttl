@@ -1,0 +1,16 @@
+@prefix schema: <http://schema.org/> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+
+<#name>
+    a sh:NodeShape ;
+    sh:targetClass schema:Place ;  
+    sh:property [
+        sh:path schema:name ;
+        sh:uniqueLang true ;
+        sh:minCount 1 ;
+        sh:message "Place name (one per language) is recommended." ;
+        sh:severity sh:Warning ; 
+    ]
+.
+
+

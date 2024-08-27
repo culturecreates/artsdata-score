@@ -6,11 +6,19 @@ PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 insert {
    ?event  ex:score ?totalScore  .
    ?event  ex:score ?DatasetBreakdown .
-   ?DatasetBreakdown ex:startDateScore ?startDate_score ; ex:nameScore ?name_score ; ex:locationTypeScore ?location_type_score ; ex:locationNameScore ?location_name_score ; ex:locationPostalCodeScore ?location_postalCode_score  .
+   ?DatasetBreakdown ex:startDateScore ?startDate_score ; 
+    ex:nameScore ?name_score ; 
+    ex:locationTypeScore ?location_type_score ; 
+    ex:locationNameScore ?location_name_score ; 
+    ex:locationPostalCodeScore ?location_postalCode_score ;
+    ex:locationSameAsScore ?location_sameAs_score .
 }
 where {
   ?event a schema:Event .
-  BIND(BNODE() as ?DatasetBreakdown)
+  # Nest DatasetBreakdown
+  BIND(BNODE() as ?DatasetBreakdown) .
+
+  # startDate
   OPTIONAL {
     ?event schema:startDate ?startDate .
     OPTIONAL {
@@ -20,31 +28,60 @@ where {
   }
   BIND(IF(BOUND(?startDate),12,0) as ?startDate_score)
 
+  # event name
   OPTIONAL {
     ?event schema:name ?name .
   }
   BIND(IF(BOUND(?name),8,0) as ?name_score)
 
+  # location type
   OPTIONAL {
     ?event schema:location ?loc .
     ?loc a ?location_type . 
   }
   BIND(IF(BOUND(?location_type),8,0) as ?location_type_score)
 
+  # location name
   OPTIONAL {
     ?event schema:location/schema:name ?location_name . 
   }
-   BIND(IF(BOUND(?location_name),4,0) as ?location_name_score)
+  BIND(IF(BOUND(?location_name),4,0) as ?location_name_score)
 
+  # location postalCode
   OPTIONAL {
-    ?event schema:location/schema:address/schema:postalCode ?location_postalCode .
+    ?event schema:location/schema:address ?postal_address .
+    ?postal_address schema:postalCode ?location_postalCode .
+     OPTIONAL {
+      ?warning sh:focusNode ?postal_address ; sh:resultPath schema:postalCode .
+    }
+    filter(!BOUND(?warning))
   }
-   BIND(IF(BOUND(?location_postalCode),4,0) as ?location_postalCode_score)
+  BIND(IF(BOUND(?location_postalCode),4,0) as ?location_postalCode_score)
 
+  # location sameAs
+  OPTIONAL {
+    ?event schema:location ?loc .
+    ?loc schema:sameAs ?location_sameAs .
+     OPTIONAL {
+      ?warning sh:focusNode ?loc ; sh:resultPath schema:postalCode .
+    }
+    filter(!BOUND(?warning))
+  }
+  BIND(IF(BOUND(?location_sameAs),4,0) as ?location_sameAs_score)
+
+  # required properties defined in SHACL
   OPTIONAL {
     ?violation sh:focusNode ?event ; sh:resultSeverity sh:Violation .
   }
-  BIND( IF(BOUND(?violation),0, ?startDate_score + ?name_score + ?location_type_score + ?location_name_score + ?location_postalCode_score) as ?totalScore)
+  BIND( IF(BOUND(?violation),0, 
+    ?startDate_score + 
+    ?name_score + 
+    ?location_type_score + 
+    ?location_name_score + 
+    ?location_postalCode_score +
+    ?location_sameAs_score
+    ) as ?totalScore)
+  
 
   
 }

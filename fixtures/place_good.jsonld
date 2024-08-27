@@ -1,0 +1,21 @@
+[
+  {
+    "@context": "http://schema.org/",
+    "type": "Place",
+    "name": "Minimal Place"
+  },
+  {
+    "@context": "http://schema.org/",
+    "type": "Place",
+    "name": [
+      {
+        "@value": "English name",
+        "@language": "en"
+      },
+      {
+        "@value": "French name",
+        "@language": "fr"
+      }
+    ]
+  }
+]

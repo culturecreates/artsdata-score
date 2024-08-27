@@ -1,0 +1,13 @@
+@prefix schema: <http://schema.org/> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+
+<#postalCode>
+    a sh:NodeShape ;
+    sh:targetClass schema:PostalAddress ;  
+    sh:property [
+        sh:path schema:postalCode ;
+        sh:minCount 1 ;
+        sh:pattern "^[0-9A-Za-z]{3} ?[0-9A-Za-z]{3}$" ;
+        sh:severity sh:Warning ; 
+    ]
+.
