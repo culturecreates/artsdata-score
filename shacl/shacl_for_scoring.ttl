@@ -1,16 +1,18 @@
 @prefix schema: <http://schema.org/> .
 @prefix sh: <http://www.w3.org/ns/shacl#> .
 
-<#EventStartDate>
-    a sh:NodeShape ;
-    sh:targetClass schema:Event ;  
+<#testFacebook>
+    sh:targetClass schema:Event ;
     sh:property [
-        sh:path schema:startDate ;
-        sh:minCount 1 ;
-        sh:severity sh:Violation ; 
-        sh:pattern "^[0-9]{4}-[0-9]{2}-[0-9]{2}(T[0-9]{2}:[0-9]{2}(:[0-9]{2})?(-[0-9]{2}:[0-9]{2}(:[0-9]{2})?)?)?Z?$" ;
-    ]
+        sh:message "Only Facebook URLs for events are allowed for Event sameAs." ;
+        sh:path schema:sameAs ;
+        sh:pattern "^https?://www.facebook.com/events"  ;  
+        sh:severity sh:Warning ;
+    ] 
 .
+
+@prefix schema: <http://schema.org/> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
 
 <#EventName>
     a sh:NodeShape ;
@@ -24,6 +26,12 @@
     ]
 .
 
+
+
+
+@prefix schema: <http://schema.org/> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+
 <#EventPlace>
     a sh:NodeShape ;
     sh:targetClass schema:Event ;  
@@ -34,6 +42,24 @@
     ]
 .
 
+@prefix schema: <http://schema.org/> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+
+<#EventStartDate>
+    a sh:NodeShape ;
+    sh:targetClass schema:Event ;  
+    sh:property [
+        sh:path schema:startDate ;
+        sh:minCount 1 ;
+        sh:severity sh:Violation ; 
+        sh:pattern "^[0-9]{4}-[0-9]{2}-[0-9]{2}(T[0-9]{2}:[0-9]{2}(:[0-9]{2})?(-[0-9]{2}:[0-9]{2}(:[0-9]{2})?)?)?Z?$" ;
+    ]
+.
+
+
+
+@prefix schema: <http://schema.org/> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
 
 <#PlaceName>
     a sh:NodeShape ;
@@ -47,6 +73,10 @@
     ]
 .
 
+
+
+@prefix schema: <http://schema.org/> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
 
 <#postalCode>
     a sh:NodeShape ;

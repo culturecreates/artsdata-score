@@ -5,8 +5,12 @@ Artsdata Score
 
 1. clone the repo
 2. cd into the project
-2. `bundle install`
-3. `rake test`
+3. `bundle install`
+4. `rake test`
+5. make changes to the SHACL partials, SPARQL and update tests
+7. `rake build` to merge all the SHACL partials into a single file
+
+
 
 
 ## Revised weighting proposal
