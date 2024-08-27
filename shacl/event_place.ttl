@@ -1,0 +1,12 @@
+@prefix schema: <http://schema.org/> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+
+<#EventPlace>
+    a sh:NodeShape ;
+    sh:targetClass schema:Event ;  
+    sh:property [
+        sh:path schema:location ;
+        sh:minCount 1 ;
+        sh:severity sh:Violation ;
+    ]
+.

@@ -24,7 +24,18 @@
     ]
 .
 
-<#name>
+<#EventPlace>
+    a sh:NodeShape ;
+    sh:targetClass schema:Event ;  
+    sh:property [
+        sh:path schema:location ;
+        sh:minCount 1 ;
+        sh:severity sh:Violation ;
+    ]
+.
+
+
+<#PlaceName>
     a sh:NodeShape ;
     sh:targetClass schema:Place ;  
     sh:property [

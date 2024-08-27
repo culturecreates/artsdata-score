@@ -1,5 +1,4 @@
 [
-  
   {
     "@context":"http://schema.org", 
     "@id":"http://example.org/1",
@@ -15,18 +14,25 @@
       }
     },
     "additionalType":"http://test.com/ComedyEvent"
-  }
-  ,
+  },
   {
     "@context":"http://schema.org", 
     "@id":"http://example.org/2",
     "@type":"Event",
-    "description":"Score 28 because mimnimun requirements are met",
+    "name":"Event 2",
+    "description":"Score 0 because required location is missing",
+    "startDate":"2019-01-01",
+    "additionalType":"http://test.com/ComedyEvent"
+  },
+  {
+    "@context":"http://schema.org", 
+    "@id":"http://example.org/3",
+    "@type":"Event",
+    "description":"Score 28 because minimun requirements are met",
     "name":"Event 2",
     "startDate":"2019-01-01",
     "location":{
-      "@type":"Place",
-      "name":"Capitol Theatre"
+      "@type":"Place"
     }
   }
 ]

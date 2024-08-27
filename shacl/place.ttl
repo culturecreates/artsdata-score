@@ -1,7 +1,7 @@
 @prefix schema: <http://schema.org/> .
 @prefix sh: <http://www.w3.org/ns/shacl#> .
 
-<#name>
+<#PlaceName>
     a sh:NodeShape ;
     sh:targetClass schema:Place ;  
     sh:property [
