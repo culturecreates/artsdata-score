@@ -3,7 +3,7 @@ require 'linkeddata'
 
 class SparqlTest < Minitest::Test
   def setup
-    @sparql = SPARQL.parse(File.read("sparql/score.sparql"), update: true)
+    @sparql = SPARQL.parse(File.read("sparql/score_algorithm.sparql"), update: true)
     shacl_files = Dir.glob("shacl/*.ttl")
     shapes_graph = RDF::Graph.new
     shacl_files.each do |file|
