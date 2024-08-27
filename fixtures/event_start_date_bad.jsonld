@@ -1,16 +1,14 @@
 [
   {
     "@context": "http://schema.org",
-    "@id":"http://example.org/1",
     "name":"Day of month missing",
     "@type": "Event",
     "startDate": "2019-01T00:00:00Z"
   },
   {
     "@context": "http://schema.org",
-    "@id":"http://example.org/1",
     "name":"Year not 4 digits",
     "@type": "Event",
-    "startDate": "2019-01-T00:00:00Z"
+    "startDate": "24-01-01T00:00:00Z"
   }
 ]

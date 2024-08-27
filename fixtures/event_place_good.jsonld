@@ -1,0 +1,19 @@
+[
+  {
+    "@context": "http://schema.org",
+    "name":"Event with location",
+    "@type": "Event",
+    "location": {
+      "@type": "Place",
+      "name": "Normal Place"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "name":"Event with location",
+    "@type": "Event",
+    "location": {
+      "@id": "http://kg.artsdata.ca/resource/K11-116"
+    }
+  }
+]

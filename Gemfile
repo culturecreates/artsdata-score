@@ -2,5 +2,8 @@
 
 source "https://rubygems.org"
 
-gem 'linkeddata'
 gem 'minitest'
+gem 'rake'
+gem 'rdf'
+gem 'shacl'
+gem 'rdf-turtle'

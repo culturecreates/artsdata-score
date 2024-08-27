@@ -7,7 +7,7 @@
   {
     "@context": "http://schema.org/",
     "type": "Place",
-   "description": "Language not unique",
+    "description": "Language not unique",
     "name": [
       {
         "@value": "English name",

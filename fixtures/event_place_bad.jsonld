@@ -1,0 +1,15 @@
+[
+  {
+    "@context": "http://schema.org",
+    "name":"Event WITHOUT location",
+    "@type": "Event"
+  },
+  {
+    "@context": "http://schema.org",
+    "name":"Event with location",
+    "@type": "Event",
+    "address": {
+      "name": "Virtual Location for Zoom"
+    }
+  }
+]

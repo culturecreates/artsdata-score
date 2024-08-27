@@ -1,3 +1,14 @@
+Artsdata Score
+==============
+
+### To get started
+
+1. clone the repo
+2. cd into the project
+2. `bundle install`
+3. `rake test`
+
+
 ## Revised weighting proposal
 Taking into account all the excellent feedback provided so far, I would like to propose this revised weighting. It introduces a new category worth 4 points for properties that are deemed useful for disambiguation. Required properties are given a weight of 8 points and recommended properties are brought down to a weight of 2 points to address concerns that recommended properties may collectively have a higher cumulative value than required properties. I also propose to integrate @christianroy's proposal to give a null score if an event does not have all three required properties. 
 
