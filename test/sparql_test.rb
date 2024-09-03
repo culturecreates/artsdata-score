@@ -31,8 +31,15 @@ class SparqlTest < Minitest::Test
     assert_equal 0, actual, "Score for event 2 should be 0"
     actual = graph.query([RDF::URI('http://example.org/3'), RDF::URI('http://example.org/score'), nil]).first.object.value.to_i
     assert_equal 28, actual, "Score for event 3 should be 32"
+  end
 
-
+  def test_event_types
+    # Should accepts TheaterEvent, DanceEvent, MusicEvent, VisualArtsEvent, FilmEvent.
+    graph = RDF::Graph.load("fixtures/event_types.jsonld")
+    graph <<  @shacl.execute(graph) 
+    graph.query(@sparql)
+    actual = graph.query([nil, RDF::URI('http://example.org/score'), 0]).count
+    assert_equal 3, actual, "All Event types should have a report"
   end
 
 end

@@ -14,7 +14,9 @@ insert {
     ex:locationSameAsScore ?location_sameAs_score .
 }
 where {
-  ?event a schema:Event .
+  # TODO: use inferencing to get all Event sub-classes
+  values ?event_type { schema:Event schema:TheaterEvent schema:MusicEvent}
+  ?event a ?event_type .
   # Nest DatasetBreakdown
   BIND(BNODE() as ?DatasetBreakdown) .
 

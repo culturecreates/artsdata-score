@@ -1,0 +1,17 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@id": "http://event/1",
+    "@type": "TheaterEvent"
+  },
+  {
+    "@context": "http://schema.org",
+    "@id": "http://event/2",
+    "@type": "MusicEvent"
+  },
+  {
+    "@context": "http://schema.org",
+    "@id": "http://event/3",
+    "@type": "Event"
+  }
+]

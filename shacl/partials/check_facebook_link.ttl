@@ -2,7 +2,7 @@
 @prefix sh: <http://www.w3.org/ns/shacl#> .
 
 <#testFacebook>
-    sh:targetClass schema:Event ;
+    sh:targetClass schema:Event, schema:MusicEvent, schema:TheaterEvent ; 
     sh:property [
         sh:message "Only Facebook URLs for events are allowed for Event sameAs." ;
         sh:path schema:sameAs ;

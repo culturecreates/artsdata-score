@@ -3,7 +3,7 @@
 
 <#EventName>
     a sh:NodeShape ;
-    sh:targetClass schema:Event ;  
+    sh:targetClass schema:Event, schema:MusicEvent, schema:TheaterEvent ;  
     sh:property [
         sh:path schema:name ;
         sh:uniqueLang true ;
