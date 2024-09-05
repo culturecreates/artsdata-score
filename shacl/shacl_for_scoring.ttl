@@ -13,6 +13,46 @@
 
 @prefix schema: <http://schema.org/> .
 @prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+# This shape checks the event for an image property that is either a URL or an ImageObject with a URL property
+<#EventImage>
+    a sh:NodeShape ;
+    sh:targetClass schema:Event, schema:MusicEvent, schema:TheaterEvent ;  
+    sh:severity sh:Warning ; 
+    sh:or (
+        [ sh:property <#ImageURI> ; ]
+        [ sh:property <#EventImageObject> ;] 
+    );
+.
+
+<#ImageURI>
+    a sh:PropertyShape ;
+    sh:path schema:image ;
+    sh:minCount 1 ; 
+    sh:nodeKind sh:IRI ; # cannot be a blank node for nested ImageObject
+    .
+
+# only for the url property of an ImageObject
+<#EventImageObject>
+    a sh:PropertyShape ;
+    sh:path schema:image ;
+    sh:minCount 1 ; 
+    sh:node <#ImageObject> ;
+    .
+
+<#ImageObject>
+    a sh:NodeShape ;
+    sh:targetClass schema:ImageObject ;  
+    sh:property [
+        sh:path schema:url ;
+        sh:minCount 1 ; 
+        sh:nodeKind sh:IRI ;
+    ]
+.
+
+@prefix schema: <http://schema.org/> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
 
 <#EventName>
     a sh:NodeShape ;
