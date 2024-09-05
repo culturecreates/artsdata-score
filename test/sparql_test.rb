@@ -42,4 +42,13 @@ class SparqlTest < Minitest::Test
     assert_equal 3, actual, "All Event types should have a report"
   end
 
+  def test_high_scores
+    graph = RDF::Graph.load("fixtures/score_high_tests.jsonld")
+    graph <<  @shacl.execute(graph) 
+    graph.query(@sparql)
+    actual = graph.query([RDF::URI('http://example.org/high_score_1'), RDF::URI('http://example.org/score'), nil]).first.object.value.to_i
+    assert_equal 48, actual, "Not expected score. Score was #{actual}"
+  end
+
+
 end

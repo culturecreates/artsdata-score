@@ -1,0 +1,30 @@
+[
+  {
+    "@context":"http://schema.org", 
+    "@id":"http://example.org/high_score_1",
+    "@type":"Event",
+    "name":"Event 4",
+    "description":"Score full",
+    "startDate":"2019-01-01",
+    "location":{
+      "@type":"Place"
+    },
+    "url":"http://example.org/3",
+    "additionalType":"http://test.com/ComedyEvent",
+    "image":"http://example.org/3.jpg",
+    "organizer":{
+      "@type":"Organization",
+      "name":"Comedy Club",
+      "sameAs":"http://example.org/comedyclub"
+    },
+    "performer":{
+      "@type":"Person",
+      "name":"John Doe",
+      "sameAs":"http://example.org/johndoe"
+    },
+    "offers":{
+      "@type":"Offer",
+      "url":"http://example.org/3/tickets"
+    }
+  }
+]

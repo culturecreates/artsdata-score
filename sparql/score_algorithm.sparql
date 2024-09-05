@@ -16,7 +16,12 @@ insert {
     ex:additionalType_score ?additionalType_score ;
     ex:description_score ?description_score ;
     ex:image_url_score ?image_url_score ;
-    ex:organizer_type_score ?organizer_type_score .
+    ex:organizer_type_score ?organizer_type_score ;
+    ex:organizer_sameAs_score ?organizer_sameAs_score ;
+    ex:performer_type_score ?performer_type_score ;
+    ex:performer_sameAs_score ?performer_sameAs_score ;
+    ex:offer_type_score ?offer_type_score ;
+    ex:offer_url_score ?offer_url_score .
 }
 where {
   # TODO: use inferencing to get all Event sub-classes
@@ -112,23 +117,50 @@ where {
   BIND(IF(BOUND(?image_url),2,0) as ?image_url_score)
 
   # organizer.type with expected object value for the property
-   OPTIONAL {
+  OPTIONAL {
     ?event schema:organizer ?organizer .
     ?organizer a ?organizer_type . 
-    OPTIONAL {
-      ?warning sh:focusNode ?organizer ; sh:resultPath schema:organizer .
-    }
-    filter(!BOUND(?warning))
   }
   BIND(IF(BOUND(?organizer_type),2,0) as ?organizer_type_score)
 
   # organizer.sameAs with a URI constituting a unique identifier for the object
-
+  OPTIONAL {
+    ?event schema:organizer ?organizer .
+    ?organizer schema:sameAs ?organizer_sameAs . 
+  }
+  BIND(IF(BOUND(?organizer_sameAs),2,0) as ?organizer_sameAs_score)
   
   # performer.type with expected object value for the property
+  OPTIONAL {
+    ?event schema:performer ?performer .
+    ?performer a ?performer_type . 
+  }
+  BIND(IF(BOUND(?performer_type),2,0) as ?performer_type_score)
+
   # performer.sameAs with a URI constituting a unique identifier for the object
+  OPTIONAL {
+    ?event schema:performer ?performer .
+    ?performer schema:sameAs ?performer_sameAs . 
+  }
+  BIND(IF(BOUND(?performer_sameAs),2,0) as ?performer_sameAs_score)
+
   # offers.type with expected object value for the property (Offer or AggregateOffer)
+  OPTIONAL {
+    ?event schema:offers ?offer .
+    ?offer a schema:Offer .
+  }
+  OPTIONAL {
+    ?event schema:offers ?offer .
+    ?offer a schema:AggregateOffer .
+  }
+  BIND(IF(BOUND(?offer),2,0) as ?offer_type_score)
+
   # offers.url
+  OPTIONAL {
+    ?event schema:offers ?offer .
+    ?offer schema:url ?offer_url .
+  }
+  BIND(IF(BOUND(?offer_url),2,0) as ?offer_url_score)
 
   ########################
   # required properties 
@@ -150,7 +182,12 @@ where {
     ?additionalType_score +
     ?description_score +
     ?image_url_score +
-    ?organizer_type_score
+    ?organizer_type_score +
+    ?organizer_sameAs_score + 
+    ?performer_type_score +
+    ?performer_sameAs_score +
+    ?offer_type_score + 
+    ?offer_url_score
     ) as ?totalScore)
   
 
