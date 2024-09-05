@@ -1,7 +1,22 @@
-Artsdata Score
+Artsdata JSON-LD Event Score
 ==============
+For the history of this project see discussion thread https://github.com/culturecreates/artsdata-data-model/discussions/120 
 
-### To get started
+## Scoring individual webpages
+You can score event JSON-LD on individual webpages:
+1. go to [artsdata.ca](http://artsdata.ca)
+2. paste a webpage url into the top right search box and click the search button
+3. In the options for "External resources" click *dereference* to view the webpage's JSON-LD
+4. At the top of the screen click the link *compute score*. 
+
+This will load the external webpage with the score added into the Event data (keep scrolling down and look for a property called  "score").
+
+Each event in the JSON-LD will have a total score and the breakdown of the score for each property.
+
+## Batch scoring multiple webpages
+Coming soon...
+
+# To contribute
 
 1. clone the repo
 2. cd into the project
