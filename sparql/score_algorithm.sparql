@@ -30,7 +30,11 @@ where {
   # Nest DatasetBreakdown
   BIND(BNODE() as ?DatasetBreakdown) .
 
-  # startDate
+
+  ########################
+  # startDate: 12 points
+  ########################
+
   OPTIONAL {
     ?event schema:startDate ?startDate .
     OPTIONAL {
@@ -39,6 +43,11 @@ where {
     filter(!BOUND(?warning))
   }
   BIND(IF(BOUND(?startDate),12,0) as ?startDate_score)
+
+
+  ########################
+  # Required properties: 8 points
+  ########################
 
   # event name
   OPTIONAL {
@@ -53,6 +62,11 @@ where {
   }
   BIND(IF(BOUND(?location_type),8,0) as ?location_type_score)
 
+
+  ########################
+  # Disambiguation properties: 4 points
+  ########################
+  
   # location name
   OPTIONAL {
     ?event schema:location/schema:name ?location_name . 

@@ -42,12 +42,18 @@ class SparqlTest < Minitest::Test
     assert_equal 3, actual, "All Event types should have a report"
   end
 
+  # An event with all three disambiguation properties would have 12 additional points, for a sub-total of 40.
+  # An event with all 11 recommended properties would have 22 additional points, for a sub-total of 62. 
   def test_high_scores
     graph = RDF::Graph.load("fixtures/score_high_tests.jsonld")
     graph <<  @shacl.execute(graph) 
     graph.query(@sparql)
+    puts graph.dump(:ttl)
     actual = graph.query([RDF::URI('http://example.org/high_score_1'), RDF::URI('http://example.org/score'), nil]).first.object.value.to_i
-    assert_equal 48, actual, "Not expected score. Score was #{actual}"
+    assert_equal 40, actual, "Not expected score. Score was #{actual}"
+    actual = graph.query([RDF::URI('http://example.org/high_score_2'), RDF::URI('http://example.org/score'), nil]).first.object.value.to_i
+    assert_equal 60, actual, "Not expected score. Score was #{actual}"
+
   end
 
 

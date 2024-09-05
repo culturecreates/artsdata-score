@@ -10,7 +10,7 @@
       "name":"Theatre",
       "address":{
         "@type":"PostalAddress",
-        "postalCode":"12345"
+        "postalCode":"H2C 123"
       }
     },
     "additionalType":"http://test.com/ComedyEvent"

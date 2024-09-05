@@ -3,11 +3,33 @@
     "@context":"http://schema.org", 
     "@id":"http://example.org/high_score_1",
     "@type":"Event",
-    "name":"Event 4",
+    "name":"Event score 40",
+    "startDate":"2019-01-01",
+    "location":{
+      "@type":"Place",
+      "name":"Location name",
+      "address":{
+        "@type":"PostalAddress",
+        "postalCode":"H2C 123"
+      },
+      "sameAs":"http://example.org/location"
+    }
+  },
+  {
+    "@context":"http://schema.org", 
+    "@id":"http://example.org/high_score_2",
+    "@type":"Event",
+    "name":"Event highest",
     "description":"Score full",
     "startDate":"2019-01-01",
     "location":{
-      "@type":"Place"
+      "@type":"Place",
+      "name":"Location name",
+      "address":{
+        "@type":"PostalAddress",
+        "postalCode":"H2C 123"
+      },
+      "sameAs":"http://example.org/location"
     },
     "url":"http://example.org/3",
     "additionalType":"http://test.com/ComedyEvent",
