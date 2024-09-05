@@ -30,7 +30,7 @@ class SparqlTest < Minitest::Test
     actual = graph.query([RDF::URI('http://example.org/2'), RDF::URI('http://example.org/score'), nil]).first.object.value.to_i
     assert_equal 0, actual, "Score for event 2 should be 0"
     actual = graph.query([RDF::URI('http://example.org/3'), RDF::URI('http://example.org/score'), nil]).first.object.value.to_i
-    assert_equal 28, actual, "Score for event 3 should be 32"
+    assert_equal 28, actual, "Score for event 3 should be 28"
   end
 
   def test_event_types

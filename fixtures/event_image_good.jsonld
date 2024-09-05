@@ -1,0 +1,19 @@
+[
+  {
+    "@context": "http://schema.org/",
+    "@id": "http://example.com/events/good1",
+    "type": "Event",
+    "image": "http://example.com/image.jpg"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "http://example.com/events/good3",
+    "type": "Event",
+    "image": 
+      {
+        "@type": "ImageObject",
+        "url": "http://example.com/image.jpg"
+      }
+    
+  }
+]

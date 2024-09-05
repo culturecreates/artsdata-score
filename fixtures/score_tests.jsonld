@@ -28,7 +28,6 @@
     "@context":"http://schema.org", 
     "@id":"http://example.org/3",
     "@type":"Event",
-    "description":"Score 28 because minimun requirements are met",
     "name":"Event 2",
     "startDate":"2019-01-01",
     "location":{

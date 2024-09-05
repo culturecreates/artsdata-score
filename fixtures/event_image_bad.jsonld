@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "http://schema.org/",
+    "@id": "http://example.com/events/1",
+    "type": "Event",
+    "name":"image not a URL",
+    "image": "example.com/image.jpg"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "http://example.com/events/2",
+    "type": "Event",
+    "name": "imageObject not a URL",
+    "image": [
+      {
+        "@type": "ImageObject",
+        "url": "example.com/image.jpg"
+      }
+    ]
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "http://example.com/events/3",
+    "type": "Event",
+    "name": "imageObject not a URL",
+    "image":  {
+        "@type": "ImageObject"
+      }
+  }
+]

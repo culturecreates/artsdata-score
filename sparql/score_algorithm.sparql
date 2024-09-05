@@ -7,11 +7,16 @@ insert {
    ?event  ex:score ?totalScore  .
    ?event  ex:score ?DatasetBreakdown .
    ?DatasetBreakdown ex:startDateScore ?startDate_score ; 
-    ex:nameScore ?name_score ; 
-    ex:locationTypeScore ?location_type_score ; 
-    ex:locationNameScore ?location_name_score ; 
-    ex:locationPostalCodeScore ?location_postalCode_score ;
-    ex:locationSameAsScore ?location_sameAs_score .
+    ex:name_score ?name_score ; 
+    ex:location_type_score ?location_type_score ; 
+    ex:location_name_score ?location_name_score ; 
+    ex:location_postalCode_score ?location_postalCode_score ;
+    ex:location_sameAs_score ?location_sameAs_score ;
+    ex:url_score  ?url_score ;
+    ex:additionalType_score ?additionalType_score ;
+    ex:description_score ?description_score ;
+    ex:image_url_score ?image_url_score ;
+    ex:organizer_type_score ?organizer_type_score .
 }
 where {
   # TODO: use inferencing to get all Event sub-classes
@@ -71,7 +76,66 @@ where {
   }
   BIND(IF(BOUND(?location_sameAs),4,0) as ?location_sameAs_score)
 
-  # required properties defined in SHACL
+  ########################
+  # 2 points
+  ########################
+
+  # event id
+  # TODO - this is not a required property in SHACL
+  
+  # url
+  OPTIONAL {
+    ?event schema:url ?url .
+  }
+  BIND(IF(BOUND(?url),2,0) as ?url_score)
+
+  # additionalType
+  OPTIONAL {
+    ?event schema:additionalType ?additionalType .
+  }
+  BIND(IF(BOUND(?additionalType),2,0) as ?additionalType_score)
+   
+  # description
+  OPTIONAL {
+    ?event schema:description ?description .
+  }
+  BIND(IF(BOUND(?description),2,0) as ?description_score)
+  
+  # image with a proper url value OR nested ImageObject with a proper image.url value
+  OPTIONAL {
+    ?event schema:image  ?image_url .
+     OPTIONAL {
+      ?warning sh:focusNode ?event ; sh:resultPath schema:image .
+    }
+    filter(!BOUND(?warning))
+  }
+  BIND(IF(BOUND(?image_url),2,0) as ?image_url_score)
+
+  # organizer.type with expected object value for the property
+   OPTIONAL {
+    ?event schema:organizer ?organizer .
+    ?organizer a ?organizer_type . 
+    OPTIONAL {
+      ?warning sh:focusNode ?organizer ; sh:resultPath schema:organizer .
+    }
+    filter(!BOUND(?warning))
+  }
+  BIND(IF(BOUND(?organizer_type),2,0) as ?organizer_type_score)
+
+  # organizer.sameAs with a URI constituting a unique identifier for the object
+
+  
+  # performer.type with expected object value for the property
+  # performer.sameAs with a URI constituting a unique identifier for the object
+  # offers.type with expected object value for the property (Offer or AggregateOffer)
+  # offers.url
+
+  ########################
+  # required properties 
+  # - defined in SHACL
+  # - if required properties are present, 
+  # - then add up the scores
+  ########################
   OPTIONAL {
     ?violation sh:focusNode ?event ; sh:resultSeverity sh:Violation .
   }
@@ -81,7 +145,12 @@ where {
     ?location_type_score + 
     ?location_name_score + 
     ?location_postalCode_score +
-    ?location_sameAs_score
+    ?location_sameAs_score + 
+    ?url_score +
+    ?additionalType_score +
+    ?description_score +
+    ?image_url_score +
+    ?organizer_type_score
     ) as ?totalScore)
   
 

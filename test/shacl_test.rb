@@ -76,6 +76,27 @@ class ShaclTest < Minitest::Test
     assert report.conform?, "Some good data is not passing. #{report}"
   end
 
+  def test_event_image
+    shacl = SHACL.open("shacl/partials/event_image.ttl")
+
+    # bad
+    graph = RDF::Graph.load("fixtures/event_image_bad.jsonld")
+    report =  shacl.execute(graph)
+    graph << report
+    actual = graph.query([nil, RDF::URI('http://www.w3.org/ns/shacl#focusNode'), RDF::URI('http://example.com/events/1')]).count
+    assert_equal 1,actual,"events/1 bad data is not being caught. #{report}"
+    actual = graph.query([nil, RDF::URI('http://www.w3.org/ns/shacl#focusNode'), RDF::URI('http://example.com/events/2')]).count
+    assert_equal 1,actual,"events/2 bad data is not being caught. #{report}"
+    actual = graph.query([nil, RDF::URI('http://www.w3.org/ns/shacl#focusNode'), RDF::URI('http://example.com/events/3')]).count
+    assert_equal 1,actual,"events/3 bad data is not being caught. #{report}"
+
+    # good
+    graph = RDF::Graph.load("fixtures/event_image_good.jsonld")
+    report =  shacl.execute(graph)  
+  
+    assert report.conform?, "Some good data is not passing. #{report}"
+  end
+
   def test_sameas_facebook_event
     shacl = SHACL.open("shacl/partials/check_facebook_link.ttl")
 
