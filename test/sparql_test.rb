@@ -48,11 +48,13 @@ class SparqlTest < Minitest::Test
     graph = RDF::Graph.load("fixtures/score_high_tests.jsonld")
     graph <<  @shacl.execute(graph) 
     graph.query(@sparql)
-    puts graph.dump(:ttl)
+  
     actual = graph.query([RDF::URI('http://example.org/high_score_1'), RDF::URI('http://example.org/score'), nil]).first.object.value.to_i
-    assert_equal 40, actual, "Not expected score. Score was #{actual}"
+    assert_equal 41, actual, "Not expected score. Score was #{actual}"
     actual = graph.query([RDF::URI('http://example.org/high_score_2'), RDF::URI('http://example.org/score'), nil]).first.object.value.to_i
-    assert_equal 60, actual, "Not expected score. Score was #{actual}"
+    assert_equal 61, actual, "Not expected score. Score was #{actual}"
+    actual = graph.query([RDF::URI('http://example.org/high_score_3'), RDF::URI('http://example.org/score'), nil]).first.object.value.to_i
+    assert_equal 71, actual, "Not expected score. Score was #{actual}"
 
   end
 

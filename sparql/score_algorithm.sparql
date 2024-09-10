@@ -10,7 +10,7 @@ insert {
     ex:name_score ?name_score ; 
     ex:location_type_score ?location_type_score ; 
     ex:location_name_score ?location_name_score ; 
-    ex:location_postalCode_score ?location_postalCode_score ;
+    ex:postalCode_score ?location_postalCode_score ;
     ex:location_sameAs_score ?location_sameAs_score ;
     ex:url_score  ?url_score ;
     ex:additionalType_score ?additionalType_score ;
@@ -21,7 +21,19 @@ insert {
     ex:performer_type_score ?performer_type_score ;
     ex:performer_sameAs_score ?performer_sameAs_score ;
     ex:offer_type_score ?offer_type_score ;
-    ex:offer_url_score ?offer_url_score .
+    ex:offer_url_score ?offer_url_score ;
+    ex:address_type_score ?location_address_type_score ;
+    ex:offer_url_score ?location_url_score ;
+    ex:streetAddress_score ?location_address_streetAddress_score ;
+    ex:addressLocality_score ?location_address_addressLocality_score ;
+    ex:addressRegion_score ?location_address_addressRegion_score ;
+    ex:addressCountry_score ?location_address_addressCountry_score ;
+    ex:endDate_score ?endDate_score ;
+    ex:eventStatus_score ?eventStatus_score ;
+    ex:eventAttendanceMode_score ?eventAttendanceMode_score ;
+    ex:doorTime_score ?doorTime_score ;
+    ex:duration_score ?duration_score ;
+    ex:mainEntityOfPage_url_score ?mainEntityOfPage_url_score .
 }
 where {
   # TODO: use inferencing to get all Event sub-classes
@@ -176,6 +188,95 @@ where {
   }
   BIND(IF(BOUND(?offer_url),2,0) as ?offer_url_score)
 
+
+  ########################
+  # 1 point
+  ########################
+  # schema:location.address.type
+  OPTIONAL {
+    ?event schema:location/schema:address/a ?location_address_type .
+  }
+  BIND(IF(BOUND(?location_address_type),1,0) as ?location_address_type_score)
+
+  # schema:location.url
+  OPTIONAL {
+    ?event schema:location/schema:url  ?location_url .
+  }
+  BIND(IF(BOUND(?location_url),1,0) as ?location_url_score)
+
+  # schema:location.address.streetAddress
+  OPTIONAL {
+    ?event schema:location/schema:address/schema:streetAddress  ?location_address_streetAddress .
+  }
+  BIND(IF(BOUND(?location_address_streetAddress),1,0) as ?location_address_streetAddress_score)
+  
+  # schema:location.address.addressLocality
+  OPTIONAL {
+    ?event schema:location/schema:address/schema:addressLocality  ?location_address_addressLocality .
+  }
+  BIND(IF(BOUND(?location_address_streetAddress),1,0) as ?location_address_addressLocality_score)
+
+  # schema:location.address.addressRegion
+  OPTIONAL {
+    ?event schema:location/schema:address/schema:addressRegion  ?location_address_addressRegion .
+  }
+  BIND(IF(BOUND(?location_address_addressRegion),1,0) as ?location_address_addressRegion_score)
+
+  # schema:location.address.addressCountry
+  OPTIONAL {
+    ?event schema:location/schema:address/schema:addressCountry  ?location_address_addressCountry .
+  }
+  BIND(IF(BOUND(?location_address_addressCountry),1,0) as ?location_address_addressCountry_score)
+
+  # schema:endDate
+  OPTIONAL {
+    ?event schema:endDate  ?endDate .
+    OPTIONAL {
+      ?warning sh:focusNode ?event ; sh:resultPath schema:endDate .
+    }
+    filter(!BOUND(?warning))
+  }
+  BIND(IF(BOUND(?endDate),1,0) as ?endDate_score)
+
+  # schema:eventStatus
+  OPTIONAL {
+    ?event schema:eventStatus ?eventStatus .
+    OPTIONAL {
+      ?warning sh:focusNode ?event ; sh:resultPath schema:eventStatus .
+    }
+    filter(!BOUND(?warning))
+  }
+  BIND(IF(BOUND(?eventStatus),1,0) as ?eventStatus_score)
+
+  # schema:eventAttendanceMode
+  OPTIONAL {
+    ?event schema:eventStatus ?eventAttendanceMode .
+    OPTIONAL {
+      ?warning sh:focusNode ?event ; sh:resultPath schema:eventAttendanceMode .
+    }
+    filter(!BOUND(?warning))
+  }
+  BIND(IF(BOUND(?eventAttendanceMode),1,0) as ?eventAttendanceMode_score)
+
+  # schema:doorTime
+  OPTIONAL {
+    ?event schema:doorTime ?doorTime .
+  }
+  BIND(IF(BOUND(?doorTime),1,0) as ?doorTime_score)
+
+  # schema:duration
+  OPTIONAL {
+    ?event schema:duration ?duration .
+  }
+  BIND(IF(BOUND(?duration),1,0) as ?duration_score)
+
+  # schema:mainEntityOfPage.url
+  OPTIONAL {
+    ?event schema:mainEntityOfPage/schema:url  ?mainEntityOfPage_url .
+  }
+  BIND(IF(BOUND(?mainEntityOfPage_url),1,0) as ?mainEntityOfPage_url_score)
+
+
   ########################
   # required properties 
   # - defined in SHACL
@@ -201,7 +302,19 @@ where {
     ?performer_type_score +
     ?performer_sameAs_score +
     ?offer_type_score + 
-    ?offer_url_score
+    ?offer_url_score +
+    ?location_address_type_score +
+    ?location_url_score +
+    ?location_address_streetAddress_score +
+    ?location_address_addressLocality_score +
+    ?location_address_addressRegion_score+
+    ?location_address_addressCountry_score +
+    ?endDate_score +
+    ?eventStatus_score +
+    ?eventAttendanceMode_score +
+    ?doorTime_score +
+    ?duration_score +
+    ?mainEntityOfPage_url_score 
     ) as ?totalScore)
   
 
