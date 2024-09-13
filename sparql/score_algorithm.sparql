@@ -326,7 +326,7 @@ where {
   # we would like this qualification score to be ascribed a percentage 
   # value of 50 (and all higher scores distributed between 50 and 100).
   # (((score-28)/46)*50) + 50
-  BIND(((((?totalScore - 28)/46)*50) + 50) as ?normalizedScore)
+  BIND( IF(BOUND(?violation),0,((((?totalScore - 28)/46)*50) + 50)) as ?normalizedScore)
   
 
   
