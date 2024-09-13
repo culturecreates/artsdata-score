@@ -5,6 +5,7 @@ PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 
 insert {
    ?event  ex:score ?totalScore  .
+   ?event  ex:scorePercent ?normalizedScore .
    ?event  ex:score ?DatasetBreakdown .
    ?DatasetBreakdown ex:startDateScore ?startDate_score ; 
     ex:name_score ?name_score ; 
@@ -316,6 +317,16 @@ where {
     ?duration_score +
     ?mainEntityOfPage_url_score 
     ) as ?totalScore)
+  
+  # See https://github.com/culturecreates/artsdata-data-model/discussions/120#discussioncomment-10606358
+  # transform the 74-point score into a 100-point score for human 
+  # interpretation. No decimals are needed (you may round it to the integer). 
+  # Rather than giving the minimal qualification score 
+  # (28 for all three required property) a percentage of 39 (i.e. 28/74), 
+  # we would like this qualification score to be ascribed a percentage 
+  # value of 50 (and all higher scores distributed between 50 and 100).
+  # (((score-28)/46)*50) + 50
+  BIND(((((?totalScore - 28)/46)*50) + 50) as ?normalizedScore)
   
 
   
