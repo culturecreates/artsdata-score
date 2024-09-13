@@ -1,12 +1,12 @@
-@prefix schema: <http://schema.org/> .
-@prefix sh: <http://www.w3.org/ns/shacl#> .
+# @prefix schema: <http://schema.org/> .
+# @prefix sh: <http://www.w3.org/ns/shacl#> .
 
-<#testFacebook>
-    sh:targetClass schema:Event, schema:MusicEvent, schema:TheaterEvent ; 
-    sh:property [
-        sh:message "Only Facebook URLs for events are allowed for Event sameAs." ;
-        sh:path schema:sameAs ;
-        sh:pattern "^https?://www.facebook.com/events"  ;  
-        sh:severity sh:Warning ;
-    ] 
-.
+# <#testFacebook>
+#     sh:targetClass schema:Event, schema:MusicEvent, schema:TheaterEvent ; 
+#     sh:property [
+#         sh:message "Only Facebook URLs for events are allowed for Event sameAs." ;
+#         sh:path schema:sameAs ;
+#         sh:pattern "^https?://www.facebook.com/events"  ;  
+#         sh:severity sh:Warning ;
+#     ] 
+# .
