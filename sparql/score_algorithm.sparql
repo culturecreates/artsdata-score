@@ -113,9 +113,8 @@ where {
   ########################
 
   # event id 
-  ####### TODO: check if this is the right way to check for an id
   OPTIONAL {
-    ?warning_id sh:focusNode ?event ; sh:resultPath schema:image .
+    ?warning_id sh:focusNode ?event ; sh:resultPath [sh:inversePath rdf:type] .
   }
   BIND(IF(!BOUND(?warning_id),2,0) as ?event_id_score)
   

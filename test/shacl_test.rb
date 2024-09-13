@@ -97,14 +97,14 @@ class ShaclTest < Minitest::Test
     assert report.conform?, "Some good data is not passing. #{report}"
   end
 
-  def test_sameas_facebook_event
-    shacl = SHACL.open("shacl/partials/check_facebook_link.ttl")
+  def test_event_id
+    shacl = SHACL.open("shacl/partials/event_id.ttl")
 
-    graph = RDF::Graph.load("fixtures/sameas_facebook_event_bad.jsonld")
+    graph = RDF::Graph.load("fixtures/event_id_bad.jsonld")
     report =  shacl.execute(graph) 
     assert !report.conform?, "Some bad data is not being caught. #{report}"
 
-    graph = RDF::Graph.load("fixtures/sameas_facebook_event_good.jsonld")
+    graph = RDF::Graph.load("fixtures/event_id_good.jsonld")
     report =  shacl.execute(graph)  
     assert report.conform?, "Some good data is not passing. #{report}"
   end

@@ -1,0 +1,16 @@
+[
+  {
+    "@context": "http://schema.org/",
+    "type": "Event",
+    "name": "Event @id not a URI",
+    "image": {
+      "@type": "ImageObject"
+    }
+  },
+  {
+    "@context": "http://schema.org/",
+    "type": "Event",
+    "name": "Event missing @id"
+    
+  }
+]
