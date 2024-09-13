@@ -28,7 +28,7 @@
     "@context":"http://schema.org", 
     "@id":"http://example.org/3",
     "@type":"Event",
-    "name":"Event 2",
+    "name":"Event 3",
     "startDate":"2019-01-01",
     "location":{
       "@type":"Place"

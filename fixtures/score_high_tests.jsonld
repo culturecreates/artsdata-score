@@ -3,7 +3,7 @@
     "@context":"http://schema.org", 
     "@id":"http://example.org/high_score_1",
     "@type":"Event",
-    "name":"Event score 40",
+    "name":"Event score 41 (12 + 16 + 12 + 1 for address type)",
     "startDate":"2019-01-01",
     "location":{
       "@type":"Place",
@@ -56,6 +56,7 @@
     "name":"Event highest",
     "description":"Score full",
     "startDate":"2019-01-01",
+    "endDate":"2019-01-06",
     "duration":"PT2H",
     "doorTime":"2019-01-01T19:00:00",
     "location":{

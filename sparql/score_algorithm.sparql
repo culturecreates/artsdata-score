@@ -51,9 +51,9 @@ where {
   OPTIONAL {
     ?event schema:startDate ?startDate .
     OPTIONAL {
-      ?warning sh:focusNode ?event ; sh:resultPath schema:startDate .
+      ?warning_startDate sh:focusNode ?event ; sh:resultPath schema:startDate .
     }
-    filter(!BOUND(?warning))
+    filter(!BOUND(?warning_startDate))
   }
   BIND(IF(BOUND(?startDate),12,0) as ?startDate_score)
 
@@ -91,9 +91,9 @@ where {
     ?event schema:location/schema:address ?postal_address .
     ?postal_address schema:postalCode ?location_postalCode .
      OPTIONAL {
-      ?warning sh:focusNode ?postal_address ; sh:resultPath schema:postalCode .
+      ?warning_postalCode sh:focusNode ?postal_address ; sh:resultPath schema:postalCode .
     }
-    filter(!BOUND(?warning))
+    filter(!BOUND(?warning_postalCode))
   }
   BIND(IF(BOUND(?location_postalCode),4,0) as ?location_postalCode_score)
 
@@ -102,18 +102,22 @@ where {
     ?event schema:location ?loc .
     ?loc schema:sameAs ?location_sameAs .
      OPTIONAL {
-      ?warning sh:focusNode ?loc ; sh:resultPath schema:postalCode .
+      ?warning sh:focusNode ?loc ; sh:resultPath schema:location .
     }
     filter(!BOUND(?warning))
   }
   BIND(IF(BOUND(?location_sameAs),4,0) as ?location_sameAs_score)
 
   ########################
-  # 2 points
+  # 2 points - Recommended properties
   ########################
 
-  # event id
-  # TODO - this is not a required property in SHACL
+  # event id 
+  ####### TODO: check if this is the right way to check for an id
+  OPTIONAL {
+    ?warning_id sh:focusNode ?event ; sh:resultPath schema:image .
+  }
+  BIND(IF(!BOUND(?warning_id),2,0) as ?event_id_score)
   
   # url
   OPTIONAL {
@@ -137,9 +141,9 @@ where {
   OPTIONAL {
     ?event schema:image  ?image_url .
      OPTIONAL {
-      ?warning sh:focusNode ?event ; sh:resultPath schema:image .
+      ?warning_image sh:focusNode ?event ; sh:resultPath schema:image .
     }
-    filter(!BOUND(?warning))
+    filter(!BOUND(?warning_image))
   }
   BIND(IF(BOUND(?image_url),2,0) as ?image_url_score)
 
@@ -233,9 +237,9 @@ where {
   OPTIONAL {
     ?event schema:endDate  ?endDate .
     OPTIONAL {
-      ?warning sh:focusNode ?event ; sh:resultPath schema:endDate .
+      ?warning_endDate sh:focusNode ?event ; sh:resultPath schema:endDate .
     }
-    filter(!BOUND(?warning))
+    filter(!BOUND(?warning_endDate))
   }
   BIND(IF(BOUND(?endDate),1,0) as ?endDate_score)
 
@@ -243,9 +247,9 @@ where {
   OPTIONAL {
     ?event schema:eventStatus ?eventStatus .
     OPTIONAL {
-      ?warning sh:focusNode ?event ; sh:resultPath schema:eventStatus .
+      ?warning_eventStatus sh:focusNode ?event ; sh:resultPath schema:eventStatus .
     }
-    filter(!BOUND(?warning))
+    filter(!BOUND(?warning_eventStatus))
   }
   BIND(IF(BOUND(?eventStatus),1,0) as ?eventStatus_score)
 
@@ -253,9 +257,9 @@ where {
   OPTIONAL {
     ?event schema:eventStatus ?eventAttendanceMode .
     OPTIONAL {
-      ?warning sh:focusNode ?event ; sh:resultPath schema:eventAttendanceMode .
+      ?warning_eventAttendanceMode sh:focusNode ?event ; sh:resultPath schema:eventAttendanceMode .
     }
-    filter(!BOUND(?warning))
+    filter(!BOUND(?warning_eventAttendanceMode))
   }
   BIND(IF(BOUND(?eventAttendanceMode),1,0) as ?eventAttendanceMode_score)
 
@@ -303,6 +307,7 @@ where {
     ?performer_type_score +
     ?performer_sameAs_score +
     ?offer_type_score + 
+    ?event_id_score + 
     ?offer_url_score +
     ?location_address_type_score +
     ?location_url_score +

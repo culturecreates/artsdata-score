@@ -30,7 +30,7 @@ class SparqlTest < Minitest::Test
     actual = graph.query([RDF::URI('http://example.org/2'), RDF::URI('http://example.org/score'), nil]).first.object.value.to_i
     assert_equal 0, actual, "Score for event 2 should be 0"
     actual = graph.query([RDF::URI('http://example.org/3'), RDF::URI('http://example.org/score'), nil]).first.object.value.to_i
-    assert_equal 28, actual, "Score for event 3 should be 28"
+    assert_equal 30, actual, "Score for event 3 should be 28 + 2 for optional event id"
   end
 
   def test_event_types
@@ -50,12 +50,14 @@ class SparqlTest < Minitest::Test
     graph.query(@sparql)
   
     actual = graph.query([RDF::URI('http://example.org/high_score_1'), RDF::URI('http://example.org/score'), nil]).first.object.value.to_i
-    assert_equal 41, actual, "Not expected score. Score was #{actual}"
+    assert_equal 43, actual, "Not expected score. Score was #{actual}"
     actual = graph.query([RDF::URI('http://example.org/high_score_2'), RDF::URI('http://example.org/score'), nil]).first.object.value.to_i
-    assert_equal 61, actual, "Not expected score. Score was #{actual}"
+    assert_equal 63, actual, "Not expected score. Score was #{actual}"
     actual = graph.query([RDF::URI('http://example.org/high_score_3'), RDF::URI('http://example.org/score'), nil]).first.object.value.to_i
-    assert_equal 71, actual, "Not expected score. Score was #{actual}"
-
+   
+    assert_equal 74, actual, "Not expected score. Score was #{actual}"
+    actual = graph.query([RDF::URI('http://example.org/high_score_3'), RDF::URI('http://example.org/scorePercent'), nil]).first.object.value.to_i
+    assert_equal 100, actual, "Not expected scorePercent. Score was #{actual}"
   end
 
 
