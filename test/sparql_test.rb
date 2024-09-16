@@ -65,9 +65,11 @@ class SparqlTest < Minitest::Test
     graph <<  @shacl.execute(graph) 
     graph.query(@sparql)
     actual = graph.query([ RDF::URI('http://event1'), RDF::URI('http://example.org/score'), nil]).first.object.value.to_i
-    assert_equal 32, actual, "event1 should have a score of 32"
+    assert_equal 34, actual, "event1 should have a score of 34 but had #{actual}"
     actual = graph.query([ nil, RDF::URI('http://example.org/score'), 30]).count
     assert_equal  1, actual, "event blanknode should have a score of 30"
+    actual = graph.query([ RDF::URI('http://event3'),  RDF::URI('http://example.org/score'), nil]).first.object.value.to_i
+    assert_equal  33, actual, "event3 should have a score of 33 but had #{actual}"
   end
 
 

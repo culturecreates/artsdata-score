@@ -114,10 +114,16 @@ where {
 
   # event id 
   OPTIONAL {
-  
+    # check if the event has an @id
     ?warning_id sh:focusNode ?event ;   sh:sourceConstraintComponent sh:NodeKindConstraintComponent .
   }
-  BIND(IF(!BOUND(?warning_id),2,0) as ?event_id_score)
+  OPTIONAL {
+    # check if the event @id is the same as the URL
+    ?event schema:url ?url_is_event_id .
+    filter(?event = ?url_is_event_id)
+  }
+  # if the event has an @id and it is not the same as the URL, then give 2 points
+  BIND(IF(!BOUND(?warning_id) && !BOUND(?url_is_event_id),2,0) as ?event_id_score)
   
   # url
   OPTIONAL {

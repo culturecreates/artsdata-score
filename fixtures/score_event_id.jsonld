@@ -4,11 +4,12 @@
     "@id": "http://event1",
     "@type": "Event",
     "name": "Event with @id",
-    "description": "Score 32",
+    "description": "Score 34",
     "startDate": "2019-01-01",
     "location":{
       "@type":"Place"
-    }
+     },
+    "url": "http://some.url"
   },
   {
     "@context": "http://schema.org",
@@ -19,5 +20,17 @@
     "location":{
       "@type":"Place"
     }
+  }, {
+    "@context": "http://schema.org",
+    "@id": "http://event3",
+    "@type": "Event",
+    "name": "Event with @id",
+    "duration": "PT2H",
+    "description": "Score 33 because @id is same as url, and duration adds 1 point",
+    "startDate": "2019-01-01",
+    "location":{
+      "@type":"Place"
+    },
+    "url": "http://event3"
   }
 ]
