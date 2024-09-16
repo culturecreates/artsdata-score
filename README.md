@@ -14,10 +14,7 @@ This will load the external webpage with the score added into the Event data (ke
 Each event in the JSON-LD will have a total score and the breakdown of the score for each property.
 
 TODO: 
-- 2 points: check @id with a proper URI constituting a unique identifier for the Event (within the website domain, but distinct from the url value)
-
-- Confirm properties for 1 point
-https://github.com/culturecreates/artsdata-data-model/discussions/120#discussioncomment-10578588
+- 2 points: check @id is within the website domain, but distinct from the url value
 
 ## Batch scoring multiple webpages
 Coming soon...
