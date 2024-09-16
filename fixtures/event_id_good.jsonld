@@ -1,8 +1,15 @@
-[
-  {
-    "@context": "http://schema.org/",
-    "@id": "http://example.com/events/1",
-    "type": "Event",
-    "name": "Event @id"
-  }
+
+  [
+    {
+      "@context": "http://schema.org/",
+      "@id": "http://example.com/events/1",
+      "type": "Event",
+      "name": "Event @id"
+    },
+    {
+      "@context": "http://schema.org/",
+      "type": "Place",
+      "name": "OK for a Place to be a blank node"
+    }
+
 ]

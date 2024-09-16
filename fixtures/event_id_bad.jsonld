@@ -1,16 +1,25 @@
 [
   {
     "@context": "http://schema.org/",
-    "type": "Event",
+    "@type": "Event",
     "name": "Event @id not a URI",
-    "image": {
-      "@type": "ImageObject"
-    }
+    "@id": "not a URI"
   },
   {
     "@context": "http://schema.org/",
-    "type": "Event",
-    "name": "Event missing @id"
-    
+    "@type": "Event",
+    "name": "Event blanknode @id"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "Event",
+    "name": "Cannot be a blank node",
+    "@id": "_:b1"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "Event",
+    "name": "Should not prepend http://",
+    "@id": "test.com"
   }
 ]
