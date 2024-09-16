@@ -14,7 +14,6 @@ This will load the external webpage with the score added into the Event data (ke
 Each event in the JSON-LD will have a total score and the breakdown of the score for each property.
 
 TODO: 
-- check @id is within the website domain, but distinct from the url value
 - support more schema:Event sub-types. Currently only schema:Event, schema:MusicEvent, schema:TheaterEvent.
 
 ## Batch scoring multiple webpages
