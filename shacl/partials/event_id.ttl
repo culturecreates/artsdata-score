@@ -5,13 +5,7 @@
 
 <#event-id-exists>
 	a sh:NodeShape ;
-	# sh:targetClass schema:Event, schema:MusicEvent, schema:TheaterEvent ;  
-  # sh:severity sh:Warning ;
-  # sh:message "Event @id must be a IRI" ;
-	# sh:property [
-	#   sh:path [ sh:inversePath rdf:type ] ;
-	#   sh:nodekind sh:IRI ;
-	# ] .
-	#sh:targetSubjectsOf rdf:type ;
 	sh:targetClass schema:Event, schema:MusicEvent, schema:TheaterEvent ;  
+	sh:severity sh:Warning ;
+	sh:message "Event @id must be a IRI" ;	
 	sh:nodeKind sh:IRI .

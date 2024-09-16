@@ -42,8 +42,7 @@ class SparqlTest < Minitest::Test
     assert_equal 3, actual, "All Event types should have a report"
   end
 
-  # An event with all three disambiguation properties would have 12 additional points, for a sub-total of 40.
-  # An event with all 11 recommended properties would have 22 additional points, for a sub-total of 62. 
+  # test high scores and precentages
   def test_high_scores
     graph = RDF::Graph.load("fixtures/score_high_tests.jsonld")
     graph <<  @shacl.execute(graph) 
@@ -58,6 +57,17 @@ class SparqlTest < Minitest::Test
     assert_equal 74, actual, "Not expected score. Score was #{actual}"
     actual = graph.query([RDF::URI('http://example.org/high_score_3'), RDF::URI('http://example.org/scorePercent'), nil]).first.object.value.to_i
     assert_equal 100, actual, "Not expected scorePercent. Score was #{actual}"
+  end
+
+  # Test that events with an @id are awarded 2 points
+  def test_event_id
+    graph = RDF::Graph.load("fixtures/score_event_id.jsonld")
+    graph <<  @shacl.execute(graph) 
+    graph.query(@sparql)
+    actual = graph.query([ RDF::URI('http://event1'), RDF::URI('http://example.org/score'), nil]).first.object.value.to_i
+    assert_equal 32, actual, "event1 should have a score of 32"
+    actual = graph.query([ nil, RDF::URI('http://example.org/score'), 30]).count
+    assert_equal  1, actual, "event blanknode should have a score of 30"
   end
 
 

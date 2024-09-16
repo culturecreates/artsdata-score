@@ -1,0 +1,23 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@id": "http://event1",
+    "@type": "Event",
+    "name": "Event with @id",
+    "description": "Score 32",
+    "startDate": "2019-01-01",
+    "location":{
+      "@type":"Place"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Event",
+    "name": "Event without @id",
+    "description": "Score 30 becuase of no event @id",
+    "startDate": "2019-01-01",
+    "location":{
+      "@type":"Place"
+    }
+  }
+]

@@ -114,7 +114,8 @@ where {
 
   # event id 
   OPTIONAL {
-    ?warning_id sh:focusNode ?event ; sh:resultPath [sh:inversePath rdf:type] .
+  
+    ?warning_id sh:focusNode ?event ;   sh:sourceConstraintComponent sh:NodeKindConstraintComponent .
   }
   BIND(IF(!BOUND(?warning_id),2,0) as ?event_id_score)
   
