@@ -21,6 +21,7 @@ insert {
     ex:organizer_sameAs_score ?organizer_sameAs_score ;
     ex:performer_type_score ?performer_type_score ;
     ex:performer_sameAs_score ?performer_sameAs_score ;
+    ex:event_id_score ?event_id_score ;
     ex:offer_type_score ?offer_type_score ;
     ex:offer_url_score ?offer_url_score ;
     ex:address_type_score ?location_address_type_score ;
