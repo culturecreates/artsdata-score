@@ -5,7 +5,7 @@
 
 <#event-id-exists>
 	a sh:NodeShape ;
-	sh:targetClass schema:Event, schema:MusicEvent, schema:TheaterEvent ;  
+	sh:targetClass schema:Event, schema:MusicEvent, schema:TheaterEvent, schema:EventSeries ;  
 	sh:severity sh:Warning ;
 	sh:message "Event @id must be a IRI" ;	
 	sh:nodeKind sh:IRI .
@@ -16,7 +16,7 @@
 # This shape checks the event for an image property that is either a URL or an ImageObject with a URL property
 <#EventImage>
     a sh:NodeShape ;
-    sh:targetClass schema:Event, schema:MusicEvent, schema:TheaterEvent ;  
+    sh:targetClass schema:Event, schema:MusicEvent, schema:TheaterEvent, schema:EventSeries ;  
     sh:severity sh:Warning ; 
     sh:or (
         [ sh:property <#ImageURI> ; ]
@@ -54,7 +54,7 @@
 
 <#EventName>
     a sh:NodeShape ;
-    sh:targetClass schema:Event, schema:MusicEvent, schema:TheaterEvent ;  
+    sh:targetClass schema:Event, schema:MusicEvent, schema:TheaterEvent, schema:EventSeries ;  
     sh:property [
         sh:path schema:name ;
         sh:uniqueLang true ;
@@ -72,7 +72,7 @@
 
 <#EventPlace>
     a sh:NodeShape ;
-    sh:targetClass schema:Event, schema:MusicEvent, schema:TheaterEvent ; 
+    sh:targetClass schema:Event, schema:MusicEvent, schema:TheaterEvent, schema:EventSeries ; 
     sh:property [
         sh:path schema:location ;
         sh:minCount 1 ;
@@ -85,7 +85,7 @@
 
 <#EventStartDate>
     a sh:NodeShape ;
-    sh:targetClass schema:Event, schema:MusicEvent, schema:TheaterEvent ; 
+    sh:targetClass schema:Event, schema:MusicEvent, schema:TheaterEvent, schema:EventSeries ; 
     sh:property [
         sh:path schema:startDate ;
         sh:minCount 1 ;
