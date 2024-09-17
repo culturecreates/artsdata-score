@@ -25,7 +25,7 @@ insert {
     ex:offer_type_score ?offer_type_score ;
     ex:offer_url_score ?offer_url_score ;
     ex:address_type_score ?location_address_type_score ;
-    ex:offer_url_score ?location_url_score ;
+    ex:location_url_score ?location_url_score ;
     ex:streetAddress_score ?location_address_streetAddress_score ;
     ex:addressLocality_score ?location_address_addressLocality_score ;
     ex:addressRegion_score ?location_address_addressRegion_score ;
