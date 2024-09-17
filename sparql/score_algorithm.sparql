@@ -38,7 +38,7 @@ insert {
 }
 where {
   # TODO: use inferencing to get all Event sub-classes
-  values ?event_type { schema:Event schema:TheaterEvent schema:MusicEvent}
+  values ?event_type { schema:Event schema:TheaterEvent schema:MusicEvent schema:EventSeries}
   ?event a ?event_type .
   # Nest DatasetBreakdown
   BIND(BNODE() as ?DatasetBreakdown) .

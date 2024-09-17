@@ -13,5 +13,10 @@
     "@context": "http://schema.org",
     "@id": "http://event/3",
     "@type": "Event"
+  },
+  {
+    "@context": "http://schema.org",
+    "@id": "http://event/4",
+    "@type": "EventSeries"
   }
 ]

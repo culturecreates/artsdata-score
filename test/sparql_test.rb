@@ -39,7 +39,8 @@ class SparqlTest < Minitest::Test
     graph <<  @shacl.execute(graph) 
     graph.query(@sparql)
     actual = graph.query([nil, RDF::URI('http://example.org/score'), 0]).count
-    assert_equal 3, actual, "All Event types should have a report"
+    
+    assert_equal 4, actual, "All Event types should have a report"
   end
 
   # test high scores and precentages
