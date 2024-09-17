@@ -27,7 +27,8 @@
       "name":"Location name",
       "address":{
         "@type":"PostalAddress",
-        "postalCode":"H2C 123"
+        "postalCode":"H2C 123",
+        "addressLocality":""
       },
       "sameAs":"http://example.org/location"
     },

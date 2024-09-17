@@ -66,6 +66,7 @@ where {
   # event name
   OPTIONAL {
     ?event schema:name ?name .
+    FILTER (?name != "")
   }
   BIND(IF(BOUND(?name),8,0) as ?name_score)
 
@@ -84,6 +85,7 @@ where {
   # location name
   OPTIONAL {
     ?event schema:location/schema:name ?location_name . 
+    FILTER (?location_name != "")
   }
   BIND(IF(BOUND(?location_name),4,0) as ?location_name_score)
 
@@ -141,6 +143,7 @@ where {
   # description
   OPTIONAL {
     ?event schema:description ?description .
+    filter(?description != "")
   }
   BIND(IF(BOUND(?description),2,0) as ?description_score)
   
@@ -151,6 +154,7 @@ where {
       ?warning_image sh:focusNode ?event ; sh:resultPath schema:image .
     }
     filter(!BOUND(?warning_image))
+    filter(str(?image_url) != "")
   }
   BIND(IF(BOUND(?image_url),2,0) as ?image_url_score)
 
@@ -219,24 +223,28 @@ where {
   # schema:location.address.streetAddress
   OPTIONAL {
     ?event schema:location/schema:address/schema:streetAddress  ?location_address_streetAddress .
+    filter(?location_address_streetAddress != "")
   }
   BIND(IF(BOUND(?location_address_streetAddress),1,0) as ?location_address_streetAddress_score)
   
   # schema:location.address.addressLocality
   OPTIONAL {
     ?event schema:location/schema:address/schema:addressLocality  ?location_address_addressLocality .
+    filter(?location_address_addressLocality != "")
   }
-  BIND(IF(BOUND(?location_address_streetAddress),1,0) as ?location_address_addressLocality_score)
+  BIND(IF(BOUND(?location_address_addressLocality),1,0) as ?location_address_addressLocality_score)
 
   # schema:location.address.addressRegion
   OPTIONAL {
     ?event schema:location/schema:address/schema:addressRegion  ?location_address_addressRegion .
+    filter(?location_address_addressRegion != "")
   }
   BIND(IF(BOUND(?location_address_addressRegion),1,0) as ?location_address_addressRegion_score)
 
   # schema:location.address.addressCountry
   OPTIONAL {
     ?event schema:location/schema:address/schema:addressCountry  ?location_address_addressCountry .
+    filter(?location_address_addressCountry != "")
   }
   BIND(IF(BOUND(?location_address_addressCountry),1,0) as ?location_address_addressCountry_score)
 
