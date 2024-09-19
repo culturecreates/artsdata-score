@@ -1,0 +1,47 @@
+PREFIX schema: <http://schema.org/>
+PREFIX example: <http://example.org/>
+
+SELECT ?event ?name ?score ?startDateScoreNode ?nameScoreNode ?locationTypeScoreNode
+       ?postalCodeScoreNode ?locationSameAsScoreNode ?urlScoreNode ?additionalTypeScoreNode
+       ?descriptionScoreNode ?imageUrlScoreNode ?organizerTypeScoreNode ?organizerSameAsScoreNode
+       ?performerTypeScoreNode ?performerSameAsScoreNode ?offerTypeScoreNode ?offerUrlScoreNode
+       ?addressTypeScoreNode ?streetAddressScoreNode ?addressLocalityScoreNode
+       ?addressRegionScoreNode ?addressCountryScoreNode ?endDateScoreNode
+       ?eventStatusScoreNode ?eventAttendanceModeScoreNode ?doorTimeScoreNode
+       ?durationScoreNode ?mainEntityOfPageUrlScoreNode
+WHERE {
+  ?event a schema:Event ;
+         schema:name ?name .
+  
+  OPTIONAL { ?event example:score ?score . }
+  
+  OPTIONAL {
+    ?event example:score ?scoreNode .
+    ?scoreNode example:startDateScore ?startDateScoreNode ;
+              example:name_score ?nameScoreNode ;
+              example:location_type_score ?locationTypeScoreNode ;
+              example:postalCode_score ?postalCodeScoreNode ;
+              example:location_sameAs_score ?locationSameAsScoreNode ;
+              example:url_score ?urlScoreNode ;
+              example:additionalType_score ?additionalTypeScoreNode ;
+              example:description_score ?descriptionScoreNode ;
+              example:image_url_score ?imageUrlScoreNode ;
+              example:organizer_type_score ?organizerTypeScoreNode ;
+              example:organizer_sameAs_score ?organizerSameAsScoreNode ;
+              example:performer_type_score ?performerTypeScoreNode ;
+              example:performer_sameAs_score ?performerSameAsScoreNode ;
+              example:offer_type_score ?offerTypeScoreNode ;
+              example:offer_url_score ?offerUrlScoreNode ;
+              example:address_type_score ?addressTypeScoreNode ;
+              example:streetAddress_score ?streetAddressScoreNode ;
+              example:addressLocality_score ?addressLocalityScoreNode ;
+              example:addressRegion_score ?addressRegionScoreNode ;
+              example:addressCountry_score ?addressCountryScoreNode ;
+              example:endDate_score ?endDateScoreNode ;
+              example:eventStatus_score ?eventStatusScoreNode ;
+              example:eventAttendanceMode_score ?eventAttendanceModeScoreNode ;
+              example:doorTime_score ?doorTimeScoreNode ;
+              example:duration_score ?durationScoreNode ;
+              example:mainEntityOfPage_url_score ?mainEntityOfPageUrlScoreNode .
+  }
+}
