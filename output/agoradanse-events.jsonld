@@ -1,0 +1,4080 @@
+[
+  {
+    "@id": "https://agoradanse.com/evenement/montreal-marrakech/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Montréal - Marrakech - Danièle Desnoyers + Taoufiq Izeddiou- Agora de la danse"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Quatre interprètes de formations et de cultures diverses s'incarnent dans cette co-création de Danièle Desnoyers et Taoufiq Izeddiou."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://agoradanse.com/evenement/montreal-marrakech/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Agora de la danse"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.facebook.com/agoradeladanse"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2024-09-18T20:18:32+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://agoradanse.com/wp-content/uploads/2024/04/mtl-marrakech-by-marc-coudrais-1920-1.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1920"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/evenement/montreal-marrakech/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Montréal - Marrakech - Agora de la danse"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://agoradanse.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://agoradanse.com/evenement/montreal-marrakech/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/evenement/montreal-marrakech/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2024/04/mtl-marrakech-by-marc-coudrais-1920-1.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-04-26T15:54:59+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-09-18T20:18:32+00:00"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Quatre interprètes de formations et de cultures diverses s'incarnent dans cette co-création de Danièle Desnoyers et Taoufiq Izeddiou."
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://agoradanse.com/evenement/montreal-marrakech/#breadcrumb"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "fr-FR"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g455680"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://agoradanse.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Agora de la danse"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Lieu majeur de recherche, de création et de diffusion en danse contemporaine à Montréal."
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://agoradanse.com/#organization"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g455760"
+      },
+      {
+        "@id": "_:g458520"
+      },
+      {
+        "@id": "_:g460440"
+      },
+      {
+        "@id": "_:g461820"
+      },
+      {
+        "@id": "_:g463460"
+      },
+      {
+        "@id": "_:g465160"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/montreal-marrakech/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "fr-FR"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2024/04/mtl-marrakech-by-marc-coudrais-1920-1.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2024/04/mtl-marrakech-by-marc-coudrais-1920-1.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1920"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1080"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@value": "Abe Simon Mijnheer, Chourouk El Mahati, Myriam Arseneault Campbell, Moad Haddadi © Marc Coudrais"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/montreal-marrakech/#breadcrumb",
+    "@type": [
+      "http://schema.org/BreadcrumbList"
+    ],
+    "http://schema.org/itemListElement": [
+      {
+        "@id": "_:g455700"
+      },
+      {
+        "@id": "_:g455720"
+      },
+      {
+        "@id": "_:g455740"
+      }
+    ]
+  },
+  {
+    "@id": "_:g455680",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://agoradanse.com/evenement/montreal-marrakech/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/#organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Agora de la danse"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://agoradanse.com/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/agoradeladanse"
+      },
+      {
+        "@id": "https://twitter.com/Agoradanse"
+      },
+      {
+        "@id": "https://agoradanse"
+      },
+      {
+        "@id": "https://www.linkedin.com/company/agoradanse"
+      },
+      {
+        "@id": "https://www.youtube.com/user/Agoradanse"
+      }
+    ]
+  },
+  {
+    "@id": "_:g455760",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g455780"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g458520",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g458540"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460440",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g460460"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461820",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g461840"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g463460",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g463480"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g465160",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g465180"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g455700",
+    "@type": [
+      "http://schema.org/ListItem"
+    ],
+    "http://schema.org/position": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Accueil"
+      }
+    ],
+    "http://schema.org/item": [
+      {
+        "@value": "https://agoradanse.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g455720",
+    "@type": [
+      "http://schema.org/ListItem"
+    ],
+    "http://schema.org/position": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Événements"
+      }
+    ],
+    "http://schema.org/item": [
+      {
+        "@value": "https://agoradanse.com/evenement/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g455740",
+    "@type": [
+      "http://schema.org/ListItem"
+    ],
+    "http://schema.org/position": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "3"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Montréal &#8211; Marrakech"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/#/schema/logo/image/",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "fr-FR"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2017/12/Logo_Agora-01.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2017/12/Logo_Agora-01.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1250"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "833"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@value": "Agora de la danse"
+      }
+    ]
+  },
+  {
+    "@id": "_:g455780",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://agoradanse.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g455820",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "AGORA DE LA DANSE | ÉDIFICE WILDER"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g455840"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g455860"
+      }
+    ]
+  },
+  {
+    "@id": "_:g455840",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Montreal"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "1435, rue De Bleury"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "H3A 2H7"
+      }
+    ]
+  },
+  {
+    "@id": "_:g455860",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@value": "45.506783"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": "-73.5673573"
+      }
+    ]
+  },
+  {
+    "@id": "_:g455880",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.tuxedobillet.com/main/montreal-marrakech"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "29.00"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@value": "29.00"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@value": "35.00"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-09-01"
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-09-20"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "https://schema.org/OutOfStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g455900",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2024/04/12_TaoufiqIzeddiou_by_J_Guimaraes.jpg"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Anania Danses "
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/montreal-marrakech/#x-btn-navbar",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/montreal-marrakech/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/montreal-marrakech/#tab-choregraphe-accordeon0",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#tab"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/montreal-marrakech/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/montreal-marrakech/#panel-choregraphe-accordeon0",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#tabpanel"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/montreal-marrakech/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/montreal-marrakech/#tab-choregraphe-accordeon1",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#tab"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/montreal-marrakech/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/montreal-marrakech/#panel-choregraphe-accordeon1",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#tabpanel"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/montreal-marrakech/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/montreal-marrakech/#tab-credit-accordeon",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#tab"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/montreal-marrakech/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/montreal-marrakech/#panel-credit-accordeon",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#tabpanel"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/montreal-marrakech/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/aianishkat/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Aianishkat - Soleil Launière - Agora de la danse"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Soleil Launière, artiste innue pluridisciplinaire, invite sur scène sa fille de un an, sa mentore de 70 ans et une contrebassiste. "
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://agoradanse.com/evenement/aianishkat/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Agora de la danse"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.facebook.com/agoradeladanse"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2024-09-04T20:04:33+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://agoradanse.com/wp-content/uploads/2024/04/aianishkat-by-jean-christophe-lessard-1920-1.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1920"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/evenement/aianishkat/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Aianishkat - Agora de la danse"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://agoradanse.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://agoradanse.com/evenement/aianishkat/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/evenement/aianishkat/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2024/04/aianishkat-by-jean-christophe-lessard-1920-1.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-04-26T15:56:03+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-09-04T20:04:33+00:00"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Soleil Launière, artiste innue pluridisciplinaire, invite sur scène sa fille de un an, sa mentore de 70 ans et une contrebassiste. "
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://agoradanse.com/evenement/aianishkat/#breadcrumb"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "fr-FR"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g458440"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://agoradanse.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/aianishkat/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "fr-FR"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2024/04/aianishkat-by-jean-christophe-lessard-1920-1.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2024/04/aianishkat-by-jean-christophe-lessard-1920-1.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1920"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1080"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@value": "©&#xfe0f; Jean-Christophe Lessard"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/aianishkat/#breadcrumb",
+    "@type": [
+      "http://schema.org/BreadcrumbList"
+    ],
+    "http://schema.org/itemListElement": [
+      {
+        "@id": "_:g458460"
+      },
+      {
+        "@id": "_:g458480"
+      },
+      {
+        "@id": "_:g458500"
+      }
+    ]
+  },
+  {
+    "@id": "_:g458440",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://agoradanse.com/evenement/aianishkat/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g458460",
+    "@type": [
+      "http://schema.org/ListItem"
+    ],
+    "http://schema.org/position": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Accueil"
+      }
+    ],
+    "http://schema.org/item": [
+      {
+        "@value": "https://agoradanse.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g458480",
+    "@type": [
+      "http://schema.org/ListItem"
+    ],
+    "http://schema.org/position": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Événements"
+      }
+    ],
+    "http://schema.org/item": [
+      {
+        "@value": "https://agoradanse.com/evenement/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g458500",
+    "@type": [
+      "http://schema.org/ListItem"
+    ],
+    "http://schema.org/position": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "3"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Aianishkat"
+      }
+    ]
+  },
+  {
+    "@id": "_:g458540",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://agoradanse.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g458580",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "AGORA DE LA DANSE | ÉDIFICE WILDER"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g458600"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g458620"
+      }
+    ]
+  },
+  {
+    "@id": "_:g458600",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Montreal"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "1435, rue De Bleury"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "H3A 2H7"
+      }
+    ]
+  },
+  {
+    "@id": "_:g458620",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@value": "45.506783"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": "-73.5673573"
+      }
+    ]
+  },
+  {
+    "@id": "_:g458640",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.tuxedobillet.com/main/aianishkat"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "29.00"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@value": "29.00"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@value": "35.00"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-09-01"
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-05"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "https://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g458660",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2024/04/Soleil_Launiere_by_Maxime-Cote.jpg"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Soleil Launière"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/aianishkat/#x-btn-navbar",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/aianishkat/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/aianishkat/#tab-choregraphe-accordeon0",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#tab"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/aianishkat/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/aianishkat/#panel-choregraphe-accordeon0",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#tabpanel"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/aianishkat/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/aianishkat/#tab-credit-accordeon",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#tab"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/aianishkat/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/aianishkat/#panel-credit-accordeon",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#tabpanel"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/aianishkat/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/out-innerspace-2024/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Rhino - Out Innerspace - Agora de la danse"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Entre le tragique et le comique, nos rêves et nos peurs s'entrelacent dans ce monde voibrant comme seul Out Innerspace sait les construire."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://agoradanse.com/evenement/out-innerspace-2024/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Agora de la danse"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.facebook.com/agoradeladanse"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2024-09-19T15:27:15+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://agoradanse.com/wp-content/uploads/2024/04/rhino-by-david-raymond-1920-1.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1920"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/evenement/out-innerspace-2024/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Rhino - Agora de la danse"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://agoradanse.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://agoradanse.com/evenement/out-innerspace-2024/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/evenement/out-innerspace-2024/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2024/04/rhino-by-mark-kelly-1920-1.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-04-26T15:59:57+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-09-19T15:27:15+00:00"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Entre le tragique et le comique, nos rêves et nos peurs s'entrelacent dans ce monde voibrant comme seul Out Innerspace sait les construire."
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://agoradanse.com/evenement/out-innerspace-2024/#breadcrumb"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "fr-FR"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g460360"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://agoradanse.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/out-innerspace-2024/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "fr-FR"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2024/04/rhino-by-mark-kelly-1920-1.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2024/04/rhino-by-mark-kelly-1920-1.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1920"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1080"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@value": "©&#xfe0f; Mark Kelly"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/out-innerspace-2024/#breadcrumb",
+    "@type": [
+      "http://schema.org/BreadcrumbList"
+    ],
+    "http://schema.org/itemListElement": [
+      {
+        "@id": "_:g460380"
+      },
+      {
+        "@id": "_:g460400"
+      },
+      {
+        "@id": "_:g460420"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460360",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://agoradanse.com/evenement/out-innerspace-2024/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460380",
+    "@type": [
+      "http://schema.org/ListItem"
+    ],
+    "http://schema.org/position": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Accueil"
+      }
+    ],
+    "http://schema.org/item": [
+      {
+        "@value": "https://agoradanse.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460400",
+    "@type": [
+      "http://schema.org/ListItem"
+    ],
+    "http://schema.org/position": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Événements"
+      }
+    ],
+    "http://schema.org/item": [
+      {
+        "@value": "https://agoradanse.com/evenement/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460420",
+    "@type": [
+      "http://schema.org/ListItem"
+    ],
+    "http://schema.org/position": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "3"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Rhino"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460460",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://agoradanse.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460500",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "AGORA DE LA DANSE | ÉDIFICE WILDER"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g460520"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g460540"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460520",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Montreal"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "1435, rue De Bleury"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "H3A 2H7"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460540",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@value": "45.506783"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": "-73.5673573"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460560",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.tuxedobillet.com/main/rhino"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "29.00"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@value": "29.00"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@value": "35.00"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-09-01"
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-26"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "https://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460580",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2017/07/agora-portraits-david-tiffany-OIS-double.jpg"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Out Innerspace"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/out-innerspace-2024/#x-btn-navbar",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/out-innerspace-2024/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/out-innerspace-2024/#tab-choregraphe-accordeon0",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#tab"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/out-innerspace-2024/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/out-innerspace-2024/#panel-choregraphe-accordeon0",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#tabpanel"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/out-innerspace-2024/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/out-innerspace-2024/#tab-credit-accordeon",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#tab"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/out-innerspace-2024/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/out-innerspace-2024/#panel-credit-accordeon",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#tabpanel"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/out-innerspace-2024/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/wahsipekuk-au-dela-des-montagnes/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Wahsipekuk : Au-delà des montagnes - Ivanie Aubin-Malo - Agora de la danse"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Ivanie Aubin-Malo invoque par la danse, la musique et le chant, les Géants, entités des différentes traditions orales des peuples wabanakiak."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://agoradanse.com/evenement/wahsipekuk-au-dela-des-montagnes/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Agora de la danse"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.facebook.com/agoradeladanse"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2024-08-29T18:14:08+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://agoradanse.com/wp-content/uploads/2024/04/wahsipekuk-by-vickie-grondin-1920-1-scaled.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "2560"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "1440"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/evenement/wahsipekuk-au-dela-des-montagnes/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Wahsipekuk : Au-delà des montagnes - Agora de la danse"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://agoradanse.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://agoradanse.com/evenement/wahsipekuk-au-dela-des-montagnes/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/evenement/wahsipekuk-au-dela-des-montagnes/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2024/04/wahsipekuk-by-vickie-grondin-16-9-4.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-04-26T16:00:45+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-08-29T18:14:08+00:00"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Ivanie Aubin-Malo invoque par la danse, la musique et le chant, les Géants, entités des différentes traditions orales des peuples wabanakiak."
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://agoradanse.com/evenement/wahsipekuk-au-dela-des-montagnes/#breadcrumb"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "fr-FR"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g461740"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://agoradanse.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/wahsipekuk-au-dela-des-montagnes/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "fr-FR"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2024/04/wahsipekuk-by-vickie-grondin-16-9-4.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2024/04/wahsipekuk-by-vickie-grondin-16-9-4.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1920"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1282"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@value": "©&#xfe0f; Vickie Grondin"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/wahsipekuk-au-dela-des-montagnes/#breadcrumb",
+    "@type": [
+      "http://schema.org/BreadcrumbList"
+    ],
+    "http://schema.org/itemListElement": [
+      {
+        "@id": "_:g461760"
+      },
+      {
+        "@id": "_:g461780"
+      },
+      {
+        "@id": "_:g461800"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461740",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://agoradanse.com/evenement/wahsipekuk-au-dela-des-montagnes/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461760",
+    "@type": [
+      "http://schema.org/ListItem"
+    ],
+    "http://schema.org/position": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Accueil"
+      }
+    ],
+    "http://schema.org/item": [
+      {
+        "@value": "https://agoradanse.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461780",
+    "@type": [
+      "http://schema.org/ListItem"
+    ],
+    "http://schema.org/position": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Événements"
+      }
+    ],
+    "http://schema.org/item": [
+      {
+        "@value": "https://agoradanse.com/evenement/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461800",
+    "@type": [
+      "http://schema.org/ListItem"
+    ],
+    "http://schema.org/position": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "3"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Wahsipekuk : Au-delà des montagnes"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461840",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://agoradanse.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461880",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "AGORA DE LA DANSE | ÉDIFICE WILDER"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g461900"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g461920"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461900",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Montreal"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "1435, rue De Bleury"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "H3A 2H7"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461920",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@value": "45.506783"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": "-73.5673573"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461940",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.tuxedobillet.com/main/wahsipekuk"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "29.00"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@value": "29.00"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@value": "35.00"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-09-01"
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-11-16"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "https://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461960",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2024/04/Ivanie-Aubin-Malo_-by_Maria-Vartanova.jpg"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Ivanie Aubin-Malo "
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/wahsipekuk-au-dela-des-montagnes/#x-btn-navbar",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/wahsipekuk-au-dela-des-montagnes/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/wahsipekuk-au-dela-des-montagnes/#tab-choregraphe-accordeon0",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#tab"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/wahsipekuk-au-dela-des-montagnes/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/wahsipekuk-au-dela-des-montagnes/#panel-choregraphe-accordeon0",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#tabpanel"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/wahsipekuk-au-dela-des-montagnes/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/wahsipekuk-au-dela-des-montagnes/#tab-credit-accordeon",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#tab"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/wahsipekuk-au-dela-des-montagnes/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/wahsipekuk-au-dela-des-montagnes/#panel-credit-accordeon",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#tabpanel"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/wahsipekuk-au-dela-des-montagnes/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/recits-recifs/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Récits-Récifs - Line Nault - Agora de la danse"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Exploration philosophique des corps et des lieux, Récits-Récifs marie habilement performance, installation et technologie."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://agoradanse.com/evenement/recits-recifs/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Agora de la danse"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.facebook.com/agoradeladanse"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2024-06-12T19:10:03+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://agoradanse.com/wp-content/uploads/2024/04/recits-recifs-by-fanny-villeneuve-1920-1.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1920"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/evenement/recits-recifs/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Récits-Récifs - Agora de la danse"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://agoradanse.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://agoradanse.com/evenement/recits-recifs/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/evenement/recits-recifs/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2024/04/recits-recifs-by-fanny-villeneuve-1920-1.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-04-26T16:03:22+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-06-12T19:10:03+00:00"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Exploration philosophique des corps et des lieux, Récits-Récifs marie habilement performance, installation et technologie."
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://agoradanse.com/evenement/recits-recifs/#breadcrumb"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "fr-FR"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g463380"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://agoradanse.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/recits-recifs/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "fr-FR"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2024/04/recits-recifs-by-fanny-villeneuve-1920-1.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2024/04/recits-recifs-by-fanny-villeneuve-1920-1.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1920"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1080"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@value": "©&#xfe0f; Fanny Villeneuve"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/recits-recifs/#breadcrumb",
+    "@type": [
+      "http://schema.org/BreadcrumbList"
+    ],
+    "http://schema.org/itemListElement": [
+      {
+        "@id": "_:g463400"
+      },
+      {
+        "@id": "_:g463420"
+      },
+      {
+        "@id": "_:g463440"
+      }
+    ]
+  },
+  {
+    "@id": "_:g463380",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://agoradanse.com/evenement/recits-recifs/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g463400",
+    "@type": [
+      "http://schema.org/ListItem"
+    ],
+    "http://schema.org/position": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Accueil"
+      }
+    ],
+    "http://schema.org/item": [
+      {
+        "@value": "https://agoradanse.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g463420",
+    "@type": [
+      "http://schema.org/ListItem"
+    ],
+    "http://schema.org/position": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Événements"
+      }
+    ],
+    "http://schema.org/item": [
+      {
+        "@value": "https://agoradanse.com/evenement/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g463440",
+    "@type": [
+      "http://schema.org/ListItem"
+    ],
+    "http://schema.org/position": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "3"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Récits-Récifs"
+      }
+    ]
+  },
+  {
+    "@id": "_:g463480",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://agoradanse.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g463520",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "AGORA DE LA DANSE | ÉDIFICE WILDER"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g463540"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g463560"
+      }
+    ]
+  },
+  {
+    "@id": "_:g463540",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Montreal"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "1435, rue De Bleury"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "H3A 2H7"
+      }
+    ]
+  },
+  {
+    "@id": "_:g463560",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@value": "45.506783"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": "-73.5673573"
+      }
+    ]
+  },
+  {
+    "@id": "_:g463580",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.tuxedobillet.com/main/recit-recifs"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "29.00"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@value": "29.00"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@value": "35.00"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-09-01"
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-12-07"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "https://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g463600",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2018/05/Line-Nault-by-jean-français-briere.jpg"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Line Nault "
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/recits-recifs/#x-btn-navbar",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/recits-recifs/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/recits-recifs/#tab-choregraphe-accordeon0",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#tab"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/recits-recifs/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/recits-recifs/#panel-choregraphe-accordeon0",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#tabpanel"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/recits-recifs/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/recits-recifs/#tab-credit-accordeon",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#tab"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/recits-recifs/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/recits-recifs/#panel-credit-accordeon",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#tabpanel"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/recits-recifs/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/bogota/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "BOGOTÁ - Andrea Peña & Artists - Agora de la danse"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Fusion habile de la danse, du design industriel et de l’esthétique queer. Une œuvre d’envergure, radicale et novatrice. "
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://agoradanse.com/evenement/bogota/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Agora de la danse"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.facebook.com/agoradeladanse"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2024-06-12T19:07:21+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://agoradanse.com/wp-content/uploads/2024/02/1920_bogota_by_Felixe-Godbout-Delavaud_1.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1920"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/evenement/bogota/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "BOGOTÁ - Agora de la danse"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://agoradanse.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://agoradanse.com/evenement/bogota/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/evenement/bogota/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2024/02/1920_bogota_by_Felixe-Godbout-Delavaud_1.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-02-22T20:04:31+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-06-12T19:07:21+00:00"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Fusion habile de la danse, du design industriel et de l’esthétique queer. Une œuvre d’envergure, radicale et novatrice. "
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://agoradanse.com/evenement/bogota/#breadcrumb"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "fr-FR"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g465080"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://agoradanse.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/bogota/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "fr-FR"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2024/02/1920_bogota_by_Felixe-Godbout-Delavaud_1.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2024/02/1920_bogota_by_Felixe-Godbout-Delavaud_1.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1920"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1080"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@value": "BOGOTA © Felixe Godbout-Delavaud"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/bogota/#breadcrumb",
+    "@type": [
+      "http://schema.org/BreadcrumbList"
+    ],
+    "http://schema.org/itemListElement": [
+      {
+        "@id": "_:g465100"
+      },
+      {
+        "@id": "_:g465120"
+      },
+      {
+        "@id": "_:g465140"
+      }
+    ]
+  },
+  {
+    "@id": "_:g465080",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://agoradanse.com/evenement/bogota/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g465100",
+    "@type": [
+      "http://schema.org/ListItem"
+    ],
+    "http://schema.org/position": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Accueil"
+      }
+    ],
+    "http://schema.org/item": [
+      {
+        "@value": "https://agoradanse.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g465120",
+    "@type": [
+      "http://schema.org/ListItem"
+    ],
+    "http://schema.org/position": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Événements"
+      }
+    ],
+    "http://schema.org/item": [
+      {
+        "@value": "https://agoradanse.com/evenement/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g465140",
+    "@type": [
+      "http://schema.org/ListItem"
+    ],
+    "http://schema.org/position": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "3"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "BOGOTÁ"
+      }
+    ]
+  },
+  {
+    "@id": "_:g465180",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://agoradanse.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g465220",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "AGORA DE LA DANSE | ÉDIFICE WILDER"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g465240"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g465260"
+      }
+    ]
+  },
+  {
+    "@id": "_:g465240",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Montreal"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "1435, rue De Bleury"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "H3A 2H7"
+      }
+    ]
+  },
+  {
+    "@id": "_:g465260",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@value": "45.506783"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": "-73.5673573"
+      }
+    ]
+  },
+  {
+    "@id": "_:g465280",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.tuxedobillet.com/main/bogota"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "49.00"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-09-01"
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-12-14"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "https://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g465300",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2022/09/AndreaPena-by-BobbyLeon-HD.jpg"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Andrea Peña & Artists "
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/bogota/#x-btn-navbar",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#button"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/bogota/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/bogota/#tab-choregraphe-accordeon0",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#tab"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/bogota/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/bogota/#panel-choregraphe-accordeon0",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#tabpanel"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/bogota/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/bogota/#tab-credit-accordeon",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#tab"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/bogota/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/bogota/#panel-credit-accordeon",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#tabpanel"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/bogota/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/d4767f51-4c7a-4555-b99d-932b503b4ca1",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Montréal - Marrakech - Le Carré des Lombes "
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Quatre interprètes de formations et de cultures diverses s'incarnent dans cette co-création de Danièle Desnoyers et Taoufiq Izeddiou."
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2024/04/mtl-marrakech-by-marc-coudrais-1920-1.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-09-18"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-09-20"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@value": "https://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@value": "https://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g455820"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@value": "T50M"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g455880"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g455900"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/montreal-marrakech/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/4c83a659-7200-42da-b509-4471fdff21a0",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#navigation"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/montreal-marrakech/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/e5019ad7-3281-412f-9308-25e7d6742579",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#navigation"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/montreal-marrakech/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/af137ee1-90b0-4ac7-a94d-4f26c1057fd0",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#banner"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/montreal-marrakech/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/6094b3f2-f6f2-45ac-8169-a3abc8f4dcee",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#main"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/montreal-marrakech/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/6a7174ee-277c-4325-81b9-a94ce9461fd8",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#main"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/montreal-marrakech/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/02feb8f0-cbe0-41f7-bf51-19e4db647877",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#contentinfo"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/montreal-marrakech/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/fbc01fa5-2e78-4ec0-87bf-83cb9f09b671",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#contentinfo"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/montreal-marrakech/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/855c8076-a3cd-4c1e-b832-16f45bd8299b",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Aianishkat - Soleil Launière"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Soleil Launière, artiste innue pluridisciplinaire, invite sur scène sa fille de un an, sa mentore de 70 ans et une contrebassiste. "
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2024/04/aianishkat-by-jean-christophe-lessard-1920-1.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-02"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-05"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@value": "https://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@value": "https://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g458580"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@value": "T45M"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g458640"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g458660"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/aianishkat/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/8115b7e2-58ea-4b9f-bf30-cf5ddbd6e00e",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#navigation"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/aianishkat/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/691a6d6d-0291-4922-a0ce-3954d1958be6",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#navigation"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/aianishkat/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/16f5994f-20b5-4b55-b1a4-67b0e4254305",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#banner"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/aianishkat/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/e7973d2c-cdd0-4bde-b0fc-a0bfde63668c",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#main"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/aianishkat/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/a05e36c4-3cfe-4dc8-bb5e-a1c786ac3691",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#main"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/aianishkat/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/c830d6ad-3240-419d-9ff2-708a7fb56086",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#contentinfo"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/aianishkat/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/36995bef-1267-492f-a40f-7164da163fb5",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#contentinfo"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/aianishkat/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/53f715d7-6f80-4fc5-9569-c4b7f36c35ed",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Rhino - Out Innerspace"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Entre le tragique et le comique, nos rêves et nos peurs s'entrelacent dans ce monde voibrant comme seul Out Innerspace sait les construire."
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2024/04/rhino-by-mark-kelly-1920-1.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-23"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-26"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@value": "https://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@value": "https://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g460500"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@value": "T75M"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g460560"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g460580"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/out-innerspace-2024/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/dc1a5fd5-ddeb-444f-9dcc-6b737aaa5722",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#navigation"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/out-innerspace-2024/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/7e744fd4-8d97-4e56-8517-c3a2856cb841",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#navigation"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/out-innerspace-2024/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/6341d226-e342-4051-999e-c14390cb88d4",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#banner"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/out-innerspace-2024/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/97ed0ba5-0a15-46df-a50e-46a23ec292bc",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#main"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/out-innerspace-2024/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/2d73d045-3087-4542-80f5-54878df4f3a3",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#main"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/out-innerspace-2024/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/55af970c-81c1-4557-9bf5-692312a239ec",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#contentinfo"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/out-innerspace-2024/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/5c505cd0-dede-49dd-bd25-bd281bdb4fb0",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#contentinfo"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/out-innerspace-2024/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/e97206dc-6313-4346-809a-64f82cfb7bf3",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Wahsipekuk : Au-delà des montagnes - Ivanie Aubin-Malo "
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Ivanie Aubin-Malo invoque par la danse, la musique et le chant, les Géants, entités des différentes traditions orales des peuples wabanakiak."
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2024/04/wahsipekuk-by-vickie-grondin-16-9-4.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-11-13"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-11-16"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@value": "https://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@value": "https://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g461880"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@value": "T60M"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g461940"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g461960"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/wahsipekuk-au-dela-des-montagnes/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/e6592a76-ec11-4910-8a07-a1e73259c564",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#navigation"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/wahsipekuk-au-dela-des-montagnes/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/deb90f09-856d-43f1-a16f-f399d0783a4a",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#navigation"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/wahsipekuk-au-dela-des-montagnes/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/506f5ff0-f4c1-49a8-a8ee-3ad1e27d12e2",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#banner"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/wahsipekuk-au-dela-des-montagnes/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/72d0fd2a-9e1a-47ca-acee-070bad267036",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#main"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/wahsipekuk-au-dela-des-montagnes/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/182adeb7-c85e-4dc6-9904-8309641f8a8f",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#main"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/wahsipekuk-au-dela-des-montagnes/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/01dd85b3-f707-4264-864a-63869ef7a6e9",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#contentinfo"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/wahsipekuk-au-dela-des-montagnes/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/21e6ed93-fc95-46c8-bf6d-4aa9dae0801b",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#contentinfo"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/wahsipekuk-au-dela-des-montagnes/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/2e1f6651-4579-45ee-a7d3-53d6ed0b5ea1",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Récits-Récifs - Line Nault "
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Exploration philosophique des corps et des lieux, Récits-Récifs marie habilement performance, installation et technologie."
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2024/04/recits-recifs-by-fanny-villeneuve-1920-1.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-12-04"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-12-07"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@value": "https://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@value": "https://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g463520"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@value": "T120M"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g463580"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g463600"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/recits-recifs/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/66c31e4c-809e-4c1d-bf95-f379855eb7ce",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#navigation"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/recits-recifs/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/adadea8d-ed37-436c-9936-4adad09df67f",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#navigation"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/recits-recifs/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/dbbcdfed-8b39-40f1-ad0b-f1f9da906217",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#banner"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/recits-recifs/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/39382642-799a-4adb-b990-531def97208f",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#main"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/recits-recifs/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/74a812ce-b0aa-4b00-bf9c-af7f52962f3a",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#main"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/recits-recifs/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/9e3f355e-30ea-46d8-84fb-578fefa7dc1d",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#contentinfo"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/recits-recifs/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/95093b08-66fa-46b8-8e33-aa057e92229c",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#contentinfo"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/recits-recifs/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/47fdc697-48cd-426a-8ce8-b50832dc4661",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "BOGOTÁ - Andrea Peña & Artists "
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Fusion habile de la danse, du design industriel et de l’esthétique queer. Une œuvre d’envergure, radicale et novatrice. "
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2024/02/1920_bogota_by_Felixe-Godbout-Delavaud_1.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-12-11"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-12-14"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@value": "https://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@value": "https://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g465220"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@value": "T80M"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g465280"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g465300"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/bogota/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/565c1911-57ad-4062-859b-03dd742c8e34",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#navigation"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/bogota/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/6d19b007-4866-4b84-b8cc-51df4392e862",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#navigation"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/bogota/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/8fa9e875-c8a7-4315-802b-ed4547d4ac68",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#banner"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/bogota/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/1c1233c6-9a84-4f5f-ad0c-85c531e02de0",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#main"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/bogota/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/6a9d74a2-406b-4719-be67-e590253ae57a",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#main"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/bogota/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/b4954ebf-052d-4cc3-8590-f82fc221b77e",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#contentinfo"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/bogota/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/08b4ac11-778f-4a87-a5f8-33c9b7b08b0a",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#contentinfo"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/bogota/"
+      }
+    ]
+  }
+]
