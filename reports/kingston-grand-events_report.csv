@@ -1,179 +1,90 @@
-event,startDateScoreNode,nameScoreNode,locationTypeScoreNode,postalCodeScoreNode,locationSameAsScoreNode,urlScoreNode,additionalTypeScoreNode,descriptionScoreNode,imageUrlScoreNode,organizerTypeScoreNode,organizerSameAsScoreNode,performerTypeScoreNode,performerSameAsScoreNode,offerTypeScoreNode,offerUrlScoreNode,addressTypeScoreNode,streetAddressScoreNode,addressLocalityScoreNode,addressRegionScoreNode,addressCountryScoreNode,endDateScoreNode,eventStatusScoreNode,eventAttendanceModeScoreNode,doorTimeScoreNode,durationScoreNode,mainEntityOfPageUrlScoreNode,score,name
-http://www.kingstongrand.ca/events/why-its-impossible,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,Why It's imPossible
-http://www.kingstongrand.ca/events/why-its-impossible,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:b0,Why It's imPossible
-http://www.kingstongrand.ca/events/the-bomb-retro-80s,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,The Bomb Retro 80's Live Experience
-http://www.kingstongrand.ca/events/the-bomb-retro-80s,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:b1,The Bomb Retro 80's Live Experience
-http://www.kingstongrand.ca/events/mw1-the-golden-age-of-hollywood,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,The Golden Age of Hollywood
-http://www.kingstongrand.ca/events/mw1-the-golden-age-of-hollywood,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:b2,The Golden Age of Hollywood
-http://www.kingstongrand.ca/events/walk-right-back-2024,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,Walk Right Back: The Everly Brothers Story
-http://www.kingstongrand.ca/events/walk-right-back-2024,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:b3,Walk Right Back: The Everly Brothers Story
-http://www.kingstongrand.ca/events/tom-cochrane-songsstories-acoustic-duo,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,Tom Cochrane
-http://www.kingstongrand.ca/events/tom-cochrane-songsstories-acoustic-duo,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:b4,Tom Cochrane
-http://www.kingstongrand.ca/events/the-hot-sardines-0,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,The Hot Sardines
-http://www.kingstongrand.ca/events/the-hot-sardines-0,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:b5,The Hot Sardines
-http://www.kingstongrand.ca/events/nagata-shachu,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,Nagata Shachu
-http://www.kingstongrand.ca/events/nagata-shachu,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:b6,Nagata Shachu
-http://www.kingstongrand.ca/events/boy-beatle,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,Boy Beatle
-http://www.kingstongrand.ca/events/boy-beatle,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:b7,Boy Beatle
-http://www.kingstongrand.ca/events/acdc-tribute-2024,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,The AC/DC Show - CANADA
-http://www.kingstongrand.ca/events/acdc-tribute-2024,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:b8,The AC/DC Show - CANADA
-http://www.kingstongrand.ca/events/radical-system-art-momentum-of-isolation,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,"""Momentum of Isolation"""
-http://www.kingstongrand.ca/events/radical-system-art-momentum-of-isolation,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:b9,"""Momentum of Isolation"""
-http://www.kingstongrand.ca/events/dr-jekyll-and-mr-hyde,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,Dr. Jekyll and Mr. Hyde
-http://www.kingstongrand.ca/events/dr-jekyll-and-mr-hyde,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:c0,Dr. Jekyll and Mr. Hyde
-http://www.kingstongrand.ca/events/la-galerie-by-machine-de-cirque,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,Machine de Cirque
-http://www.kingstongrand.ca/events/la-galerie-by-machine-de-cirque,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:c1,Machine de Cirque
-http://www.kingstongrand.ca/events/ron-james-2024,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,Ron James... Not Nearly Done Yet!
-http://www.kingstongrand.ca/events/ron-james-2024,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:c2,Ron James... Not Nearly Done Yet!
-http://www.kingstongrand.ca/events/yesterday-once-more-2024,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,Yesterday Once More
-http://www.kingstongrand.ca/events/yesterday-once-more-2024,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:c3,Yesterday Once More
-http://www.kingstongrand.ca/events/alice-the-world-we-live-in,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,Alice & The World We Live In
-http://www.kingstongrand.ca/events/alice-the-world-we-live-in,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:c4,Alice & The World We Live In
-http://www.kingstongrand.ca/events/grace-to-gloryland,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,Grace to Gloryland
-http://www.kingstongrand.ca/events/grace-to-gloryland,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:c5,Grace to Gloryland
-http://www.kingstongrand.ca/events/the-fabulous-thunderbirds-with-special-guest-steve-strongman,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,The Fabulous Thunderbirds
-http://www.kingstongrand.ca/events/the-fabulous-thunderbirds-with-special-guest-steve-strongman,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:c6,The Fabulous Thunderbirds
-http://www.kingstongrand.ca/events/mw2-tchaikovsky-wintory,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,Tchaikovsky & Wintory
-http://www.kingstongrand.ca/events/mw2-tchaikovsky-wintory,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:c7,Tchaikovsky & Wintory
-http://www.kingstongrand.ca/events/the-psychology-of-serial-killers,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,The Psychology of Serial Killers
-http://www.kingstongrand.ca/events/the-psychology-of-serial-killers,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:c8,The Psychology of Serial Killers
-http://www.kingstongrand.ca/events/sos-the-abba-experience,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,SOS - The ABBA Experience
-http://www.kingstongrand.ca/events/sos-the-abba-experience,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:c9,SOS - The ABBA Experience
-http://www.kingstongrand.ca/events/family1-harmon-live,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,Harmon Live
-http://www.kingstongrand.ca/events/family1-harmon-live,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:d0,Harmon Live
-http://www.kingstongrand.ca/events/the-best-is-yet-to-come-dusk-sings-bennett,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,Matt Dusk
-http://www.kingstongrand.ca/events/the-best-is-yet-to-come-dusk-sings-bennett,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:d1,Matt Dusk
-http://www.kingstongrand.ca/events/motown-soul-2024,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,Motown Soul
-http://www.kingstongrand.ca/events/motown-soul-2024,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:d2,Motown Soul
-http://www.kingstongrand.ca/events/radio-rush-the-moving-pictures-story,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,RADIO RUSH - The Moving Pictures Story
-http://www.kingstongrand.ca/events/radio-rush-the-moving-pictures-story,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:d3,RADIO RUSH - The Moving Pictures Story
-http://www.kingstongrand.ca/events/cantabile24_reborn,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,REBORN
-http://www.kingstongrand.ca/events/cantabile24_reborn,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:d4,REBORN
-http://www.kingstongrand.ca/events/100-years-from-now,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,100 Years From Now
-http://www.kingstongrand.ca/events/100-years-from-now,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:d5,100 Years From Now
-http://www.kingstongrand.ca/events/pops1-a-sci-fi-odyssey,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,2024: A Sci-Fi Odyssey
-http://www.kingstongrand.ca/events/pops1-a-sci-fi-odyssey,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:d6,2024: A Sci-Fi Odyssey
-http://www.kingstongrand.ca/events/derek-edwards-oxy-moron,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,Derek Edwards - Oxy Moron
-http://www.kingstongrand.ca/events/derek-edwards-oxy-moron,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:d7,Derek Edwards - Oxy Moron
-http://www.kingstongrand.ca/events/the-jim-cuddy-band-0,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,The Jim Cuddy Band
-http://www.kingstongrand.ca/events/the-jim-cuddy-band-0,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:d8,The Jim Cuddy Band
-http://www.kingstongrand.ca/events/jeremy-ledbetter-trio,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,Jeremy Ledbetter Trio
-http://www.kingstongrand.ca/events/jeremy-ledbetter-trio,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:d9,Jeremy Ledbetter Trio
-http://www.kingstongrand.ca/events/joel-plaskett-2024,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,Joel Plaskett
-http://www.kingstongrand.ca/events/joel-plaskett-2024,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:e0,Joel Plaskett
-http://www.kingstongrand.ca/events/abba-christmas,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,ABBA REVISITED CHRISTMAS CONCERT
-http://www.kingstongrand.ca/events/abba-christmas,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:e1,ABBA REVISITED CHRISTMAS CONCERT
-http://www.kingstongrand.ca/events/the-homecoming,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,The Homecoming
-http://www.kingstongrand.ca/events/the-homecoming,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:e2,The Homecoming
-http://www.kingstongrand.ca/events/classic-albums-live-news-of-the-world,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,Classic Albums Live
-http://www.kingstongrand.ca/events/classic-albums-live-news-of-the-world,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:e3,Classic Albums Live
-http://www.kingstongrand.ca/events/ennis-sisters-2024,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,Christmas with The Ennis Sisters
-http://www.kingstongrand.ca/events/ennis-sisters-2024,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:e4,Christmas with The Ennis Sisters
-http://www.kingstongrand.ca/events/murray-mclauchlan-hourglass,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,Murray McLauchlan ... Hourglass
-http://www.kingstongrand.ca/events/murray-mclauchlan-hourglass,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:e5,Murray McLauchlan ... Hourglass
-http://www.kingstongrand.ca/events/mw3-brahms-schumann,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,Brahms & Schumann
-http://www.kingstongrand.ca/events/mw3-brahms-schumann,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:e6,Brahms & Schumann
-http://www.kingstongrand.ca/events/the-nutcracker-2024,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,"""The Nutcracker"""
-http://www.kingstongrand.ca/events/the-nutcracker-2024,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:e7,"""The Nutcracker"""
-http://www.kingstongrand.ca/events/goodnight-moon-the-runaway-bunny,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,"""Goodnight Moon & The Runaway Bunny"""
-http://www.kingstongrand.ca/events/goodnight-moon-the-runaway-bunny,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:e8,"""Goodnight Moon & The Runaway Bunny"""
-http://www.kingstongrand.ca/events/tim-baker-all-hands,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,Tim Baker & All Hands
-http://www.kingstongrand.ca/events/tim-baker-all-hands,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:e9,Tim Baker & All Hands
-http://www.kingstongrand.ca/events/the-jersey-nights-before-christmas-show,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,The Jersey Nights Before Christmas Show
-http://www.kingstongrand.ca/events/the-jersey-nights-before-christmas-show,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:f0,The Jersey Nights Before Christmas Show
-http://www.kingstongrand.ca/events/the-debaters-live-0,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,The Debaters Live
-http://www.kingstongrand.ca/events/the-debaters-live-0,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:f1,The Debaters Live
-http://www.kingstongrand.ca/events/candlelight-christmas-2024,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,Candlelight Christmas
-http://www.kingstongrand.ca/events/candlelight-christmas-2024,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:f2,Candlelight Christmas
-http://www.kingstongrand.ca/events/elvis-christmas,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,Elvis: A Christmas Special starring Pete Paquette
-http://www.kingstongrand.ca/events/elvis-christmas,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:f3,Elvis: A Christmas Special starring Pete Paquette
-http://www.kingstongrand.ca/events/o-christmas-tea-2024,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,O Christmas Tea: A British Comedy
-http://www.kingstongrand.ca/events/o-christmas-tea-2024,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:f4,O Christmas Tea: A British Comedy
-http://www.kingstongrand.ca/events/pavlo-john-mcdermott2024,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,PAVLO & John McDermott
-http://www.kingstongrand.ca/events/pavlo-john-mcdermott2024,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:f5,PAVLO & John McDermott
-http://www.kingstongrand.ca/events/cantabile24_night-of-wonder,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,NIGHT OF WONDER
-http://www.kingstongrand.ca/events/cantabile24_night-of-wonder,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:f6,NIGHT OF WONDER
-http://www.kingstongrand.ca/events/natalie-macmaster-and-donnell-leahy-a-celtic-family-christmas-0,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,Natalie MacMaster and Donnell Leahy
-http://www.kingstongrand.ca/events/natalie-macmaster-and-donnell-leahy-a-celtic-family-christmas-0,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:f7,Natalie MacMaster and Donnell Leahy
-http://www.kingstongrand.ca/events/road-apples-2025,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,ROAD APPLES
-http://www.kingstongrand.ca/events/road-apples-2025,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:f8,ROAD APPLES
-http://www.kingstongrand.ca/events/mw4-hindemith-haydn,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,Hindemith & Haydn
-http://www.kingstongrand.ca/events/mw4-hindemith-haydn,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:f9,Hindemith & Haydn
-http://www.kingstongrand.ca/events/hotel-california-2025,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,Hotel California®  - The Original Tribute to the Eagles
-http://www.kingstongrand.ca/events/hotel-california-2025,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:g0,Hotel California®  - The Original Tribute to the Eagles
-http://www.kingstongrand.ca/events/the-road-to-mecca,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,The Road to Mecca
-http://www.kingstongrand.ca/events/the-road-to-mecca,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:g1,The Road to Mecca
-http://www.kingstongrand.ca/events/pops2-tasty-tunes-with-quartetto-gelato,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,Tasty Tunes with Quartetto Gelato
-http://www.kingstongrand.ca/events/pops2-tasty-tunes-with-quartetto-gelato,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:g2,Tasty Tunes with Quartetto Gelato
-http://www.kingstongrand.ca/events/the-magic-school-bus-lost-in-the-solar-system,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,The Magic School Bus
-http://www.kingstongrand.ca/events/the-magic-school-bus-lost-in-the-solar-system,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:g3,The Magic School Bus
-http://www.kingstongrand.ca/events/comfortably-numb-2025,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,Comfortably Numb - Canada's Pink Floyd Show
-http://www.kingstongrand.ca/events/comfortably-numb-2025,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:g4,Comfortably Numb - Canada's Pink Floyd Show
-http://www.kingstongrand.ca/events/jake-shimabukuro-2025,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,Jake Shimabukuro
-http://www.kingstongrand.ca/events/jake-shimabukuro-2025,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:g5,Jake Shimabukuro
-http://www.kingstongrand.ca/events/proartedanze-the-9th,12,8,8,4,0,2,0,0,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,47,ProArteDanza - The 9th!
-http://www.kingstongrand.ca/events/proartedanze-the-9th,12,8,8,4,0,2,0,0,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:g6,ProArteDanza - The 9th!
-http://www.kingstongrand.ca/events/circumpolar-soundscape,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,Circumpolar Soundscape
-http://www.kingstongrand.ca/events/circumpolar-soundscape,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:g7,Circumpolar Soundscape
-http://www.kingstongrand.ca/events/mw5-ligeti-tchaikovsky,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,Ligeti & Tchaikovsky
-http://www.kingstongrand.ca/events/mw5-ligeti-tchaikovsky,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:g8,Ligeti & Tchaikovsky
-http://www.kingstongrand.ca/events/gruffalos-child,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,"""The Gruffalo's Child"""
-http://www.kingstongrand.ca/events/gruffalos-child,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:g9,"""The Gruffalo's Child"""
-http://www.kingstongrand.ca/events/hyprov-improv-under-hypnosis,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,Hyprov - Improv Under Hypnosis
-http://www.kingstongrand.ca/events/hyprov-improv-under-hypnosis,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:h0,Hyprov - Improv Under Hypnosis
-http://www.kingstongrand.ca/events/choir-choir-choir-1,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,Choir! Choir! Choir!
-http://www.kingstongrand.ca/events/choir-choir-choir-1,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:h1,Choir! Choir! Choir!
-http://www.kingstongrand.ca/events/step-afrika,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,Step Afrika!
-http://www.kingstongrand.ca/events/step-afrika,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:h2,Step Afrika!
-http://www.kingstongrand.ca/events/finger-eleven,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,Finger Eleven
-http://www.kingstongrand.ca/events/finger-eleven,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:h3,Finger Eleven
-http://www.kingstongrand.ca/events/cantabile24_the-great-canadian-songbook,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,GREAT CANADIAN SONGBOOK
-http://www.kingstongrand.ca/events/cantabile24_the-great-canadian-songbook,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:h4,GREAT CANADIAN SONGBOOK
-http://www.kingstongrand.ca/events/mw6-burge-mozart,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,Burge & Mozart
-http://www.kingstongrand.ca/events/mw6-burge-mozart,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:h5,Burge & Mozart
-http://www.kingstongrand.ca/events/almost-maine,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,"Almost, Maine"
-http://www.kingstongrand.ca/events/almost-maine,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:h6,"Almost, Maine"
-http://www.kingstongrand.ca/events/fraggel-rock,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,Fraggle Rock: Back to the Rock Live
-http://www.kingstongrand.ca/events/fraggel-rock,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:h7,Fraggle Rock: Back to the Rock Live
-http://www.kingstongrand.ca/events/rhythm-of-the-dance,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,"""Rhythm of the Dance"""
-http://www.kingstongrand.ca/events/rhythm-of-the-dance,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:h8,"""Rhythm of the Dance"""
-http://www.kingstongrand.ca/events/tribute-to-grease,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,Tribute to GREASE
-http://www.kingstongrand.ca/events/tribute-to-grease,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:h9,Tribute to GREASE
-http://www.kingstongrand.ca/events/family2-the-great-outdoors,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,The Great Outdoors
-http://www.kingstongrand.ca/events/family2-the-great-outdoors,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:i0,The Great Outdoors
-http://www.kingstongrand.ca/events/pink-martini-featuring-china-forbes,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,Pink Martini featuring China Forbes
-http://www.kingstongrand.ca/events/pink-martini-featuring-china-forbes,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:i1,Pink Martini featuring China Forbes
-http://www.kingstongrand.ca/events/this-is-the-story-of-the-child-ruled-by-fear,12,8,8,4,0,2,0,0,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,47,This is the Story of the Child Ruled by Fear
-http://www.kingstongrand.ca/events/this-is-the-story-of-the-child-ruled-by-fear,12,8,8,4,0,2,0,0,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:i2,This is the Story of the Child Ruled by Fear
-http://www.kingstongrand.ca/events/brett-kissel-0,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,Brett Kissel
-http://www.kingstongrand.ca/events/brett-kissel-0,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:i3,Brett Kissel
-http://www.kingstongrand.ca/events/ladysmith-black-mambazo-2025,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,Ladysmith Black Mambazo
-http://www.kingstongrand.ca/events/ladysmith-black-mambazo-2025,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:i4,Ladysmith Black Mambazo
-http://www.kingstongrand.ca/events/red-hot-chilli-pipers,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,Red Hot Chilli Pipers
-http://www.kingstongrand.ca/events/red-hot-chilli-pipers,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:i5,Red Hot Chilli Pipers
-http://www.kingstongrand.ca/events/cirque-kalabante2025,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,Cirque Kalabanté   - Afrique en Cirque
-http://www.kingstongrand.ca/events/cirque-kalabante2025,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:i6,Cirque Kalabanté   - Afrique en Cirque
-http://www.kingstongrand.ca/events/pops3-symphonic-speedruns,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,Symphonic Speedruns
-http://www.kingstongrand.ca/events/pops3-symphonic-speedruns,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:i7,Symphonic Speedruns
-http://www.kingstongrand.ca/events/classic-albums-live-rumours-0,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,Classic Albums Live
-http://www.kingstongrand.ca/events/classic-albums-live-rumours-0,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:i8,Classic Albums Live
-http://www.kingstongrand.ca/events/unity-1918,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,Unity (1918)
-http://www.kingstongrand.ca/events/unity-1918,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:i9,Unity (1918)
-http://www.kingstongrand.ca/events/bageshree-vazes-global-bollywood,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,Bageshree Vaze's Global Bollywood
-http://www.kingstongrand.ca/events/bageshree-vazes-global-bollywood,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:j0,Bageshree Vaze's Global Bollywood
-http://www.kingstongrand.ca/events/just-for-laughs-road-show-3,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,Just for Laughs
-http://www.kingstongrand.ca/events/just-for-laughs-road-show-3,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:j1,Just for Laughs
-http://www.kingstongrand.ca/events/mw7-ravel-festival,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,Ravel Festival
-http://www.kingstongrand.ca/events/mw7-ravel-festival,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:j2,Ravel Festival
-http://www.kingstongrand.ca/events/rapunzel-the-musical,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,"""Rapunzel"" The Musical"
-http://www.kingstongrand.ca/events/rapunzel-the-musical,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:j3,"""Rapunzel"" The Musical"
-http://www.kingstongrand.ca/events/theatre-kingston-2425-season-ticket,12,8,0,0,0,2,0,2,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,28,Theatre Kingston 24/25 Season Ticket
-http://www.kingstongrand.ca/events/theatre-kingston-2425-season-ticket,12,8,0,0,0,2,0,2,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,_:j4,Theatre Kingston 24/25 Season Ticket
-http://www.kingstongrand.ca/events/susan-aglukark-with-special-guest-angela-amarualik,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,Susan Aglukark with special guest Angela Amarualik
-http://www.kingstongrand.ca/events/susan-aglukark-with-special-guest-angela-amarualik,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:j5,Susan Aglukark with special guest Angela Amarualik
-http://www.kingstongrand.ca/events/cantabile24_fantastic-beasts,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,FANTASTIC BEASTS
-http://www.kingstongrand.ca/events/cantabile24_fantastic-beasts,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:j6,FANTASTIC BEASTS
-http://www.kingstongrand.ca/events/decrepitude-blues,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,Decrepitude Blues
-http://www.kingstongrand.ca/events/decrepitude-blues,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:j7,Decrepitude Blues
-http://www.kingstongrand.ca/events/cantabile24_night-at-the-opera,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,49,NIGHT AT THE OPERA
-http://www.kingstongrand.ca/events/cantabile24_night-at-the-opera,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,_:j8,NIGHT AT THE OPERA
+event,scoreNode,startDateScoreNode,nameScoreNode,locationTypeScoreNode,postalCodeScoreNode,locationSameAsScoreNode,urlScoreNode,additionalTypeScoreNode,descriptionScoreNode,imageUrlScoreNode,organizerTypeScoreNode,organizerSameAsScoreNode,performerTypeScoreNode,performerSameAsScoreNode,offerTypeScoreNode,offerUrlScoreNode,addressTypeScoreNode,streetAddressScoreNode,addressLocalityScoreNode,addressRegionScoreNode,addressCountryScoreNode,endDateScoreNode,eventStatusScoreNode,eventAttendanceModeScoreNode,doorTimeScoreNode,durationScoreNode,mainEntityOfPageUrlScoreNode,scorePercent,name,score
+http://www.kingstongrand.ca/events/why-its-impossible,_:b0,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,Why It's imPossible,49
+http://www.kingstongrand.ca/events/the-bomb-retro-80s,_:b1,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,The Bomb Retro 80's Live Experience,49
+http://www.kingstongrand.ca/events/mw1-the-golden-age-of-hollywood,_:b2,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,The Golden Age of Hollywood,49
+http://www.kingstongrand.ca/events/walk-right-back-2024,_:b3,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,Walk Right Back: The Everly Brothers Story,49
+http://www.kingstongrand.ca/events/tom-cochrane-songsstories-acoustic-duo,_:b4,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,Tom Cochrane,49
+http://www.kingstongrand.ca/events/the-hot-sardines-0,_:b5,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,The Hot Sardines,49
+http://www.kingstongrand.ca/events/nagata-shachu,_:b6,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,Nagata Shachu,49
+http://www.kingstongrand.ca/events/boy-beatle,_:b7,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,Boy Beatle,49
+http://www.kingstongrand.ca/events/acdc-tribute-2024,_:b8,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,The AC/DC Show - CANADA,49
+http://www.kingstongrand.ca/events/radical-system-art-momentum-of-isolation,_:b9,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,"""Momentum of Isolation""",49
+http://www.kingstongrand.ca/events/dr-jekyll-and-mr-hyde,_:c0,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,Dr. Jekyll and Mr. Hyde,49
+http://www.kingstongrand.ca/events/la-galerie-by-machine-de-cirque,_:c1,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,Machine de Cirque,49
+http://www.kingstongrand.ca/events/ron-james-2024,_:c2,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,Ron James... Not Nearly Done Yet!,49
+http://www.kingstongrand.ca/events/yesterday-once-more-2024,_:c3,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,Yesterday Once More,49
+http://www.kingstongrand.ca/events/alice-the-world-we-live-in,_:c4,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,Alice & The World We Live In,49
+http://www.kingstongrand.ca/events/grace-to-gloryland,_:c5,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,Grace to Gloryland,49
+http://www.kingstongrand.ca/events/the-fabulous-thunderbirds-with-special-guest-steve-strongman,_:c6,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,The Fabulous Thunderbirds,49
+http://www.kingstongrand.ca/events/mw2-tchaikovsky-wintory,_:c7,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,Tchaikovsky & Wintory,49
+http://www.kingstongrand.ca/events/the-psychology-of-serial-killers,_:c8,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,The Psychology of Serial Killers,49
+http://www.kingstongrand.ca/events/sos-the-abba-experience,_:c9,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,SOS - The ABBA Experience,49
+http://www.kingstongrand.ca/events/family1-harmon-live,_:d0,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,Harmon Live,49
+http://www.kingstongrand.ca/events/the-best-is-yet-to-come-dusk-sings-bennett,_:d1,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,Matt Dusk,49
+http://www.kingstongrand.ca/events/motown-soul-2024,_:d2,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,Motown Soul,49
+http://www.kingstongrand.ca/events/radio-rush-the-moving-pictures-story,_:d3,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,RADIO RUSH - The Moving Pictures Story,49
+http://www.kingstongrand.ca/events/cantabile24_reborn,_:d4,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,REBORN,49
+http://www.kingstongrand.ca/events/100-years-from-now,_:d5,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,100 Years From Now,49
+http://www.kingstongrand.ca/events/pops1-a-sci-fi-odyssey,_:d6,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,2024: A Sci-Fi Odyssey,49
+http://www.kingstongrand.ca/events/derek-edwards-oxy-moron,_:d7,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,Derek Edwards - Oxy Moron,49
+http://www.kingstongrand.ca/events/the-jim-cuddy-band-0,_:d8,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,The Jim Cuddy Band,49
+http://www.kingstongrand.ca/events/jeremy-ledbetter-trio,_:d9,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,Jeremy Ledbetter Trio,49
+http://www.kingstongrand.ca/events/joel-plaskett-2024,_:e0,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,Joel Plaskett,49
+http://www.kingstongrand.ca/events/abba-christmas,_:e1,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,ABBA REVISITED CHRISTMAS CONCERT,49
+http://www.kingstongrand.ca/events/the-homecoming,_:e2,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,The Homecoming,49
+http://www.kingstongrand.ca/events/classic-albums-live-news-of-the-world,_:e3,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,Classic Albums Live,49
+http://www.kingstongrand.ca/events/ennis-sisters-2024,_:e4,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,Christmas with The Ennis Sisters,49
+http://www.kingstongrand.ca/events/murray-mclauchlan-hourglass,_:e5,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,Murray McLauchlan ... Hourglass,49
+http://www.kingstongrand.ca/events/mw3-brahms-schumann,_:e6,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,Brahms & Schumann,49
+http://www.kingstongrand.ca/events/the-nutcracker-2024,_:e7,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,"""The Nutcracker""",49
+http://www.kingstongrand.ca/events/goodnight-moon-the-runaway-bunny,_:e8,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,"""Goodnight Moon & The Runaway Bunny""",49
+http://www.kingstongrand.ca/events/tim-baker-all-hands,_:e9,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,Tim Baker & All Hands,49
+http://www.kingstongrand.ca/events/the-jersey-nights-before-christmas-show,_:f0,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,The Jersey Nights Before Christmas Show,49
+http://www.kingstongrand.ca/events/the-debaters-live-0,_:f1,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,The Debaters Live,49
+http://www.kingstongrand.ca/events/candlelight-christmas-2024,_:f2,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,Candlelight Christmas,49
+http://www.kingstongrand.ca/events/elvis-christmas,_:f3,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,Elvis: A Christmas Special starring Pete Paquette,49
+http://www.kingstongrand.ca/events/o-christmas-tea-2024,_:f4,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,O Christmas Tea: A British Comedy,49
+http://www.kingstongrand.ca/events/pavlo-john-mcdermott2024,_:f5,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,PAVLO & John McDermott,49
+http://www.kingstongrand.ca/events/cantabile24_night-of-wonder,_:f6,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,NIGHT OF WONDER,49
+http://www.kingstongrand.ca/events/natalie-macmaster-and-donnell-leahy-a-celtic-family-christmas-0,_:f7,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,Natalie MacMaster and Donnell Leahy,49
+http://www.kingstongrand.ca/events/road-apples-2025,_:f8,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,ROAD APPLES,49
+http://www.kingstongrand.ca/events/mw4-hindemith-haydn,_:f9,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,Hindemith & Haydn,49
+http://www.kingstongrand.ca/events/hotel-california-2025,_:g0,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,Hotel California®  - The Original Tribute to the Eagles,49
+http://www.kingstongrand.ca/events/the-road-to-mecca,_:g1,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,The Road to Mecca,49
+http://www.kingstongrand.ca/events/pops2-tasty-tunes-with-quartetto-gelato,_:g2,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,Tasty Tunes with Quartetto Gelato,49
+http://www.kingstongrand.ca/events/the-magic-school-bus-lost-in-the-solar-system,_:g3,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,The Magic School Bus,49
+http://www.kingstongrand.ca/events/comfortably-numb-2025,_:g4,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,Comfortably Numb - Canada's Pink Floyd Show,49
+http://www.kingstongrand.ca/events/jake-shimabukuro-2025,_:g5,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,Jake Shimabukuro,49
+http://www.kingstongrand.ca/events/proartedanze-the-9th,_:g6,12,8,8,4,0,2,0,0,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,70.65217391304347826086956521739130435,ProArteDanza - The 9th!,47
+http://www.kingstongrand.ca/events/circumpolar-soundscape,_:g7,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,Circumpolar Soundscape,49
+http://www.kingstongrand.ca/events/mw5-ligeti-tchaikovsky,_:g8,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,Ligeti & Tchaikovsky,49
+http://www.kingstongrand.ca/events/gruffalos-child,_:g9,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,"""The Gruffalo's Child""",49
+http://www.kingstongrand.ca/events/hyprov-improv-under-hypnosis,_:h0,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,Hyprov - Improv Under Hypnosis,49
+http://www.kingstongrand.ca/events/choir-choir-choir-1,_:h1,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,Choir! Choir! Choir!,49
+http://www.kingstongrand.ca/events/step-afrika,_:h2,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,Step Afrika!,49
+http://www.kingstongrand.ca/events/finger-eleven,_:h3,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,Finger Eleven,49
+http://www.kingstongrand.ca/events/cantabile24_the-great-canadian-songbook,_:h4,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,GREAT CANADIAN SONGBOOK,49
+http://www.kingstongrand.ca/events/mw6-burge-mozart,_:h5,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,Burge & Mozart,49
+http://www.kingstongrand.ca/events/almost-maine,_:h6,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,"Almost, Maine",49
+http://www.kingstongrand.ca/events/fraggel-rock,_:h7,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,Fraggle Rock: Back to the Rock Live,49
+http://www.kingstongrand.ca/events/rhythm-of-the-dance,_:h8,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,"""Rhythm of the Dance""",49
+http://www.kingstongrand.ca/events/tribute-to-grease,_:h9,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,Tribute to GREASE,49
+http://www.kingstongrand.ca/events/family2-the-great-outdoors,_:i0,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,The Great Outdoors,49
+http://www.kingstongrand.ca/events/pink-martini-featuring-china-forbes,_:i1,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,Pink Martini featuring China Forbes,49
+http://www.kingstongrand.ca/events/this-is-the-story-of-the-child-ruled-by-fear,_:i2,12,8,8,4,0,2,0,0,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,70.65217391304347826086956521739130435,This is the Story of the Child Ruled by Fear,47
+http://www.kingstongrand.ca/events/brett-kissel-0,_:i3,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,Brett Kissel,49
+http://www.kingstongrand.ca/events/ladysmith-black-mambazo-2025,_:i4,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,Ladysmith Black Mambazo,49
+http://www.kingstongrand.ca/events/red-hot-chilli-pipers,_:i5,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,Red Hot Chilli Pipers,49
+http://www.kingstongrand.ca/events/cirque-kalabante2025,_:i6,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,Cirque Kalabanté   - Afrique en Cirque,49
+http://www.kingstongrand.ca/events/pops3-symphonic-speedruns,_:i7,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,Symphonic Speedruns,49
+http://www.kingstongrand.ca/events/classic-albums-live-rumours-0,_:i8,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,Classic Albums Live,49
+http://www.kingstongrand.ca/events/unity-1918,_:i9,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,Unity (1918),49
+http://www.kingstongrand.ca/events/bageshree-vazes-global-bollywood,_:j0,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,Bageshree Vaze's Global Bollywood,49
+http://www.kingstongrand.ca/events/just-for-laughs-road-show-3,_:j1,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,Just for Laughs,49
+http://www.kingstongrand.ca/events/mw7-ravel-festival,_:j2,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,Ravel Festival,49
+http://www.kingstongrand.ca/events/rapunzel-the-musical,_:j3,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,"""Rapunzel"" The Musical",49
+http://www.kingstongrand.ca/events/theatre-kingston-2425-season-ticket,_:j4,12,8,0,0,0,2,0,2,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,50.0,Theatre Kingston 24/25 Season Ticket,28
+http://www.kingstongrand.ca/events/susan-aglukark-with-special-guest-angela-amarualik,_:j5,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,Susan Aglukark with special guest Angela Amarualik,49
+http://www.kingstongrand.ca/events/cantabile24_fantastic-beasts,_:j6,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,FANTASTIC BEASTS,49
+http://www.kingstongrand.ca/events/decrepitude-blues,_:j7,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,Decrepitude Blues,49
+http://www.kingstongrand.ca/events/cantabile24_night-at-the-opera,_:j8,12,8,8,4,0,2,0,2,0,0,0,0,0,2,2,1,1,1,1,1,0,0,0,0,0,0,72.82608695652173913043478260869565215,NIGHT AT THE OPERA,49
