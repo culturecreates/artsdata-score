@@ -17,7 +17,15 @@ TODO:
 - support more schema:Event sub-types. Currently only schema:Event, schema:MusicEvent, schema:TheaterEvent.
 
 ## Batch scoring multiple webpages
-Coming soon...
+You can score a batch of events across a website, provided that you can find a webpage that lists the events to score and a CSS/XPATH class to locate the individual event urls.  The tool supports JSON-LD that is injected by javascript with the option "headless: true"
+
+Prerequisite:
+- you need to be a team member of this repo
+
+Steps:
+- Go to Actions
+- Run the action and enter the parameters.
+- View the CSV table in the reports section
 
 # To contribute
 
@@ -27,8 +35,6 @@ Coming soon...
 4. `rake test`
 5. make changes to the SHACL partials, SPARQL and update tests
 7. `rake build` to merge all the SHACL partials into a single file
-
-
 
 
 ## Revised weighting proposal
