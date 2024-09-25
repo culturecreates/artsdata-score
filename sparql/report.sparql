@@ -1,19 +1,15 @@
 PREFIX schema: <http://schema.org/>
 PREFIX example: <http://example.org/>
 
-SELECT ?event ?name ?score ?startDateScoreNode ?nameScoreNode ?locationTypeScoreNode
-       ?postalCodeScoreNode ?locationSameAsScoreNode ?urlScoreNode ?additionalTypeScoreNode
-       ?descriptionScoreNode ?imageUrlScoreNode ?organizerTypeScoreNode ?organizerSameAsScoreNode
-       ?performerTypeScoreNode ?performerSameAsScoreNode ?offerTypeScoreNode ?offerUrlScoreNode
-       ?addressTypeScoreNode ?streetAddressScoreNode ?addressLocalityScoreNode
-       ?addressRegionScoreNode ?addressCountryScoreNode ?endDateScoreNode
-       ?eventStatusScoreNode ?eventAttendanceModeScoreNode ?doorTimeScoreNode
-       ?durationScoreNode ?mainEntityOfPageUrlScoreNode
+SELECT *
 WHERE {
   ?event a schema:Event ;
          schema:name ?name .
   
-  OPTIONAL { ?event example:score ?score . }
+  ?event example:score ?score .  
+  filter(!isBLANK(?score))
+       
+ ?event example:scorePercent ?scorePercent .  
   
   OPTIONAL {
     ?event example:score ?scoreNode .
