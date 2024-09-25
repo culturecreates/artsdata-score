@@ -4,11 +4,11 @@ on:
   workflow_dispatch:  # Can be triggered manually from GitHub Actions
     inputs:
       page_url:
-        description: "The URL of the page to fetch JSON-LD data from"
+        description: "The URL of the webpage listing events"
         required: true
         type: string
       entity_identifier:
-        description: "Identifier of the entity to fetch"
+        description: "Identifier (xpath or css) to fetch individual event webpages"
         required: true
         type: string
       file_name:
