@@ -35,13 +35,13 @@
 <#EventImageObject>
     a sh:PropertyShape ;
     sh:path schema:image ;
+    sh:class schema:ImageObject ;
     sh:minCount 1 ; 
     sh:node <#ImageObject> ;
     .
 
 <#ImageObject>
-    a sh:NodeShape ;
-    sh:targetClass schema:ImageObject ;  
+    a sh:NodeShape ; 
     sh:property [
         sh:path schema:url ;
         sh:minCount 1 ; 

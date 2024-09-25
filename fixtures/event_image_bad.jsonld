@@ -22,9 +22,29 @@
     "@context": "http://schema.org/",
     "@id": "http://example.com/events/3",
     "type": "Event",
-    "name": "imageObject not a URL",
+    "name": "imageObject has no URL property",
     "image":  {
         "@type": "ImageObject"
       }
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "http://example.com/events/4",
+    "type": "Event",
+    "name": "imageObject misspelled",
+    "image":  {
+        "@type": "ImageObjectasdfasdfadsfasdf",
+          "url": "http://example.com/image.jpg"
+      }
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "http://example.com/events/5",
+    "type": "Event",
+    "name": "imageObject type missing",
+    "image":  {
+          "url": "http://example.com/image.jpg"
+      }
   }
+  
 ]

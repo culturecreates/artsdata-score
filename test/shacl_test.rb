@@ -89,6 +89,10 @@ class ShaclTest < Minitest::Test
     assert_equal 1,actual,"events/2 bad data is not being caught. #{report}"
     actual = graph.query([nil, RDF::URI('http://www.w3.org/ns/shacl#focusNode'), RDF::URI('http://example.com/events/3')]).count
     assert_equal 1,actual,"events/3 bad data is not being caught. #{report}"
+    actual = graph.query([nil, RDF::URI('http://www.w3.org/ns/shacl#focusNode'), RDF::URI('http://example.com/events/4')]).count
+    assert_equal 1,actual,"events/4 bad data is not being caught. #{report}"
+    actual = graph.query([nil, RDF::URI('http://www.w3.org/ns/shacl#focusNode'), RDF::URI('http://example.com/events/5')]).count
+    assert_equal 1,actual,"events/5 bad data is not being caught. #{report}"
 
     # good
     graph = RDF::Graph.load("fixtures/event_image_good.jsonld")
