@@ -5,10 +5,9 @@ require 'linkeddata'
 require 'csv'
 require 'fileutils'
 
-url = ARGV[0]
+filename = ARGV[0].split('/').last.split('.').first
 
-filename = url.split('/').last.split('.').first
-graph = RDF::Graph.load(url)
+graph = RDF::Graph.load("output/#{filename}.jsonld")
 
 SHACL.open('shacl/shacl_for_scoring.ttl').execute(graph)
 

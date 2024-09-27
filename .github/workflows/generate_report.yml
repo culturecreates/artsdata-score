@@ -34,8 +34,8 @@ jobs:
       is_paginated: ${{ inputs.is_paginated }}
       headless: ${{ inputs.headless }}
       save_method: 'artifact'
-
-  download-and-commit-artifact:
+  
+  generate-report:
     runs-on: ubuntu-latest
     needs: call-reusable-workflow
     steps:
@@ -48,22 +48,6 @@ jobs:
         name: jsonld-data
         path: output/
 
-    - name: Commit and Push Changes
-      run: |
-        git config --local user.email "actions@github.com"
-        git config --local user.name "GitHub Actions"
-        git pull
-        git add "output/${{ inputs.file_name }}"
-        git commit -m "Add json-ld fetched by the script"
-        git push
-  
-  generate-report:
-    runs-on: ubuntu-latest
-    needs: download-and-commit-artifact
-    steps:
-    - name: Checkout Repository
-      uses: actions/checkout@v4
-
     - name: Set up Ruby
       uses: ruby/setup-ruby@v1
       with:
@@ -72,7 +56,7 @@ jobs:
     - name: Run main script
       run: |
         bundle exec ruby src/main.rb \
-        "https://raw.githubusercontent.com/culturecreates/artsdata-score/refs/heads/main/output/${{inputs.file_name}}"
+        ${{inputs.file_name}}
 
     - name: Commit and Push Changes
       run: |
