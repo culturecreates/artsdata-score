@@ -4,11 +4,11 @@ on:
   workflow_dispatch:  # Can be triggered manually from GitHub Actions
     inputs:
       page_url:
-        description: "URL of the webpage listing events"
+        description: "URL of the webpage listing all events"
         required: true
         type: string
       entity_identifier:
-        description: "CSS to identify individual event webpages (div.event-card a)"
+        description: "CSS to identify individual event webpages (example: div.event-card a)"
         required: true
         type: string
       file_name:
@@ -16,11 +16,28 @@ on:
         required: true
         type: string
       is_paginated:
-        description: "Is the page paginated? ('true'|'false'|page number)"
+        description: "Is the page paginated? (true|false|[page number])"
         required: true
         type: string
       headless:
-        description: "Run in headless mode? ('true'|'false')"
+        description: "Run in headless mode? (true|false)"
+        required: true
+        type: string
+  workflow_call: 
+    inputs:
+      page_url:
+        required: true
+        type: string
+      entity_identifier:
+        required: true
+        type: string
+      file_name:
+        required: true
+        type: string
+      is_paginated:
+        required: true
+        type: string
+      headless:
         required: true
         type: string
 
