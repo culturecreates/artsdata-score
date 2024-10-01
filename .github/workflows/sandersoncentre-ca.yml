@@ -1,4 +1,4 @@
-name: Score agoradanse.com Events
+name: Score sandersoncentre.ca Events
 
 on:
   workflow_dispatch:

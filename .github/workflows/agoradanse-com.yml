@@ -9,6 +9,6 @@ jobs:
     with:
         page_url: "https://agoradanse.com/evenement/montreal-marrakech/"
         entity_identifier: "div.x-container.max a"
-        file_name: "agoradanse-events.jsonld"
+        file_name: "agoradanse-com.jsonld"
         is_paginated: "false"
         headless: "false"
