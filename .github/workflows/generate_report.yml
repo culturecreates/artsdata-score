@@ -4,23 +4,23 @@ on:
   workflow_dispatch:  # Can be triggered manually from GitHub Actions
     inputs:
       page_url:
-        description: "The URL of the webpage listing events"
+        description: "URL of the webpage listing events"
         required: true
         type: string
       entity_identifier:
-        description: "Identifier (xpath or css) to fetch individual event webpages"
+        description: "CSS to identify individual event webpages (div.event-card a)"
         required: true
         type: string
       file_name:
-        description: "The name of the output file"
+        description: "File name"
         required: true
         type: string
       is_paginated:
-        description: "Is the page paginated? Set as 'true', 'false', or a page number"
+        description: "Is the page paginated? ('true'|'false'|page number)"
         required: true
         type: string
       headless:
-        description: "Run in headless mode ('true' or 'false')"
+        description: "Run in headless mode? ('true'|'false')"
         required: true
         type: string
 
