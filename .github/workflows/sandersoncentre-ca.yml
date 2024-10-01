@@ -1,0 +1,14 @@
+name: Score agoradanse.com Events
+
+on:
+  workflow_dispatch:
+ 
+jobs:
+  call-workflow-to-fetch-data:
+    uses: ./.github/workflows/generate_report.yml
+    with:
+        page_url: "https://calendar.sandersoncentre.ca"
+        entity_identifier: "div#CalendarList a.card"
+        file_name: "sandersoncentre-ca.jsonld"
+        is_paginated: "true"
+        headless: "true"
