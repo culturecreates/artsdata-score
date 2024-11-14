@@ -7,8 +7,9 @@ jobs:
   call-workflow-to-fetch-data:
     uses: ./.github/workflows/generate_report.yml
     with:
-        page_url: "https://calendar.sandersoncentre.ca/?page="
-        entity_identifier: "div#CalendarList a.card"
-        file_name: "sandersoncentre-ca.jsonld"
-        is_paginated: "true"
-        headless: "true"
+        page-url: "https://calendar.sandersoncentre.ca/?page="
+        entity-identifier: "div#CalendarList a.card"
+        downloadFile: sandersoncentre-ca.jsonld
+        is-paginated: true
+        headless: true
+        token: ${{ secrets.GITHUB_TOKEN }}
