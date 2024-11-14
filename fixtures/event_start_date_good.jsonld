@@ -31,7 +31,7 @@
   {
     "@context": "http://schema.org",
     "@type": "Event",
-    "name":"Ok to leave out timezone",
+    "name":"Ok to have miliseconds like .000",
     "startDate": "2019-01-01T00:00:00.000Z"
   }
 
