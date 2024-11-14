@@ -3,19 +3,19 @@ name: Generate Score Report
 on:
   workflow_dispatch:  # Can be triggered manually from GitHub Actions
     inputs:
-      page-url:
+      page_url:
         description: "URL of the webpage listing all events"
         required: true
         type: string
-      entity-identifier:
+      entity_identifier:
         description: "CSS to identify individual event webpages (example: div.event-card a)"
         required: true
         type: string
-      downloadFile:
+      file_name:
         description: "File name"
         required: true
         type: string
-      is-paginated:
+      is_paginated:
         description: "Is the page paginated? (true|false|[page number])"
         required: true
         type: string
@@ -23,41 +23,34 @@ on:
         description: "Run in headless mode? (true|false)"
         required: true
         type: string
-
   workflow_call: 
     inputs:
-      page-url:
+      page_url:
         required: true
         type: string
-      entity-identifier:
+      entity_identifier:
         required: true
         type: string
-      downloadFile:
+      file_name:
         required: true
         type: string
-      is-paginated:
+      is_paginated:
         required: true
         type: string
       headless:
         required: true
         type: string
-    secrets:
-      GITHUB_TOKEN:
-        required: true
-
 
 jobs:
   call-reusable-workflow:
-    uses: culturecreates/artsdata-pipeline-action@v2
+    uses: culturecreates/artsdata-orion/.github/workflows/fetch-data.yml@main
     with:
-      mode: fetch
-      downloadFile:  ${{inputs.downloadFile}}
-      page-url: ${{ inputs.page-url }}
-      entity-identifier: ${{ inputs.entity-identifier }}
-      is-paginated: ${{ inputs.is-paginated }}
+      page_url: ${{ inputs.page_url }}
+      entity_identifier: ${{ inputs.entity_identifier }}
+      file_name: ${{ inputs.file_name }}
+      is_paginated: ${{ inputs.is_paginated }}
       headless: ${{ inputs.headless }}
-      token: ${{ secrets.GITHUB_TOKEN }}
-      save-method: 'artifact'
+      save_method: 'artifact'
   
   generate-report:
     runs-on: ubuntu-latest
