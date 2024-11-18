@@ -5,7 +5,7 @@ on:
  
 jobs:
   call-workflow-to-fetch-data:
-    uses: ./.github/workflows/generate_report.yml
+    uses: ./.github/workflows/generate-report.yml
     with:
         page_url: "https://calendar.sandersoncentre.ca/?page="
         entity_identifier: "div#CalendarList a.card"

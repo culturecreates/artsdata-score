@@ -5,7 +5,7 @@ on:
       
 jobs:
   call-workflow-to-fetch-data:
-    uses: ./.github/workflows/generate_report.yml
+    uses: ./.github/workflows/generate-report.yml
     with:
         page_url: "https://agoradanse.com/evenement/montreal-marrakech/"
         entity_identifier: "div.x-container.max a"

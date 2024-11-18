@@ -1,7 +1,7 @@
 name: Generate Score Report
 
 on:
-  workflow_dispatch:  # Can be triggered manually from GitHub Actions
+  workflow_dispatch:
     inputs:
       page_url:
         description: "URL of the webpage listing all events"
@@ -43,14 +43,19 @@ on:
 
 jobs:
   call-reusable-workflow:
-    uses: culturecreates/artsdata-orion/.github/workflows/fetch-data.yml@main
-    with:
-      page_url: ${{ inputs.page_url }}
-      entity_identifier: ${{ inputs.entity_identifier }}
-      file_name: ${{ inputs.file_name }}
-      is_paginated: ${{ inputs.is_paginated }}
-      headless: ${{ inputs.headless }}
-      save_method: 'artifact'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Action setup
+        uses: culturecreates/artsdata-pipeline-action@main
+        with:
+          mode: 'fetch'
+          page-url: ${{ inputs.page_url }}
+          entity-identifier: ${{ inputs.entity_identifier }}
+          downloadFile: ${{ inputs.file_name }}
+          is-paginated: ${{ inputs.is_paginated }}
+          headless: ${{ inputs.headless }}
+          token: "${{ secrets.GITHUB_TOKEN }}"
+          save-method: 'artifact'
   
   generate-report:
     runs-on: ubuntu-latest
