@@ -46,7 +46,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Action setup
-        uses: culturecreates/artsdata-pipeline-action@main
+        uses: culturecreates/artsdata-pipeline-action@v2
         with:
           mode: 'fetch'
           page-url: ${{ inputs.page_url }}
@@ -55,7 +55,6 @@ jobs:
           is-paginated: ${{ inputs.is_paginated }}
           headless: ${{ inputs.headless }}
           token: "${{ secrets.GITHUB_TOKEN }}"
-          save-method: 'artifact'
   
   generate-report:
     runs-on: ubuntu-latest
@@ -63,12 +62,6 @@ jobs:
     steps:
     - name: Checkout Repository
       uses: actions/checkout@v4
-
-    - name: Download Artifact
-      uses: actions/download-artifact@v4
-      with:
-        name: jsonld-data
-        path: output/
 
     - name: Set up Ruby
       uses: ruby/setup-ruby@v1
