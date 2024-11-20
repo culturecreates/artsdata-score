@@ -63,6 +63,12 @@ jobs:
     - name: Checkout Repository
       uses: actions/checkout@v4
 
+    - name: Set up Github
+      run: |
+        git config --local user.email "actions@github.com"
+        git config --local user.name "GitHub Actions"
+        git pull
+
     - name: Set up Ruby
       uses: ruby/setup-ruby@v1
       with:
@@ -75,8 +81,6 @@ jobs:
 
     - name: Commit and Push Changes
       run: |
-        git config --local user.email "actions@github.com"
-        git config --local user.name "GitHub Actions"
         git pull
         file_name="${{ inputs.file_name }}"
         base_name="${file_name%.jsonld}"
