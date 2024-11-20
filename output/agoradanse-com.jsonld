@@ -1,0 +1,1551 @@
+[
+  {
+    "@id": "https://agoradanse.com/evenement/recits-recifs/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Récits-Récifs - Line Nault - Agora de la danse"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Exploration philosophique des corps et des lieux, Récits-Récifs marie habilement performance, installation et technologie."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://agoradanse.com/evenement/recits-recifs/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Agora de la danse"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.facebook.com/agoradeladanse"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2024-06-12T19:10:03+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://agoradanse.com/wp-content/uploads/2024/04/recits-recifs-by-fanny-villeneuve-1920-1.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1920"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/evenement/recits-recifs/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Récits-Récifs - Agora de la danse"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://agoradanse.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://agoradanse.com/evenement/recits-recifs/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/evenement/recits-recifs/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2024/04/recits-recifs-by-fanny-villeneuve-1920-1.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-04-26T16:03:22+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-06-12T19:10:03+00:00"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Exploration philosophique des corps et des lieux, Récits-Récifs marie habilement performance, installation et technologie."
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://agoradanse.com/evenement/recits-recifs/#breadcrumb"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "fr-FR"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g455660"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://agoradanse.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Agora de la danse"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Lieu majeur de recherche, de création et de diffusion en danse contemporaine à Montréal."
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://agoradanse.com/#organization"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g455740"
+      },
+      {
+        "@id": "_:g458140"
+      },
+      {
+        "@id": "_:g460500"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/recits-recifs/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "fr-FR"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2024/04/recits-recifs-by-fanny-villeneuve-1920-1.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2024/04/recits-recifs-by-fanny-villeneuve-1920-1.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1920"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1080"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@value": "©&#xfe0f; Fanny Villeneuve"
+      }
+    ]
+  },
+  {
+    "@id": "_:g455660",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://agoradanse.com/evenement/recits-recifs/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/#organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Agora de la danse"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://agoradanse.com/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/agoradeladanse"
+      },
+      {
+        "@id": "https://twitter.com/Agoradanse"
+      },
+      {
+        "@id": "https://agoradanse"
+      },
+      {
+        "@id": "https://www.linkedin.com/company/agoradanse"
+      },
+      {
+        "@id": "https://www.youtube.com/user/Agoradanse"
+      }
+    ]
+  },
+  {
+    "@id": "_:g455740",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g455760"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g458140",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g458160"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460500",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g460520"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/#/schema/logo/image/",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "fr-FR"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2017/12/Logo_Agora-01.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2017/12/Logo_Agora-01.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1250"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "833"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@value": "Agora de la danse"
+      }
+    ]
+  },
+  {
+    "@id": "_:g455760",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://agoradanse.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g455800",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "AGORA DE LA DANSE | ÉDIFICE WILDER"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g455820"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g455840"
+      }
+    ]
+  },
+  {
+    "@id": "_:g455820",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Montreal"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "1435, rue De Bleury"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "H3A 2H7"
+      }
+    ]
+  },
+  {
+    "@id": "_:g455840",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@value": "45.506783"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": "-73.5673573"
+      }
+    ]
+  },
+  {
+    "@id": "_:g455860",
+    "@type": [
+      "http://schema.org/AggregateOffer"
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.tuxedobillet.com/main/recit-recifs"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "29.00"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@value": "29.00"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@value": "35.00"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-09-01"
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-12-07"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "https://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g455880",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2018/05/Line-Nault-by-jean-français-briere.jpg"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Line Nault "
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/bogota/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "BOGOTÁ - Andrea Peña & Artists - Agora de la danse"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Fusion habile de la danse, du design industriel et de l’esthétique queer. Une œuvre d’envergure, radicale et novatrice. "
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://agoradanse.com/evenement/bogota/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Agora de la danse"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.facebook.com/agoradeladanse"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2024-06-12T19:07:21+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://agoradanse.com/wp-content/uploads/2024/02/1920_bogota_by_Felixe-Godbout-Delavaud_1.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1920"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/evenement/bogota/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "BOGOTÁ - Agora de la danse"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://agoradanse.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://agoradanse.com/evenement/bogota/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/evenement/bogota/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2024/02/1920_bogota_by_Felixe-Godbout-Delavaud_1.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-02-22T20:04:31+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-06-12T19:07:21+00:00"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Fusion habile de la danse, du design industriel et de l’esthétique queer. Une œuvre d’envergure, radicale et novatrice. "
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://agoradanse.com/evenement/bogota/#breadcrumb"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "fr-FR"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g458060"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://agoradanse.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/bogota/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "fr-FR"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2024/02/1920_bogota_by_Felixe-Godbout-Delavaud_1.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2024/02/1920_bogota_by_Felixe-Godbout-Delavaud_1.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1920"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1080"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@value": "BOGOTA © Felixe Godbout-Delavaud"
+      }
+    ]
+  },
+  {
+    "@id": "_:g458060",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://agoradanse.com/evenement/bogota/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g458160",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://agoradanse.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g458200",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "AGORA DE LA DANSE | ÉDIFICE WILDER"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g458220"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g458240"
+      }
+    ]
+  },
+  {
+    "@id": "_:g458220",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Montreal"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "1435, rue De Bleury"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "H3A 2H7"
+      }
+    ]
+  },
+  {
+    "@id": "_:g458240",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@value": "45.506783"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": "-73.5673573"
+      }
+    ]
+  },
+  {
+    "@id": "_:g458260",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.tuxedobillet.com/main/bogota"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "49.00"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-09-01"
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-12-14"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "https://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g458280",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2022/09/AndreaPena-by-BobbyLeon-HD.jpg"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Andrea Peña & Artists "
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/replica/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "REPLICA - Andrea Peña & Artists - Agora de la danse"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Un duo qui nous entraîne à sa suite dans une captivante performance archéologique du mouvement de la mythologie aux corps d'aujourd'hui."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://agoradanse.com/evenement/replica/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Agora de la danse"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.facebook.com/agoradeladanse"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2024-11-15T17:06:52+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://agoradanse.com/wp-content/uploads/2024/10/replica_by_jeanne-tetrault_1920_1.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1920"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/evenement/replica/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "REPLICA - Agora de la danse"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://agoradanse.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://agoradanse.com/evenement/replica/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/evenement/replica/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2024/10/replica_by_jeanne-tetrault_1920_1.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-30T18:19:55+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-11-15T17:06:52+00:00"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Un duo qui nous entraîne à sa suite dans une captivante performance archéologique du mouvement de la mythologie aux corps d'aujourd'hui."
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://agoradanse.com/evenement/replica/#breadcrumb"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "fr-FR"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g460420"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://agoradanse.com/wp-json/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/replica/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "fr-FR"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2024/10/replica_by_jeanne-tetrault_1920_1.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2024/10/replica_by_jeanne-tetrault_1920_1.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1920"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1080"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@value": "©&#xfe0f; Jeanne Tétreault"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460420",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://agoradanse.com/evenement/replica/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460520",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://agoradanse.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460560",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "AGORA DE LA DANSE | ÉDIFICE WILDER"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g460580"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g460600"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460580",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Montreal"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "Canada"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "1435, rue De Bleury"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "H3A 2H7"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460600",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@value": "45.506783"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": "-73.5673573"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460620",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.tuxedobillet.com/main/replica"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "39.00"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-09-01"
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-01"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "https://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460640",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2022/09/AndreaPena-by-BobbyLeon-HD.jpg"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Andrea Peña"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/739a1dd4-4534-479b-b6aa-8f8fa5aff42f",
+    "@type": [
+      "http://schema.org/ListItem"
+    ],
+    "http://schema.org/position": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Accueil"
+      }
+    ],
+    "http://schema.org/item": [
+      {
+        "@value": "https://agoradanse.com/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/8f148322-e455-4464-9618-067a53d69c68",
+    "@type": [
+      "http://schema.org/ListItem"
+    ],
+    "http://schema.org/position": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Événements"
+      }
+    ],
+    "http://schema.org/item": [
+      {
+        "@value": "https://agoradanse.com/evenement/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/f78048ef-8686-440a-a69d-af0eae53e16e",
+    "@type": [
+      "http://schema.org/ListItem"
+    ],
+    "http://schema.org/position": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "3"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Récits-Récifs"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/53bb1f5a-5a27-41a1-92bd-f45c2eba455b",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Récits-Récifs - Line Nault "
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Exploration philosophique des corps et des lieux, Récits-Récifs marie habilement performance, installation et technologie."
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2024/04/recits-recifs-by-fanny-villeneuve-1920-1.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-12-04"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-12-07"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@value": "https://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@value": "https://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g455800"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@value": "T120M"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g455860"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g455880"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/recits-recifs/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/d307808f-6793-435f-a3f4-78a15f4978c9",
+    "@type": [
+      "http://schema.org/ListItem"
+    ],
+    "http://schema.org/position": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Accueil"
+      }
+    ],
+    "http://schema.org/item": [
+      {
+        "@value": "https://agoradanse.com/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/07a0e74f-60dd-4243-85cf-da28797f5527",
+    "@type": [
+      "http://schema.org/ListItem"
+    ],
+    "http://schema.org/position": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Événements"
+      }
+    ],
+    "http://schema.org/item": [
+      {
+        "@value": "https://agoradanse.com/evenement/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/6ae7d8d5-110a-42a9-b149-4ea3fd4bba4d",
+    "@type": [
+      "http://schema.org/ListItem"
+    ],
+    "http://schema.org/position": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "3"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "BOGOTÁ"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/78e6bbb4-a852-4f7d-bf84-9f8b2fc0f610",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "BOGOTÁ - Andrea Peña & Artists "
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Fusion habile de la danse, du design industriel et de l’esthétique queer. Une œuvre d’envergure, radicale et novatrice. "
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2024/02/1920_bogota_by_Felixe-Godbout-Delavaud_1.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-12-11"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-12-14"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@value": "https://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@value": "https://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g458200"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@value": "T80M"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g458260"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g458280"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/bogota/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/287acc70-d4c1-49dd-9794-7db28a362a10",
+    "@type": [
+      "http://schema.org/ListItem"
+    ],
+    "http://schema.org/position": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Accueil"
+      }
+    ],
+    "http://schema.org/item": [
+      {
+        "@value": "https://agoradanse.com/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/6d6eb770-feff-4721-bd52-791525866429",
+    "@type": [
+      "http://schema.org/ListItem"
+    ],
+    "http://schema.org/position": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Événements"
+      }
+    ],
+    "http://schema.org/item": [
+      {
+        "@value": "https://agoradanse.com/evenement/"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/2fa5ab33-5029-4795-a772-34f0ce9a0aed",
+    "@type": [
+      "http://schema.org/ListItem"
+    ],
+    "http://schema.org/position": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "3"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "REPLICA"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/94918cc3-2330-44f8-b4e4-0c01dd18648c",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "REPLICA - Andrea Peña"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Un duo qui nous entraîne à sa suite dans une captivante performance archéologique du mouvement de la mythologie aux corps d'aujourd'hui."
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2024/10/replica_by_jeanne-tetrault_1920_1.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-02-26"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-01"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@value": "https://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@value": "https://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g460560"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@value": "T60M"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g460620"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g460640"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/replica/"
+      }
+    ]
+  }
+]
