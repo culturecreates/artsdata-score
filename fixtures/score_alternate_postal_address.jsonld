@@ -1,0 +1,13 @@
+[
+  {
+    "@context":"http://schema.org", 
+    "@id":"http://example.org/alternate_postal_address",
+    "@type":"Event",
+    "name":"Event score with good postal code",
+    "location":{
+      "@type":"PostalAddress",
+      "name":"Location name",
+      "postalCode":"H2C 123"
+    }
+  }
+]

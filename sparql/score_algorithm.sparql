@@ -91,7 +91,7 @@ where {
 
   # location postalCode
   OPTIONAL {
-    ?event schema:location/schema:address ?postal_address .
+    ?event schema:location/schema:address? ?postal_address .
     ?postal_address schema:postalCode ?location_postalCode .
      OPTIONAL {
       ?warning_postalCode sh:focusNode ?postal_address ; sh:resultPath schema:postalCode .

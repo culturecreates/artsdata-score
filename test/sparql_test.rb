@@ -73,5 +73,12 @@ class SparqlTest < Minitest::Test
     assert_equal  33, actual, "event3 should have a score of 33 but had #{actual}"
   end
 
+  def test_alternate_postal_code
+    graph = RDF::Graph.load("fixtures/score_alternate_postal_address.jsonld")
+    graph <<  @shacl.execute(graph)
+    graph.query(@sparql)
+    actual = graph.query([ nil, RDF::URI('http://example.org/postalCode_score'), nil]).first.object.value.to_i
+    assert_equal  4, actual, "alternate_postal_address should have a score of 2 but had #{actual}"
+  end
 
 end
