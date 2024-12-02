@@ -1,5 +1,60 @@
 [
   {
+    "@id": "http://kg.artsdata.ca/resource/K10-499",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@value": "https://www.facebook.com/sanderson.centre"
+      },
+      {
+        "@value": "https://twitter.com/SandersonCentre/"
+      },
+      {
+        "@value": "https://www.instagram.com/sandersoncentrebrantford/"
+      }
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@language": "en",
+        "@value": "Brantford Sanderson Centre"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sanderson Centre"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://www.sandersoncentre.ca/en/index.aspx"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2024-12-22-1400-A-Playful-Fox-Production-Charlie-and-the-Chocolate#Offer",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "44.00"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://tickets.sandersoncentre.ca/TheatreManager/1/online?performance=1791"
+      }
+    ]
+  },
+  {
     "@id": "http://kg.artsdata.ca/resource/K11-192",
     "@type": [
       "http://schema.org/Place",
@@ -62,386 +117,6 @@
     ]
   },
   {
-    "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2024-12-07-2000-Soul-of-Motown-Christmas-Special#Offer",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/availability": [
-      {
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@value": "59.00"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://tickets.sandersoncentre.ca/TheatreManager/1/online?performance=1745"
-      }
-    ]
-  },
-  {
-    "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-07-2000-Soul-of-Motown-Christmas-Special#WebPage",
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@value": "en"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-07-2000-Soul-of-Motown-Christmas-Special"
-      }
-    ],
-    "http://schema.org/lastReviewed": [
-      {
-        "@value": "2024-11-20T15:12:35.547-05:00"
-      }
-    ]
-  },
-  {
-    "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2024-12-08-1300-Footloose-1984#Offer",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/availability": [
-      {
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@value": "9.00"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://tickets.sandersoncentre.ca/TheatreManager/1/online?performance=1777"
-      }
-    ]
-  },
-  {
-    "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-08-1300-Footloose-1984#WebPage",
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@value": "en"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-08-1300-Footloose-1984"
-      }
-    ],
-    "http://schema.org/lastReviewed": [
-      {
-        "@value": "2024-11-20T15:11:19.041-05:00"
-      }
-    ]
-  },
-  {
-    "@id": "http://kg.artsdata.ca/resource/K10-499",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@value": "https://www.facebook.com/sanderson.centre"
-      },
-      {
-        "@value": "https://twitter.com/SandersonCentre/"
-      },
-      {
-        "@value": "https://www.instagram.com/sandersoncentrebrantford/"
-      }
-    ],
-    "http://schema.org/alternateName": [
-      {
-        "@language": "en",
-        "@value": "Brantford Sanderson Centre"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Sanderson Centre"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://www.sandersoncentre.ca/en/index.aspx"
-      }
-    ]
-  },
-  {
-    "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2024-12-11-1730-NLC-Dance-Company-Presents-Rockin-Around-the-Chris#Offer",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/price": [
-      {
-        "@value": "44.75"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://tickets.sandersoncentre.ca/TheatreManager/1/online?performance=1806"
-      }
-    ]
-  },
-  {
-    "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-11-1730-NLC-Dance-Company-Presents-Rockin-Around-the-Chris#WebPage",
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@value": "en"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-11-1730-NLC-Dance-Company-Presents-Rockin-Around-the-Chris"
-      }
-    ],
-    "http://schema.org/lastReviewed": [
-      {
-        "@value": "2024-11-20T15:11:42.322-05:00"
-      }
-    ]
-  },
-  {
-    "@id": "http://kg.artsdata.ca/resource/K10-552",
-    "@type": [
-      "http://schema.org/Organization",
-      "http://schema.org/MusicGroup"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@value": "https://www.facebook.com/Brantford.Symphony/"
-      }
-    ],
-    "http://schema.org/alternateName": [
-      {
-        "@language": "en",
-        "@value": "BSO"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Brantford Symphony Orchestra"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://brantfordsymphony.ca"
-      }
-    ]
-  },
-  {
-    "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2024-12-14-1930-CHRISTMASTIME-IN-THE-CITY#Offer",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/price": [
-      {
-        "@value": "49"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://tickets.sandersoncentre.ca/TheatreManager/1/online?performance=1784"
-      }
-    ]
-  },
-  {
-    "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-14-1930-CHRISTMASTIME-IN-THE-CITY#WebPage",
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@value": "en"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-14-1930-CHRISTMASTIME-IN-THE-CITY"
-      }
-    ],
-    "http://schema.org/lastReviewed": [
-      {
-        "@value": "2024-11-20T15:11:11.151-05:00"
-      }
-    ]
-  },
-  {
-    "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2024-12-15-1500-The-Brantford-School-of-Instrumental-Music-Present#Offer",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://tickets.sandersoncentre.ca/TheatreManager/1/online?performance=1809"
-      }
-    ]
-  },
-  {
-    "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-15-1500-The-Brantford-School-of-Instrumental-Music-Present#WebPage",
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@value": "en"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-15-1500-The-Brantford-School-of-Instrumental-Music-Present"
-      }
-    ],
-    "http://schema.org/lastReviewed": [
-      {
-        "@value": "2024-11-20T15:12:43.948-05:00"
-      }
-    ]
-  },
-  {
-    "@id": "http://kg.artsdata.ca/resource/K16-9",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Brantford School of Instrumental Music"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://bsim.ca/"
-      }
-    ]
-  },
-  {
-    "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2024-12-20-1900-A-Playful-Fox-Production-Charlie-and-the-Chocolate#Offer",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/price": [
-      {
-        "@value": "44.00"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://tickets.sandersoncentre.ca/TheatreManager/1/online?performance=1789"
-      }
-    ]
-  },
-  {
-    "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-20-1900-A-Playful-Fox-Production-Charlie-and-the-Chocolate#WebPage",
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@value": "en"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-20-1900-A-Playful-Fox-Production-Charlie-and-the-Chocolate"
-      }
-    ],
-    "http://schema.org/lastReviewed": [
-      {
-        "@value": "2024-11-20T15:11:21.132-05:00"
-      }
-    ]
-  },
-  {
-    "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2024-12-21-1400-A-Playful-Fox-Production-Charlie-and-the-Chocolate#Offer",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/availability": [
-      {
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@value": "44.00"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://tickets.sandersoncentre.ca/TheatreManager/1/online?performance=1790"
-      }
-    ]
-  },
-  {
-    "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-21-1400-A-Playful-Fox-Production-Charlie-and-the-Chocolate#WebPage",
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@value": "en"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-21-1400-A-Playful-Fox-Production-Charlie-and-the-Chocolate"
-      }
-    ],
-    "http://schema.org/lastReviewed": [
-      {
-        "@value": "2024-11-20T15:11:31.418-05:00"
-      }
-    ]
-  },
-  {
-    "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2024-12-22-1400-A-Playful-Fox-Production-Charlie-and-the-Chocolate#Offer",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/price": [
-      {
-        "@value": "44.00"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://tickets.sandersoncentre.ca/TheatreManager/1/online?performance=1791"
-      }
-    ]
-  },
-  {
     "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-22-1400-A-Playful-Fox-Production-Charlie-and-the-Chocolate#WebPage",
     "@type": [
       "http://schema.org/WebPage"
@@ -458,7 +133,28 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2024-11-20T15:12:07.280-05:00"
+        "@value": "2024-11-30T15:15:30.596-05:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-28-1300-Mavis-Productions-Disneys-The-Little-Mermaid-the-B#WebPage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-28-1300-Mavis-Productions-Disneys-The-Little-Mermaid-the-B"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@value": "2024-11-30T15:15:13.317-05:00"
       }
     ]
   },
@@ -484,7 +180,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-28-1300-Mavis-Productions-Disneys-The-Little-Mermaid-the-B#WebPage",
+    "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-28-1800-Mavis-Productions-Disneys-The-Little-Mermaid-the-B#WebPage",
     "@type": [
       "http://schema.org/WebPage"
     ],
@@ -495,12 +191,12 @@
     ],
     "http://schema.org/url": [
       {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-28-1300-Mavis-Productions-Disneys-The-Little-Mermaid-the-B"
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-28-1800-Mavis-Productions-Disneys-The-Little-Mermaid-the-B"
       }
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2024-11-20T15:11:52.902-05:00"
+        "@value": "2024-11-30T15:16:20.977-05:00"
       }
     ]
   },
@@ -522,27 +218,6 @@
     "http://schema.org/url": [
       {
         "@value": "https://tickets.sandersoncentre.ca/TheatreManager/1/online?performance=1724"
-      }
-    ]
-  },
-  {
-    "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-28-1800-Mavis-Productions-Disneys-The-Little-Mermaid-the-B#WebPage",
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@value": "en"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-28-1800-Mavis-Productions-Disneys-The-Little-Mermaid-the-B"
-      }
-    ],
-    "http://schema.org/lastReviewed": [
-      {
-        "@value": "2024-11-20T15:13:04.477-05:00"
       }
     ]
   },
@@ -584,7 +259,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2024-11-20T15:12:03.240-05:00"
+        "@value": "2024-11-30T15:15:22.516-05:00"
       }
     ]
   },
@@ -626,7 +301,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2024-11-20T15:11:15.915-05:00"
+        "@value": "2024-11-30T15:14:52.338-05:00"
       }
     ]
   },
@@ -668,7 +343,28 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2024-11-20T15:12:20.364-05:00"
+        "@value": "2024-11-30T15:15:28.886-05:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-31-2100-New-Years-Eve-Celebration#WebPage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-31-2100-New-Years-Eve-Celebration"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@value": "2024-11-30T15:15:47.769-05:00"
       }
     ]
   },
@@ -710,7 +406,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2024-11-20T15:11:54.796-05:00"
+        "@value": "2024-11-30T15:15:15.343-05:00"
       }
     ]
   },
@@ -752,7 +448,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2024-11-20T15:11:44.228-05:00"
+        "@value": "2024-11-30T15:15:08.669-05:00"
       }
     ]
   },
@@ -773,7 +469,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2024-11-20T15:12:58.818-05:00"
+        "@value": "2024-11-30T15:16:15.210-05:00"
       }
     ]
   },
@@ -831,29 +527,19 @@
     ]
   },
   {
-    "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-01-12-1100-Frozen-in-Time#Offer",
+    "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-01-12-1100-Frozen-in-Time",
     "@type": [
-      "http://schema.org/Offer"
+      "http://schema.org/Event"
     ],
-    "http://schema.org/price": [
+    "http://schema.org/location": [
       {
-        "@value": "43.75"
+        "@id": "http://kg.artsdata.ca/resource/K11-192"
       }
     ],
-    "http://schema.org/url": [
+    "http://schema.org/name": [
       {
-        "@value": "https://tickets.sandersoncentre.ca/TheatreManager/1/online?performance=1814"
-      }
-    ]
-  },
-  {
-    "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-01-12-1100-Frozen-in-Time#WebPage",
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@value": "en"
+        "@language": "en",
+        "@value": "Frozen in Time"
       }
     ],
     "http://schema.org/url": [
@@ -861,9 +547,14 @@
         "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-01-12-1100-Frozen-in-Time"
       }
     ],
-    "http://schema.org/lastReviewed": [
+    "http://schema.org/startDate": [
       {
-        "@value": "2024-11-20T15:11:14.040-05:00"
+        "@value": "2025-01-12T11:00:00-05:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-01-12-1100-Frozen-in-Time"
       }
     ]
   },
@@ -900,7 +591,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2024-11-20T15:11:08.351-05:00"
+        "@value": "2024-11-30T15:14:48.083-05:00"
       }
     ]
   },
@@ -942,7 +633,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2024-11-20T15:12:48.408-05:00"
+        "@value": "2024-11-30T15:16:07.303-05:00"
       }
     ]
   },
@@ -1018,7 +709,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2024-11-20T15:12:11.237-05:00"
+        "@value": "2024-11-30T15:15:24.199-05:00"
       }
     ]
   },
@@ -1027,14 +718,14 @@
     "@type": [
       "http://schema.org/Offer"
     ],
-    "http://schema.org/price": [
-      {
-        "@value": "65.00"
-      }
-    ],
     "http://schema.org/availability": [
       {
         "@value": "InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "65.00"
       }
     ],
     "http://schema.org/url": [
@@ -1060,7 +751,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2024-11-20T15:11:09.612-05:00"
+        "@value": "2024-11-30T15:14:34.978-05:00"
       }
     ]
   },
@@ -1102,7 +793,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2024-11-20T15:12:18.208-05:00"
+        "@value": "2024-11-30T15:15:27.311-05:00"
       }
     ]
   },
@@ -1144,7 +835,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2024-11-20T15:13:00.696-05:00"
+        "@value": "2024-11-30T15:16:17.078-05:00"
       }
     ]
   },
@@ -1181,6 +872,27 @@
     ]
   },
   {
+    "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-01-29-2000-Hyprov#WebPage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-01-29-2000-Hyprov"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@value": "2024-11-30T15:15:50.936-05:00"
+      }
+    ]
+  },
+  {
     "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-01-29-2000-Hyprov#Offer",
     "@type": [
       "http://schema.org/Offer"
@@ -1198,27 +910,6 @@
     "http://schema.org/url": [
       {
         "@value": "https://tickets.sandersoncentre.ca/TheatreManager/1/online?performance=1720"
-      }
-    ]
-  },
-  {
-    "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-01-29-2000-Hyprov#WebPage",
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@value": "en"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-01-29-2000-Hyprov"
-      }
-    ],
-    "http://schema.org/lastReviewed": [
-      {
-        "@value": "2024-11-20T15:12:26.078-05:00"
       }
     ]
   },
@@ -1260,7 +951,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2024-11-20T15:10:56.845-05:00"
+        "@value": "2024-11-30T15:14:41.028-05:00"
       }
     ]
   },
@@ -1337,7 +1028,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2024-11-20T15:12:52.768-05:00"
+        "@value": "2024-11-30T15:16:10.328-05:00"
       }
     ]
   },
@@ -1379,28 +1070,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2024-11-20T15:12:45.889-05:00"
-      }
-    ]
-  },
-  {
-    "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-02-05-1900-Circumpolar-Soundscape-by-New-North-Collective#WebPage",
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@value": "en"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-02-05-1900-Circumpolar-Soundscape-by-New-North-Collective"
-      }
-    ],
-    "http://schema.org/lastReviewed": [
-      {
-        "@value": "2024-11-20T15:13:02.668-05:00"
+        "@value": "2024-11-30T15:16:05.824-05:00"
       }
     ]
   },
@@ -1426,18 +1096,39 @@
     ]
   },
   {
+    "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-02-05-1900-Circumpolar-Soundscape-by-New-North-Collective#WebPage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-02-05-1900-Circumpolar-Soundscape-by-New-North-Collective"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@value": "2024-11-30T15:16:19.140-05:00"
+      }
+    ]
+  },
+  {
     "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-02-06-2000-Girls-Nite-Out#Offer",
     "@type": [
       "http://schema.org/Offer"
     ],
-    "http://schema.org/availability": [
-      {
-        "@value": "InStock"
-      }
-    ],
     "http://schema.org/price": [
       {
         "@value": "38.00"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "InStock"
       }
     ],
     "http://schema.org/url": [
@@ -1463,7 +1154,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2024-11-20T15:12:33.734-05:00"
+        "@value": "2024-11-30T15:15:57.358-05:00"
       }
     ]
   },
@@ -1505,7 +1196,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2024-11-20T15:11:38.141-05:00"
+        "@value": "2024-11-30T15:15:04.178-05:00"
       }
     ]
   },
@@ -1547,7 +1238,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2024-11-20T15:11:01.059-05:00"
+        "@value": "2024-11-30T15:14:43.861-05:00"
       }
     ]
   },
@@ -1568,7 +1259,24 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2024-11-20T15:12:50.588-05:00"
+        "@value": "2024-11-30T15:16:08.729-05:00"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.artsdata.ca/resource/K16-9",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Brantford School of Instrumental Music"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://bsim.ca/"
       }
     ]
   },
@@ -1589,7 +1297,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2024-11-20T15:12:24.136-05:00"
+        "@value": "2024-11-30T15:15:44.368-05:00"
       }
     ]
   },
@@ -1632,6 +1340,27 @@
     ]
   },
   {
+    "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-02-21-1930-Young-Artists-Recital#WebPage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-02-21-1930-Young-Artists-Recital"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@value": "2024-11-30T15:14:59.515-05:00"
+      }
+    ]
+  },
+  {
     "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-02-21-1930-Young-Artists-Recital#Offer",
     "@type": [
       "http://schema.org/Offer"
@@ -1653,27 +1382,6 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-02-21-1930-Young-Artists-Recital#WebPage",
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@value": "en"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-02-21-1930-Young-Artists-Recital"
-      }
-    ],
-    "http://schema.org/lastReviewed": [
-      {
-        "@value": "2024-11-20T15:11:33.647-05:00"
-      }
-    ]
-  },
-  {
     "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-02-25-2000-Finger-Eleven#WebPage",
     "@type": [
       "http://schema.org/WebPage"
@@ -1690,7 +1398,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2024-11-20T15:12:42.038-05:00"
+        "@value": "2024-11-30T15:16:02.588-05:00"
       }
     ]
   },
@@ -1753,7 +1461,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2024-11-20T15:11:28.061-05:00"
+        "@value": "2024-11-30T15:14:56.598-05:00"
       }
     ]
   },
@@ -1795,7 +1503,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2024-11-20T15:12:31.668-05:00"
+        "@value": "2024-11-30T15:15:55.696-05:00"
       }
     ]
   },
@@ -1875,7 +1583,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2024-11-20T15:12:27.918-05:00"
+        "@value": "2024-11-30T15:15:52.578-05:00"
       }
     ]
   },
@@ -1917,7 +1625,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2024-11-20T15:10:58.505-05:00"
+        "@value": "2024-11-30T15:14:42.443-05:00"
       }
     ]
   },
@@ -1977,7 +1685,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2024-11-20T15:11:35.829-05:00"
+        "@value": "2024-11-30T15:15:02.644-05:00"
       }
     ]
   },
@@ -2019,7 +1727,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2024-11-20T15:12:29.828-05:00"
+        "@value": "2024-11-30T15:15:54.103-05:00"
       }
     ]
   },
@@ -2061,7 +1769,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2024-11-20T15:12:01.033-05:00"
+        "@value": "2024-11-30T15:15:21.089-05:00"
       }
     ]
   },
@@ -2082,7 +1790,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2024-11-20T15:12:09.424-05:00"
+        "@value": "2024-11-30T15:14:37.810-05:00"
       }
     ]
   },
@@ -2145,7 +1853,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2024-11-20T15:12:22.372-05:00"
+        "@value": "2024-11-30T15:15:32.670-05:00"
       }
     ]
   },
@@ -2187,7 +1895,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2024-11-20T15:12:37.824-05:00"
+        "@value": "2024-11-30T15:16:00.612-05:00"
       }
     ]
   },
@@ -2208,6 +1916,35 @@
     ]
   },
   {
+    "@id": "http://kg.artsdata.ca/resource/K10-552",
+    "@type": [
+      "http://schema.org/Organization",
+      "http://schema.org/MusicGroup"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@value": "https://www.facebook.com/Brantford.Symphony/"
+      }
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@language": "en",
+        "@value": "BSO"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Brantford Symphony Orchestra"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://brantfordsymphony.ca"
+      }
+    ]
+  },
+  {
     "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-03-21-1930-THE-REFUGE-PROJECT#WebPage",
     "@type": [
       "http://schema.org/WebPage"
@@ -2224,7 +1961,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2024-11-20T15:11:24.599-05:00"
+        "@value": "2024-11-30T15:14:55.330-05:00"
       }
     ]
   },
@@ -2266,7 +2003,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2024-11-20T15:11:05.819-05:00"
+        "@value": "2024-11-30T15:14:45.409-05:00"
       }
     ]
   },
@@ -2308,7 +2045,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2024-11-20T15:13:07.667-05:00"
+        "@value": "2024-11-30T15:16:22.454-05:00"
       }
     ]
   },
@@ -2350,7 +2087,87 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2024-11-20T15:11:59.233-05:00"
+        "@value": "2024-11-30T15:15:18.988-05:00"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.artsdata.ca/resource/K10-396",
+    "@type": [
+      "http://schema.org/Organization",
+      "http://schema.org/PerformingGroup"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@value": "https://www.facebook.com/ComicStripping"
+      },
+      {
+        "@value": "https://twitter.com/ComicStrippers"
+      },
+      {
+        "@value": "https://www.youtube.com/user/TheComicStrippers"
+      },
+      {
+        "@value": "https://www.instagram.com/the_comic_strippers/"
+      }
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@language": "en",
+        "@value": "Comic Strippers"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Comic Strippers"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://thecomicstrippers.com/"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-04-09-1930-The-Comic-Strippers#Offer",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "68.00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://tickets.sandersoncentre.ca/TheatreManager/1/online?performance=1818"
+      }
+    ]
+  },
+  {
+    "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-04-09-1930-The-Comic-Strippers#WebPage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-04-09-1930-The-Comic-Strippers"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@value": "2024-11-30T15:16:37.405-05:00"
       }
     ]
   },
@@ -2392,7 +2209,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2024-11-20T15:11:57.103-05:00"
+        "@value": "2024-11-30T15:15:17.212-05:00"
       }
     ]
   },
@@ -2434,7 +2251,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2024-11-20T15:12:05.345-05:00"
+        "@value": "2024-11-30T15:15:42.601-05:00"
       }
     ]
   },
@@ -2476,7 +2293,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2024-11-20T15:12:15.570-05:00"
+        "@value": "2024-11-30T15:15:25.770-05:00"
       }
     ]
   },
@@ -2518,7 +2335,49 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2024-11-20T15:11:46.019-05:00"
+        "@value": "2024-11-30T15:15:10.095-05:00"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-05-05-1830-Dragons-amp-Mythical-Beasts#Offer",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "20"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://tickets.sandersoncentre.ca/TheatreManager/1/online?performance=1826"
+      }
+    ]
+  },
+  {
+    "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-05-05-1830-Dragons-amp-Mythical-Beasts#WebPage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-05-05-1830-Dragons-amp-Mythical-Beasts"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@value": "2024-11-30T15:14:39.245-05:00"
       }
     ]
   },
@@ -2560,7 +2419,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2024-11-20T15:11:29.666-05:00"
+        "@value": "2024-11-30T15:15:00.949-05:00"
       }
     ]
   },
@@ -2581,7 +2440,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2024-11-20T15:11:12.593-05:00"
+        "@value": "2024-11-30T15:15:39.195-05:00"
       }
     ]
   },
@@ -2602,7 +2461,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2024-11-20T15:11:40.424-05:00"
+        "@value": "2024-11-30T15:15:05.748-05:00"
       }
     ]
   },
@@ -2624,6 +2483,85 @@
     "http://schema.org/url": [
       {
         "@value": "https://tickets.sandersoncentre.ca/TheatreManager/1/online?performance=1772"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-07-09-2000-TINA-The-Ultimate-Tribute-to-the-Queen-of-Rock-n-R#Offer",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "72.25"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://tickets.sandersoncentre.ca/TheatreManager/1/online?performance=1832"
+      }
+    ]
+  },
+  {
+    "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-07-09-2000-TINA-The-Ultimate-Tribute-to-the-Queen-of-Rock-n-R#WebPage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-07-09-2000-TINA-The-Ultimate-Tribute-to-the-Queen-of-Rock-n-R"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@value": "2024-11-30T15:14:36.398-05:00"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-07-24-2000-An-Evening-with-Permanent-Waves-A-Show-of-Rush-and#Offer",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "49.00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://tickets.sandersoncentre.ca/TheatreManager/1/online?performance=1828"
+      }
+    ]
+  },
+  {
+    "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-07-24-2000-An-Evening-with-Permanent-Waves-A-Show-of-Rush-and#WebPage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-07-24-2000-An-Evening-with-Permanent-Waves-A-Show-of-Rush-and"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@value": "2024-11-30T15:15:49.212-05:00"
       }
     ]
   },
@@ -2665,7 +2603,49 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2024-11-20T15:11:22.586-05:00"
+        "@value": "2024-11-30T15:15:41.029-05:00"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-10-25-2000-ABBA-Revisited-The-Concert#Offer",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "59.00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://tickets.sandersoncentre.ca/TheatreManager/1/online?performance=1827"
+      }
+    ]
+  },
+  {
+    "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-10-25-2000-ABBA-Revisited-The-Concert#WebPage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-10-25-2000-ABBA-Revisited-The-Concert"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@value": "2024-11-30T15:15:46.042-05:00"
       }
     ]
   },
@@ -2731,523 +2711,12 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2024-11-20T15:11:50.073-05:00"
+        "@value": "2024-11-30T15:15:11.689-05:00"
       }
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/184de70d-354d-449a-a69b-37722fd2243f",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/duration": [
-      {
-        "@value": "PT7200S"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K11-192"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2024-12-07-2000-Soul-of-Motown-Christmas-Special#Offer"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-07-2000-Soul-of-Motown-Christmas-Special#WebPage"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-07-2000-Soul-of-Motown-Christmas-Special/6bae058b-baab-41cf-a7b8-b15c0112c3d0"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Soul of Motown Christmas Special"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "This holiday season, the Beaches International Jazz Festival presents a gift like no other – the Soul of Motown Christmas Special. Get ready to be transported to an era of soulful melodies, iconic voices, and timeless classics that continue to move hearts and feet. Join us for an unforgettable evening filled with the captivating sounds of Motown legends. From the sensational Supremes to the smooth moves of The Temptations, our talented cast will take you on a musical journey through the greatest hits that shaped a generation."
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-07-2000-Soul-of-Motown-Christmas-Special"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@value": "2024-12-07T20:00:00-05:00"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-07-2000-Soul-of-Motown-Christmas-Special"
-      }
-    ]
-  },
-  {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/b71f071e-bb56-4011-821f-4a175125ea77",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/image": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-08-1300-Footloose-1984/3514db26-c9ca-4414-9b42-b192014aa9d7"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2024-12-08-1300-Footloose-1984#Offer"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-08-1300-Footloose-1984#WebPage"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K10-499"
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@value": "PT7200S"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K11-192"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Footloose (1984)"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "A city teenager moves to a small town where rock music and dancing have been banned, and his rebellious spirit shakes up the populace."
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-08-1300-Footloose-1984"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@value": "2024-12-08T13:00:00-05:00"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-08-1300-Footloose-1984"
-      }
-    ]
-  },
-  {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/a9e8cb42-36a3-41c4-981c-18e6f6d25558",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2024-12-11-1730-NLC-Dance-Company-Presents-Rockin-Around-the-Chris#Offer"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-11-1730-NLC-Dance-Company-Presents-Rockin-Around-the-Chris/7051f7b3-bb69-447a-aa09-b1ea014ce5dc"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K10-499"
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@value": "PT7200S"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K11-192"
-      }
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-11-1730-NLC-Dance-Company-Presents-Rockin-Around-the-Chris#WebPage"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "NLC Dance Company Presents - 'Rockin' Around the Christmas Tree'"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Join NLC Dance Company in our Season 3 Christmas Recital where our Recreational & Competitive Dancers will take the stage to display their hard work. We can't to share in a beautiful celebration of Christmas & dance with you and your beautiful families!"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-11-1730-NLC-Dance-Company-Presents-Rockin-Around-the-Chris"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@value": "2024-12-11T17:30:00-05:00"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-11-1730-NLC-Dance-Company-Presents-Rockin-Around-the-Chris"
-      }
-    ]
-  },
-  {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/f74f7c0d-4098-47ec-9f54-1abd928d0643",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-14-1930-CHRISTMASTIME-IN-THE-CITY/4294c92a-0946-474a-bc4b-b18b0138807c"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K10-552"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K10-552"
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@value": "PT7200S"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K11-192"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2024-12-14-1930-CHRISTMASTIME-IN-THE-CITY#Offer"
-      }
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-14-1930-CHRISTMASTIME-IN-THE-CITY#WebPage"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "CHRISTMASTIME IN THE CITY "
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Featuring Strata Vocal Ensemble"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-14-1930-CHRISTMASTIME-IN-THE-CITY"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@value": "2024-12-14T19:30:00-05:00"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-14-1930-CHRISTMASTIME-IN-THE-CITY"
-      }
-    ]
-  },
-  {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/849256d7-0141-473a-a2db-42a75f3dd7f4",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/image": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-15-1500-The-Brantford-School-of-Instrumental-Music-Present/ca690271-f965-4884-8a0b-b18e0138efe7"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2024-12-15-1500-The-Brantford-School-of-Instrumental-Music-Present#Offer"
-      }
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-15-1500-The-Brantford-School-of-Instrumental-Music-Present#WebPage"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K11-192"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K16-9"
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@value": "PT7200S"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "The Brantford School of Instrumental Music Presents in concert the Brantford Memorial Concert Band"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "The Brantford Memorial Concert Band has been entertaining audiences since its formation in 1947. Under the direction of Paul Nicholson, the band has 70 musicians of a variety of backgrounds and ages. Their musical performances appeal to all age groups, playing a variety of music from marching band to contemporary, and will have your toe tapping along to the music in no time. The Brantford Memorial Concert Band is able to provide free concerts to the community through generous donations to the Brantford School of Instrumental Music and the Brantford School of Instrumental Music Charitable Cooperation."
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-15-1500-The-Brantford-School-of-Instrumental-Music-Present"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@value": "2024-12-15T15:00:00-05:00"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-15-1500-The-Brantford-School-of-Instrumental-Music-Present"
-      }
-    ]
-  },
-  {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/1f04ec44-7155-4e80-96cc-8dd1a87e7d94",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K10-499"
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@value": "PT7200S"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2024-12-20-1900-A-Playful-Fox-Production-Charlie-and-the-Chocolate#Offer"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K11-192"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-20-1900-A-Playful-Fox-Production-Charlie-and-the-Chocolate/8654ba96-0c33-49a2-bb18-b1a900f33b57"
-      }
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-20-1900-A-Playful-Fox-Production-Charlie-and-the-Chocolate#WebPage"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "A Playful Fox Production: Charlie and the Chocolate Factory The Broadway Musical"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Following their near sold-out run of Disney’s Beauty and the Beast, Playful Fox Productions returns with ‘Charlie and the Chocolate Factory’! World Famous Candy-Man Willy Wonka comes to the Sanderson in this tasty Broadway/West End musical based on the famous novel and hit movie. Join Wonka, young Charlie Bucket, and four other golden ticket winners as they embark on a life-changing journey through Wonka’s world of pure imagination including Oompa Loompas, chocolate waterfalls, nutty squirrels and the great glass elevator. Licensed with permission by MTI."
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-20-1900-A-Playful-Fox-Production-Charlie-and-the-Chocolate"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@value": "2024-12-20T19:00:00-05:00"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-20-1900-A-Playful-Fox-Production-Charlie-and-the-Chocolate"
-      }
-    ]
-  },
-  {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/85395657-4f26-479e-ae85-f5380a8053c9",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K10-499"
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@value": "PT7200S"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2024-12-21-1400-A-Playful-Fox-Production-Charlie-and-the-Chocolate#Offer"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K11-192"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-21-1400-A-Playful-Fox-Production-Charlie-and-the-Chocolate#WebPage"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-21-1400-A-Playful-Fox-Production-Charlie-and-the-Chocolate/59eb0374-72cd-4840-b2a0-b1a900f36c00"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "A Playful Fox Production: Charlie and the Chocolate Factory The Broadway Musical"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Following their near sold-out run of Disney’s Beauty and the Beast, Playful Fox Productions returns with ‘Charlie and the Chocolate Factory’! World Famous Candy-Man Willy Wonka comes to the Sanderson in this tasty Broadway/West End musical based on the famous novel and hit movie. Join Wonka, young Charlie Bucket, and four other golden ticket winners as they embark on a life-changing journey through Wonka’s world of pure imagination including Oompa Loompas, chocolate waterfalls, nutty squirrels and the great glass elevator. Licensed with permission by MTI."
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-21-1400-A-Playful-Fox-Production-Charlie-and-the-Chocolate"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@value": "2024-12-21T14:00:00-05:00"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-21-1400-A-Playful-Fox-Production-Charlie-and-the-Chocolate"
-      }
-    ]
-  },
-  {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/835a311e-1da6-4a56-91df-ec44a4d9afdd",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/75c9d8ff-2aff-4c8e-af30-cc2f0add87ff",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3320,9 +2789,14 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/f388f3f4-7975-47db-9a29-c1443344b1c6",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/26139c28-55d5-41a2-bd5e-b25aa9b61eb8",
     "@type": [
       "http://schema.org/Event"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-28-1300-Mavis-Productions-Disneys-The-Little-Mermaid-the-B#WebPage"
+      }
     ],
     "http://schema.org/duration": [
       {
@@ -3354,11 +2828,6 @@
         "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-28-1300-Mavis-Productions-Disneys-The-Little-Mermaid-the-B/5750ff54-309d-4b1e-949d-b13001223953"
       }
     ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-28-1300-Mavis-Productions-Disneys-The-Little-Mermaid-the-B#WebPage"
-      }
-    ],
     "http://schema.org/name": [
       {
         "@language": "en",
@@ -3388,9 +2857,14 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/291154c9-c821-4904-bd42-2afbc6a4fa1c",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/880589c1-06e4-4e18-8a58-50aadebabd02",
     "@type": [
       "http://schema.org/Event"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-28-1800-Mavis-Productions-Disneys-The-Little-Mermaid-the-B#WebPage"
+      }
     ],
     "http://schema.org/duration": [
       {
@@ -3405,11 +2879,6 @@
     "http://schema.org/offers": [
       {
         "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2024-12-28-1800-Mavis-Productions-Disneys-The-Little-Mermaid-the-B#Offer"
-      }
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-28-1800-Mavis-Productions-Disneys-The-Little-Mermaid-the-B#WebPage"
       }
     ],
     "http://schema.org/image": [
@@ -3456,7 +2925,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/8ac9c0b5-d99b-4cd8-877f-e40934518b0d",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/8ddaded4-9acc-488f-a4d1-d8e0ec579b42",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3524,7 +2993,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/303128be-9428-485f-9219-919b5fd083cd",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/7a7315a5-243e-4ebe-b4b3-60475fe8c685",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3597,7 +3066,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/94fdcdde-1e66-439c-bb4e-4f7bfd0ba16b",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/79191e29-9bdb-4581-a9e8-b8429b49ff99",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3665,9 +3134,82 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/2eadca57-6a41-411b-a6bd-b8b8489155be",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/e3ba654a-cb2f-4819-a03b-8d3205d8bc9c",
     "@type": [
       "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-31-2100-New-Years-Eve-Celebration/8b4b16ec-97c7-4675-b6de-b23300fa8fd3"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K10-499"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@value": "PT7200S"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-31-2100-New-Years-Eve-Celebration#WebPage"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-192"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "New Year's Eve Celebration "
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "The City of Brantford invites residents to welcome 2025 with family and friends at Brantford’s New Year’s Eve Celebration on Tuesday, December 31, 2024. Enjoy free live music, photo booth and party favours at the Sanderson Centre for the Performing Arts (88 Dalhousie Street) followed by a spectacular firework display and ball drop at midnight in Harmony Square(89 Dalhousie Street). New this year, everyone is welcome to enjoy ice-skating at the DJ Skate Party in Harmony Square, weather permitting. Freeloader flawlessly performs the music of Red Hot Chili Peppers, Rage Against The Machine, Tool, Black Sabbath, Incubus, Rush, Peter Gabriel, Soundgarden, Zeppelin and many more. Their uncanny ability to capture the sound and feel of some of Rock music’s most iconic singers, combined with their high-octane stage presence makes Freeloader a band everyone will want to tap their toes to. Hell N Back is the Canadian 5-piece tribute band performing everyone’s favourite AC/DC classic hits. You won’t want to miss this authentic AC/DC experience with a casual and fun atmosphere. Click Here to learn more."
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-31-2100-New-Years-Eve-Celebration"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@value": "2024-12-31T21:00:00-05:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2024-12-31-2100-New-Years-Eve-Celebration"
+      }
+    ]
+  },
+  {
+    "@id": "https://calendar.sandersoncentre.ca/temporary/52c904c6-4a3f-413b-8967-4e52be36d483",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
     ],
     "http://schema.org/organizer": [
       {
@@ -3687,11 +3229,6 @@
     "http://schema.org/location": [
       {
         "@id": "http://kg.artsdata.ca/resource/K11-192"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -3738,7 +3275,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/d24cffea-766d-4966-bcce-2a5762c6179b",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/4c0252fd-e6e8-4e33-bb8b-f4c09ce7f898",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3811,7 +3348,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/9861b3d9-8548-47c2-95fa-0133663ed5f6",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/1fb4d7c2-d5ae-4d2c-a68e-0aac932c27e4",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3823,6 +3360,11 @@
     "http://schema.org/mainEntityOfPage": [
       {
         "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-01-11-1930-ABBAMANIA#WebPage"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
       }
     ],
     "http://schema.org/performer": [
@@ -3848,11 +3390,6 @@
     "http://schema.org/offers": [
       {
         "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-01-11-1930-ABBAMANIA#Offer"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
       }
     ],
     "http://schema.org/name": [
@@ -3884,80 +3421,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/f0b699c5-b221-416d-8f4a-e7f39fb33a80",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-01-12-1100-Frozen-in-Time/bbfe793a-b284-42a4-8d7d-b2140112b78b"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K10-499"
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@value": "PT7200S"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-01-12-1100-Frozen-in-Time#Offer"
-      }
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-01-12-1100-Frozen-in-Time#WebPage"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K11-192"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Frozen in Time"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Join your two favourite princesses for an afternoon of storytelling and sing along! A perfect family outing that kids of all ages will enjoy. Little ones are encouraged to dress as the favourit character."
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-01-12-1100-Frozen-in-Time"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@value": "2025-01-12T11:00:00-05:00"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-01-12-1100-Frozen-in-Time"
-      }
-    ]
-  },
-  {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/c0cfdb30-ffca-47e1-aadf-3e05edd4c179",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/b237cf2d-6baf-40b4-a4bb-6f51f74adae1",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4030,7 +3494,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/d616d461-956d-48d7-818e-87afc16e240a",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/279c4dda-2ddb-4522-aad9-cbbbecf941a4",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4108,7 +3572,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/2a4aa612-16cd-476e-a068-4e35a38883ca",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/ad94f6d8-9ed1-45f8-9fd0-2b9194010f46",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4176,18 +3640,18 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/5013342e-9be3-4bec-bea6-a002733baa6f",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/6700bed5-9c17-48c0-a014-29d5daceba97",
     "@type": [
       "http://schema.org/Event"
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
     ],
     "http://schema.org/offers": [
       {
         "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-01-20-1900-Yamato-The-Drummers-of-Japan#Offer"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -4249,7 +3713,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/9b78a23c-9096-4f9d-90cd-43d1d5c7797c",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/2b13172e-3291-4bc7-a916-6b533d776adf",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4322,7 +3786,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/ce4b0cc9-a7bb-4a6a-82d3-35c59f5e87c8",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/6156cc33-a177-4b50-b992-b30c4e7a39ae",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4400,9 +3864,14 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/a8b79cdc-31e2-461f-b232-ee73b9fbe9c3",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/af6dc823-efab-47d2-ac33-4dda1ccfb21b",
     "@type": [
       "http://schema.org/Event"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-01-29-2000-Hyprov#WebPage"
+      }
     ],
     "http://schema.org/offers": [
       {
@@ -4412,11 +3881,6 @@
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-01-29-2000-Hyprov#WebPage"
       }
     ],
     "http://schema.org/image": [
@@ -4473,7 +3937,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/7ff32eeb-7a1e-4e1e-912a-cabdf448bded",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/c334c322-ce04-4cde-9da1-503385c1cd14",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4541,7 +4005,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/befcda23-bcc1-4ec4-a34a-4b551fc195d2",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/eb196bdb-eab4-4d28-af95-cf8bbd8304d7",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4614,7 +4078,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/920be22b-5416-4c79-8cee-516d8141b57d",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/8219c440-dd39-425e-b0f0-7e071fbb5d3d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4687,13 +4151,13 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/883c7dcf-5be8-4200-83a4-5e11048eb813",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/0f194814-975b-4351-9ad6-67edde0cf2de",
     "@type": [
       "http://schema.org/Event"
     ],
-    "http://schema.org/mainEntityOfPage": [
+    "http://schema.org/image": [
       {
-        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-02-05-1900-Circumpolar-Soundscape-by-New-North-Collective#WebPage"
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-02-05-1900-Circumpolar-Soundscape-by-New-North-Collective/bacad44c-346a-4047-bd65-b21e014971f9"
       }
     ],
     "http://schema.org/offers": [
@@ -4701,14 +4165,14 @@
         "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-02-05-1900-Circumpolar-Soundscape-by-New-North-Collective#Offer"
       }
     ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-02-05-1900-Circumpolar-Soundscape-by-New-North-Collective#WebPage"
+      }
+    ],
     "http://schema.org/eventAttendanceMode": [
       {
         "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-02-05-1900-Circumpolar-Soundscape-by-New-North-Collective/bacad44c-346a-4047-bd65-b21e014971f9"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -4760,18 +4224,18 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/97418eda-9777-4191-b56b-131086a9980d",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/cad9d671-7773-44f2-ad12-ebd89a57257b",
     "@type": [
       "http://schema.org/Event"
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-02-06-2000-Girls-Nite-Out#Offer"
-      }
     ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-02-06-2000-Girls-Nite-Out#Offer"
       }
     ],
     "http://schema.org/image": [
@@ -4833,7 +4297,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/e8acb262-7807-4982-b0a5-cc02fb6dc022",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/ba5c5b09-8834-4411-8b13-97bf75d41d00",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4901,7 +4365,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/fd66db59-bae6-43e8-9a02-c531ec5d5e84",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/8196c7c6-193b-4209-90aa-37eb345244ad",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4969,9 +4433,14 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/52e48567-79c3-4f2b-82af-0c4827550a4b",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/56b603a5-f811-4d94-8e94-88bb8a1db46f",
     "@type": [
       "http://schema.org/Event"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-02-16-1500-The-Brantford-School-of-Instrumental-Music-Present#WebPage"
+      }
     ],
     "http://schema.org/eventAttendanceMode": [
       {
@@ -4986,11 +4455,6 @@
     "http://schema.org/image": [
       {
         "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-02-16-1500-The-Brantford-School-of-Instrumental-Music-Present/ca690271-f965-4884-8a0b-b18e0138efe7"
-      }
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-02-16-1500-The-Brantford-School-of-Instrumental-Music-Present#WebPage"
       }
     ],
     "http://schema.org/performer": [
@@ -5037,7 +4501,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/033615f3-c359-4e80-b6c9-5438ee3a0498",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/a1ac03e9-edae-44a8-accb-87b734611536",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5110,13 +4574,23 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/8cabe4ae-d781-4e03-b78b-42296cf9d63c",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/f938721e-b714-4d3e-952c-1e69293a7180",
     "@type": [
       "http://schema.org/Event"
     ],
     "http://schema.org/organizer": [
       {
         "@id": "http://kg.artsdata.ca/resource/K10-444"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-02-21-1930-Young-Artists-Recital#WebPage"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
       }
     ],
     "http://schema.org/duration": [
@@ -5142,16 +4616,6 @@
     "http://schema.org/image": [
       {
         "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-02-21-1930-Young-Artists-Recital/05caae6b-0ede-4515-86b9-b1a100fec41a"
-      }
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-02-21-1930-Young-Artists-Recital#WebPage"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
       }
     ],
     "http://schema.org/name": [
@@ -5183,7 +4647,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/5943dabf-4dd1-48c0-8a1c-c073156b4fc4",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/08e421ff-64f6-40cb-86a1-3375e2b22edc",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5256,7 +4720,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/b1398174-89df-4d52-a7e8-047db7d18981",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/6ff15e5a-5ab4-45e1-b6e1-a3a59da7186b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5329,7 +4793,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/fef5f826-6863-4d1b-b9ca-4d3c5c78b419",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/5f7b0243-207a-4438-aeb4-83c1a5bef71e",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5407,7 +4871,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/48d3cf37-d9b2-413c-a7ea-487a857ed62e",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/fc630efc-c761-4766-8d9a-eeec9815d8d6",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5480,7 +4944,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/2be098e0-c347-4f9a-a0e8-78976300e1bc",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/6792d906-1419-4d5b-9e1a-da252767b388",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5528,7 +4992,7 @@
     "http://schema.org/description": [
       {
         "@language": "en",
-        "@value": "Classic Troubadours Live present the greatest songs by James Taylor, Joni Mitchell, Jackson Browne & Carole King...all in one unforgettable night! Songs like \"Fire and Rain,\" \"Both Sides Now,\" \"Natural Woman,\" \"Running on Empty,\" and much more! Jacob Moon has assembled a dynamic ensemble of incredible singers and musicians, all who grew up on these songs from these iconic legends of songwriting. Join us as we take you into the songs and stories of some of the most influential artists of our lifetime. Joining Jacob will be powerhouse singer Selena Evangeline, singer/songwriter/pianist Alex Whorms, bassist Mark McIntyre and online sensation and drummer Rob 'Beatdown' Brown."
+        "@value": "This performance has been cancelled. Please contact the box office for a full refund."
       }
     ],
     "http://schema.org/url": [
@@ -5548,9 +5012,14 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/52fd66fe-7246-4eaf-a194-9a7e7c8ed44a",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/8e709800-1e3c-4696-b3af-d31e8fb38e6f",
     "@type": [
       "http://schema.org/Event"
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
     ],
     "http://schema.org/performer": [
       {
@@ -5580,11 +5049,6 @@
     "http://schema.org/mainEntityOfPage": [
       {
         "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-03-08-1930-Classic-Seger-Bob-Segers-Greatest-Hits-Live#WebPage"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
       }
     ],
     "http://schema.org/location": [
@@ -5626,7 +5090,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/81bbe7f6-0223-485e-a5ae-30099bdbda6c",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/42aeee15-8512-4db8-9953-12dbe7c759d1",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5699,7 +5163,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/632db0cc-425c-49ff-9f85-504a56337769",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/5fb817c1-baf6-4b31-b5a1-2e170e1ae5d8",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5772,7 +5236,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/498d5836-bbf3-442a-bea2-b75aa513a615",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/a8fc7d7d-b22c-424d-8042-4481d524261e",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5845,7 +5309,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/3cf8291e-dfa0-402b-901b-0e23ce51ac0e",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/b7daa912-9e36-4ea6-b572-83e76cf9dc11",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5869,6 +5333,11 @@
         "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-03-18-1800-Fraggle-Rock-Live#Offer"
       }
     ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-03-18-1800-Fraggle-Rock-Live#WebPage"
+      }
+    ],
     "http://schema.org/eventAttendanceMode": [
       {
         "@id": "http://schema.org/OfflineEventAttendanceMode"
@@ -5877,11 +5346,6 @@
     "http://schema.org/image": [
       {
         "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-03-18-1800-Fraggle-Rock-Live/728bf951-1d60-4028-955c-b19200ce578f"
-      }
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-03-18-1800-Fraggle-Rock-Live#WebPage"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -5918,14 +5382,9 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/56a653e5-0e41-4c20-a4bb-0f51e715b55e",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/bc9b3ee7-653c-413e-acc1-155ac22ab9ea",
     "@type": [
       "http://schema.org/Event"
-    ],
-    "http://schema.org/image": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-03-19-2000-Classic-Albums-Live-David-Bowie-Changes-1/93d0837d-5f07-4b1c-ac17-b19200cf0699"
-      }
     ],
     "http://schema.org/offers": [
       {
@@ -5935,6 +5394,11 @@
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-03-19-2000-Classic-Albums-Live-David-Bowie-Changes-1/93d0837d-5f07-4b1c-ac17-b19200cf0699"
       }
     ],
     "http://schema.org/performer": [
@@ -5996,7 +5460,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/eeda2401-383c-4ff1-94bd-a4737b160ef4",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/fa162ad4-3ff2-4d24-b422-298d4000217e",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6074,7 +5538,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/bbb61f02-ed8f-46d7-8e69-111aa03c9bd6",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/7b614287-68ad-4d9f-bd4d-5064e1565b19",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6147,14 +5611,9 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/d96ca7c3-e7a8-470a-b0a8-e1adcaaa3d15",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/5afac295-9375-434b-a877-b2f68dac4ec1",
     "@type": [
       "http://schema.org/Event"
-    ],
-    "http://schema.org/image": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-03-23-2000-Brett-Kissel-The-Side-Youve-Never-Seen-Tour/84f560b6-2aa9-4804-8f4d-b19200d00696"
-      }
     ],
     "http://schema.org/organizer": [
       {
@@ -6179,6 +5638,11 @@
     "http://schema.org/mainEntityOfPage": [
       {
         "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-03-23-2000-Brett-Kissel-The-Side-Youve-Never-Seen-Tour#WebPage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-03-23-2000-Brett-Kissel-The-Side-Youve-Never-Seen-Tour/84f560b6-2aa9-4804-8f4d-b19200d00696"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -6220,18 +5684,18 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/04edf819-87d4-48cf-b19e-146507ed7867",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/b7bf80b4-480c-423b-b62c-34c092770c78",
     "@type": [
       "http://schema.org/Event"
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-03-26-1000-Alphabet-of-Awesome-Science-School-Show#Offer"
-      }
     ],
     "http://schema.org/eventAttendanceMode": [
       {
         "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-03-26-1000-Alphabet-of-Awesome-Science-School-Show#Offer"
       }
     ],
     "http://schema.org/organizer": [
@@ -6293,7 +5757,85 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/3289c9c5-6b5a-410e-8d13-41858cc29ca0",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/ebd81e23-a0a6-4036-ae7e-b343626d5b8c",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K10-396"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-04-09-1930-The-Comic-Strippers/68adfad9-8a0c-4532-895b-b23700f6c06a"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K10-499"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@value": "PT7200S"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-04-09-1930-The-Comic-Strippers#Offer"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-04-09-1930-The-Comic-Strippers#WebPage"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-192"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "The Comic Strippers"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "A show for all genders ….19+ onlyNo extreme, nudity, Just extreme hilarity..Fresh from sold out shows in Vegas, Australia and across Canada and Canadian Comedy Award Winners for Best Live Production, The Comic Strippers are: Roman Danylo - For five seasons, Roman starred on CTV’s Comedy Inc. As a stand-up comedian, he has appeared on Just For Laughs and The Debaters. Ken Lawson - Ken starred in the Canadian sitcom Health Nutz and has performed all over North America with The Vancouver Theatre Sports League and The Second City. Michael Teigen - As well as being a professional improviser and theatre actor, Michael has been in over 30 television shows and over 40 feature films.Pearce Visser - Pearce is a 25 year veteran of improv, performing and teaching across Canada and the globe, is in the Cirque du Soleil talent roster, and can be seen occasionally on film and tv. https://www.youtube.com/watch?feature=player_embedded&v=ycpKeXBriN8#t=0 https://www.youtube.com/watch?v=kKAZDu7W5NU"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-04-09-1930-The-Comic-Strippers"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@value": "2025-04-09T19:30:00-04:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-04-09-1930-The-Comic-Strippers"
+      }
+    ]
+  },
+  {
+    "@id": "https://calendar.sandersoncentre.ca/temporary/67b9612a-fb58-4cf8-9655-27b786c2958b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6366,7 +5908,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/363b1f2b-472e-472b-a6fc-6d8749c1f5be",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/88ff3bd3-fb5f-4b8f-b443-2fda693e0fe0",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6439,7 +5981,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/9f64e086-bd08-4107-b7ea-8fda4de02a63",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/af5768fb-0f2b-4dbb-93c8-ae42554c3da3",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6512,9 +6054,14 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/c46aa970-8687-4b8d-a0ae-fe88a7222c47",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/2d866d1d-2cbe-4e6a-b1ce-aae9d2677109",
     "@type": [
       "http://schema.org/Event"
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
     ],
     "http://schema.org/image": [
       {
@@ -6551,11 +6098,6 @@
         "@id": "http://kg.artsdata.ca/resource/K11-192"
       }
     ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
     "http://schema.org/name": [
       {
         "@language": "en",
@@ -6585,7 +6127,80 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/214f808d-b0fa-4098-9b23-4eec8f7a7621",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/aa68aadd-ba62-4785-ba98-29400fe98c84",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-05-05-1830-Dragons-amp-Mythical-Beasts/258c94cf-bb34-4a66-b92b-b22c0163d3c7"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K10-499"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@value": "PT7200S"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-05-05-1830-Dragons-amp-Mythical-Beasts#Offer"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-05-05-1830-Dragons-amp-Mythical-Beasts#WebPage"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-192"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Dragons & Mythical Beasts"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "From the creators of the international smash hit Dinosaur World Live, who bring spectacular puppets to life, this award-winning show comes to Canada for the first time, direct from London’s West End. Don’t miss this spell-binding adventure, live on stage!"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-05-05-1830-Dragons-amp-Mythical-Beasts"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@value": "2025-05-05T18:30:00-04:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-05-05-1830-Dragons-amp-Mythical-Beasts"
+      }
+    ]
+  },
+  {
+    "@id": "https://calendar.sandersoncentre.ca/temporary/e5d4342e-f665-4cf5-a7d1-a49b74fcc586",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6658,7 +6273,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/569737e1-34b9-4246-bb10-fe1afa8a8d6d",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/b8f8c8da-c0d7-4e96-9e21-75c87109726b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6726,7 +6341,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/b39b2c15-096b-4955-aa70-e75b261a8f74",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/0d260260-6ac2-47ab-bdbf-841ab002a222",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6799,7 +6414,153 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/06791407-54bf-463e-8d56-d6f67152f9fe",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/7f3680bc-09e0-4ce7-926b-83769dccd04d",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-07-09-2000-TINA-The-Ultimate-Tribute-to-the-Queen-of-Rock-n-R/293bc033-b365-41cf-b760-b22701564841"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K10-499"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@value": "PT7200S"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-07-09-2000-TINA-The-Ultimate-Tribute-to-the-Queen-of-Rock-n-R#Offer"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-07-09-2000-TINA-The-Ultimate-Tribute-to-the-Queen-of-Rock-n-R#WebPage"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-192"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "TINA The Ultimate Tribute to the Queen of Rock n'' Roll"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Get the electrifying concert experience of Tina Turner, brimming with iconic hits from the 60s, 70s, 80s & 90s. Featuring the powerful, raspy vocals, high-intensity dancing and thrilling stage presence of South African Caroline Borole (as seen on South African Idols) live on stage, complete with her international band, brass section, backing vocalists and dancers to make this SIMPLY THE BEST tribute to the Queen of Rock ‘n’ Roll, Tina Turner. Not to be missed – BOOK NOW!"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-07-09-2000-TINA-The-Ultimate-Tribute-to-the-Queen-of-Rock-n-R"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@value": "2025-07-09T20:00:00-04:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-07-09-2000-TINA-The-Ultimate-Tribute-to-the-Queen-of-Rock-n-R"
+      }
+    ]
+  },
+  {
+    "@id": "https://calendar.sandersoncentre.ca/temporary/02d34a29-1728-451b-b902-5965a3405664",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-07-24-2000-An-Evening-with-Permanent-Waves-A-Show-of-Rush-and/5d72321d-17ae-4023-99c9-b23001773b18"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K10-499"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@value": "PT7200S"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-07-24-2000-An-Evening-with-Permanent-Waves-A-Show-of-Rush-and#Offer"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-07-24-2000-An-Evening-with-Permanent-Waves-A-Show-of-Rush-and#WebPage"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-192"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "An Evening with Permanent Waves - A Show of Rush and Classic Purple - Deep Purple Tribute"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Two of Canada's finest tribute bands together for one night only in the fabulous Sanderson Centre for the Performing Arts. Permanent Waves is a trio performing the music of Rush. The band consists of Andy Narsingh, Eric Robbs and Dave Langguth, three incredible musicians and Rush fans. Classic Purple is a Toronto area quintet that performs flawless renditions of Deep Purple classics such as Hush and Smoke on the Water. www.classicpurple.com www.permanentwavesrushtribute.com"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-07-24-2000-An-Evening-with-Permanent-Waves-A-Show-of-Rush-and"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@value": "2025-07-24T20:00:00-04:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-07-24-2000-An-Evening-with-Permanent-Waves-A-Show-of-Rush-and"
+      }
+    ]
+  },
+  {
+    "@id": "https://calendar.sandersoncentre.ca/temporary/a6652120-64b0-48fe-9a45-922504f6a9e1",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -6872,7 +6633,80 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/6ed89c42-0710-4866-9747-8bc3ecd303d9",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/5a0012bd-d80b-49a6-99bc-365f6463fbfa",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-10-25-2000-ABBA-Revisited-The-Concert/26ba30d9-a294-4cea-b263-b230016f2413"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K10-499"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@value": "PT7200S"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-10-25-2000-ABBA-Revisited-The-Concert#Offer"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-10-25-2000-ABBA-Revisited-The-Concert#WebPage"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-192"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "ABBA Revisited – The Concert"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "TRUE CONCERT EXPERIENCE!! ABBA REVISITED recreates the magic of ABBA with authentic costumes, spectacular harmonies and note-perfect musicianship taking their audience on a musical journey back in time. From Vegas to Bermuda, Mexico to Dubai, and Guatemala, ABBA Revisited recreated the show-stopping look and sound that ABBA fans around the world can’t deny! This show is a MUST SEE!!!"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-10-25-2000-ABBA-Revisited-The-Concert"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@value": "2025-10-25T20:00:00-04:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-10-25-2000-ABBA-Revisited-The-Concert"
+      }
+    ]
+  },
+  {
+    "@id": "https://calendar.sandersoncentre.ca/temporary/8b5c312d-4a5f-486d-a8a5-2e8a3a5d8a55",
     "@type": [
       "http://schema.org/Event"
     ],
