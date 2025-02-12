@@ -3,18 +3,24 @@ Artsdata JSON-LD Event Score
 For the history of this project see discussion thread https://github.com/culturecreates/artsdata-data-model/discussions/120 
 
 ## Scoring individual webpages
-You can score event JSON-LD on individual webpages:
-1. go to [artsdata.ca](http://artsdata.ca)
-2. paste a webpage url into the top right search box and click the search button
-3. In the options for "External resources" click *dereference* to view the webpage's JSON-LD
-4. At the top of the screen click the link *compute score*. 
 
-This will load the external webpage with the score added into the Event data (keep scrolling down and look for a property called  "score").
+You can score event's JSON-LD on individual webpages:
 
-Each event in the JSON-LD will have a total score and the breakdown of the score for each property.
+1. Browse to [kg.artsdata.ca](https://kg.artsdata.ca/);
+2. Click on the menu icon and log in using GitHub (the feature is only accessible to logged in users);
+3. In the top right search box, paste a webpage URL;
+4. In the options for "External resources", click on *<span style="color:blue;">Dereference</span>* to crawl, retrieve and view the available JSON-LD on the webpage;
+5. At the top of the screen, click on the *Plugins* icon and then on *Compute score*;
 
-TODO: 
-- support more schema:Event sub-types. Currently only schema:Event, schema:MusicEvent, schema:TheaterEvent.
+![image](https://github.com/user-attachments/assets/5bb99b82-c28d-4a45-9f6e-827396fc7dd7)
+
+7. Keep scrolling down until you see a property called to "ex:score" – you will see the absolute score followed by a breakdown of the score for each property;
+
+![image](https://github.com/user-attachments/assets/9e44c57c-e29b-4b9c-ad1c-cf91666e9f29)
+
+8. Scroll further down to "ex:scorePercent" – you will see the score expressed as a percentage.
+
+![image](https://github.com/user-attachments/assets/40e486e0-e9f7-45e5-80aa-5a00287495d7)
 
 ## Batch scoring multiple webpages
 You can score a batch of events across a website, provided that you can find a webpage that lists the events to score and a CSS/XPATH class to locate the individual event urls.  The tool supports JSON-LD that is injected by javascript with the option "headless: true"
@@ -27,7 +33,7 @@ Steps:
 - Run the action and enter the parameters.
 - View the CSV table in the reports section
 
-# To contribute
+## To contribute
 
 1. clone the repo
 2. cd into the project
@@ -38,7 +44,8 @@ Steps:
 
 
 ## Revised weighting proposal
-Taking into account all the excellent feedback provided so far, I would like to propose this revised weighting. It introduces a new category worth 4 points for properties that are deemed useful for disambiguation. Required properties are given a weight of 8 points and recommended properties are brought down to a weight of 2 points to address concerns that recommended properties may collectively have a higher cumulative value than required properties. I also propose to integrate @christianroy's proposal to give a null score if an event does not have all three required properties. 
+
+As of January 8, 2025
 
 ### Required + disambiguation property: 8+4= 12 points
 
@@ -67,12 +74,28 @@ Taking into account all the excellent feedback provided so far, I would like to 
 16. offers.type with expected object value for the property (Offer or AggregateOffer)
 17. offers.url
 
-### Other properties: 1 point
+### Optional properties: 1 point
+18. location.address.type
+19. location.url
+20. location.address.streetAddress
+21. location.address.addressLocality
+22. location.address.addressRegion
+23. location.address.addressCountry
+24. doorTime
+29. duration
+25. endDate
+26. [eventStatus](https://schema.org/eventStatus)
+27. [eventAttendanceMode](https://schema.org/eventAttendanceMode)
+28. mainEntityOfPage.url
 
-- Any other property with an expected value (including "location.address.type", which I'm proposing to bump down for simplicity's sake and to balance the total weighting of _space_ attributes compared to _time_ attributes).
+### Minimum and maximum score
+| **Status** | **Absolute score** | **Percentage score** |
+| -------- | ------- | ------- |
+| Event does not have all required properties  | 0 | 0 % |
+| Event has all required properties | 28 | 50 % |
+| Event has required and reconciliation properties | 40 | 63% |
+| Event has required, reconciliation and recommended properties | 62 | 87% |
+| Maximum score | 74 | 100% |
 
-Under this proposal:
-- An event with all three required properties would have a score of 12 + (2 x 8) = 28. 
-    - If any of the three required properties is missing, the score would be 0 (zero), no matter how good the rest of the structured data is.
-- An event with all three disambiguation properties would have 12 additional points, for a sub-total of 40.
-- An event with all 11 recommended properties would have 22 additional points. If other contributors wished to keep the weight of recommended properties to 3, the total would be 33, which is in the same ball park as the value of required properties.
+## TODO  
+- support more schema:Event sub-types. Currently only schema:Event, schema:MusicEvent, schema:TheaterEvent.
