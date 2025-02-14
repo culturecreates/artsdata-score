@@ -33,14 +33,14 @@ Prerequisite:
 Steps:
 1. Log-in to Github
 1. Go to [Actions](https://github.com/culturecreates/artsdata-score/actions)
-1. Click "Run Workflow", enter the parameters and click the green "Run workfow" button.
+1. Click "Run Workflow", enter the parameters and click the green "Run workflow" button. Or you can save the parameters in a workflow file [here](https://github.com/culturecreates/artsdata-score/blob/main/.github/workflows)
 1. After a few minutes the workflow will complete and a report will be generated
-1. View the CSV table in the reports directory.
+1. View the CSV table in the [reports directory](https://github.com/culturecreates/artsdata-score/blob/main/reports/). For example the report from [sandersoncentre-ca](https://github.com/culturecreates/artsdata-score/blob/main/reports/sandersoncentre-ca_report.csv)
 
 ### Parameters
 - URL of the webpage listing all events
 - CSS to identify individual event webpages
-- File name. Enter any file name. Please include the domain of the website.
+- File name. Enter any file name with extension `.csv`. Please include the domain of the website. For example: `sandersoncentre-ca_report.csv`
 - Is the page paginated? Enter true or false.
 - Run in headless mode? Enter true or false.
   
