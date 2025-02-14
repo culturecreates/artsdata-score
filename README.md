@@ -23,15 +23,30 @@ You can score event's JSON-LD on individual webpages:
 ![image](https://github.com/user-attachments/assets/40e486e0-e9f7-45e5-80aa-5a00287495d7)
 
 ## Batch scoring multiple webpages
-You can score a batch of events across a website, provided that you can find a webpage that lists the events to score and a CSS/XPATH class to locate the individual event urls.  The tool supports JSON-LD that is injected by javascript with the option "headless: true"
+You can score a batch of events across a website, provided that you can find a webpage that lists the events to score.  
+
+The tool supports JSON-LD that is injected by javascript with the option "headless: true"
 
 Prerequisite:
 - you need to be a team member of this repo
 
 Steps:
-- Go to Actions
-- Run the action and enter the parameters.
-- View the CSV table in the reports section
+1. Log-in to Github
+1. Go to [Actions](https://github.com/culturecreates/artsdata-score/actions)
+1. Click "Run Workflow", enter the parameters and click the green "Run workfow" button.
+1. After a few minutes the workflow will complete and a report will be generated
+1. View the CSV table in the reports directory.
+
+### Parameters
+- URL of the webpage listing all events
+- CSS to identify individual event webpages
+- File name. Enter any file name. Please include the domain of the website.
+- Is the page paginated? Enter true or false.
+- Run in headless mode? Enter true or false.
+  
+<img width="388" alt="Screenshot 2025-02-14 at 12 46 35 PM" src="https://github.com/user-attachments/assets/64ffed13-d03c-4d51-8d1f-48ee632443e2" />
+
+
 
 ## To contribute
 
