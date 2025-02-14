@@ -7,8 +7,8 @@ jobs:
   call-workflow-to-fetch-data:
     uses: ./.github/workflows/generate-report.yml
     with:
-        page_url: "https://agoradanse.com/evenement/montreal-marrakech/"
-        entity_identifier: "div.x-container.max a"
+        page_url: "https://agoradanse.com/evenement/"
+        entity_identifier: "a.event-active"
         file_name: "agoradanse-com.jsonld"
         is_paginated: "false"
         headless: "false"
