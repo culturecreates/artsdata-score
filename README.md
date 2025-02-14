@@ -33,16 +33,17 @@ Prerequisite:
 Steps:
 1. Log-in to Github
 1. Go to [Actions](https://github.com/culturecreates/artsdata-score/actions)
-1. Click "Run Workflow", enter the parameters and click the green "Run workflow" button. Or you can save the parameters in a workflow file [here](https://github.com/culturecreates/artsdata-score/blob/main/.github/workflows)
+1. Click "Run Workflow", enter the parameters and click the green "Run workflow" button. Or you can save the parameters in a workflow file [here](https://github.com/culturecreates/artsdata-score/blob/main/.github/workflows) if you are planning to run the workflow several times.
 1. After a few minutes the workflow will complete and a report will be generated
 1. View the CSV table in the [reports directory](https://github.com/culturecreates/artsdata-score/blob/main/reports/). For example the report from [sandersoncentre-ca](https://github.com/culturecreates/artsdata-score/blob/main/reports/sandersoncentre-ca_report.csv)
 
 ### Parameters
-- URL of the webpage listing all events
-- CSS to identify individual event webpages
+Note: These parameters are the same as those for all Orion JSON-LD pipelines. You can reuse the same `page-url`, CSS `entity-identifier`, `is-paginated` and `headless` parameters from the [Orion workflows](https://github.com/culturecreates/artsdata-orion/tree/main/.github/workflows).
+- [page-url] URL of the webpage listing all events
+- [entity-identifier ] CSS selector to identify individual event webpage URLS. 
 - File name. Enter any file name with extension `.csv`. Please include the domain of the website. For example: `sandersoncentre-ca_report.csv`
-- Is the page paginated? Enter true or false.
-- Run in headless mode? Enter true or false.
+- [is-paginated] Is the page paginated? Enter true or false.
+- [headless] Run in headless mode to capture JSON-LD injected by javascript.  Enter true or false.
   
 <img width="388" alt="Screenshot 2025-02-14 at 12 46 35 PM" src="https://github.com/user-attachments/assets/64ffed13-d03c-4d51-8d1f-48ee632443e2" />
 
