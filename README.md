@@ -27,7 +27,7 @@ You can score a batch of events across a website, provided that you can find a w
 
 The tool supports JSON-LD that is injected by javascript with the option "headless: true"
 
-Prerequisite:
+Prerequisites:
 - you need to be a team member of this repo
 - you need a basic understanding of CSS selectors
 
