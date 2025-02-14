@@ -29,6 +29,7 @@ The tool supports JSON-LD that is injected by javascript with the option "headle
 
 Prerequisite:
 - you need to be a team member of this repo
+- you need a basic understanding of CSS selectors
 
 Steps:
 1. Log-in to Github
