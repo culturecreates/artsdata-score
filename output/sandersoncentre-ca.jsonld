@@ -1,5 +1,60 @@
 [
   {
+    "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-03-19-2000-Classic-Albums-Live-David-Bowie-Changes-1#Offer",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "44.00"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://tickets.sandersoncentre.ca/TheatreManager/1/online?performance=1765"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.artsdata.ca/resource/K10-156",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.instagram.com/classic_albums_live/"
+      },
+      {
+        "@id": "https://twitter.com/CALrocks"
+      },
+      {
+        "@id": "https://www.facebook.com/ClassicAlbumsLive"
+      },
+      {
+        "@id": "https://soundcloud.com/classic-albums-live"
+      },
+      {
+        "@id": "https://www.youtube.com/user/ClassicAlbumsLive"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "http://classicalbumslive.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Classic Albums Live"
+      }
+    ]
+  },
+  {
     "@id": "http://kg.artsdata.ca/resource/K10-499",
     "@type": [
       "http://schema.org/Organization"
@@ -30,48 +85,6 @@
       {
         "@language": "en",
         "@value": "Sanderson Centre"
-      }
-    ]
-  },
-  {
-    "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-03-14-2000-ZED-Celebrating-the-music-of-Led-Zeppelin#Offer",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/availability": [
-      {
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@value": "56.75"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://tickets.sandersoncentre.ca/TheatreManager/1/online?performance=1799"
-      }
-    ]
-  },
-  {
-    "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-03-14-2000-ZED-Celebrating-the-music-of-Led-Zeppelin#WebPage",
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@value": "en"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-03-14-2000-ZED-Celebrating-the-music-of-Led-Zeppelin"
-      }
-    ],
-    "http://schema.org/lastReviewed": [
-      {
-        "@value": "2025-02-12T15:14:07.031-05:00"
       }
     ]
   },
@@ -138,211 +151,6 @@
     ]
   },
   {
-    "@id": "http://kg.artsdata.ca/resource/K12-49",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.facebook.com/SteveMichaelsOfficialPage/"
-      },
-      {
-        "@id": "https://www.instagram.com/stevemichaelselvis/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Steve Michaels"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://stephenkabakos.com"
-      }
-    ]
-  },
-  {
-    "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-03-15-2000-Elvis-68-Special-Aloha-Ft-Steve-Michaels#Offer",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/availability": [
-      {
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@value": "59.75"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://tickets.sandersoncentre.ca/TheatreManager/1/online?performance=1831"
-      }
-    ]
-  },
-  {
-    "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-03-15-2000-Elvis-68-Special-Aloha-Ft-Steve-Michaels#WebPage",
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@value": "en"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-03-15-2000-Elvis-68-Special-Aloha-Ft-Steve-Michaels"
-      }
-    ],
-    "http://schema.org/lastReviewed": [
-      {
-        "@value": "2025-02-12T15:14:23.939-05:00"
-      }
-    ]
-  },
-  {
-    "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-03-16-1300-American-Graffiti-1970#WebPage",
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@value": "en"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-03-16-1300-American-Graffiti-1970"
-      }
-    ],
-    "http://schema.org/lastReviewed": [
-      {
-        "@value": "2025-02-12T15:13:42.595-05:00"
-      }
-    ]
-  },
-  {
-    "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-03-16-1300-American-Graffiti-1970#Offer",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/availability": [
-      {
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@value": "9.00"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://tickets.sandersoncentre.ca/TheatreManager/1/online?performance=1780"
-      }
-    ]
-  },
-  {
-    "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-03-18-1800-Fraggle-Rock-Live#Offer",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/availability": [
-      {
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@value": "55.00"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://tickets.sandersoncentre.ca/TheatreManager/1/online?performance=1764"
-      }
-    ]
-  },
-  {
-    "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-03-18-1800-Fraggle-Rock-Live#WebPage",
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@value": "en"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-03-18-1800-Fraggle-Rock-Live"
-      }
-    ],
-    "http://schema.org/lastReviewed": [
-      {
-        "@value": "2025-02-12T15:14:27.469-05:00"
-      }
-    ]
-  },
-  {
-    "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-03-19-2000-Classic-Albums-Live-David-Bowie-Changes-1#Offer",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/price": [
-      {
-        "@value": "44.00"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://tickets.sandersoncentre.ca/TheatreManager/1/online?performance=1765"
-      }
-    ]
-  },
-  {
-    "@id": "http://kg.artsdata.ca/resource/K10-156",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.instagram.com/classic_albums_live/"
-      },
-      {
-        "@id": "https://twitter.com/CALrocks"
-      },
-      {
-        "@id": "https://www.facebook.com/ClassicAlbumsLive"
-      },
-      {
-        "@id": "https://soundcloud.com/classic-albums-live"
-      },
-      {
-        "@id": "https://www.youtube.com/user/ClassicAlbumsLive"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "http://classicalbumslive.com"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Classic Albums Live"
-      }
-    ]
-  },
-  {
     "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-03-19-2000-Classic-Albums-Live-David-Bowie-Changes-1#WebPage",
     "@type": [
       "http://schema.org/WebPage"
@@ -359,7 +167,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-02-12T15:15:12.156-05:00"
+        "@value": "2025-02-24T15:15:18.010-05:00"
       }
     ]
   },
@@ -425,7 +233,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-02-12T15:13:52.936-05:00"
+        "@value": "2025-02-24T15:13:57.352-05:00"
       }
     ]
   },
@@ -467,7 +275,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-02-12T15:13:38.064-05:00"
+        "@value": "2025-02-24T15:13:47.331-05:00"
       }
     ]
   },
@@ -509,7 +317,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-02-12T15:15:16.870-05:00"
+        "@value": "2025-02-24T15:15:27.885-05:00"
       }
     ]
   },
@@ -551,7 +359,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-02-12T15:14:05.093-05:00"
+        "@value": "2025-02-24T15:14:05.652-05:00"
       }
     ]
   },
@@ -593,7 +401,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-02-12T15:14:37.588-05:00"
+        "@value": "2025-02-24T15:14:34.103-05:00"
       }
     ]
   },
@@ -630,7 +438,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-02-12T15:14:14.314-05:00"
+        "@value": "2025-02-24T15:15:01.770-05:00"
       }
     ]
   },
@@ -662,7 +470,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-02-12T15:13:35.677-05:00"
+        "@value": "2025-02-24T15:13:45.324-05:00"
       }
     ]
   },
@@ -694,7 +502,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-02-12T15:13:47.330-05:00"
+        "@value": "2025-02-24T15:13:52.853-05:00"
       }
     ]
   },
@@ -774,7 +582,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-02-12T15:13:40.310-05:00"
+        "@value": "2025-02-24T15:13:49.687-05:00"
       }
     ]
   },
@@ -816,7 +624,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-02-12T15:14:16.113-05:00"
+        "@value": "2025-02-24T15:14:13.746-05:00"
       }
     ]
   },
@@ -858,7 +666,154 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-02-12T15:14:19.644-05:00"
+        "@value": "2025-02-24T15:14:17.319-05:00"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-04-19-1000-Level-17-Unlocked-Munchkin-Edition#Offer",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "15.00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://tickets.sandersoncentre.ca/TheatreManager/1/online?performance=1864"
+      }
+    ]
+  },
+  {
+    "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-04-19-1000-Level-17-Unlocked-Munchkin-Edition#WebPage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-04-19-1000-Level-17-Unlocked-Munchkin-Edition"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@value": "2025-02-24T15:15:38.773-05:00"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-04-19-1800-Level-17-Unlocked#Offer",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "25.00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://tickets.sandersoncentre.ca/TheatreManager/1/online?performance=1865"
+      }
+    ]
+  },
+  {
+    "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-04-19-1800-Level-17-Unlocked#WebPage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-04-19-1800-Level-17-Unlocked"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@value": "2025-02-24T15:15:44.009-05:00"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-04-21-1800-Level-17-Unlocked#Offer",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "25.00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://tickets.sandersoncentre.ca/TheatreManager/1/online?performance=1866"
+      }
+    ]
+  },
+  {
+    "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-04-21-1800-Level-17-Unlocked#WebPage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-04-21-1800-Level-17-Unlocked"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@value": "2025-02-24T15:15:49.513-05:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-04-22-1930-Foreign-Journey-The-Best-of-Foreigner-amp-Journey#WebPage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-04-22-1930-Foreign-Journey-The-Best-of-Foreigner-amp-Journey"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@value": "2025-02-24T15:14:27.331-05:00"
       }
     ]
   },
@@ -880,27 +835,6 @@
     "http://schema.org/url": [
       {
         "@value": "https://tickets.sandersoncentre.ca/TheatreManager/1/online?performance=1825"
-      }
-    ]
-  },
-  {
-    "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-04-22-1930-Foreign-Journey-The-Best-of-Foreigner-amp-Journey#WebPage",
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@value": "en"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-04-22-1930-Foreign-Journey-The-Best-of-Foreigner-amp-Journey"
-      }
-    ],
-    "http://schema.org/lastReviewed": [
-      {
-        "@value": "2025-02-12T15:14:29.423-05:00"
       }
     ]
   },
@@ -942,7 +876,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-02-12T15:14:09.118-05:00"
+        "@value": "2025-02-24T15:14:10.173-05:00"
       }
     ]
   },
@@ -984,7 +918,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-02-12T15:14:03.455-05:00"
+        "@value": "2025-02-24T15:14:03.376-05:00"
       }
     ]
   },
@@ -993,14 +927,14 @@
     "@type": [
       "http://schema.org/Offer"
     ],
-    "http://schema.org/availability": [
-      {
-        "@value": "InStock"
-      }
-    ],
     "http://schema.org/price": [
       {
         "@value": "20"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "InStock"
       }
     ],
     "http://schema.org/url": [
@@ -1026,7 +960,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-02-12T15:14:57.753-05:00"
+        "@value": "2025-02-24T15:14:54.379-05:00"
       }
     ]
   },
@@ -1068,7 +1002,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-02-12T15:14:10.677-05:00"
+        "@value": "2025-02-24T15:14:11.930-05:00"
       }
     ]
   },
@@ -1110,7 +1044,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-02-12T15:15:27.180-05:00"
+        "@value": "2025-02-24T15:14:56.001-05:00"
       }
     ]
   },
@@ -1131,7 +1065,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-02-12T15:14:41.163-05:00"
+        "@value": "2025-02-24T15:14:37.708-05:00"
       }
     ]
   },
@@ -1152,7 +1086,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-02-12T15:13:57.065-05:00"
+        "@value": "2025-02-24T15:14:08.333-05:00"
       }
     ]
   },
@@ -1210,7 +1144,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-02-12T15:13:33.658-05:00"
+        "@value": "2025-02-24T15:13:43.967-05:00"
       }
     ]
   },
@@ -1252,7 +1186,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-02-12T15:15:04.625-05:00"
+        "@value": "2025-02-24T15:15:09.613-05:00"
       }
     ]
   },
@@ -1273,7 +1207,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-02-12T15:13:26.154-05:00"
+        "@value": "2025-02-24T15:13:38.373-05:00"
       }
     ]
   },
@@ -1336,7 +1270,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-02-12T15:14:25.473-05:00"
+        "@value": "2025-02-24T15:14:23.262-05:00"
       }
     ]
   },
@@ -1378,7 +1312,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-02-12T15:14:17.919-05:00"
+        "@value": "2025-02-24T15:14:15.343-05:00"
       }
     ]
   },
@@ -1420,7 +1354,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-02-12T15:14:43.018-05:00"
+        "@value": "2025-02-24T15:14:39.614-05:00"
       }
     ]
   },
@@ -1462,7 +1396,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-02-12T15:15:02.872-05:00"
+        "@value": "2025-02-24T15:15:07.890-05:00"
       }
     ]
   },
@@ -1504,7 +1438,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-02-12T15:14:21.554-05:00"
+        "@value": "2025-02-24T15:14:19.134-05:00"
       }
     ]
   },
@@ -1546,7 +1480,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-02-12T15:15:06.211-05:00"
+        "@value": "2025-02-24T15:15:11.328-05:00"
       }
     ]
   },
@@ -1588,7 +1522,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-02-12T15:14:44.621-05:00"
+        "@value": "2025-02-24T15:14:41.543-05:00"
       }
     ]
   },
@@ -1630,7 +1564,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-02-12T15:13:51.312-05:00"
+        "@value": "2025-02-24T15:15:23.343-05:00"
       }
     ]
   },
@@ -1672,7 +1606,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-02-12T15:14:32.632-05:00"
+        "@value": "2025-02-24T15:14:29.026-05:00"
       }
     ]
   },
@@ -1681,14 +1615,14 @@
     "@type": [
       "http://schema.org/Offer"
     ],
-    "http://schema.org/availability": [
-      {
-        "@value": "InStock"
-      }
-    ],
     "http://schema.org/price": [
       {
         "@value": "49.00"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "InStock"
       }
     ],
     "http://schema.org/url": [
@@ -1714,7 +1648,49 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-02-12T15:15:32.202-05:00"
+        "@value": "2025-02-24T15:15:21.668-05:00"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-09-25-1930-Luke-Combs-UK-Tribute-to-Luke-Combs#Offer",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "59.00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://tickets.sandersoncentre.ca/TheatreManager/1/online?performance=1861"
+      }
+    ]
+  },
+  {
+    "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-09-25-1930-Luke-Combs-UK-Tribute-to-Luke-Combs#WebPage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-09-25-1930-Luke-Combs-UK-Tribute-to-Luke-Combs"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@value": "2025-02-24T15:15:19.894-05:00"
       }
     ]
   },
@@ -1756,7 +1732,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-02-12T15:14:51.911-05:00"
+        "@value": "2025-02-24T15:14:49.275-05:00"
       }
     ]
   },
@@ -1798,7 +1774,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-02-12T15:13:59.221-05:00"
+        "@value": "2025-02-24T15:13:59.131-05:00"
       }
     ]
   },
@@ -1840,7 +1816,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-02-12T15:13:31.117-05:00"
+        "@value": "2025-02-24T15:13:42.159-05:00"
       }
     ]
   },
@@ -1882,7 +1858,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-02-12T15:14:54.141-05:00"
+        "@value": "2025-02-24T15:14:51.077-05:00"
       }
     ]
   },
@@ -1903,7 +1879,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-02-12T15:13:28.574-05:00"
+        "@value": "2025-02-24T15:13:40.262-05:00"
       }
     ]
   },
@@ -1966,7 +1942,28 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-02-12T15:15:07.531-05:00"
+        "@value": "2025-02-24T15:15:13.245-05:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-11-12-1400-The-Walters-Family-50th-Anniversary-Country-Christ#WebPage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-11-12-1400-The-Walters-Family-50th-Anniversary-Country-Christ"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@value": "2025-02-24T15:15:14.781-05:00"
       }
     ]
   },
@@ -2016,27 +2013,6 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-11-12-1400-The-Walters-Family-50th-Anniversary-Country-Christ#WebPage",
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@value": "en"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-11-12-1400-The-Walters-Family-50th-Anniversary-Country-Christ"
-      }
-    ],
-    "http://schema.org/lastReviewed": [
-      {
-        "@value": "2025-02-12T15:15:09.177-05:00"
-      }
-    ]
-  },
-  {
     "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-11-15-2000-Jersey-Nights#Offer",
     "@type": [
       "http://schema.org/Offer"
@@ -2074,7 +2050,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-02-12T15:14:46.386-05:00"
+        "@value": "2025-02-24T15:14:43.353-05:00"
       }
     ]
   },
@@ -2116,7 +2092,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-02-12T15:14:36.024-05:00"
+        "@value": "2025-02-24T15:14:32.561-05:00"
       }
     ]
   },
@@ -2158,309 +2134,12 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-02-12T15:14:49.859-05:00"
+        "@value": "2025-02-24T15:14:47.213-05:00"
       }
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/19782b4f-b89e-4d7a-bdd7-227b49c27cfa",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K10-499"
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@value": "PT7200S"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-03-14-2000-ZED-Celebrating-the-music-of-Led-Zeppelin#Offer"
-      }
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-03-14-2000-ZED-Celebrating-the-music-of-Led-Zeppelin#WebPage"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K11-192"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-03-14-2000-ZED-Celebrating-the-music-of-Led-Zeppelin/57a3c59b-403c-4194-b88e-b1ae01403a99"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "ZED - Celebrating the music of Led Zeppelin"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "TIME WARP PROMOTIONS PRESENTS ZED Led Zeppelin redefined rock in the Seventies and for all time. Then and now, Led Zeppelin looms larger than life on the rock landscape as a band for the ages with an almost mystical power to evoke primal passions. Now, imagine being transported back forty years to that golden age. For ZED, it's much more than simply being a tribute. It's faithfully recreating the sound of Led Zeppelin's studio albums to an astonishing level of accuracy while also capturing the magical aura of the Led Zeppelin live experience. ZED are proud recipients of: Jack Richardson Music Award - 2015 - Fan Favourite Tribute London Music Award - 2015 - Tribute Group of the Year Forest City London Music Award - 2019 - Tribute Artist www.zedtribute.ca https://youtu.be/t2bwwG7ewVE?si=xREeI0Fnmc3k8MA-"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-03-14-2000-ZED-Celebrating-the-music-of-Led-Zeppelin"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@value": "2025-03-14T20:00:00-04:00"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-03-14-2000-ZED-Celebrating-the-music-of-Led-Zeppelin"
-      }
-    ]
-  },
-  {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/3e8b30b4-300c-4df8-b359-84c8441a39e5",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K12-49"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K10-499"
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@value": "PT7200S"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-03-15-2000-Elvis-68-Special-Aloha-Ft-Steve-Michaels#Offer"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K11-192"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-03-15-2000-Elvis-68-Special-Aloha-Ft-Steve-Michaels/d8b22cd1-5058-4e50-834d-b242010e6594"
-      }
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-03-15-2000-Elvis-68-Special-Aloha-Ft-Steve-Michaels#WebPage"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Elvis 68 Special / Aloha - Ft Steve Michaels"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "A double bill: The 68 Comeback & ALOHA from Hawaii, featuring internationally acclaimed world champion STEVE MICHAELS as ELVIS PRESLEY. After 7 years out of the spotlight Presley made his triumphant return to the stage after a stint in the Army and flirting with Hollywood and the movies. Elvis put on one of the most memorable shows in our lifetime. Clad in Black Leather, he was BACK, the swagger, the looks and the voice seemed stronger than ever. The 68 Comeback Special slayed the ratings for that TV season with a 42% Nielson rating. ALOHA from Hawaii remains the most watched concert in television history. Elvis Presley took the island by storm in 1973 and put out one of the most incredible performances in his lifetime. It is estimated that ALOHA from HAWAII was disbursed via satellite among 36 countries and was viewed by 1.5 BILLION people. ALL AGES WELCOME"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-03-15-2000-Elvis-68-Special-Aloha-Ft-Steve-Michaels"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@value": "2025-03-15T20:00:00-04:00"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-03-15-2000-Elvis-68-Special-Aloha-Ft-Steve-Michaels"
-      }
-    ]
-  },
-  {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/f2e320ef-87ee-4cfb-be03-e9cd837d1193",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-03-16-1300-American-Graffiti-1970#WebPage"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K10-499"
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@value": "PT7200S"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K11-192"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-03-16-1300-American-Graffiti-1970/54822e93-204f-49c7-98d6-b192014a498e"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-03-16-1300-American-Graffiti-1970#Offer"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "American Graffiti (1970)"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "A group of teenagers in California's central valley spend one final night after their 1962 high school graduation cruising the strip with their buddies before they pursue their varying goals."
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-03-16-1300-American-Graffiti-1970"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@value": "2025-03-16T13:00:00-04:00"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-03-16-1300-American-Graffiti-1970"
-      }
-    ]
-  },
-  {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/a4c3065f-fc08-4dc9-96b1-a9ffc65b9d64",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K10-499"
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@value": "PT7200S"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K11-192"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-03-18-1800-Fraggle-Rock-Live#Offer"
-      }
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-03-18-1800-Fraggle-Rock-Live#WebPage"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-03-18-1800-Fraggle-Rock-Live/728bf951-1d60-4028-955c-b19200ce578f"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Fraggle Rock Live"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Featuring gorgeous new walk-around versions of the Fraggles, puppet-sized and mechanized Doozers, appearances from the giant Gorgs, and exclusive new magical puppet creatures all from the acclaimed Jim Henson’s Creature Shop, this all-new musical stage adventure will welcome audiences into the incredible world of the iconic and beloved Fraggle Rock! Perfect for families with young firsttime theater goers, and for Fraggle Rock fans who are young at heart."
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-03-18-1800-Fraggle-Rock-Live"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@value": "2025-03-18T18:00:00-04:00"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-03-18-1800-Fraggle-Rock-Live"
-      }
-    ]
-  },
-  {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/6d706305-fb76-44ee-be4d-7cd847be6cb6",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/c2eb4ebe-8f80-4552-a268-3b2ee35d7f78",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2538,7 +2217,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/f96ce41e-9e54-4835-a076-3f95da3f9792",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/b01e16b2-d14a-403c-ade8-2c8e4407a14e",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2616,7 +2295,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/da64ea42-5e19-4004-975d-4e7a38bf1a99",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/fcf86f41-a928-4e41-a87c-393b34d7dbf5",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2689,7 +2368,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/30c8608a-9eda-4a23-ac40-5141f9af3ec1",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/39b8c4de-78a5-479b-b824-9c2d8c48ffef",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2762,7 +2441,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/23d52818-9288-4eb7-8d5d-1a5cc820a7b5",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/482ad0d1-f7dd-4267-8901-04bfe048ae91",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2835,7 +2514,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/fbf1b04f-204d-4d2d-9bc3-578691e451af",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/8069d480-0c5d-4501-8338-ff66583d4885",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2908,7 +2587,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/febc4ce6-4326-42d6-98b7-325afa7b78d3",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/951a638e-e077-49b4-8f8d-99522f16265d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2981,7 +2660,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/98738c4d-341e-4d11-94a3-4d2f36e89082",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/d09b56c7-44d8-41cd-9c27-864a41ca30e1",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3054,7 +2733,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/d6bba631-1d76-43eb-87f1-4e7ade6a2c1a",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/d4ee7459-ce1c-4128-ac96-44c703ad4284",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3127,7 +2806,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/55741359-78ac-4fc6-a3ca-80a16140eee3",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/faebd35f-9a01-4e82-93bf-fe2db15427fb",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3161,11 +2840,6 @@
         "@id": "http://schema.org/EventScheduled"
       }
     ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
     "http://schema.org/mainEntityOfPage": [
       {
         "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-04-09-1930-The-Comic-Strippers#WebPage"
@@ -3174,6 +2848,11 @@
     "http://schema.org/image": [
       {
         "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-04-09-1930-The-Comic-Strippers/68adfad9-8a0c-4532-895b-b23700f6c06a"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
       }
     ],
     "http://schema.org/name": [
@@ -3205,7 +2884,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/ad2dba15-83f5-4ebb-8a9f-ca31d8de5bad",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/0756ef0d-a443-434d-9507-36c6c2e14c62",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3234,11 +2913,6 @@
         "@id": "http://schema.org/EventScheduled"
       }
     ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
     "http://schema.org/location": [
       {
         "@id": "http://kg.artsdata.ca/resource/K11-192"
@@ -3247,6 +2921,11 @@
     "http://schema.org/mainEntityOfPage": [
       {
         "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-04-14-1930-Lunch-at-Allens-Farewell-Tour#WebPage"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
       }
     ],
     "http://schema.org/name": [
@@ -3278,7 +2957,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/dd8e2593-fa08-4fdf-b589-0957905aa553",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/a1b5026f-dd39-44c0-9b60-2e7ff4b39eb8",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3351,9 +3030,233 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/3ee5d3e3-3eb0-4238-9b37-509f8d9907e5",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/210a2320-6d1c-4074-a3dd-39cd29b06fc2",
     "@type": [
       "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-04-19-1000-Level-17-Unlocked-Munchkin-Edition/d63a442d-6d3b-4257-900d-b289010351b7"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K10-499"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@value": "PT7200S"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-04-19-1000-Level-17-Unlocked-Munchkin-Edition#Offer"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-04-19-1000-Level-17-Unlocked-Munchkin-Edition#WebPage"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-192"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Level 17 Unlocked, Munchkin Edition"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "The Munchkin Show! Live & Interactive. Kinder Mini, Kinder Mighty and All Munchkin Classes"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-04-19-1000-Level-17-Unlocked-Munchkin-Edition"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@value": "2025-04-19T10:00:00-04:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-04-19-1000-Level-17-Unlocked-Munchkin-Edition"
+      }
+    ]
+  },
+  {
+    "@id": "https://calendar.sandersoncentre.ca/temporary/d5442aa7-3897-471f-8d05-7c554cb4b607",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-04-19-1800-Level-17-Unlocked/d63a442d-6d3b-4257-900d-b289010351b7"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K10-499"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@value": "PT7200S"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-04-19-1800-Level-17-Unlocked#Offer"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-04-19-1800-Level-17-Unlocked#WebPage"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-192"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Level 17 Unlocked"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Season 17 Dance Recital for classes age 6 and up"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-04-19-1800-Level-17-Unlocked"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@value": "2025-04-19T18:00:00-04:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-04-19-1800-Level-17-Unlocked"
+      }
+    ]
+  },
+  {
+    "@id": "https://calendar.sandersoncentre.ca/temporary/44d23e4a-5c9d-4006-a3ad-fa53c837c842",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-04-21-1800-Level-17-Unlocked/d63a442d-6d3b-4257-900d-b289010351b7"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K10-499"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@value": "PT7200S"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-04-21-1800-Level-17-Unlocked#Offer"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-04-21-1800-Level-17-Unlocked#WebPage"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-192"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Level 17 Unlocked"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Season 17 Dance Recital for classes age 6 and up"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-04-21-1800-Level-17-Unlocked"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@value": "2025-04-21T18:00:00-04:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-04-21-1800-Level-17-Unlocked"
+      }
+    ]
+  },
+  {
+    "@id": "https://calendar.sandersoncentre.ca/temporary/6079cced-1ed6-49ad-be79-17ce8995b117",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-04-22-1930-Foreign-Journey-The-Best-of-Foreigner-amp-Journey#WebPage"
+      }
     ],
     "http://schema.org/image": [
       {
@@ -3383,11 +3286,6 @@
     "http://schema.org/location": [
       {
         "@id": "http://kg.artsdata.ca/resource/K11-192"
-      }
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-04-22-1930-Foreign-Journey-The-Best-of-Foreigner-amp-Journey#WebPage"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -3424,7 +3322,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/5fd13d57-80f4-43ea-83ce-47ddc9310b6d",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/e82a5098-4454-4938-9343-dd32045f9dbc",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3497,18 +3395,13 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/a979bd32-c33f-4027-9bfb-1f5f1dc47ad4",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/f329de6b-3301-4bff-b858-a570b0e54e7a",
     "@type": [
       "http://schema.org/Event"
     ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
       }
     ],
     "http://schema.org/image": [
@@ -3541,6 +3434,11 @@
         "@id": "http://kg.artsdata.ca/resource/K11-192"
       }
     ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
     "http://schema.org/name": [
       {
         "@language": "en",
@@ -3570,7 +3468,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/7b961214-eb9c-4735-9ab7-c315bdf72275",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/3d4bfb8e-2980-4157-a7b5-cd6b46d5bd08",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3589,14 +3487,14 @@
         "@value": "PT7200S"
       }
     ],
-    "http://schema.org/offers": [
-      {
-        "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-05-05-1830-Dragons-amp-Mythical-Beasts#Offer"
-      }
-    ],
     "http://schema.org/location": [
       {
         "@id": "http://kg.artsdata.ca/resource/K11-192"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-05-05-1830-Dragons-amp-Mythical-Beasts#Offer"
       }
     ],
     "http://schema.org/image": [
@@ -3643,13 +3541,18 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/ff8dff08-9f1b-4ed2-917f-4b57cf98e541",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/9c20df13-02e8-4d42-ae24-28e0bc89e55b",
     "@type": [
       "http://schema.org/Event"
     ],
     "http://schema.org/eventAttendanceMode": [
       {
         "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-05-07-1930-Garth-and-Shania-Tribute-Concert/f99d0431-6ac3-4b3b-b7a9-b1ff00dd7617"
       }
     ],
     "http://schema.org/offers": [
@@ -3682,11 +3585,6 @@
         "@id": "http://kg.artsdata.ca/resource/K11-192"
       }
     ],
-    "http://schema.org/image": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-05-07-1930-Garth-and-Shania-Tribute-Concert/f99d0431-6ac3-4b3b-b7a9-b1ff00dd7617"
-      }
-    ],
     "http://schema.org/name": [
       {
         "@language": "en",
@@ -3716,7 +3614,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/b0ed668e-c609-4049-a13c-62dbb0c6b42f",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/7b853cf5-12c9-4978-9c7d-4c9af12acb73",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3745,6 +3643,11 @@
         "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-05-12-1900-Spice-Wannabe-The-Spice-Girls-Tribute#WebPage"
       }
     ],
+    "http://schema.org/location": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-192"
+      }
+    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
@@ -3753,11 +3656,6 @@
     "http://schema.org/eventAttendanceMode": [
       {
         "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K11-192"
       }
     ],
     "http://schema.org/name": [
@@ -3789,7 +3687,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/291f100f-5409-470f-a355-c30254837fce",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/e4ef7084-4505-49aa-a027-4133313a383c",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3857,9 +3755,14 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/bf23f47a-ce02-40c6-ad02-81030afb10af",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/8b7cf5de-d5be-400b-9901-47d1f52bb4ae",
     "@type": [
       "http://schema.org/Event"
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
     ],
     "http://schema.org/mainEntityOfPage": [
       {
@@ -3869,11 +3772,6 @@
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
       }
     ],
     "http://schema.org/image": [
@@ -3930,7 +3828,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/26514dd8-03c6-4951-a140-2b6ac499894e",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/9a90d83a-9773-4cc5-a582-a7c852d7dea0",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4003,7 +3901,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/63f46c31-ea18-417d-befb-bc19eaf58340",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/38dd50e3-fb8f-47a1-9e5f-51d3eabb7bb5",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4076,7 +3974,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/f72d595d-fcd3-4cd4-91ee-2b63ed049821",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/572d68fe-1d94-4c5d-bf37-894da76e1426",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4149,7 +4047,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/d1caaec5-e532-4e66-a525-255f34f41922",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/1525c600-2f86-4f6f-84f8-3e7f987f8880",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4222,7 +4120,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/4ae5bb21-4411-4fe9-8f62-9a72040d596d",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/e316d4e0-beee-490b-bbc8-eab5783c2771",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4295,7 +4193,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/7e40f3b8-4cae-4b88-8e1a-8844b117e7ed",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/0db91e1e-02d9-4dbc-97ba-c9596de57c91",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4368,9 +4266,14 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/f8edeb90-b336-4358-ac3a-7b9e15b7fede",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/50a7f797-9ce3-4d0e-886e-d67c3bd99eab",
     "@type": [
       "http://schema.org/Event"
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
     ],
     "http://schema.org/image": [
       {
@@ -4400,11 +4303,6 @@
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
       }
     ],
     "http://schema.org/location": [
@@ -4441,14 +4339,9 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/14b92086-8087-4bef-96de-9d460def73e2",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/d0e57792-a89b-4c5d-af9b-c15be2e66146",
     "@type": [
       "http://schema.org/Event"
-    ],
-    "http://schema.org/image": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-07-18-1900-Playful-Fox-Productions-presents-Anne-of-Green-Gab/52164e14-5f8a-4fb9-a97b-b248012b518a"
-      }
     ],
     "http://schema.org/organizer": [
       {
@@ -4478,6 +4371,11 @@
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-07-18-1900-Playful-Fox-Productions-presents-Anne-of-Green-Gab/52164e14-5f8a-4fb9-a97b-b248012b518a"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -4514,14 +4412,9 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/34f34686-330e-4fbe-aa2b-e907ede007b6",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/3c0535fa-5cad-4575-be78-089e7799d582",
     "@type": [
       "http://schema.org/Event"
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-07-19-1400-Playful-Fox-Productions-presents-Anne-of-Green-Gab#Offer"
-      }
     ],
     "http://schema.org/image": [
       {
@@ -4538,6 +4431,16 @@
         "@value": "PT7200S"
       }
     ],
+    "http://schema.org/offers": [
+      {
+        "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-07-19-1400-Playful-Fox-Productions-presents-Anne-of-Green-Gab#Offer"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-192"
+      }
+    ],
     "http://schema.org/mainEntityOfPage": [
       {
         "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-07-19-1400-Playful-Fox-Productions-presents-Anne-of-Green-Gab#WebPage"
@@ -4551,11 +4454,6 @@
     "http://schema.org/eventAttendanceMode": [
       {
         "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K11-192"
       }
     ],
     "http://schema.org/name": [
@@ -4587,7 +4485,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/85330e82-cd80-415c-aeb1-3fa8847612ba",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/e3aad0cb-0d75-4f85-8054-038900e54c21",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4616,11 +4514,6 @@
         "@id": "http://kg.artsdata.ca/resource/K11-192"
       }
     ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
     "http://schema.org/mainEntityOfPage": [
       {
         "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-07-24-2000-An-Evening-with-Permanent-Waves-A-Show-of-Rush-and#WebPage"
@@ -4629,6 +4522,11 @@
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
       }
     ],
     "http://schema.org/name": [
@@ -4660,7 +4558,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/65ca1d0c-3cd9-44ff-a27f-a55c4fb85815",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/0a5135ed-b3a2-4eaf-925d-4d47f3ebd3eb",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4733,7 +4631,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/d8f6392d-20a1-4d60-bd25-4855ad988497",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/87b9598e-e249-451a-b941-0f3b4d422791",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4806,24 +4704,9 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/6b677e47-f41a-4d46-bca8-14c4ff90ccfb",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/74b45534-1113-48c4-9a64-6493229a6c47",
     "@type": [
       "http://schema.org/Event"
-    ],
-    "http://schema.org/image": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-09-20-2000-The-Ultimate-80s-Bash-with-the-Bomb-and-U2-Elevati/fc67a4c2-eec3-4c6a-bf1b-b26d011ca6df"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K10-499"
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@value": "PT7200S"
-      }
     ],
     "http://schema.org/offers": [
       {
@@ -4843,6 +4726,21 @@
     "http://schema.org/eventAttendanceMode": [
       {
         "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-09-20-2000-The-Ultimate-80s-Bash-with-the-Bomb-and-U2-Elevati/fc67a4c2-eec3-4c6a-bf1b-b26d011ca6df"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K10-499"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@value": "PT7200S"
       }
     ],
     "http://schema.org/location": [
@@ -4879,7 +4777,74 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/386ff6c3-09e8-437c-8d6b-2a6944d930b8",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/c504c1c2-5e66-451f-9147-da59c46407b6",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/image": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-09-25-1930-Luke-Combs-UK-Tribute-to-Luke-Combs/be0665be-d705-4a5c-8e88-b2800113de4f"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K10-499"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@value": "PT7200S"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-09-25-1930-Luke-Combs-UK-Tribute-to-Luke-Combs#Offer"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-09-25-1930-Luke-Combs-UK-Tribute-to-Luke-Combs#WebPage"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-192"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Luke Combs UK - Tribute to Luke Combs"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-09-25-1930-Luke-Combs-UK-Tribute-to-Luke-Combs"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@value": "2025-09-25T19:30:00-04:00"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-09-25-1930-Luke-Combs-UK-Tribute-to-Luke-Combs"
+      }
+    ]
+  },
+  {
+    "@id": "https://calendar.sandersoncentre.ca/temporary/843aa08d-f7d7-4c04-88b9-5c81764e4527",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4952,7 +4917,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/a07bb100-51c6-4e52-a3ef-c2370bf225d0",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/205d4743-0d49-4871-a9e1-bb72804bf228",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5025,7 +4990,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/eecf82cf-7814-416b-a5a9-c4b0e4fbcd60",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/555daf0b-0562-403b-8693-088b84df8dbc",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5098,7 +5063,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/72734829-09bf-4ac1-ab16-8b559d88ce31",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/6e4f0342-f3e5-4d8d-a7e9-1cf0374d694f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5171,7 +5136,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/3b3c3694-d040-4186-b2bb-a3331bcdbcce",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/58ebe9f1-e017-4368-b128-56618c6f7e02",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5244,7 +5209,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/bf7f1002-f3ae-4edc-9f44-5071bbfe82d2",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/db0e9ae6-0ab4-4a54-a042-0308ac0b92cc",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5317,13 +5282,13 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/9ef5a3b2-2fbc-4d63-9598-cd7713c3fa96",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/256aeb16-e3f5-402c-90d2-009dd58991c3",
     "@type": [
       "http://schema.org/Event"
     ],
-    "http://schema.org/eventAttendanceMode": [
+    "http://schema.org/mainEntityOfPage": [
       {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
+        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-11-12-1400-The-Walters-Family-50th-Anniversary-Country-Christ#WebPage"
       }
     ],
     "http://schema.org/performer": [
@@ -5346,24 +5311,24 @@
         "@value": "PT7200S"
       }
     ],
-    "http://schema.org/offers": [
-      {
-        "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-11-12-1400-The-Walters-Family-50th-Anniversary-Country-Christ#Offer"
-      }
-    ],
     "http://schema.org/location": [
       {
         "@id": "http://kg.artsdata.ca/resource/K11-192"
       }
     ],
-    "http://schema.org/mainEntityOfPage": [
+    "http://schema.org/offers": [
       {
-        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-11-12-1400-The-Walters-Family-50th-Anniversary-Country-Christ#WebPage"
+        "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-11-12-1400-The-Walters-Family-50th-Anniversary-Country-Christ#Offer"
       }
     ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
       }
     ],
     "http://schema.org/name": [
@@ -5395,14 +5360,9 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/c7f49d48-de35-47f5-8709-216916b92300",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/2f7b2bab-689b-48fd-9351-3d8b51840598",
     "@type": [
       "http://schema.org/Event"
-    ],
-    "http://schema.org/image": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-11-15-2000-Jersey-Nights/af69ef98-8b6a-498e-9c80-b2270150b41c"
-      }
     ],
     "http://schema.org/organizer": [
       {
@@ -5429,14 +5389,19 @@
         "@id": "http://schema.org/EventScheduled"
       }
     ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
     "http://schema.org/location": [
       {
         "@id": "http://kg.artsdata.ca/resource/K11-192"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-11-15-2000-Jersey-Nights/af69ef98-8b6a-498e-9c80-b2270150b41c"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
       }
     ],
     "http://schema.org/name": [
@@ -5468,14 +5433,9 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/42d61b6e-66ea-4c27-9fae-6537b86c7c62",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/df9dbc53-b622-46d3-b8a7-50a1ca798115",
     "@type": [
       "http://schema.org/Event"
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
     ],
     "http://schema.org/image": [
       {
@@ -5512,6 +5472,11 @@
         "@id": "http://kg.artsdata.ca/resource/K11-192"
       }
     ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
     "http://schema.org/name": [
       {
         "@language": "en",
@@ -5541,7 +5506,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/5bf6336c-6262-479d-bb44-9136c84b82a4",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/84e34fd3-8ce4-4724-a723-f670fc903553",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5570,6 +5535,11 @@
         "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-12-06-2000-Brass-Transit-The-Musical-Legacy-of-Chicago#WebPage"
       }
     ],
+    "http://schema.org/location": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-192"
+      }
+    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
@@ -5578,11 +5548,6 @@
     "http://schema.org/eventAttendanceMode": [
       {
         "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K11-192"
       }
     ],
     "http://schema.org/name": [
