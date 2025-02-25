@@ -34,6 +34,7 @@ Prerequisites:
 Steps:
 1. Log-in to Github
 1. Go to [Actions](https://github.com/culturecreates/artsdata-score/actions)
+1. Select "Generate Score Report" from the list of workflows.
 1. Click "Run Workflow", enter the parameters and click the green "Run workflow" button. Or you can save the parameters in a workflow file [here](https://github.com/culturecreates/artsdata-score/blob/main/.github/workflows) if you are planning to run the workflow several times.
 1. After a few minutes the workflow will complete and a report will be generated
 1. View the CSV table in the [reports directory](https://github.com/culturecreates/artsdata-score/blob/main/reports/). For example the report from [sandersoncentre-ca](https://github.com/culturecreates/artsdata-score/blob/main/reports/sandersoncentre-ca_report.csv)
