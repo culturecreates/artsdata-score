@@ -1,0 +1,2273 @@
+[
+  {
+    "@id": "https://capitol.nb.ca/en/",
+    "http://schema.org/name": [
+      {
+        "@value": "Home"
+      }
+    ]
+  },
+  {
+    "@id": "https://capitol.nb.ca/en/tickets-events",
+    "http://schema.org/name": [
+      {
+        "@value": "Tickets &amp; Events"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460380",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Capitol Theatre"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-116"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q545543"
+      },
+      {
+        "@id": "https://scenesfrancophones.ca/id/509"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g460440"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460440",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "811 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Moncton"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "E1C 1G1"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "NB"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460400",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://capitol.tuxedobillet.com/main/the-addams-family"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "39 - $ 59 - $ 79"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-11-07T10:00:00"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460420",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Capitol Theater"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://capitol.nb.ca/en"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K14-197"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q117090701"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460840",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Capitol Theatre"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-116"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q545543"
+      },
+      {
+        "@id": "https://scenesfrancophones.ca/id/509"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g460900"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460900",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "811 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Moncton"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "E1C 1G1"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "NB"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460860",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://capitol.tuxedobillet.com/main/maryna-krut"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "39,36,19"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-06-04T09:00:00"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460880",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Capitol Theater"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://capitol.nb.ca/en"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K14-197"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q117090701"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461360",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Capitol Theatre"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-116"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q545543"
+      },
+      {
+        "@id": "https://scenesfrancophones.ca/id/509"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g461420"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461420",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "811 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Moncton"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "E1C 1G1"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "NB"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461380",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://capitol.tuxedobillet.com/main/the-alphabet-of-awesome-science"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "Pay What You Will"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-06-04T09:00:00"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461400",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Capitol Theater"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://capitol.nb.ca/en"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K14-197"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q117090701"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461800",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Capitol Theatre"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-116"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q545543"
+      },
+      {
+        "@id": "https://scenesfrancophones.ca/id/509"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g461860"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461860",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "811 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Moncton"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "E1C 1G1"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "NB"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461820",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://capitol.tuxedobillet.com/main/au-dela-du-banc"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "0"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-01-10T10:00:00"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461840",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Capitol Theater"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://capitol.nb.ca/en"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K14-197"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q117090701"
+      }
+    ]
+  },
+  {
+    "@id": "_:g462240",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Capitol Theatre"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-116"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q545543"
+      },
+      {
+        "@id": "https://scenesfrancophones.ca/id/509"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g462300"
+      }
+    ]
+  },
+  {
+    "@id": "_:g462300",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "811 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Moncton"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "E1C 1G1"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "NB"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g462260",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://capitol.tuxedobillet.com/main/neev"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "44,41"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-06-04T09:00:00"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g462280",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Capitol Theater"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://capitol.nb.ca/en"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K14-197"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q117090701"
+      }
+    ]
+  },
+  {
+    "@id": "_:g462680",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Capitol Theatre"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-116"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q545543"
+      },
+      {
+        "@id": "https://scenesfrancophones.ca/id/509"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g462740"
+      }
+    ]
+  },
+  {
+    "@id": "_:g462740",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "811 Main Street"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Moncton"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "E1C 1G1"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "NB"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g462700",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://capitol.tuxedobillet.com/main/chris-funk"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "44,41,19"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-06-04T09:00:00"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g462720",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Capitol Theater"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://capitol.nb.ca/en"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K14-197"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q117090701"
+      }
+    ]
+  },
+  {
+    "@id": "https://capitol.nb.ca/fr/",
+    "http://schema.org/name": [
+      {
+        "@value": "Accueil"
+      }
+    ]
+  },
+  {
+    "@id": "https://capitol.nb.ca/fr/spectacles-et-billets",
+    "http://schema.org/name": [
+      {
+        "@value": "Spectacles et billets"
+      }
+    ]
+  },
+  {
+    "@id": "_:g463120",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Théâtre Capitol"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-116"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q545543"
+      },
+      {
+        "@id": "https://scenesfrancophones.ca/id/509"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g463180"
+      }
+    ]
+  },
+  {
+    "@id": "_:g463180",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "811, rue Main"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Moncton"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "E1C 1G1"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "NB"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g463140",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "GRATUIT"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g463160",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Théâtre Capitol"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://capitol.nb.ca/fr"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K14-197"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q117090701"
+      }
+    ]
+  },
+  {
+    "@id": "_:g463560",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Théâtre Capitol"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-116"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q545543"
+      },
+      {
+        "@id": "https://scenesfrancophones.ca/id/509"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g463620"
+      }
+    ]
+  },
+  {
+    "@id": "_:g463620",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "811, rue Main"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Moncton"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "E1C 1G1"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "NB"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g463580",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://capitol.tuxedobillet.com/main/choir-choir-choir-2025"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "44,41"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-06-04T09:00:00"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g463600",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Théâtre Capitol"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://capitol.nb.ca/fr"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K14-197"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q117090701"
+      }
+    ]
+  },
+  {
+    "@id": "_:g464020",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Théâtre Capitol"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-116"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q545543"
+      },
+      {
+        "@id": "https://scenesfrancophones.ca/id/509"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g464080"
+      }
+    ]
+  },
+  {
+    "@id": "_:g464080",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "811, rue Main"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Moncton"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "E1C 1G1"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "NB"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g464040",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://capitol.tuxedobillet.com/main/raine-hamilton"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "29,26"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-06-04T09:00:00"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g464060",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Théâtre Capitol"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://capitol.nb.ca/fr"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K14-197"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q117090701"
+      }
+    ]
+  },
+  {
+    "@id": "_:g464480",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Théâtre Capitol"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-116"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q545543"
+      },
+      {
+        "@id": "https://scenesfrancophones.ca/id/509"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g464540"
+      }
+    ]
+  },
+  {
+    "@id": "_:g464540",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "811, rue Main"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Moncton"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "E1C 1G1"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "NB"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g464500",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://capitol.tuxedobillet.com/main/as-you-like-it-or-the-land-acknowledgment"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "39,36,19"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-06-04T09:00:00"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g464520",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Théâtre Capitol"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://capitol.nb.ca/fr"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K14-197"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q117090701"
+      }
+    ]
+  },
+  {
+    "@id": "_:g464920",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Théâtre Capitol"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-116"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q545543"
+      },
+      {
+        "@id": "https://scenesfrancophones.ca/id/509"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g464980"
+      }
+    ]
+  },
+  {
+    "@id": "_:g464980",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "811, rue Main"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Moncton"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "E1C 1G1"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "NB"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g464940",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://capitol.tuxedobillet.com/main/steve-patterson"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "49,46"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-06-04T09:00:00"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g464960",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Théâtre Capitol"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://capitol.nb.ca/fr"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K14-197"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q117090701"
+      }
+    ]
+  },
+  {
+    "@id": "_:g465360",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Théâtre Capitol"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-116"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q545543"
+      },
+      {
+        "@id": "https://scenesfrancophones.ca/id/509"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g465420"
+      }
+    ]
+  },
+  {
+    "@id": "_:g465420",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "811, rue Main"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Moncton"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "E1C 1G1"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "NB"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g465380",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://capitol.tuxedobillet.com/main/un-espoir-eternel"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "40,17.39,GRATUIT"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/validFrom": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-07-29T10:00:00"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@id": "http://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g465400",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Théâtre Capitol"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://capitol.nb.ca/fr"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K14-197"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q117090701"
+      }
+    ]
+  },
+  {
+    "@id": "https://capitol.nb.ca/temporary/83b03302-f622-40b4-9c56-548f1740776c",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The Addams Family"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://capitol.nb.ca/en/tickets-events/the-addams-family"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-02-21T19:00:00,2025-02-22T14:00:00,2025-02-22T19:00:00,2025-02-23T14:00:00,2025-02-23T19:00:00,2025-02-27T19:00:00,2025-02-28T19:00:00,2025-03-01T14:00:00,2025-03-01T19:00:00,2025-03-02T14:00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-02T23:30:00"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g460380"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://capitol.nb.ca/images/stories/flexicontent/item_484_field_41/original/the-addams-family-intro.jpg"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "SHOW PROGRAMThe Capitol Theatre is drop-dead excited to once again partner with Tutta Musica Orchestra (representing the New Brunswick Youth Orchestra) to produce The Addams Family: A New Musical Comedy. This quasi-professional musical theatre production will be presented at the creepy Capitol Theatre from February 21st to March 2nd, 2025.The Addams Family will be the eighth professional musical theatre production for rivals Tutta Musica Orchestra and the Capitol Theatre. Since 2016, this collaboration has delivered sickeningly sweet shows like The Sound of Music (twice!), Oliver!, Mary Poppins, Beauty and the Beast, The Wizard of Oz and last year’s The Little Mermaid.Cast – The Addams Family 2025Gomez Addams – Tyler CheckMorticia Addams – Sarah HorsmanUncle Fester – Jacob MacInnisGrandma – Megan FowlieWednesday Addams – Emma VickersPugsley Addams – CJ NorrisLurch – Justin GauvinMal Beineke – Jamie CordesAlice Beineke – Véronique HébertLucas Beineke – Émilien CormierThe Addams Family is presented through special arrangement with and all authorized performance materials are supplied by Theatrical Rights Worldwide. (TRW).THE ADDAMS FAMILY, a comical feast that embraces the wackiness in every family, features an original story and it’s every father’s nightmare: Wednesday Addams, the ultimate princess of darkness, has grown up and fallen in love with a sweet, smart young man from a respectable family – a man her parents have never met. And if that wasn’t upsetting enough, Wednesday confides in her father and begs him not to tell her mother. Now, Gomez Addams must do something he’s never done before – keep a secret from his beloved wife, Morticia. Everything will change for the whole family on the fateful night they host a dinner for Wednesday’s “normal” boyfriend and his parents.Recommended for audiences aged 7 and up. Parental guidance is suggested due to adult innuendo and references to torture.&nbsp;Capitol members have access to the reduced prices of $36, $56 and $76. "
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g460400"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g460420"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://capitol.nb.ca/en/tickets-events/the-addams-family"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://capitol.nb.ca/temporary/3ffd7517-b813-420c-8b31-3258c5ea956f",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Maryna Krut"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://capitol.nb.ca/en/tickets-events/maryna-krut"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-06T19:30:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-07T00:00:00"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g460840"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://capitol.nb.ca/images/stories/flexicontent/item_334_field_41/original/maryna-krut-intro.jpg"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Maryna Krut (pronounced “kroot”) is a Ukrainian singer and virtuoso of the bandura, a stringed instrument unique to Ukraine that looks and sounds like a hybrid of a lute and a harp. At 28 years old, KRUT is a self-assured performing artist; her compelling, soulful performances evoke both folk traditions and modern sensibilities, with pop and jazz flourishes. A Eurovision finalist, she often represents Ukraine at official events and performs for soldiers in the current war zone, and has appeared at the Edinburgh International Culture Summit, Andalucia Big Festival, Montreal Ukrainian Festival, and on other international stages. The bandura’s harpsichord-like sound is both delicate and assertive. KRUT’s instrument has an astonishing 64 strings stretched over a single piece of wood, with 13 bass strings stretched along a short, fretless neck, and the remaining treble strings stretched across a large soundboard. She plays the bass set with her left hand, while the right plays across the prodigious treble array. In addition to being a masterful instrumentalist, KRUT’s striking, powerful voice soars in an acoustic setting. Early bandurists were male balladeers who travelled from village to village; early in her career, says KRUT, “I dyed my hair pink, painted my nails black, wore leather jackets and started to play the bandura in a more modern, jazzy and funky way” (Vogue Australia). Now she’s stretching her style back toward the bandura’s folk roots. “[Her music] represents the DNA of Ukrainian culture, in all its styles, classic and very modern” (Ouest France).TD ConnectsDesigned in partnership with TD Bank, TD CONNECTS is a series of exciting performances that amplifies diverse voices in the arts and builds stronger connections in our communities.Each TD Connects performance features a local nonprofit group who is invited to introduce themselves to our audience onstage before the show. TD Connects performances spotlight underrepresented artists in the arts and shine a light on the great work being done by our fellow nonprofit organizations. "
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g460860"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g460880"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://capitol.nb.ca/en/tickets-events/maryna-krut"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://capitol.nb.ca/temporary/d1fc0e72-6a4c-4e1f-b183-8f7b56d65901",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The Alphabet of Awesome Science"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://capitol.nb.ca/en/tickets-events/the-alphabet-of-awesome-science"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-09T15:00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-09T18:30:00"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g461360"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://capitol.nb.ca/images/stories/flexicontent/item_336_field_41/original/the-alphabet-of-awesome-science-intro.jpg"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Join professors Lexi Con and Noel Edge (the Word Nerd and the Science Freak) for a thrilling voyage through the alphabet – where great big chewy sesquipedalian words inspire mind-blowing scientific surprises.Professor Lexi Con has curated a curious collection of her favourite words (one for every letter of the alphabet) with each word providing Professor Noel Edge with an inspirational jumping off point for 26 quirky scientific demonstrations – that squish and squirt, float and fly, erupt and explode.Together, this dad-joke quipping, prank-pulling pair of polished professors strut their stuff in a performance that’s equal parts explosive, messy, spectacular, hilarious, fascinating and gross. And if things weren’t exciting enough, every show is completely different, with audiences determining the order in which the letters are revealed and explored. Plus, did we mention, this is a race? The plucky pair of professors have just 52 minutes to complete their alphabetical, scientifical countdown.That’s just 2 minutes per experiment! Will they make it in time...?PAY WHAT YOU WILLBook a ticket for this performance, at no charge. When you attend the performance, we’ll provide you with an envelope in which you can pay whatever amount you wish (based on your own individual experience) following the show, using cash, credit card or cheque. Ultimately, YOU decide the price of your tickets!Children under two are welcome to attend this performance and will not require a ticket if they are seated on someone’s lap. "
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g461380"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g461400"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://capitol.nb.ca/en/tickets-events/the-alphabet-of-awesome-science"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://capitol.nb.ca/temporary/9dfbac72-c0ca-4d78-b4da-6ba8f2c30bbd",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Beyond the Bench"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://capitol.nb.ca/en/tickets-events/beyond-the-bench"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-11T15:00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-11T18:30:00"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g461800"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://capitol.nb.ca/images/stories/flexicontent/item_536_field_41/original/beyond-the-bench-intro.jpg"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "The Supreme Court of Canada is coming to Moncton in March. While in town, Chief Justice Richard Wagner, Justice Suzanne Côté and Justice Sheilah L. Martin will host a public event to answer questions, such as:What does it mean to be a judge?How did your career path lead you to where you are today?How does the Court balance competing rights and opposing interests?How do you maintain the Court’s independence and integrity, in light of pressures in society today?What are some of the challenges and opportunities facing judges, and how do you approach them?Submit your questions to This email address is being protected from spambots. You need JavaScript enabled to view it. and you could have them answered directly by judges of the Supreme Court.Please note that this is not a legal information clinic. The judges can’t give legal advice or answer questions about specific cases.Photos of the event may be used on the Court’s social media and in its publications.For more information visit the&nbsp;Supreme Court of Canada website "
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g461820"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g461840"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://capitol.nb.ca/en/tickets-events/beyond-the-bench"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://capitol.nb.ca/temporary/906357b7-47f0-4217-a6d4-479a53350f0b",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Neev"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://capitol.nb.ca/en/tickets-events/neev"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-14T20:00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-14T23:00:00"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g462240"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://capitol.nb.ca/images/stories/flexicontent/item_339_field_41/original/neev-intro.jpg"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Neev has been a fixture on the stand-up comedy scene for many years, appearing on television and radio, and at festivals across the country. After touring Quebec and New Brunswick opening for superstar comic sensation Louis-José Houde, he is now hitting the road with his very first one-man show!In his stand-up show, Neev takes a look at who we are as a society and takes pleasure in shedding light on the little annoyances of our daily lives. Not only does he share his comic observations, but he also talks sensitively about his multiple origins and integration in a personal, no-nonsense way.With his engaging personality, hearty laugh and well-crafted humour, Neev is already perfectly spiced; no need to add the sauce.*Performance in French. "
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g462260"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g462280"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://capitol.nb.ca/en/tickets-events/neev"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://capitol.nb.ca/temporary/ab4b7a73-7f92-4dc7-bb03-27e6c7a11203",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Chris Funk"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://capitol.nb.ca/en/tickets-events/chris-funk"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-16T19:00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-16T22:30:00"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g462680"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://capitol.nb.ca/images/stories/flexicontent/item_341_field_41/original/chris-funk-intro.jpg"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Chris Funk’s REDEFINING WONDER is an engaging multimedia experience that will have audiences talking and scratching their heads for years to come. Finally, a MAGIC SHOW WITH LIVE MUSIC! Chris has pioneered the use of instruments such as the violin, guitar, sax and more into his illusions. His parents wanted him to be a musician, but he wanted to be a magician. Chris tells his story on how he integrated his love for music and magic in a show unlike any other. Whether it’s a violin concerto, a magical dancing sheet of music or impossibly suspending various instruments on stage, his show is in a league of its own. The live-feed camera and interactive videos bring audiences up onstage and into the action, delivering a show that family audiences can call their own.From NBC’s America’s Got Talent, CW’s Penn &amp; Teller: Fool Us &amp; Masters of Illusion, FOX’s Hell’s Kitchen and Syfy’s Wizard Wars, his unique approach to magic has garnered him performances at Las Vegas’ Planet Hollywood, Mandalay Bay, Rio, and Tropicana casinos as well as residencies at Disney. In addition to his own touring, Chris has starred in major touring magic productions Masters of Illusion LIVE. Chris’ show has garnered standing ovations and a reputation for excellence.  AMERICA’S GOT TALENT - SIMON COWELL: “BEST MAGICIAN we’ve had on the show so far! I’ve NEVER seen anything like that!”  DISNEY: “Absolutely FANTASTIC!” CBC: “HEAD-SCRATCHING MAGIC!” PENN &amp; TELLER: “There’s a WILDNESS and beauty to Chris Funk’s daft and funny presence that we - and the audiences we’ve seen him with – find IRRESISTIBLE.” PENN &amp; TELLER "
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g462700"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g462720"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://capitol.nb.ca/en/tickets-events/chris-funk"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://capitol.nb.ca/temporary/a1087546-6201-4fd4-9675-f72e5949fa79",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Vernissage - Sara Milardovic"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://capitol.nb.ca/fr/spectacles-et-billets/vernissage-sara-milardovic"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-05T17:00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-05T21:30:00"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g463120"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://capitol.nb.ca/images/stories/flexicontent/item_555_field_41/original/sara-milardovic-intro.jpg"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Le public est invité au vernissage de l’exposition The Depth Of Nothingness, de l’artiste italienne Sara Milardovic à la Galerie d’art du Théâtre Capitol de Moncton le mercredi, 5 mars prochain à 17 h.Née en 1997 dans la ville dynamique de Cagliari, le parcours artistique de Sara Milardovic a été façonné par une enfance nomade, qui l’a menée à travers les paysages époustouflants de la Croatie, patrie de son père, et les régions ensoleillées du sud de l’Italie, notamment la Sardaigne, la Sicile, la Calabre et la Campanie. C’est dans ce tourbillon de villes et de cultures que Sara a développé une sensibilité et une profondeur émotionnelle qui infuseront plus tard sa vision artistique. Le fait de quitter constamment ses amis et de repartir à zéro a favorisé une profonde introspection, façonnant la perspective unique et la voix créative de Sara.Diplômée d'une maîtrise en production de médias, Sara s’est familiarisée avec différentes formes artistiques, des domaines évocateurs du cinéma aux mélodies de la musique qui font vibrer l’âme.Les images de Sara sont imprégnées d’un mélange captivant de résonance conceptuelle et émotionnelle, où chaque image sert de toile à ses pensées et sentiments les plus profonds. S’inspirant de la riche tapisserie des récits cinématographiques et de ses propres expériences, elle aborde des thèmes existentiels avec une sensibilité poétique qui invite les spectateurs à entrer dans un monde d’introspection et d’émerveillement.The Depth Of Nothingness La dépression est une ombre qui s’accroche à l'âme et en obscurcit la lumière. C’est une descente inexorable dans les eaux tumultueuses, se glissant silencieusement entre les plis de l’existence et entraînant tout dans sa chute. Elle vous laisse creux. Déconnecté. Désintéressé. Fatigué. Confus. En colère. Ennuyé. Triste. Immobile... comme sans vie. Et pourtant, vous êtes vivant. Tout cela se passe à l’intérieur de vous, et aucun mot ne peut l’expliquer complètement.Dans l’exposition The Depth of Nothingness, l’artiste explore son monde intérieur pour révéler les émotions brutes et les luttes intimes qui ont façonné son parcours à travers la dépression et les problèmes de santé mentale. Par le biais d’autoportraits et d’une imagerie symbolique soigneusement élaborée, chaque œuvre d’art sert de fenêtre sur sa psyché, offrant un récit visuel du paysage tumultueux qui l’habite.En utilisant la photographie et la manipulation numérique, elle crée des scènes vivantes et évocatrices qui reflètent les couches complexes de son expérience émotionnelle.L’exposition The Depth Of Nothingness, de Sara Milardovic débute le mercredi, 5 mars et sera en montre à la Galerie d’art du Théâtre Capitol au 811, rue Main à Moncton jusqu’au 27 avril 2025. L’entrée est libre. "
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g463140"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g463160"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://capitol.nb.ca/fr/spectacles-et-billets/vernissage-sara-milardovic"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://capitol.nb.ca/temporary/96ca4f00-5939-4b51-8d05-bf9e4b78a584",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Choir! Choir! Choir!"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://capitol.nb.ca/fr/spectacles-et-billets/choir-choir-choir-3"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-07T20:00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-08T00:30:00"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g463560"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://capitol.nb.ca/images/stories/flexicontent/item_387_field_41/original/choir-choir-choir-march7-intro.jpg"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Pourquoi voir un spectacle quand on peut ÊTRE le spectacle?Choir! Choir! Choir! est un spectacle entièrement interactif et participatif qui transforme le public en artiste! Préparez-vous donc à rire, à danser et à CHANTER! de tout votre cœur avec des centaines d’autres mélomanes comme vous. C’est comme une grande fête d’anniversaire pour les plus grandes chansons de tous les temps et vous êtes invités! Alors prenez un ami (ou dix) et arrivez prêt à tout donner! Toutes les voix sont les bienvenues, aucune expérience n’est nécessaire. Tout le monde gagne! Cette fois-ci, Choir! Choir! Choir! présente : We Will CHOIR! You! An EPIC QUEEN Sing-Along Quand on parle d’hymnes EPIC, il n’y a pas plus GRAND que Queen! Et il n’y a rien de mieux que de chanter leurs plus grands succès avec une salle remplie de fans de Queen! Alors, libérez le Freddie Mercury qui sommeille en vous et créez des harmonies qui feront exploser le toit de la salle!  Depuis 2011, Daveed Goldman et Nobu Adilman ont brouillé les frontières entre l’artiste et le public, parcourant le monde pour créer des harmonies avec des inconnus et des amis. Ils ont collaboré avec des artistes de renom tels que Patti Smith, David Byrne, Brandi Carlile, Rick Astley, Rufus Wainwright et même Kermit The Frog au Lincoln Center de New York, créant des vidéos mémorables qui ont été visionnées des millions de fois. Maintenant, c’est à votre tour de chanter, alors appelez vos amis, achetez vos billets et on vous attend! #NeverStopSinging Choir! Choir! Choir! existe pour célébrer la musique et repousser les limites entre la pratique et la performance, l’artiste et le public, en offrant des avantages thérapeutiques avec l’effet secondaire ultime : une communauté puissante.Faites-nous confiance, vous aurez rarement autant de plaisir à un spectacle! "
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g463580"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g463600"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://capitol.nb.ca/fr/spectacles-et-billets/choir-choir-choir-3"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://capitol.nb.ca/temporary/1b6e3e69-77b8-4d02-98c3-dacdcf8da7a6",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Raine Hamilton String Trio"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://capitol.nb.ca/fr/spectacles-et-billets/raine-hamilton-string-trio"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-09T19:30:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-09T23:00:00"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g464020"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://capitol.nb.ca/images/stories/flexicontent/item_389_field_41/original/raine-hamilton-trio-intro.jpg"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Un folk de chambre acoustique et résonant avec une touche d’ailleurs et une présence lyrique profonde. Des voix et des cordes claires comme des prismes, ancrées dans les montagnes anciennes, qui s’étendent au-delà du terrestre.Raine est à la fois une chanteuse des prairies et une tisseuse d’histoires. Chaque chanson a une histoire, racontée entre les chansons avec humour et grâce. Raine invite l’amour du violon dans le genre auteur-compositeur-interprète, écrivant pour violon et voix, ainsi que pour guitare et voix. Avec le violoncelle et la contrebasse, il faut s’attendre à des arrangements de cordes qui poussent et tirent, qui bougent en même temps qu’ils consolent.Violoniste classique et musicologue de formation, Raine et le trio proposent des arrangements pour quatuor à cordes des chansons originales de Raine. Ils appellent cela du chamber-folk, un hybride de la tradition classique de la musique de chambre pour quatuor à cordes, avec le folk du talent d’auteur-compositeur-interprète qui vient si naturellement à Raine.La dernière œuvre de Raine, l’album Brave Land (2021-22), est un album conceptuel sur les montagnes, le courage, la sagesse et les liens avec l’autre monde qu’elles représentent. Ici, comme dans l’album primé de Raine, Night Sky, les chansons sont accompagnées d’arrangements complexes et expérimentés pour guitare, violon, violoncelle et contrebasse. Une fois de plus, Raine a travaillé avec des collaborateurs du trio à cordes, Quintin Bart à la contrebasse, Natanielle Felicitas au violoncelle et Lloyd Peterson en tant que producteur/ingénieur.Salle Empress199 Robinson(Admission générale - cabaret) "
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g464040"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g464060"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://capitol.nb.ca/fr/spectacles-et-billets/raine-hamilton-string-trio"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://capitol.nb.ca/temporary/2d48433d-43f0-490c-87e3-c1ec5f711cbf",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "As You Like It or The Land Acknowledgment"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://capitol.nb.ca/fr/spectacles-et-billets/as-you-like-it-or-the-land-acknowledgment"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-13T19:30:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-13T23:00:00"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g464480"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://capitol.nb.ca/images/stories/flexicontent/item_390_field_41/original/as-you-like-it-or-the-land-acknowledgment-intro.jpg"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Le titre de la pièce As You Like It de William Shakespeare comporte un double sens qui suggère de manière taquine qu’il s'agit d’une pièce qui plaira à tous les goûts. Est-ce possible? Qualifiée « d’astucieuse, drôle et charmante » par le Toronto Star, la pièce As You Like It or The Land Acknowledgement du provocateur culturel Cliff Cardinal est un examen dévastateur, mais qui fait rire aux éclats, de la reconnaissance des terres en tant que pratique culturelle et politique. Cette histoire intemporelle d’erreurs d’identité, de bannissement et de pardon prend un sens entièrement nouveau dans cette mise à jour subversive du classique du Barde. Les origines cries et lakota de M. Cardinal influencent profondément son interprétation de la pièce, qui est acerbe, malicieuse et aborde sans crainte des sujets difficiles. « La surprise de l’année dans le domaine des arts au Canada » (The Globe and Mail), William Shakespeare’s As You Like It, A Radical Retelling, par Cliff Cardinal, a reçu le prestigieux Prix littéraire du Gouverneur général pour le théâtre et a été sélectionné pour le Prix littéraire Trillium de l’Ontario. « Une chose est sûre : ce As You Like It ne ressemble à aucune autre production de la pièce, passée ou future. »NOW MagazineNommé icône culturelle canadienne en 2022 par le Globe and Mail, Cliff Cardinal est un auteur et un interprète polarisant, connu pour son humour noir et sa poésie compatissante. Sa pièce AS YOU LIKE IT, A RADICAL RETELLING a été jouée dans tout le Canada, a été présélectionnée pour le Prix du livre Trillium de l’Ontario et a reçu le prestigieux Prix littéraire du Gouverneur général pour le théâtre.Depuis 40 ans, le Crow’s Theatre est un acteur majeur du paysage théâtral canadien, reconnu pour ses nouvelles œuvres théâtrales provocantes et primées, dont les premières à Toronto sont souvent suivies de tournées nationales et internationales. Le Crow’s Theatre se distingue en tant que destination culturelle de premier plan pour son imagination, ses idées, ses échanges, sa diversité et sa conviction profonde que les arts sont essentiels à la santé et à l’épanouissement des communautés. Dirigé par Chris Abraham, directeur artistique, et Sherrie Johnson, directrice générale, le Crow’s Theatre est situé au coin de l’avenue Carlaw et de la rue Dundas Est, dans le quartier est de Toronto.Avis au public : Cette production contient un langage grossier et aborde des thèmes matures, notamment la guerre et la violence qui y est associée, la colonisation, la violence sexuelle, la violence armée, les meurtres de masse et le suicide. Recommandé pour les 14 ans et plus.90 minutes, sans entracte "
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g464500"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g464520"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://capitol.nb.ca/fr/spectacles-et-billets/as-you-like-it-or-the-land-acknowledgment"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://capitol.nb.ca/temporary/643c9c5b-482e-4fff-abc0-70e3ac5e095f",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Steve Patterson"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://capitol.nb.ca/fr/spectacles-et-billets/steve-patterson"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-15T20:00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-15T23:30:00"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g464920"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://capitol.nb.ca/images/stories/flexicontent/item_392_field_41/original/steve-patterson-intro.jpg"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "De nombreux Canadiens reconnaissent le nom de Steve Patterson. Il est l’un des favoris du public depuis sa première apparition au Gala Just for Laughs en 2004 et il est l’animateur de l’émission à succès de longue durée The Debaters sur CBC depuis 2007.Ce que certains ignorent peut-être, c’est que les perceptions de Steve Patterson ont changé depuis qu’il est devenu père de deux filles. Ces nouvelles perceptions sont mises en évidence dans son nouveau spectacle, qui reprend les thèmes abordés dans son livre populaire publié par Penguin Random House Canada en 2021, Dad Up! Les responsabilités d’être père viennent avec bien des défis. Mais heureusement pour le public, ses difficultés sont un pur délice comique.Venez rejoindre cet humoriste canadien emblématique pour une balade de 90 minutes qui vous réchauffera le cœur, ravivera des souvenirs et, peut-être plus important encore, vous fera sortir de chez vous et rire avec des inconnus. Ce qui est vraiment le meilleur cadeau que les familles puissent se faire entre elles.12 ans et plus (mais vous connaissez votre enfant le mieux). En raison de la nature du stand-up, nous ne pouvons pas garantir que tout le contenu conviendra à tous les publics, mais la fille de Steve, âgée de 8 ans, et son père, âgé de 90 ans, ont apprécié le spectacle côte à côte.*Spectacle en anglais. "
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g464940"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g464960"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://capitol.nb.ca/fr/spectacles-et-billets/steve-patterson"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://capitol.nb.ca/temporary/ebfe015a-3f16-4337-abfe-b888a8418846",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Un espoir éternel"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://capitol.nb.ca/fr/spectacles-et-billets/un-espoir-eternel"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-17T19:30:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-17T23:00:00"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g465360"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://capitol.nb.ca/images/stories/flexicontent/item_424_field_41/original/beste-intro.jpg"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Symphonie Nouveau-Brunswick collabore avec le Sophia Recovery Centre pour faire découvrir des œuvres musicales évoquant la résilience, notamment la Symphonie no 7 de Beethoven.Artiste invitée : Beste Kalender, mezzo-soprano "
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g465380"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g465400"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://capitol.nb.ca/fr/spectacles-et-billets/un-espoir-eternel"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  }
+]
