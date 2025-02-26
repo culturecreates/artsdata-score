@@ -1,0 +1,14 @@
+name: Score capitol.nb.ca Events
+
+on:
+  workflow_dispatch:
+ 
+jobs:
+  call-workflow-to-fetch-data:
+    uses: ./.github/workflows/generate-report.yml
+    with:
+        page_url: "https://capitol.nb.ca/en/tickets-events?start=,https://capitol.nb.ca/fr/spectacles-et-billets?start="
+        entity_identifier: "div.fc-item-block-standard-wrapper.odd a, div.fc-item-block-standard-wrapper.even a"
+        file_name: "capitol-nb-ca.jsonld"
+        is_paginated: "0"
+        headless: "true"
