@@ -1,5 +1,8 @@
 Artsdata JSON-LD Event Score
 ==============
+
+This a SPARQL algorithm that works in conjunction with Artsdata’s web page crawler to analyze event structured data on a page. The algorithm returns a score between 0 and 74 reflecting structured data exhaustivity. Scores can be computed one event at a time using the knowledge graph interface. It is also possible to score a batch of events across a website.
+
 For the history of this project see discussion thread https://github.com/culturecreates/artsdata-data-model/discussions/120 
 
 ## Scoring individual webpages
