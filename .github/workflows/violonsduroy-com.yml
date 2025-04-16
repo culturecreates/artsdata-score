@@ -1,0 +1,14 @@
+name: Score www.violonsduroy.com/fr/programmation/ Events
+
+on:
+  workflow_dispatch:
+      
+jobs:
+  call-workflow-to-fetch-data:
+    uses: ./.github/workflows/generate-report.yml
+    with:
+        page_url: "https://www.violonsduroy.com/fr/"
+        entity_identifier: "a.upcoming-tile"
+        file_name: "violonsduroy-com.jsonld"
+        is_paginated: "false"
+        headless: "false"
