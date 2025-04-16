@@ -1,0 +1,2365 @@
+[
+  {
+    "@id": "https://www.violonsduroy.com/fr/programmation/hors-serie/2025-04-17_19h30_musiciens-en-herbe-place-a-un-nouveau-monde-4132/",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Les Violons du Roy"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.violonsduroy.com/fr/programmation/hors-serie/2025-04-17_19h30_musiciens-en-herbe-place-a-un-nouveau-monde-4132/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Musiciens en herbe : Place à un nouveau monde"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://www.violonsduroy.com/media/je3gzrfz/photo_opengraph-site-web.png?width=1200&height=1200&mode=max"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/fr/programmation/hors-serie/2025-04-17_19h30_musiciens-en-herbe-place-a-un-nouveau-monde-4132/4132",
+    "@type": [
+      "http://schema.org/MusicEvent"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-04-17T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-04-17T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.violonsduroy.com/fr/programmation/hors-serie/2025-04-17_19h30_musiciens-en-herbe-place-a-un-nouveau-monde-4132/"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g461660"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.violonsduroy.com/media/3n1icil4/meh-2025-site-web-vdr.png"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g461700"
+      },
+      {
+        "@id": "_:g461720"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g461740"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/ClassicalMusicPerformance"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g461760"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.violonsduroy.com/fr/programmation/hors-serie/2025-04-17_19h30_musiciens-en-herbe-place-a-un-nouveau-monde-4132/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Musiciens en herbe : Place à un nouveau monde"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Les Violons du Roy sont heureux d'unir leurs talents aux jeunes de la Concentration musique de l'école secondaire La Camaradière. Ensemble, ils présenteront un concert exceptionnel qui mettra en lumière le talent des élèves de ce programme d'excellence.\nMarie-Claire Cardinal, cheffeGrégoire Abadie, piano, gagnant du prix de la Fondation des Violons du Roy au Concours de musique de la Capitale 2024Les élèves du programme Concentration musique La Camaradière"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@language": "fr",
+        "@value": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461660",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g461680"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Salle Raoul-Jobin"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461700",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Marie-Claire Cardinal"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461720",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Grégoire Abadie"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461740",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K10-94"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.violonsduroy.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Les Violons du Roy"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461760",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://palaismontcalm-promo.tuxedobillet.com/promo/musiciens-en-herbe-place-a-un-nouveau-monde"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461680",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.google.com/maps/place/Palais+Montcalm+-+Maison+de+la+musique/@46.8121203,-71.2156011,17z/data=!3m1!4b1!4m5!3m4!1s0x4cb895d8c1c48659:0x275fc6ae1c44bf49!8m2!3d46.8121218!4d-71.2134137#"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "995, place D'Youville"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Québec"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "G1R 3P1"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/fr/programmation/hors-serie/2025-05-01_18h_gala-benefice-au-cinema-avec-valerie-milot-et-emile-proulx-cloutier-4138/",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Les Violons du Roy"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.violonsduroy.com/fr/programmation/hors-serie/2025-05-01_18h_gala-benefice-au-cinema-avec-valerie-milot-et-emile-proulx-cloutier-4138/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Gala-bénéfice : Au cinéma avec Valérie Milot et Émile Proulx-Cloutier"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://www.violonsduroy.com/media/je3gzrfz/photo_opengraph-site-web.png?width=1200&height=1200&mode=max"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/fr/programmation/hors-serie/2025-05-01_18h_gala-benefice-au-cinema-avec-valerie-milot-et-emile-proulx-cloutier-4138/4138",
+    "@type": [
+      "http://schema.org/MusicEvent"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-01T18:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-01T18:00:00-04:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.violonsduroy.com/fr/programmation/hors-serie/2025-05-01_18h_gala-benefice-au-cinema-avec-valerie-milot-et-emile-proulx-cloutier-4138/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.violonsduroy.com/media/fdjfa5s0/fond-visuel_gala-2025-site-web_2.png"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g465140"
+      },
+      {
+        "@id": "_:g465160"
+      },
+      {
+        "@id": "_:g465180"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g465200"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/ClassicalMusicPerformance"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g465220"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.violonsduroy.com/fr/programmation/hors-serie/2025-05-01_18h_gala-benefice-au-cinema-avec-valerie-milot-et-emile-proulx-cloutier-4138/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Gala-bénéfice : Au cinéma avec Valérie Milot et Émile Proulx-Cloutier"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Les Violons du Roy ont le plaisir de vous convier à leur Gala-bénéfice annuel, qui se tiendra à Québec le jeudi 1er mai 2025, dès 18 h, au Palais Montcalm. Sous la présidence d’honneur de MM. Pierre Marc Bellavance, de Beneva, et Nicolas Audet-Renoux, de RBC, cette prestigieuse soirée, animée par Émile Proulx-Cloutier, marquera la fin des célébrations de notre saison du 40e anniversaire. Les profits de cet événement soutiendront directement la mission des Violons du Roy et de La Chapelle de Québec.\nPour cette soirée, la harpiste Valérie Milot, soliste invitée, se joindra aux Violons du Roy, dirigés par Thomas Le Duc-Moreau, afin de vous offrir un programme enchanteur célébrant la harpe et les chefs-d’œuvre de la musique de film.\nUn cocktail de bienvenue précédera le concert, qui sera suivi d’un cocktail dinatoire où se joindront les musiciens et artistes invités.\nNotre traditionnel encan silencieux en ligne ouvrira ses portes virtuelles le mercredi 9 avril 2025 à 17 h, proposant une sélection de lots prestigieux.\n \nRÉSERVEZ VOS BILLETS ICI\nPARTICIPEZ À L'ENCAN EN LIGNE"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@language": "fr",
+        "@value": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g465140",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Thomas Le Duc-Moreau"
+      }
+    ]
+  },
+  {
+    "@id": "_:g465160",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Valérie Milot"
+      }
+    ]
+  },
+  {
+    "@id": "_:g465180",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Émile Proulx-Cloutier"
+      }
+    ]
+  },
+  {
+    "@id": "_:g465200",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K10-94"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.violonsduroy.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Les Violons du Roy"
+      }
+    ]
+  },
+  {
+    "@id": "_:g465220",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.violonsduroy.com/fr/nous-soutenir/gala-benefice-2025-au-cinema-avec-valerie-milot-et-emile-proulx-cloutier/"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2025-05-03-14h-musique-de-chambre-au-monastere-bach-dans-l-espace-4114/",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Les Violons du Roy"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.violonsduroy.com/fr/programmation/tournee/2025-05-03-14h-musique-de-chambre-au-monastere-bach-dans-l-espace-4114/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Musique de chambre au Monastère - Bach dans l'espace"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://www.violonsduroy.com/media/je3gzrfz/photo_opengraph-site-web.png?width=1200&height=1200&mode=max"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2025-05-03-14h-musique-de-chambre-au-monastere-bach-dans-l-espace-4114/4114",
+    "@type": [
+      "http://schema.org/MusicEvent"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-03T14:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-03T14:00:00-04:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2025-05-03-14h-musique-de-chambre-au-monastere-bach-dans-l-espace-4114/"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g468640"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.violonsduroy.com/media/g4ydfhag/2025-05-03-chœur-du-monastère-des-augustines.png"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g468680"
+      },
+      {
+        "@id": "_:g468700"
+      },
+      {
+        "@id": "_:g468720"
+      },
+      {
+        "@id": "_:g468740"
+      },
+      {
+        "@id": "_:g468760"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g468780"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/ClassicalMusicPerformance"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g468800"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2025-05-03-14h-musique-de-chambre-au-monastere-bach-dans-l-espace-4114/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Musique de chambre au Monastère - Bach dans l'espace"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Les œuvres de Bach nous offrent un havre de beauté sans fin. Elles font partie de la formation et de la culture de millions de musiciens, et Les Violons du Roy pigent dans ce répertoire depuis plus de 40 ans.\nC’est dans l’inspirant Chœur du Monastère qu’ils partageront leur passion pour la musique de Bach et de ses contemporains, à travers différents mouvements, alternant musique d’orchestre et musique en solo. Celle-ci permettra la mise en valeur de quelques-uns des instruments à cordes de l’incomparable collection de la compagnie Canimex de Drummondville.\nDurée : 60 minutes sans pause\n14 musiciens des Violons du Roy seront en prestation lors de ce concert unique, dont les solistes suivants :"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@language": "fr",
+        "@value": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g468640",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g468660"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Chœur du Monastère des Augustines"
+      }
+    ]
+  },
+  {
+    "@id": "_:g468680",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Jean-Louis Blouin"
+      }
+    ]
+  },
+  {
+    "@id": "_:g468700",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Angélique Duguay"
+      }
+    ]
+  },
+  {
+    "@id": "_:g468720",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Katya Poplyansky"
+      }
+    ]
+  },
+  {
+    "@id": "_:g468740",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Pascale Gagnon"
+      }
+    ]
+  },
+  {
+    "@id": "_:g468760",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Raphaël Dubé"
+      }
+    ]
+  },
+  {
+    "@id": "_:g468780",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K10-94"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.violonsduroy.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Les Violons du Roy"
+      }
+    ]
+  },
+  {
+    "@id": "_:g468800",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.eventbrite.ca/e/billets-musique-de-chambre-au-monastere-bach-dans-lespace-1226558592769?aff=oddtdtcreator"
+      }
+    ]
+  },
+  {
+    "@id": "_:g468660",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.google.com/maps/place/Le+Monast%C3%A8re+des+Augustines/@46.8158037,-71.2098708,17z/data=!3m1!5s0x4cb895dfc9166ad9:0x32d561addfb674af!4m20!1m10!3m9!1s0x4cb895dfeb7ab74b:0xe647c0f0fc44ab9c!2sLe+Monast%C3%A8re+des+Augustines!5m2!4m1!1i2!8m2!3d46.8158037!4d-71.2098708!16s%2Fg%2F11b620__tj!3m8!1s0x4cb895dfeb7ab74b:0xe647c0f0fc44ab9c!5m2!4m1!1i2!8m2!3d46.8158037!4d-71.2098708!16s%2Fg%2F11b620__tj?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2025-05-03-19h30-musique-de-chambre-au-monastere-bach-dans-l-espace-4117/",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Les Violons du Roy"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.violonsduroy.com/fr/programmation/tournee/2025-05-03-19h30-musique-de-chambre-au-monastere-bach-dans-l-espace-4117/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Musique de chambre au Monastère - Bach dans l'espace"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://www.violonsduroy.com/media/je3gzrfz/photo_opengraph-site-web.png?width=1200&height=1200&mode=max"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2025-05-03-19h30-musique-de-chambre-au-monastere-bach-dans-l-espace-4117/4117",
+    "@type": [
+      "http://schema.org/MusicEvent"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-03T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-03T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2025-05-03-19h30-musique-de-chambre-au-monastere-bach-dans-l-espace-4117/"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g472300"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.violonsduroy.com/media/g4ydfhag/2025-05-03-chœur-du-monastère-des-augustines.png"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g472340"
+      },
+      {
+        "@id": "_:g472360"
+      },
+      {
+        "@id": "_:g472380"
+      },
+      {
+        "@id": "_:g472400"
+      },
+      {
+        "@id": "_:g472420"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g472440"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/ClassicalMusicPerformance"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g472460"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.violonsduroy.com/fr/programmation/tournee/2025-05-03-19h30-musique-de-chambre-au-monastere-bach-dans-l-espace-4117/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Musique de chambre au Monastère - Bach dans l'espace"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Les œuvres de Bach nous offrent un havre de beauté sans fin. Elles font partie de la formation et de la culture de millions de musiciens, et Les Violons du Roy pigent dans ce répertoire depuis plus de 40 ans.\nC’est dans l’inspirant Chœur du Monastère qu’ils partageront leur passion pour la musique de Bach et de ses contemporains, à travers différents mouvements, alternant musique d’orchestre et musique en solo. Celle-ci permettra la mise en valeur de quelques-uns des instruments à cordes de l’incomparable collection de la compagnie Canimex de Drummondville.\nDurée : 60 minutes sans pause\n14 musiciens des Violons du Roy seront en prestation lors de ce concert unique, dont les solistes suivants :"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@language": "fr",
+        "@value": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g472300",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g472320"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Chœur du Monastère des Augustines"
+      }
+    ]
+  },
+  {
+    "@id": "_:g472340",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Jean-Louis Blouin"
+      }
+    ]
+  },
+  {
+    "@id": "_:g472360",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Angélique Duguay"
+      }
+    ]
+  },
+  {
+    "@id": "_:g472380",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Katya Poplyansky"
+      }
+    ]
+  },
+  {
+    "@id": "_:g472400",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Pascale Gagnon"
+      }
+    ]
+  },
+  {
+    "@id": "_:g472420",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Raphaël Dubé"
+      }
+    ]
+  },
+  {
+    "@id": "_:g472440",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K10-94"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.violonsduroy.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Les Violons du Roy"
+      }
+    ]
+  },
+  {
+    "@id": "_:g472460",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.eventbrite.ca/e/billets-musique-de-chambre-au-monastere-bach-dans-lespace-1226558592769?aff=oddtdtcreator"
+      }
+    ]
+  },
+  {
+    "@id": "_:g472320",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.google.com/maps/place/Le+Monast%C3%A8re+des+Augustines/@46.8158037,-71.2098708,17z/data=!3m1!5s0x4cb895dfc9166ad9:0x32d561addfb674af!4m20!1m10!3m9!1s0x4cb895dfeb7ab74b:0xe647c0f0fc44ab9c!2sLe+Monast%C3%A8re+des+Augustines!5m2!4m1!1i2!8m2!3d46.8158037!4d-71.2098708!16s%2Fg%2F11b620__tj!3m8!1s0x4cb895dfeb7ab74b:0xe647c0f0fc44ab9c!5m2!4m1!1i2!8m2!3d46.8158037!4d-71.2098708!16s%2Fg%2F11b620__tj?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-05-15_14h_chaconnes-et-passacailles-avec-bernard-labadie-3903/",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Les Violons du Roy"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-05-15_14h_chaconnes-et-passacailles-avec-bernard-labadie-3903/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Chaconnes et passacailles avec Bernard Labadie"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://www.violonsduroy.com/media/je3gzrfz/photo_opengraph-site-web.png?width=1200&height=1200&mode=max"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-05-15_14h_chaconnes-et-passacailles-avec-bernard-labadie-3903/3903",
+    "@type": [
+      "http://schema.org/MusicEvent"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-15T14:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-15T14:00:00-04:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-05-15_14h_chaconnes-et-passacailles-avec-bernard-labadie-3903/"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g475880"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.violonsduroy.com/media/cjjnfwwc/chaconnes-et-passacailles-avec-bernard-labadie.png"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g475920"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g475940"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/ClassicalMusicPerformance"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g475960"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-05-15_14h_chaconnes-et-passacailles-avec-bernard-labadie-3903/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Chaconnes et passacailles avec Bernard Labadie"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Bernard Labadie propose un brillant programme de musique italienne, française et anglaise, mettant en lumière ses propres arrangements de deux chefs-d’œuvre baroques réalisés spécialement pour Les Violons du Roy : la monumentale Passacaille et fugue en do mineur de Bach et la poignante Chaconne en fa mineur de Pachelbel."
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@language": "fr",
+        "@value": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g475880",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g475900"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Salle Raoul-Jobin"
+      }
+    ]
+  },
+  {
+    "@id": "_:g475920",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Bernard Labadie"
+      }
+    ]
+  },
+  {
+    "@id": "_:g475940",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K10-94"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.violonsduroy.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Les Violons du Roy"
+      }
+    ]
+  },
+  {
+    "@id": "_:g475960",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://palaismontcalm-violonsduroy.tuxedobillet.com/violonsduroy/chaconnes-et-passacailles-avec-bernard-labadie"
+      }
+    ]
+  },
+  {
+    "@id": "_:g475900",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.google.com/maps/place/Palais+Montcalm+-+Maison+de+la+musique/@46.8121203,-71.2156011,17z/data=!3m1!4b1!4m5!3m4!1s0x4cb895d8c1c48659:0x275fc6ae1c44bf49!8m2!3d46.8121218!4d-71.2134137#"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "995, place D'Youville"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Québec"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "G1R 3P1"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-05-15_19h30_chaconnes-et-passacailles-avec-bernard-labadie-3904/",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Les Violons du Roy"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-05-15_19h30_chaconnes-et-passacailles-avec-bernard-labadie-3904/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Chaconnes et passacailles avec Bernard Labadie"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://www.violonsduroy.com/media/je3gzrfz/photo_opengraph-site-web.png?width=1200&height=1200&mode=max"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-05-15_19h30_chaconnes-et-passacailles-avec-bernard-labadie-3904/3904",
+    "@type": [
+      "http://schema.org/MusicEvent"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-15T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-15T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-05-15_19h30_chaconnes-et-passacailles-avec-bernard-labadie-3904/"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g479320"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.violonsduroy.com/media/cjjnfwwc/chaconnes-et-passacailles-avec-bernard-labadie.png"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g479360"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g479380"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/ClassicalMusicPerformance"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g479400"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-05-15_19h30_chaconnes-et-passacailles-avec-bernard-labadie-3904/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Chaconnes et passacailles avec Bernard Labadie"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Bernard Labadie propose un brillant programme de musique italienne, française et anglaise, mettant en lumière ses propres arrangements de deux chefs-d’œuvre baroques réalisés spécialement pour Les Violons du Roy : la monumentale Passacaille et fugue en do mineur de Bach et la poignante Chaconne en fa mineur de Pachelbel."
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@language": "fr",
+        "@value": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g479320",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g479340"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Salle Raoul-Jobin"
+      }
+    ]
+  },
+  {
+    "@id": "_:g479360",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Bernard Labadie"
+      }
+    ]
+  },
+  {
+    "@id": "_:g479380",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K10-94"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.violonsduroy.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Les Violons du Roy"
+      }
+    ]
+  },
+  {
+    "@id": "_:g479400",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://palaismontcalm-violonsduroy.tuxedobillet.com/violonsduroy/chaconnes-et-passacailles-avec-bernard-labadie19h30"
+      }
+    ]
+  },
+  {
+    "@id": "_:g479340",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.google.com/maps/place/Palais+Montcalm+-+Maison+de+la+musique/@46.8121203,-71.2156011,17z/data=!3m1!4b1!4m5!3m4!1s0x4cb895d8c1c48659:0x275fc6ae1c44bf49!8m2!3d46.8121218!4d-71.2134137#"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "995, place D'Youville"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Québec"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "G1R 3P1"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/fr/programmation/saison-montreal/2025-05-16_19h30_chaconnes-et-passacailles-avec-bernard-labadie-3405/",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Les Violons du Roy"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.violonsduroy.com/fr/programmation/saison-montreal/2025-05-16_19h30_chaconnes-et-passacailles-avec-bernard-labadie-3405/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Chaconnes et passacailles avec Bernard Labadie"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://www.violonsduroy.com/media/je3gzrfz/photo_opengraph-site-web.png?width=1200&height=1200&mode=max"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/fr/programmation/saison-montreal/2025-05-16_19h30_chaconnes-et-passacailles-avec-bernard-labadie-3405/3405",
+    "@type": [
+      "http://schema.org/MusicEvent"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-16T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-16T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.violonsduroy.com/fr/programmation/saison-montreal/2025-05-16_19h30_chaconnes-et-passacailles-avec-bernard-labadie-3405/"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g482800"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.violonsduroy.com/media/cjjnfwwc/chaconnes-et-passacailles-avec-bernard-labadie.png"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g482840"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g482860"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/ClassicalMusicPerformance"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g482880"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.violonsduroy.com/fr/programmation/saison-montreal/2025-05-16_19h30_chaconnes-et-passacailles-avec-bernard-labadie-3405/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Chaconnes et passacailles avec Bernard Labadie"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Bernard Labadie propose un brillant programme de musique italienne, française et anglaise, mettant en lumière ses propres arrangements de deux chefs-d’œuvre baroques réalisés spécialement pour Les Violons du Roy : la monumentale Passacaille et fugue en do mineur de Bach et la poignante Chaconne en fa mineur de Pachelbel."
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@language": "fr",
+        "@value": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g482800",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g482820"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Salle Bourgie"
+      }
+    ]
+  },
+  {
+    "@id": "_:g482840",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Bernard Labadie"
+      }
+    ]
+  },
+  {
+    "@id": "_:g482860",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K10-94"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.violonsduroy.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Les Violons du Roy"
+      }
+    ]
+  },
+  {
+    "@id": "_:g482880",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.mbam.qc.ca/fr/activites/chaconnes-et-passacailles/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g482820",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.google.com/maps/place/Salle+Bourgie/@45.4991091,-73.5817896,17z/data=!3m1!4b1!4m5!3m4!1s0x4cc91a404198dc7d:0xf3049abd85d405c4!8m2!3d45.4991099!4d-73.5795973"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "1339, rue Sherbrooke Ouest"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Montréal"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "H3G 2C6"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-05-21_17h30_satie-morceaux-choisis-en-forme-d-hommage-3913/",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Les Violons du Roy"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-05-21_17h30_satie-morceaux-choisis-en-forme-d-hommage-3913/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Concert Apéro 4"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://www.violonsduroy.com/media/je3gzrfz/photo_opengraph-site-web.png?width=1200&height=1200&mode=max"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-05-21_17h30_satie-morceaux-choisis-en-forme-d-hommage-3913/3913",
+    "@type": [
+      "http://schema.org/MusicEvent"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-21T17:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-21T17:30:00-04:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-05-21_17h30_satie-morceaux-choisis-en-forme-d-hommage-3913/"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g485780"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.violonsduroy.com/media/rp4jfq0k/site-vdr-photo-concert-apéro-4.jpg"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g485820"
+      },
+      {
+        "@id": "_:g485840"
+      },
+      {
+        "@id": "_:g485860"
+      },
+      {
+        "@id": "_:g485880"
+      },
+      {
+        "@id": "_:g485900"
+      },
+      {
+        "@id": "_:g485920"
+      },
+      {
+        "@id": "_:g485940"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g485960"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/ClassicalMusicPerformance"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g485980"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-05-21_17h30_satie-morceaux-choisis-en-forme-d-hommage-3913/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Satie : Morceaux choisis en forme d’hommage"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Érik Satie occupe une place à part dans l’histoire et le répertoire de la musique. Inclassable, sa musique annonce le minimalisme américain tout en étant proche du surréalisme et de l’absurde. La poésie y est très souvent présente, particulièrement dans ses célèbres pages pour piano. Les Violons du Roy abordent Satie pour la toute première fois, grâce à des transcriptions de Simon Desbiens, spécialement réalisées pour eux à l’occasion du 100e anniversaire de la mort de ce bel iconoclaste."
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@language": "fr",
+        "@value": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485780",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g485800"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Salle D’Youville"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485820",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Pascale Giguère"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485840",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Katya Poplyansky"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485860",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Annie Morrier"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485880",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Jean-Louis Blouin"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485900",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Raphaël Dubé"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485920",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Dominique Beauséjour-Ostiguy"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485940",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Raphaël McNabney"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485960",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K10-94"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.violonsduroy.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Les Violons du Roy"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485980",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://palaismontcalm-violonsduroy.tuxedobillet.com/violonsduroy/concert-apero-4-pour-les-echanges"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485800",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.google.com/maps/place/Palais+Montcalm+-+Maison+de+la+musique/@46.8121203,-71.2156064,17z/data=!3m1!4b1!4m5!3m4!1s0x4cb895d8c1c48659:0x275fc6ae1c44bf49!8m2!3d46.8121218!4d-71.2134137"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "995, place D'Youville"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Québec"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "G1R 3P1"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-05-22_17h30_satie-morceaux-choisis-en-forme-d-hommage-3914/",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Les Violons du Roy"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-05-22_17h30_satie-morceaux-choisis-en-forme-d-hommage-3914/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Concert Apéro 4"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://www.violonsduroy.com/media/je3gzrfz/photo_opengraph-site-web.png?width=1200&height=1200&mode=max"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-05-22_17h30_satie-morceaux-choisis-en-forme-d-hommage-3914/3914",
+    "@type": [
+      "http://schema.org/MusicEvent"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-22T17:30:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-22T17:30:00-04:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-05-22_17h30_satie-morceaux-choisis-en-forme-d-hommage-3914/"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g489660"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.violonsduroy.com/media/rp4jfq0k/site-vdr-photo-concert-apéro-4.jpg"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g489700"
+      },
+      {
+        "@id": "_:g489720"
+      },
+      {
+        "@id": "_:g489740"
+      },
+      {
+        "@id": "_:g489760"
+      },
+      {
+        "@id": "_:g489780"
+      },
+      {
+        "@id": "_:g489800"
+      },
+      {
+        "@id": "_:g489820"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g489840"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/ClassicalMusicPerformance"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g489860"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-05-22_17h30_satie-morceaux-choisis-en-forme-d-hommage-3914/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Satie : Morceaux choisis en forme d’hommage"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Érik Satie occupe une place à part dans l’histoire et le répertoire de la musique. Inclassable, sa musique annonce le minimalisme américain tout en étant proche du surréalisme et de l’absurde. La poésie y est très souvent présente, particulièrement dans ses célèbres pages pour piano. Les Violons du Roy abordent Satie pour la toute première fois, grâce à des transcriptions de Simon Desbiens, spécialement réalisées pour eux à l’occasion du 100e anniversaire de la mort de ce bel iconoclaste."
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@language": "fr",
+        "@value": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g489660",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g489680"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Salle D’Youville"
+      }
+    ]
+  },
+  {
+    "@id": "_:g489700",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Pascale Giguère"
+      }
+    ]
+  },
+  {
+    "@id": "_:g489720",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Katya Poplyansky"
+      }
+    ]
+  },
+  {
+    "@id": "_:g489740",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Annie Morrier"
+      }
+    ]
+  },
+  {
+    "@id": "_:g489760",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Jean-Louis Blouin"
+      }
+    ]
+  },
+  {
+    "@id": "_:g489780",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Raphaël Dubé"
+      }
+    ]
+  },
+  {
+    "@id": "_:g489800",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Dominique Beauséjour-Ostiguy"
+      }
+    ]
+  },
+  {
+    "@id": "_:g489820",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Raphaël McNabney"
+      }
+    ]
+  },
+  {
+    "@id": "_:g489840",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K10-94"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.violonsduroy.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Les Violons du Roy"
+      }
+    ]
+  },
+  {
+    "@id": "_:g489860",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://palaismontcalm-violonsduroy.tuxedobillet.com/violonsduroy/concert-apero-4-pour-les-echanges"
+      }
+    ]
+  },
+  {
+    "@id": "_:g489680",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.google.com/maps/place/Palais+Montcalm+-+Maison+de+la+musique/@46.8121203,-71.2156064,17z/data=!3m1!4b1!4m5!3m4!1s0x4cb895d8c1c48659:0x275fc6ae1c44bf49!8m2!3d46.8121218!4d-71.2134137"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "995, place D'Youville"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Québec"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "G1R 3P1"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-06-05_14h_symphonie-a-la-francaise-avec-nicolas-ellis-3905/",
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr",
+        "@value": "Les Violons du Roy"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr",
+        "@value": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-06-05_14h_symphonie-a-la-francaise-avec-nicolas-ellis-3905/"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr",
+        "@value": "Symphonie à la française avec Nicolas Ellis"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr",
+        "@value": "https://www.violonsduroy.com/media/je3gzrfz/photo_opengraph-site-web.png?width=1200&height=1200&mode=max"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-06-05_14h_symphonie-a-la-francaise-avec-nicolas-ellis-3905/3905",
+    "@type": [
+      "http://schema.org/MusicEvent"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-06-05T14:00:00-04:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-06-05T14:00:00-04:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-06-05_14h_symphonie-a-la-francaise-avec-nicolas-ellis-3905/"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g493380"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.violonsduroy.com/media/oqmjpmw0/symphonie-a-la-francaise-avec-nicolas-ellis.png"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g493420"
+      },
+      {
+        "@id": "_:g493440"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g493460"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/ClassicalMusicPerformance"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g493480"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.violonsduroy.com/fr/programmation/saison-quebec/2025-06-05_14h_symphonie-a-la-francaise-avec-nicolas-ellis-3905/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Symphonie à la française avec Nicolas Ellis"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Pour conclure la saison, le premier chef invité des Violons du Roy Nicolas Ellis dirige un programme de musique française, avec des œuvres composées avant ou juste après la Révolution française, comprenant une grande suite orchestrale de Rameau, une superbe symphonie de Gossec et un concerto pour violoncelle de Duport, véritable trésor oublié dont Raphaël Pidoux, dans ses débuts avec l’orchestre, en fera découvrir toute la richesse."
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@language": "fr",
+        "@value": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "_:g493380",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g493400"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Salle Raoul-Jobin"
+      }
+    ]
+  },
+  {
+    "@id": "_:g493420",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Nicolas Ellis"
+      }
+    ]
+  },
+  {
+    "@id": "_:g493440",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Raphaël Pidoux"
+      }
+    ]
+  },
+  {
+    "@id": "_:g493460",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K10-94"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.violonsduroy.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Les Violons du Roy"
+      }
+    ]
+  },
+  {
+    "@id": "_:g493480",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://palaismontcalm-violonsduroy.tuxedobillet.com/violonsduroy/symphonie-a-la-francaise-avec-nicolas-ellisPM"
+      }
+    ]
+  },
+  {
+    "@id": "_:g493400",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.google.com/maps/place/Palais+Montcalm+-+Maison+de+la+musique/@46.8121203,-71.2156011,17z/data=!3m1!4b1!4m5!3m4!1s0x4cb895d8c1c48659:0x275fc6ae1c44bf49!8m2!3d46.8121218!4d-71.2134137#"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "995, place D'Youville"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Québec"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "G1R 3P1"
+      }
+    ]
+  }
+]
