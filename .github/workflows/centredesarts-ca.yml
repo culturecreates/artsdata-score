@@ -11,4 +11,4 @@ jobs:
         entity_identifier: "div.portfolio-text-title a"
         file_name: "centredesarts-ca.jsonld"
         is_paginated: "false"
-        headless: "false"
+        headless: "true"
