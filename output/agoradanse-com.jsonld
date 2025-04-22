@@ -1,2304 +1,5 @@
 [
   {
-    "@id": "https://agoradanse.com/evenement/lame-de-fond/",
-    "http://ogp.me/ns#locale": [
-      {
-        "@language": "fr-fr",
-        "@value": "fr_FR"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "fr-fr",
-        "@value": "article"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr-fr",
-        "@value": "Lame de fond - Milan Gervais - Agora de la danse"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "fr-fr",
-        "@value": "Une immersion saisissante où le corps féminin devient le terrain d’un dialogue incessant, un espace de multiplicité et d’évolution."
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr-fr",
-        "@value": "https://agoradanse.com/evenement/lame-de-fond/"
-      }
-    ],
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr-fr",
-        "@value": "Agora de la danse"
-      }
-    ],
-    "article:publisher": [
-      {
-        "@language": "fr-fr",
-        "@value": "https://www.facebook.com/agoradeladanse"
-      }
-    ],
-    "article:modified_time": [
-      {
-        "@language": "fr-fr",
-        "@value": "2025-02-12T17:35:40+00:00"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr-fr",
-        "@value": "https://agoradanse.com/wp-content/uploads/2024/11/Lamedefond_videostill2025.jpg"
-      }
-    ],
-    "http://ogp.me/ns#image:width": [
-      {
-        "@language": "fr-fr",
-        "@value": "1920"
-      }
-    ],
-    "http://ogp.me/ns#image:height": [
-      {
-        "@language": "fr-fr",
-        "@value": "1093"
-      }
-    ],
-    "http://ogp.me/ns#image:type": [
-      {
-        "@language": "fr-fr",
-        "@value": "image/jpeg"
-      }
-    ],
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://agoradanse.com/evenement/lame-de-fond/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Lame de fond - Agora de la danse"
-      }
-    ],
-    "http://schema.org/isPartOf": [
-      {
-        "@id": "https://agoradanse.com/#website"
-      }
-    ],
-    "http://schema.org/primaryImageOfPage": [
-      {
-        "@id": "https://agoradanse.com/evenement/lame-de-fond/#primaryimage"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://agoradanse.com/evenement/lame-de-fond/#primaryimage"
-      }
-    ],
-    "http://schema.org/thumbnailUrl": [
-      {
-        "@id": "https://agoradanse.com/wp-content/uploads/2024/11/lame-de-fond_by_julie-artacho_1920_1.jpg"
-      }
-    ],
-    "http://schema.org/datePublished": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-11-14T16:26:09+00:00"
-      }
-    ],
-    "http://schema.org/dateModified": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-02-12T17:35:40+00:00"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Une immersion saisissante où le corps féminin devient le terrain d’un dialogue incessant, un espace de multiplicité et d’évolution."
-      }
-    ],
-    "http://schema.org/breadcrumb": [
-      {
-        "@id": "https://agoradanse.com/evenement/lame-de-fond/#breadcrumb"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@value": "fr-FR"
-      }
-    ],
-    "http://schema.org/potentialAction": [
-      {
-        "@id": "_:g460360"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://agoradanse.com/wp-json/"
-      }
-    ]
-  },
-  {
-    "@id": "https://agoradanse.com/#website",
-    "@type": [
-      "http://schema.org/WebSite"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://agoradanse.com/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Agora de la danse"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Lieu majeur de recherche, de création et de diffusion en danse contemporaine à Montréal."
-      }
-    ],
-    "http://schema.org/publisher": [
-      {
-        "@id": "https://agoradanse.com/#organization"
-      }
-    ],
-    "http://schema.org/potentialAction": [
-      {
-        "@id": "_:g460440"
-      },
-      {
-        "@id": "_:g463200"
-      },
-      {
-        "@id": "_:g465040"
-      },
-      {
-        "@id": "_:g467720"
-      },
-      {
-        "@id": "_:g469100"
-      },
-      {
-        "@id": "_:g471760"
-      },
-      {
-        "@id": "_:g473940"
-      },
-      {
-        "@id": "_:g476440"
-      },
-      {
-        "@id": "_:g478960"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@value": "fr-FR"
-      }
-    ]
-  },
-  {
-    "@id": "https://agoradanse.com/evenement/lame-de-fond/#primaryimage",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@value": "fr-FR"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://agoradanse.com/wp-content/uploads/2024/11/lame-de-fond_by_julie-artacho_1920_1.jpg"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://agoradanse.com/wp-content/uploads/2024/11/lame-de-fond_by_julie-artacho_1920_1.jpg"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1920"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1080"
-      }
-    ],
-    "http://schema.org/caption": [
-      {
-        "@value": "©&#xfe0f; Julie Artacho"
-      }
-    ]
-  },
-  {
-    "@id": "_:g460360",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@value": "https://agoradanse.com/evenement/lame-de-fond/"
-      }
-    ]
-  },
-  {
-    "@id": "https://agoradanse.com/#organization",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Agora de la danse"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://agoradanse.com/"
-      }
-    ],
-    "http://schema.org/logo": [
-      {
-        "@id": "https://agoradanse.com/#/schema/logo/image/"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://agoradanse.com/#/schema/logo/image/"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.facebook.com/agoradeladanse"
-      },
-      {
-        "@id": "https://twitter.com/Agoradanse"
-      },
-      {
-        "@id": "https://agoradanse"
-      },
-      {
-        "@id": "https://www.linkedin.com/company/agoradanse"
-      },
-      {
-        "@id": "https://www.youtube.com/user/Agoradanse"
-      }
-    ]
-  },
-  {
-    "@id": "_:g460440",
-    "@type": [
-      "http://schema.org/SearchAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@id": "_:g460460"
-      }
-    ],
-    "http://schema.org/query-input": [
-      {
-        "@value": "required name=search_term_string"
-      }
-    ]
-  },
-  {
-    "@id": "_:g463200",
-    "@type": [
-      "http://schema.org/SearchAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@id": "_:g463220"
-      }
-    ],
-    "http://schema.org/query-input": [
-      {
-        "@value": "required name=search_term_string"
-      }
-    ]
-  },
-  {
-    "@id": "_:g465040",
-    "@type": [
-      "http://schema.org/SearchAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@id": "_:g465060"
-      }
-    ],
-    "http://schema.org/query-input": [
-      {
-        "@value": "required name=search_term_string"
-      }
-    ]
-  },
-  {
-    "@id": "_:g467720",
-    "@type": [
-      "http://schema.org/SearchAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@id": "_:g467740"
-      }
-    ],
-    "http://schema.org/query-input": [
-      {
-        "@value": "required name=search_term_string"
-      }
-    ]
-  },
-  {
-    "@id": "_:g469100",
-    "@type": [
-      "http://schema.org/SearchAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@id": "_:g469120"
-      }
-    ],
-    "http://schema.org/query-input": [
-      {
-        "@value": "required name=search_term_string"
-      }
-    ]
-  },
-  {
-    "@id": "_:g471760",
-    "@type": [
-      "http://schema.org/SearchAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@id": "_:g471780"
-      }
-    ],
-    "http://schema.org/query-input": [
-      {
-        "@value": "required name=search_term_string"
-      }
-    ]
-  },
-  {
-    "@id": "_:g473940",
-    "@type": [
-      "http://schema.org/SearchAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@id": "_:g473960"
-      }
-    ],
-    "http://schema.org/query-input": [
-      {
-        "@value": "required name=search_term_string"
-      }
-    ]
-  },
-  {
-    "@id": "_:g476440",
-    "@type": [
-      "http://schema.org/SearchAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@id": "_:g476460"
-      }
-    ],
-    "http://schema.org/query-input": [
-      {
-        "@value": "required name=search_term_string"
-      }
-    ]
-  },
-  {
-    "@id": "_:g478960",
-    "@type": [
-      "http://schema.org/SearchAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@id": "_:g478980"
-      }
-    ],
-    "http://schema.org/query-input": [
-      {
-        "@value": "required name=search_term_string"
-      }
-    ]
-  },
-  {
-    "@id": "https://agoradanse.com/#/schema/logo/image/",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@value": "fr-FR"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://agoradanse.com/wp-content/uploads/2017/12/Logo_Agora-01.png"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://agoradanse.com/wp-content/uploads/2017/12/Logo_Agora-01.png"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1250"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "833"
-      }
-    ],
-    "http://schema.org/caption": [
-      {
-        "@value": "Agora de la danse"
-      }
-    ]
-  },
-  {
-    "@id": "_:g460460",
-    "@type": [
-      "http://schema.org/EntryPoint"
-    ],
-    "http://schema.org/urlTemplate": [
-      {
-        "@value": "https://agoradanse.com/?s={search_term_string}"
-      }
-    ]
-  },
-  {
-    "@id": "_:g460500",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "AGORA DE LA DANSE | ÉDIFICE WILDER"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g460520"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "_:g460540"
-      }
-    ]
-  },
-  {
-    "@id": "_:g460520",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Montreal"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "QC"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "Canada"
-      }
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "1435, rue De Bleury"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": "H3A 2H7"
-      }
-    ]
-  },
-  {
-    "@id": "_:g460540",
-    "@type": [
-      "http://schema.org/GeoCoordinates"
-    ],
-    "http://schema.org/latitude": [
-      {
-        "@value": "45.506783"
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@value": "-73.5673573"
-      }
-    ]
-  },
-  {
-    "@id": "_:g460560",
-    "@type": [
-      "http://schema.org/AggregateOffer"
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://agoradanse.tuxedobillet.com/main/lame-de-fond"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@value": "29.00"
-      }
-    ],
-    "http://schema.org/lowPrice": [
-      {
-        "@value": "29.00"
-      }
-    ],
-    "http://schema.org/highPrice": [
-      {
-        "@value": "35.00"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-02-12"
-      }
-    ],
-    "http://schema.org/validThrough": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-02-15"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@id": "_:g460580",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://agoradanse.com/wp-content/uploads/2024/11/milan-gervais_by_simon-couturier.jpg"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Milan Gervais"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.human-playground.com"
-      },
-      {
-        "@id": "https://www.facebook.com/HumanPlayground/"
-      },
-      {
-        "@id": "https://www.instagram.com/humanplaygroundmtl/"
-      },
-      {
-        "@id": "https://www.vimeo.com/humanplayground"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.human-playground.com"
-      },
-      {
-        "@id": "https://www.facebook.com/HumanPlayground/"
-      },
-      {
-        "@id": "https://www.instagram.com/humanplaygroundmtl/"
-      },
-      {
-        "@id": "https://www.vimeo.com/humanplayground"
-      }
-    ]
-  },
-  {
-    "@id": "https://agoradanse.com/evenement/replica/",
-    "http://ogp.me/ns#locale": [
-      {
-        "@language": "fr-fr",
-        "@value": "fr_FR"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "fr-fr",
-        "@value": "article"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr-fr",
-        "@value": "REPLICA - Andrea Peña & Artists - Agora de la danse"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "fr-fr",
-        "@value": "Un duo qui nous entraîne à sa suite dans une captivante performance archéologique du mouvement de la mythologie aux corps d'aujourd'hui."
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr-fr",
-        "@value": "https://agoradanse.com/evenement/replica/"
-      }
-    ],
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr-fr",
-        "@value": "Agora de la danse"
-      }
-    ],
-    "article:publisher": [
-      {
-        "@language": "fr-fr",
-        "@value": "https://www.facebook.com/agoradeladanse"
-      }
-    ],
-    "article:modified_time": [
-      {
-        "@language": "fr-fr",
-        "@value": "2024-12-11T21:14:16+00:00"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr-fr",
-        "@value": "https://agoradanse.com/wp-content/uploads/2024/10/replica_by_jeanne-tetrault_1920_1.jpg"
-      }
-    ],
-    "http://ogp.me/ns#image:width": [
-      {
-        "@language": "fr-fr",
-        "@value": "1920"
-      }
-    ],
-    "http://ogp.me/ns#image:height": [
-      {
-        "@language": "fr-fr",
-        "@value": "1080"
-      }
-    ],
-    "http://ogp.me/ns#image:type": [
-      {
-        "@language": "fr-fr",
-        "@value": "image/jpeg"
-      }
-    ],
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://agoradanse.com/evenement/replica/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "REPLICA - Agora de la danse"
-      }
-    ],
-    "http://schema.org/isPartOf": [
-      {
-        "@id": "https://agoradanse.com/#website"
-      }
-    ],
-    "http://schema.org/primaryImageOfPage": [
-      {
-        "@id": "https://agoradanse.com/evenement/replica/#primaryimage"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://agoradanse.com/evenement/replica/#primaryimage"
-      }
-    ],
-    "http://schema.org/thumbnailUrl": [
-      {
-        "@id": "https://agoradanse.com/wp-content/uploads/2024/10/replica_by_jeanne-tetrault_1920_1.jpg"
-      }
-    ],
-    "http://schema.org/datePublished": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-10-30T18:19:55+00:00"
-      }
-    ],
-    "http://schema.org/dateModified": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-12-11T21:14:16+00:00"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Un duo qui nous entraîne à sa suite dans une captivante performance archéologique du mouvement de la mythologie aux corps d'aujourd'hui."
-      }
-    ],
-    "http://schema.org/breadcrumb": [
-      {
-        "@id": "https://agoradanse.com/evenement/replica/#breadcrumb"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@value": "fr-FR"
-      }
-    ],
-    "http://schema.org/potentialAction": [
-      {
-        "@id": "_:g463120"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://agoradanse.com/wp-json/"
-      }
-    ]
-  },
-  {
-    "@id": "https://agoradanse.com/evenement/replica/#primaryimage",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@value": "fr-FR"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://agoradanse.com/wp-content/uploads/2024/10/replica_by_jeanne-tetrault_1920_1.jpg"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://agoradanse.com/wp-content/uploads/2024/10/replica_by_jeanne-tetrault_1920_1.jpg"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1920"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1080"
-      }
-    ],
-    "http://schema.org/caption": [
-      {
-        "@value": "©&#xfe0f; Jeanne Tétreault"
-      }
-    ]
-  },
-  {
-    "@id": "_:g463120",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@value": "https://agoradanse.com/evenement/replica/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g463220",
-    "@type": [
-      "http://schema.org/EntryPoint"
-    ],
-    "http://schema.org/urlTemplate": [
-      {
-        "@value": "https://agoradanse.com/?s={search_term_string}"
-      }
-    ]
-  },
-  {
-    "@id": "_:g463260",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "AGORA DE LA DANSE | ÉDIFICE WILDER"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g463280"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "_:g463300"
-      }
-    ]
-  },
-  {
-    "@id": "_:g463280",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Montreal"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "QC"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "Canada"
-      }
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "1435, rue De Bleury"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": "H3A 2H7"
-      }
-    ]
-  },
-  {
-    "@id": "_:g463300",
-    "@type": [
-      "http://schema.org/GeoCoordinates"
-    ],
-    "http://schema.org/latitude": [
-      {
-        "@value": "45.506783"
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@value": "-73.5673573"
-      }
-    ]
-  },
-  {
-    "@id": "_:g463320",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://agoradanse.tuxedobillet.com/main/replica"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@value": "39.00"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-02-26"
-      }
-    ],
-    "http://schema.org/validThrough": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-03-01"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@id": "_:g463340",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://agoradanse.com/wp-content/uploads/2022/09/AndreaPena-by-BobbyLeon-HD.jpg"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Andrea Peña"
-      }
-    ]
-  },
-  {
-    "@id": "https://agoradanse.com/evenement/gli-anni/",
-    "http://ogp.me/ns#locale": [
-      {
-        "@language": "fr-fr",
-        "@value": "fr_FR"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "fr-fr",
-        "@value": "article"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr-fr",
-        "@value": "Gli Anni - Marco D'Agostin - Agora de la danse"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "fr-fr",
-        "@value": "Dans un dialogue fascinant entre corps et mémoire, Gli anni (Les années) dévoile l'intimité des souvenirs à travers un solo subtil et poignant."
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr-fr",
-        "@value": "https://agoradanse.com/evenement/gli-anni/"
-      }
-    ],
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr-fr",
-        "@value": "Agora de la danse"
-      }
-    ],
-    "article:publisher": [
-      {
-        "@language": "fr-fr",
-        "@value": "https://www.facebook.com/agoradeladanse"
-      }
-    ],
-    "article:modified_time": [
-      {
-        "@language": "fr-fr",
-        "@value": "2025-01-07T19:41:06+00:00"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr-fr",
-        "@value": "https://agoradanse.com/wp-content/uploads/2024/11/gli-anni_by_michelle-davis_1920_1.jpg"
-      }
-    ],
-    "http://ogp.me/ns#image:width": [
-      {
-        "@language": "fr-fr",
-        "@value": "1920"
-      }
-    ],
-    "http://ogp.me/ns#image:height": [
-      {
-        "@language": "fr-fr",
-        "@value": "1080"
-      }
-    ],
-    "http://ogp.me/ns#image:type": [
-      {
-        "@language": "fr-fr",
-        "@value": "image/jpeg"
-      }
-    ],
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://agoradanse.com/evenement/gli-anni/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Gli Anni - Agora de la danse Gli Anni"
-      }
-    ],
-    "http://schema.org/isPartOf": [
-      {
-        "@id": "https://agoradanse.com/#website"
-      }
-    ],
-    "http://schema.org/primaryImageOfPage": [
-      {
-        "@id": "https://agoradanse.com/evenement/gli-anni/#primaryimage"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://agoradanse.com/evenement/gli-anni/#primaryimage"
-      }
-    ],
-    "http://schema.org/thumbnailUrl": [
-      {
-        "@id": "https://agoradanse.com/wp-content/uploads/2024/11/gli-anni_by_michelle-davis_1920_1.jpg"
-      }
-    ],
-    "http://schema.org/datePublished": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-11-14T16:56:33+00:00"
-      }
-    ],
-    "http://schema.org/dateModified": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-01-07T19:41:06+00:00"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Dans un dialogue fascinant entre corps et mémoire, Gli anni dévoile l'intimité des souvenirs à travers un solo subtil et poignant."
-      }
-    ],
-    "http://schema.org/breadcrumb": [
-      {
-        "@id": "https://agoradanse.com/evenement/gli-anni/#breadcrumb"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@value": "fr-FR"
-      }
-    ],
-    "http://schema.org/potentialAction": [
-      {
-        "@id": "_:g464960"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://agoradanse.com/wp-json/"
-      }
-    ]
-  },
-  {
-    "@id": "https://agoradanse.com/evenement/gli-anni/#primaryimage",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@value": "fr-FR"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://agoradanse.com/wp-content/uploads/2024/11/gli-anni_by_michelle-davis_1920_1.jpg"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://agoradanse.com/wp-content/uploads/2024/11/gli-anni_by_michelle-davis_1920_1.jpg"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1920"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1080"
-      }
-    ],
-    "http://schema.org/caption": [
-      {
-        "@value": "©&#xfe0f; Michelle Davis"
-      }
-    ]
-  },
-  {
-    "@id": "_:g464960",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@value": "https://agoradanse.com/evenement/gli-anni/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g465060",
-    "@type": [
-      "http://schema.org/EntryPoint"
-    ],
-    "http://schema.org/urlTemplate": [
-      {
-        "@value": "https://agoradanse.com/?s={search_term_string}"
-      }
-    ]
-  },
-  {
-    "@id": "_:g465100",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "AGORA DE LA DANSE | ÉDIFICE WILDER"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g465120"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "_:g465140"
-      }
-    ]
-  },
-  {
-    "@id": "_:g465120",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Montreal"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "QC"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "Canada"
-      }
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "1435, rue De Bleury"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": "H3A 2H7"
-      }
-    ]
-  },
-  {
-    "@id": "_:g465140",
-    "@type": [
-      "http://schema.org/GeoCoordinates"
-    ],
-    "http://schema.org/latitude": [
-      {
-        "@value": "45.506783"
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@value": "-73.5673573"
-      }
-    ]
-  },
-  {
-    "@id": "_:g465160",
-    "@type": [
-      "http://schema.org/AggregateOffer"
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://agoradanse.tuxedobillet.com/main/gli-anni"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@value": "29.00"
-      }
-    ],
-    "http://schema.org/lowPrice": [
-      {
-        "@value": "29.00"
-      }
-    ],
-    "http://schema.org/highPrice": [
-      {
-        "@value": "35.00"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-03-12"
-      }
-    ],
-    "http://schema.org/validThrough": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-03-14"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@id": "_:g465180",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://agoradanse.com/wp-content/uploads/2024/11/marco-dagostin_by_loris_salussosia.jpg"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Marco D'Agostin"
-      }
-    ]
-  },
-  {
-    "@id": "https://agoradanse.com/evenement/the-brutal-joy/",
-    "http://ogp.me/ns#locale": [
-      {
-        "@language": "fr-fr",
-        "@value": "fr_FR"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "fr-fr",
-        "@value": "article"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr-fr",
-        "@value": "The Brutal Joy - Justine A. Chambers - Agora de la danse"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "fr-fr",
-        "@value": "The Brutal Joy considère le mouvement et le style personnel comme outils d'auto détermination et de revendication collective de la dignité des personnes noires."
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr-fr",
-        "@value": "https://agoradanse.com/evenement/the-brutal-joy/"
-      }
-    ],
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr-fr",
-        "@value": "Agora de la danse"
-      }
-    ],
-    "article:publisher": [
-      {
-        "@language": "fr-fr",
-        "@value": "https://www.facebook.com/agoradeladanse"
-      }
-    ],
-    "article:modified_time": [
-      {
-        "@language": "fr-fr",
-        "@value": "2025-01-07T20:07:12+00:00"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr-fr",
-        "@value": "https://agoradanse.com/wp-content/uploads/2024/11/the-brutal-joy_by_rachel-to-pham_1920_1.jpg"
-      }
-    ],
-    "http://ogp.me/ns#image:width": [
-      {
-        "@language": "fr-fr",
-        "@value": "1920"
-      }
-    ],
-    "http://ogp.me/ns#image:height": [
-      {
-        "@language": "fr-fr",
-        "@value": "1080"
-      }
-    ],
-    "http://ogp.me/ns#image:type": [
-      {
-        "@language": "fr-fr",
-        "@value": "image/jpeg"
-      }
-    ],
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://agoradanse.com/evenement/the-brutal-joy/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "The Brutal Joy - Agora de la danse"
-      }
-    ],
-    "http://schema.org/isPartOf": [
-      {
-        "@id": "https://agoradanse.com/#website"
-      }
-    ],
-    "http://schema.org/primaryImageOfPage": [
-      {
-        "@id": "https://agoradanse.com/evenement/the-brutal-joy/#primaryimage"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://agoradanse.com/evenement/the-brutal-joy/#primaryimage"
-      }
-    ],
-    "http://schema.org/thumbnailUrl": [
-      {
-        "@id": "https://agoradanse.com/wp-content/uploads/2024/11/the-brutal-joy_by_rachel-to-pham_1920_1.jpg"
-      }
-    ],
-    "http://schema.org/datePublished": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-11-14T17:18:32+00:00"
-      }
-    ],
-    "http://schema.org/dateModified": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-01-07T20:07:12+00:00"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "The Brutal Joy considère le mouvement et le style personnel comme outils de revendication collective de la dignité des personnes noires."
-      }
-    ],
-    "http://schema.org/breadcrumb": [
-      {
-        "@id": "https://agoradanse.com/evenement/the-brutal-joy/#breadcrumb"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@value": "fr-FR"
-      }
-    ],
-    "http://schema.org/potentialAction": [
-      {
-        "@id": "_:g467640"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://agoradanse.com/wp-json/"
-      }
-    ]
-  },
-  {
-    "@id": "https://agoradanse.com/evenement/the-brutal-joy/#primaryimage",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@value": "fr-FR"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://agoradanse.com/wp-content/uploads/2024/11/the-brutal-joy_by_rachel-to-pham_1920_1.jpg"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://agoradanse.com/wp-content/uploads/2024/11/the-brutal-joy_by_rachel-to-pham_1920_1.jpg"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1920"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1080"
-      }
-    ],
-    "http://schema.org/caption": [
-      {
-        "@value": "©&#xfe0f; Rachel Topham"
-      }
-    ]
-  },
-  {
-    "@id": "_:g467640",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@value": "https://agoradanse.com/evenement/the-brutal-joy/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g467740",
-    "@type": [
-      "http://schema.org/EntryPoint"
-    ],
-    "http://schema.org/urlTemplate": [
-      {
-        "@value": "https://agoradanse.com/?s={search_term_string}"
-      }
-    ]
-  },
-  {
-    "@id": "_:g467780",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "AGORA DE LA DANSE | ÉDIFICE WILDER"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g467800"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "_:g467820"
-      }
-    ]
-  },
-  {
-    "@id": "_:g467800",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Montreal"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "QC"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "Canada"
-      }
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "1435, rue De Bleury"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": "H3A 2H7"
-      }
-    ]
-  },
-  {
-    "@id": "_:g467820",
-    "@type": [
-      "http://schema.org/GeoCoordinates"
-    ],
-    "http://schema.org/latitude": [
-      {
-        "@value": "45.506783"
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@value": "-73.5673573"
-      }
-    ]
-  },
-  {
-    "@id": "_:g467840",
-    "@type": [
-      "http://schema.org/AggregateOffer"
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://agoradanse.tuxedobillet.com/main/the-brutal-joy"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@value": "29.00"
-      }
-    ],
-    "http://schema.org/lowPrice": [
-      {
-        "@value": "29.00"
-      }
-    ],
-    "http://schema.org/highPrice": [
-      {
-        "@value": "35.00"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-03-26"
-      }
-    ],
-    "http://schema.org/validThrough": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-03-29"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@id": "_:g467860",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://agoradanse.com/wp-content/uploads/2024/11/justine-a-chambers_by_iii_photography.jpg"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Justine A. Chambers "
-      }
-    ]
-  },
-  {
-    "@id": "https://agoradanse.com/evenement/soiree-benefice-2025/",
-    "http://ogp.me/ns#locale": [
-      {
-        "@language": "fr-fr",
-        "@value": "fr_FR"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "fr-fr",
-        "@value": "article"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr-fr",
-        "@value": "Soirée-Bénéfice 2025 | Agora de la danse"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "fr-fr",
-        "@value": "Soutenez la création en danse contemporaine !"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr-fr",
-        "@value": "https://agoradanse.com/evenement/soiree-benefice-2025/"
-      }
-    ],
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr-fr",
-        "@value": "Agora de la danse"
-      }
-    ],
-    "article:publisher": [
-      {
-        "@language": "fr-fr",
-        "@value": "https://www.facebook.com/agoradeladanse"
-      }
-    ],
-    "article:modified_time": [
-      {
-        "@language": "fr-fr",
-        "@value": "2025-01-30T18:39:00+00:00"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr-fr",
-        "@value": "https://agoradanse.com/wp-content/uploads/2024/11/soiree-benefice-2025_by_do-phan-hoi_1920_2.jpg"
-      }
-    ],
-    "http://ogp.me/ns#image:width": [
-      {
-        "@language": "fr-fr",
-        "@value": "1920"
-      }
-    ],
-    "http://ogp.me/ns#image:height": [
-      {
-        "@language": "fr-fr",
-        "@value": "1080"
-      }
-    ],
-    "http://ogp.me/ns#image:type": [
-      {
-        "@language": "fr-fr",
-        "@value": "image/jpeg"
-      }
-    ],
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://agoradanse.com/evenement/soiree-benefice-2025/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Soirée-Bénéfice 2025 - Agora de la danse"
-      }
-    ],
-    "http://schema.org/isPartOf": [
-      {
-        "@id": "https://agoradanse.com/#website"
-      }
-    ],
-    "http://schema.org/primaryImageOfPage": [
-      {
-        "@id": "https://agoradanse.com/evenement/soiree-benefice-2025/#primaryimage"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://agoradanse.com/evenement/soiree-benefice-2025/#primaryimage"
-      }
-    ],
-    "http://schema.org/thumbnailUrl": [
-      {
-        "@id": "https://agoradanse.com/wp-content/uploads/2024/11/soiree-benefice-2025_by_do-phan-hoi_1920_2.jpg"
-      }
-    ],
-    "http://schema.org/datePublished": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-11-08T19:10:53+00:00"
-      }
-    ],
-    "http://schema.org/dateModified": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-01-30T18:39:00+00:00"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Soutenez la création en danse contemporaine !"
-      }
-    ],
-    "http://schema.org/breadcrumb": [
-      {
-        "@id": "https://agoradanse.com/evenement/soiree-benefice-2025/#breadcrumb"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@value": "fr-FR"
-      }
-    ],
-    "http://schema.org/potentialAction": [
-      {
-        "@id": "_:g469020"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://agoradanse.com/wp-json/"
-      }
-    ]
-  },
-  {
-    "@id": "https://agoradanse.com/evenement/soiree-benefice-2025/#primaryimage",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@value": "fr-FR"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://agoradanse.com/wp-content/uploads/2024/11/soiree-benefice-2025_by_do-phan-hoi_1920_2.jpg"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://agoradanse.com/wp-content/uploads/2024/11/soiree-benefice-2025_by_do-phan-hoi_1920_2.jpg"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1920"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1080"
-      }
-    ],
-    "http://schema.org/caption": [
-      {
-        "@value": "©&#xfe0f; Do Phan Hoi"
-      }
-    ]
-  },
-  {
-    "@id": "_:g469020",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@value": "https://agoradanse.com/evenement/soiree-benefice-2025/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g469120",
-    "@type": [
-      "http://schema.org/EntryPoint"
-    ],
-    "http://schema.org/urlTemplate": [
-      {
-        "@value": "https://agoradanse.com/?s={search_term_string}"
-      }
-    ]
-  },
-  {
-    "@id": "_:g469160",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "AGORA DE LA DANSE | ÉDIFICE WILDER"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g469180"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "_:g469200"
-      }
-    ]
-  },
-  {
-    "@id": "_:g469180",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Montreal"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "QC"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "Canada"
-      }
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "1435, rue De Bleury"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": "H3A 2H7"
-      }
-    ]
-  },
-  {
-    "@id": "_:g469200",
-    "@type": [
-      "http://schema.org/GeoCoordinates"
-    ],
-    "http://schema.org/latitude": [
-      {
-        "@value": "45.5066654"
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@value": "-73.5677516"
-      }
-    ]
-  },
-  {
-    "@id": "_:g469220",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://agoradanse-philanthropie.tuxedobillet.com/"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@value": "250.00"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-04-08"
-      }
-    ],
-    "http://schema.org/validThrough": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-04-08"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://agoradanse.com/evenement/dirt/",
-    "http://ogp.me/ns#locale": [
-      {
-        "@language": "fr-fr",
-        "@value": "fr_FR"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "fr-fr",
-        "@value": "article"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr-fr",
-        "@value": "DIRT - Tentacle Tribe - Agora de la danse"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "fr-fr",
-        "@value": "Transcendant les frontières entre danses urbaines et danses contemporaines dans une signature unique, DIRT est une pièce marquante pour cinq interprètes virtuoses."
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr-fr",
-        "@value": "https://agoradanse.com/evenement/dirt/"
-      }
-    ],
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr-fr",
-        "@value": "Agora de la danse"
-      }
-    ],
-    "article:publisher": [
-      {
-        "@language": "fr-fr",
-        "@value": "https://www.facebook.com/agoradeladanse"
-      }
-    ],
-    "article:modified_time": [
-      {
-        "@language": "fr-fr",
-        "@value": "2024-12-04T18:13:27+00:00"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr-fr",
-        "@value": "https://agoradanse.com/wp-content/uploads/2024/11/dirt_by_do-pah-hoi_1920_1.jpg"
-      }
-    ],
-    "http://ogp.me/ns#image:width": [
-      {
-        "@language": "fr-fr",
-        "@value": "1920"
-      }
-    ],
-    "http://ogp.me/ns#image:height": [
-      {
-        "@language": "fr-fr",
-        "@value": "1080"
-      }
-    ],
-    "http://ogp.me/ns#image:type": [
-      {
-        "@language": "fr-fr",
-        "@value": "image/jpeg"
-      }
-    ],
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://agoradanse.com/evenement/dirt/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "DIRT - Agora de la danse"
-      }
-    ],
-    "http://schema.org/isPartOf": [
-      {
-        "@id": "https://agoradanse.com/#website"
-      }
-    ],
-    "http://schema.org/primaryImageOfPage": [
-      {
-        "@id": "https://agoradanse.com/evenement/dirt/#primaryimage"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://agoradanse.com/evenement/dirt/#primaryimage"
-      }
-    ],
-    "http://schema.org/thumbnailUrl": [
-      {
-        "@id": "https://agoradanse.com/wp-content/uploads/2024/11/dirt_by_do-pah-hoi_1920_1.jpg"
-      }
-    ],
-    "http://schema.org/datePublished": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-11-14T17:50:12+00:00"
-      }
-    ],
-    "http://schema.org/dateModified": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-12-04T18:13:27+00:00"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Transcendant les frontières entre danses urbaines et danses contemporaines, DIRT est une pièce marquante pour cinq interprètes virtuoses."
-      }
-    ],
-    "http://schema.org/breadcrumb": [
-      {
-        "@id": "https://agoradanse.com/evenement/dirt/#breadcrumb"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@value": "fr-FR"
-      }
-    ],
-    "http://schema.org/potentialAction": [
-      {
-        "@id": "_:g471680"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://agoradanse.com/wp-json/"
-      }
-    ]
-  },
-  {
-    "@id": "https://agoradanse.com/evenement/dirt/#primaryimage",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@value": "fr-FR"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://agoradanse.com/wp-content/uploads/2024/11/dirt_by_do-pah-hoi_1920_1.jpg"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://agoradanse.com/wp-content/uploads/2024/11/dirt_by_do-pah-hoi_1920_1.jpg"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1920"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1080"
-      }
-    ],
-    "http://schema.org/caption": [
-      {
-        "@value": "©&#xfe0f; Do Phan Hoi"
-      }
-    ]
-  },
-  {
-    "@id": "_:g471680",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@value": "https://agoradanse.com/evenement/dirt/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g471780",
-    "@type": [
-      "http://schema.org/EntryPoint"
-    ],
-    "http://schema.org/urlTemplate": [
-      {
-        "@value": "https://agoradanse.com/?s={search_term_string}"
-      }
-    ]
-  },
-  {
-    "@id": "_:g471820",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "AGORA DE LA DANSE | ÉDIFICE WILDER"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g471840"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "_:g471860"
-      }
-    ]
-  },
-  {
-    "@id": "_:g471840",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Montreal"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "QC"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "Canada"
-      }
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "1435, rue De Bleury"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": "H3A 2H7"
-      }
-    ]
-  },
-  {
-    "@id": "_:g471860",
-    "@type": [
-      "http://schema.org/GeoCoordinates"
-    ],
-    "http://schema.org/latitude": [
-      {
-        "@value": "45.506783"
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@value": "-73.5673573"
-      }
-    ]
-  },
-  {
-    "@id": "_:g471880",
-    "@type": [
-      "http://schema.org/AggregateOffer"
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://agoradanse.tuxedobillet.com/main/dirt"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@value": "29.00"
-      }
-    ],
-    "http://schema.org/lowPrice": [
-      {
-        "@value": "29.00"
-      }
-    ],
-    "http://schema.org/highPrice": [
-      {
-        "@value": "35.00"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-04-09"
-      }
-    ],
-    "http://schema.org/validThrough": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-04-12"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@id": "_:g471900",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://agoradanse.com/wp-content/uploads/2024/11/elon-hoglund_by_Gaelle-Leroyer.jpg"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Tentacle Tribe"
-      }
-    ]
-  },
-  {
     "@id": "https://agoradanse.com/evenement/chaque-jour-se-tenir-entre-les-trous/",
     "http://ogp.me/ns#locale": [
       {
@@ -2345,7 +46,7 @@
     "article:modified_time": [
       {
         "@language": "fr-fr",
-        "@value": "2024-12-04T18:13:32+00:00"
+        "@value": "2025-03-25T15:57:15+00:00"
       }
     ],
     "http://ogp.me/ns#image": [
@@ -2380,11 +81,6 @@
         "@id": "https://agoradanse.com/evenement/chaque-jour-se-tenir-entre-les-trous/"
       }
     ],
-    "http://schema.org/name": [
-      {
-        "@value": "Chaque jour se tenir entre les trous - Agora de la danse"
-      }
-    ],
     "http://schema.org/isPartOf": [
       {
         "@id": "https://agoradanse.com/#website"
@@ -2414,12 +110,7 @@
     "http://schema.org/dateModified": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2024-12-04T18:13:32+00:00"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Sylvie Cotton, artiste visuel, explore la respiration en tant qu’expérience universelle par le récit, l’image, l’objet et le mouvement."
+        "@value": "2025-03-25T15:57:15+00:00"
       }
     ],
     "http://schema.org/breadcrumb": [
@@ -2427,19 +118,80 @@
         "@id": "https://agoradanse.com/evenement/chaque-jour-se-tenir-entre-les-trous/#breadcrumb"
       }
     ],
-    "http://schema.org/inLanguage": [
-      {
-        "@value": "fr-FR"
-      }
-    ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g473860"
+        "@id": "_:g460360"
       }
     ],
     "https://api.w.org/": [
       {
         "@id": "https://agoradanse.com/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Chaque jour se tenir entre les trous - Agora de la danse"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Sylvie Cotton, artiste visuel, explore la respiration en tant qu’expérience universelle par le récit, l’image, l’objet et le mouvement."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://agoradanse.com/#organization"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g460440"
+      },
+      {
+        "@id": "_:g465180"
+      },
+      {
+        "@id": "_:g469780"
+      },
+      {
+        "@id": "_:g474380"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Agora de la danse"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Lieu majeur de recherche, de création et de diffusion en danse contemporaine à Montréal."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
       }
     ]
   },
@@ -2447,11 +199,6 @@
     "@id": "https://agoradanse.com/evenement/chaque-jour-se-tenir-entre-les-trous/#primaryimage",
     "@type": [
       "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@value": "fr-FR"
-      }
     ],
     "http://schema.org/url": [
       {
@@ -2475,130 +222,279 @@
         "@value": "1080"
       }
     ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ],
     "http://schema.org/caption": [
       {
+        "@language": "fr",
         "@value": "©&#xfe0f; C. Robillard"
       }
     ]
   },
   {
-    "@id": "_:g473860",
+    "@id": "_:g460360",
     "@type": [
       "http://schema.org/ReadAction"
     ],
     "http://schema.org/target": [
       {
+        "@language": "fr",
         "@value": "https://agoradanse.com/evenement/chaque-jour-se-tenir-entre-les-trous/"
       }
     ]
   },
   {
-    "@id": "_:g473960",
+    "@id": "https://agoradanse.com/#organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://agoradanse.com/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/agoradeladanse"
+      },
+      {
+        "@id": "https://twitter.com/Agoradanse"
+      },
+      {
+        "@id": "https://agoradanse"
+      },
+      {
+        "@id": "https://www.linkedin.com/company/agoradanse"
+      },
+      {
+        "@id": "https://www.youtube.com/user/Agoradanse"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Agora de la danse"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460440",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g460460"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g465180",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g465200"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g469780",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g469800"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "_:g474380",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g474400"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/#/schema/logo/image/",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2017/12/Logo_Agora-01.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2017/12/Logo_Agora-01.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1250"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "833"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "fr",
+        "@value": "Agora de la danse"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460460",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
     "http://schema.org/urlTemplate": [
       {
+        "@language": "fr",
         "@value": "https://agoradanse.com/?s={search_term_string}"
       }
     ]
   },
   {
-    "@id": "_:g474000",
+    "@id": "_:g460500",
     "@type": [
       "http://schema.org/Place"
     ],
-    "http://schema.org/name": [
-      {
-        "@value": "AGORA DE LA DANSE | ÉDIFICE WILDER"
-      }
-    ],
     "http://schema.org/address": [
       {
-        "@id": "_:g474020"
+        "@id": "_:g460520"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g474040"
+        "@id": "_:g460540"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "AGORA DE LA DANSE | ÉDIFICE WILDER"
       }
     ]
   },
   {
-    "@id": "_:g474020",
+    "@id": "_:g460520",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
     "http://schema.org/addressLocality": [
       {
+        "@language": "fr",
         "@value": "Montreal"
       }
     ],
     "http://schema.org/addressRegion": [
       {
+        "@language": "fr",
         "@value": "QC"
       }
     ],
     "http://schema.org/addressCountry": [
       {
+        "@language": "fr",
         "@value": "Canada"
       }
     ],
     "http://schema.org/streetAddress": [
       {
+        "@language": "fr",
         "@value": "1435, rue De Bleury"
       }
     ],
     "http://schema.org/postalCode": [
       {
+        "@language": "fr",
         "@value": "H3A 2H7"
       }
     ]
   },
   {
-    "@id": "_:g474040",
+    "@id": "_:g460540",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
     "http://schema.org/latitude": [
       {
+        "@language": "fr",
         "@value": "45.506783"
       }
     ],
     "http://schema.org/longitude": [
       {
+        "@language": "fr",
         "@value": "-73.5673573"
       }
     ]
   },
   {
-    "@id": "_:g474060",
+    "@id": "_:g460560",
     "@type": [
       "http://schema.org/AggregateOffer"
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@value": "CAD"
-      }
     ],
     "http://schema.org/url": [
       {
         "@id": "https://agoradanse.tuxedobillet.com/main/chaque-jour-se-tenir-entre-les-trous"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@value": "29.00"
-      }
-    ],
-    "http://schema.org/lowPrice": [
-      {
-        "@value": "29.00"
-      }
-    ],
-    "http://schema.org/highPrice": [
-      {
-        "@value": "35.00"
       }
     ],
     "http://schema.org/validFrom": [
@@ -2613,6 +509,30 @@
         "@value": "2025-04-26"
       }
     ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "29.00"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "29.00"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "35.00"
+      }
+    ],
     "http://schema.org/availability": [
       {
         "@id": "http://schema.org/InStock"
@@ -2620,7 +540,7 @@
     ]
   },
   {
-    "@id": "_:g474080",
+    "@id": "_:g460580",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -2631,6 +551,7 @@
     ],
     "http://schema.org/name": [
       {
+        "@language": "fr",
         "@value": "Sylvie Cotton"
       }
     ]
@@ -2717,11 +638,6 @@
         "@id": "https://agoradanse.com/evenement/tout-seffondre/"
       }
     ],
-    "http://schema.org/name": [
-      {
-        "@value": "Tout s’effondre - Agora de la danse"
-      }
-    ],
     "http://schema.org/isPartOf": [
       {
         "@id": "https://agoradanse.com/#website"
@@ -2754,29 +670,37 @@
         "@value": "2024-12-04T18:13:37+00:00"
       }
     ],
-    "http://schema.org/description": [
-      {
-        "@value": "Tout s'effondre révèle la poésie des chutes et des renaissances, dans un spectacle où l'humanité se réinvente sans cesse."
-      }
-    ],
     "http://schema.org/breadcrumb": [
       {
         "@id": "https://agoradanse.com/evenement/tout-seffondre/#breadcrumb"
       }
     ],
-    "http://schema.org/inLanguage": [
-      {
-        "@value": "fr-FR"
-      }
-    ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g476360"
+        "@id": "_:g465100"
       }
     ],
     "https://api.w.org/": [
       {
         "@id": "https://agoradanse.com/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Tout s’effondre - Agora de la danse"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Tout s'effondre révèle la poésie des chutes et des renaissances, dans un spectacle où l'humanité se réinvente sans cesse."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
       }
     ]
   },
@@ -2784,11 +708,6 @@
     "@id": "https://agoradanse.com/evenement/tout-seffondre/#primaryimage",
     "@type": [
       "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@value": "fr-FR"
-      }
     ],
     "http://schema.org/url": [
       {
@@ -2812,130 +731,127 @@
         "@value": "1080"
       }
     ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ],
     "http://schema.org/caption": [
       {
+        "@language": "fr",
         "@value": "©&#xfe0f; Do Phan Hoi"
       }
     ]
   },
   {
-    "@id": "_:g476360",
+    "@id": "_:g465100",
     "@type": [
       "http://schema.org/ReadAction"
     ],
     "http://schema.org/target": [
       {
+        "@language": "fr",
         "@value": "https://agoradanse.com/evenement/tout-seffondre/"
       }
     ]
   },
   {
-    "@id": "_:g476460",
+    "@id": "_:g465200",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
     "http://schema.org/urlTemplate": [
       {
+        "@language": "fr",
         "@value": "https://agoradanse.com/?s={search_term_string}"
       }
     ]
   },
   {
-    "@id": "_:g476500",
+    "@id": "_:g465240",
     "@type": [
       "http://schema.org/Place"
     ],
-    "http://schema.org/name": [
-      {
-        "@value": "AGORA DE LA DANSE | ÉDIFICE WILDER"
-      }
-    ],
     "http://schema.org/address": [
       {
-        "@id": "_:g476520"
+        "@id": "_:g465260"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g476540"
+        "@id": "_:g465280"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "AGORA DE LA DANSE | ÉDIFICE WILDER"
       }
     ]
   },
   {
-    "@id": "_:g476520",
+    "@id": "_:g465260",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
     "http://schema.org/addressLocality": [
       {
+        "@language": "fr",
         "@value": "Montreal"
       }
     ],
     "http://schema.org/addressRegion": [
       {
+        "@language": "fr",
         "@value": "QC"
       }
     ],
     "http://schema.org/addressCountry": [
       {
+        "@language": "fr",
         "@value": "Canada"
       }
     ],
     "http://schema.org/streetAddress": [
       {
+        "@language": "fr",
         "@value": "1435, rue De Bleury"
       }
     ],
     "http://schema.org/postalCode": [
       {
+        "@language": "fr",
         "@value": "H3A 2H7"
       }
     ]
   },
   {
-    "@id": "_:g476540",
+    "@id": "_:g465280",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
     "http://schema.org/latitude": [
       {
+        "@language": "fr",
         "@value": "45.506783"
       }
     ],
     "http://schema.org/longitude": [
       {
+        "@language": "fr",
         "@value": "-73.5673573"
       }
     ]
   },
   {
-    "@id": "_:g476560",
+    "@id": "_:g465300",
     "@type": [
       "http://schema.org/AggregateOffer"
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@value": "CAD"
-      }
     ],
     "http://schema.org/url": [
       {
         "@id": "https://agoradanse.tuxedobillet.com/main/tout-seffondre"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@value": "29.00"
-      }
-    ],
-    "http://schema.org/lowPrice": [
-      {
-        "@value": "29.00"
-      }
-    ],
-    "http://schema.org/highPrice": [
-      {
-        "@value": "35.00"
       }
     ],
     "http://schema.org/validFrom": [
@@ -2950,6 +866,30 @@
         "@value": "2025-05-10"
       }
     ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "29.00"
+      }
+    ],
+    "http://schema.org/lowPrice": [
+      {
+        "@language": "fr",
+        "@value": "29.00"
+      }
+    ],
+    "http://schema.org/highPrice": [
+      {
+        "@language": "fr",
+        "@value": "35.00"
+      }
+    ],
     "http://schema.org/availability": [
       {
         "@id": "http://schema.org/InStock"
@@ -2957,7 +897,7 @@
     ]
   },
   {
-    "@id": "_:g476580",
+    "@id": "_:g465320",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -2968,7 +908,313 @@
     ],
     "http://schema.org/name": [
       {
+        "@language": "fr",
         "@value": "Helen Simard"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/millepertuis/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Millepertuis - Sovann Rochon-Prom Tep - Agora de la danse"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Millepertuis est une traversée. Ce solo met en scène le charisme et l’énergie débordante du danseur de street dance Walid Hammani."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://agoradanse.com/evenement/millepertuis/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Agora de la danse"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.facebook.com/agoradeladanse"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-03-21T16:38:40+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://agoradanse.com/wp-content/uploads/2025/03/DoPhanHoi_Millepertuis_1.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1920"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "1080"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/evenement/millepertuis/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://agoradanse.com/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://agoradanse.com/evenement/millepertuis/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/evenement/millepertuis/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/03/DoPhanHoi_Millepertuis_1.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-19T15:39:37+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-21T16:38:40+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://agoradanse.com/evenement/millepertuis/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g469700"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://agoradanse.com/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Millepertuis - Agora de la danse"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Millepertuis est une traversée. Ce solo met en scène le charisme et l’énergie débordante du danseur de street dance Walid Hammani."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/evenement/millepertuis/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/03/DoPhanHoi_Millepertuis_1.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/03/DoPhanHoi_Millepertuis_1.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1920"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1080"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "fr",
+        "@value": "©&#xfe0f; Do Phan Hoi"
+      }
+    ]
+  },
+  {
+    "@id": "_:g469700",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://agoradanse.com/evenement/millepertuis/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g469800",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://agoradanse.com/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g469840",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g469860"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g469880"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "AGORA DE LA DANSE | ÉDIFICE WILDER"
+      }
+    ]
+  },
+  {
+    "@id": "_:g469860",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "fr",
+        "@value": "Montreal"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "fr",
+        "@value": "QC"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "Canada"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "fr",
+        "@value": "1435, rue De Bleury"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "fr",
+        "@value": "H3A 2H7"
+      }
+    ]
+  },
+  {
+    "@id": "_:g469880",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@language": "fr",
+        "@value": "45.506783"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@language": "fr",
+        "@value": "-73.5673573"
+      }
+    ]
+  },
+  {
+    "@id": "_:g469900",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/03/SovannRochonPromTep_DoPhanHoi_1-1.jpg"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Sovann Rochon-Prom Tep"
       }
     ]
   },
@@ -3054,11 +1300,6 @@
         "@id": "https://agoradanse.com/evenement/dna-danse-non-alteree-2025/"
       }
     ],
-    "http://schema.org/name": [
-      {
-        "@value": "DNA – Danse Non Altérée 2025 - Agora de la danse"
-      }
-    ],
     "http://schema.org/isPartOf": [
       {
         "@id": "https://agoradanse.com/#website"
@@ -3091,29 +1332,37 @@
         "@value": "2024-12-04T18:13:43+00:00"
       }
     ],
-    "http://schema.org/description": [
-      {
-        "@value": "Un grand événement de street dance à Montréal ! Venez assister à une pure expérience créative, haute en adrénaline !"
-      }
-    ],
     "http://schema.org/breadcrumb": [
       {
         "@id": "https://agoradanse.com/evenement/dna-danse-non-alteree-2025/#breadcrumb"
       }
     ],
-    "http://schema.org/inLanguage": [
-      {
-        "@value": "fr-FR"
-      }
-    ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g478880"
+        "@id": "_:g474300"
       }
     ],
     "https://api.w.org/": [
       {
         "@id": "https://agoradanse.com/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "DNA – Danse Non Altérée 2025 - Agora de la danse"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Un grand événement de street dance à Montréal ! Venez assister à une pure expérience créative, haute en adrénaline !"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
       }
     ]
   },
@@ -3121,11 +1370,6 @@
     "@id": "https://agoradanse.com/evenement/dna-danse-non-alteree-2025/#primaryimage",
     "@type": [
       "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@value": "fr-FR"
-      }
     ],
     "http://schema.org/url": [
       {
@@ -3149,104 +1393,121 @@
         "@value": "1707"
       }
     ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-FR"
+      }
+    ],
     "http://schema.org/caption": [
       {
+        "@language": "fr",
         "@value": "©&#xfe0f; Murielle 'Truly' Bien-Aimé"
       }
     ]
   },
   {
-    "@id": "_:g478880",
+    "@id": "_:g474300",
     "@type": [
       "http://schema.org/ReadAction"
     ],
     "http://schema.org/target": [
       {
+        "@language": "fr",
         "@value": "https://agoradanse.com/evenement/dna-danse-non-alteree-2025/"
       }
     ]
   },
   {
-    "@id": "_:g478980",
+    "@id": "_:g474400",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
     "http://schema.org/urlTemplate": [
       {
+        "@language": "fr",
         "@value": "https://agoradanse.com/?s={search_term_string}"
       }
     ]
   },
   {
-    "@id": "_:g479020",
+    "@id": "_:g474440",
     "@type": [
       "http://schema.org/Place"
     ],
-    "http://schema.org/name": [
-      {
-        "@value": "AGORA DE LA DANSE | ÉDIFICE WILDER"
-      }
-    ],
     "http://schema.org/address": [
       {
-        "@id": "_:g479040"
+        "@id": "_:g474460"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g479060"
+        "@id": "_:g474480"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "AGORA DE LA DANSE | ÉDIFICE WILDER"
       }
     ]
   },
   {
-    "@id": "_:g479040",
+    "@id": "_:g474460",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
     "http://schema.org/addressLocality": [
       {
+        "@language": "fr",
         "@value": "Montreal"
       }
     ],
     "http://schema.org/addressRegion": [
       {
+        "@language": "fr",
         "@value": "QC"
       }
     ],
     "http://schema.org/addressCountry": [
       {
+        "@language": "fr",
         "@value": "Canada"
       }
     ],
     "http://schema.org/streetAddress": [
       {
+        "@language": "fr",
         "@value": "1435, rue De Bleury"
       }
     ],
     "http://schema.org/postalCode": [
       {
+        "@language": "fr",
         "@value": "H3A 2H7"
       }
     ]
   },
   {
-    "@id": "_:g479060",
+    "@id": "_:g474480",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
     "http://schema.org/latitude": [
       {
+        "@language": "fr",
         "@value": "45.5070822"
       }
     ],
     "http://schema.org/longitude": [
       {
+        "@language": "fr",
         "@value": "-73.5687924"
       }
     ]
   },
   {
-    "@id": "_:g479080",
+    "@id": "_:g474500",
     "http://schema.org/sameAs": [
       {
         "@id": "https://ebnfloh.com/fr/"
@@ -3265,417 +1526,9 @@
     ]
   },
   {
-    "@id": "https://agoradanse.com/temporary/20f9a502-9acf-45ff-894c-dfb6a3c3b3ab",
+    "@id": "https://agoradanse.com/temporary/accfa2d3-0427-4272-b937-f0c69417a082",
     "@type": [
       "http://schema.org/Event"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Lame de fond - Milan Gervais"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Une immersion saisissante où le corps féminin devient le terrain d’un dialogue incessant, un espace de multiplicité et d’évolution."
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://agoradanse.com/wp-content/uploads/2024/11/lame-de-fond_by_julie-artacho_1920_1.jpg"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-02-12"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-02-15"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g460500"
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@value": "T60M"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g460560"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g460580"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://agoradanse.com/evenement/lame-de-fond/"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://agoradanse.com/temporary/d3a9ff70-8b6b-4e5a-9f15-e5174a195091",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "REPLICA - Andrea Peña"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Un duo qui nous entraîne à sa suite dans une captivante performance archéologique du mouvement de la mythologie aux corps d'aujourd'hui."
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://agoradanse.com/wp-content/uploads/2024/10/replica_by_jeanne-tetrault_1920_1.jpg"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-02-26"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-03-01"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g463260"
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@value": "T60M"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g463320"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g463340"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://agoradanse.com/evenement/replica/"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://agoradanse.com/temporary/c023e3ef-78c8-4a0d-b307-96de02d1f084",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Gli Anni - Marco D'Agostin"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Dans un dialogue fascinant entre corps et mémoire, Gli anni dévoile l'intimité des souvenirs à travers un solo subtil et poignant."
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://agoradanse.com/wp-content/uploads/2024/11/gli-anni_by_michelle-davis_1920_1.jpg"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-03-12"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-03-14"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g465100"
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@value": "T55M"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g465160"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g465180"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://agoradanse.com/evenement/gli-anni/"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://agoradanse.com/temporary/31be149e-2ecd-41fb-8f49-0609cdd4614d",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "The Brutal Joy - Justine A. Chambers "
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "The Brutal Joy considère le mouvement et le style personnel comme outils de revendication collective de la dignité des personnes noires."
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://agoradanse.com/wp-content/uploads/2024/11/the-brutal-joy_by_rachel-to-pham_1920_1.jpg"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-03-26"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-03-29"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g467780"
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@value": "T55M"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g467840"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g467860"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://agoradanse.com/evenement/the-brutal-joy/"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://agoradanse.com/temporary/9ef8ebc7-f72f-47b0-ba8c-f0ff445bf77b",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Soirée-Bénéfice 2025"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Soutenez la création en danse contemporaine !"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://agoradanse.com/wp-content/uploads/2024/11/soiree-benefice-2025_by_do-phan-hoi_1920_2.jpg"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-04-08"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-04-08"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g469160"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g469220"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://agoradanse.com/evenement/soiree-benefice-2025/"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://agoradanse.com/temporary/e02e4be9-2829-4984-91b1-788cfef13c3d",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "DIRT - Tentacle Tribe"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Transcendant les frontières entre danses urbaines et danses contemporaines, DIRT est une pièce marquante pour cinq interprètes virtuoses."
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://agoradanse.com/wp-content/uploads/2024/11/dirt_by_do-pah-hoi_1920_1.jpg"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-04-09"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-04-12"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g471820"
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@value": "T60M"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g471880"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g471900"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://agoradanse.com/evenement/dirt/"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://agoradanse.com/temporary/c9fdd49e-16aa-4e93-85b7-cbaec0726cf5",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Chaque jour se tenir entre les trous - Sylvie Cotton"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Sylvie Cotton, artiste visuel, explore la respiration en tant qu’expérience universelle par le récit, l’image, l’objet et le mouvement."
-      }
     ],
     "http://schema.org/image": [
       {
@@ -3696,27 +1549,40 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g474000"
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@value": "T50M"
+        "@id": "_:g460500"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g474060"
+        "@id": "_:g460560"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g474080"
+        "@id": "_:g460580"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://agoradanse.com/evenement/chaque-jour-se-tenir-entre-les-trous/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Chaque jour se tenir entre les trous - Sylvie Cotton"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Sylvie Cotton, artiste visuel, explore la respiration en tant qu’expérience universelle par le récit, l’image, l’objet et le mouvement."
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "fr",
+        "@value": "T50M"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -3731,19 +1597,9 @@
     ]
   },
   {
-    "@id": "https://agoradanse.com/temporary/7b26506f-07a1-4620-be64-c4b87e1d363f",
+    "@id": "https://agoradanse.com/temporary/b43ffb43-245d-4bb7-8e63-576dc4248dc7",
     "@type": [
       "http://schema.org/Event"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Tout s’effondre - Helen Simard"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Tout s'effondre révèle la poésie des chutes et des renaissances, dans un spectacle où l'humanité se réinvente sans cesse."
-      }
     ],
     "http://schema.org/image": [
       {
@@ -3764,27 +1620,40 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g476500"
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@value": "T60M"
+        "@id": "_:g465240"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g476560"
+        "@id": "_:g465300"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g476580"
+        "@id": "_:g465320"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://agoradanse.com/evenement/tout-seffondre/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Tout s’effondre - Helen Simard"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Tout s'effondre révèle la poésie des chutes et des renaissances, dans un spectacle où l'humanité se réinvente sans cesse."
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "fr",
+        "@value": "T60M"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -3799,19 +1668,75 @@
     ]
   },
   {
-    "@id": "https://agoradanse.com/temporary/a4aa1630-25df-4e65-9717-4c147569d10e",
+    "@id": "https://agoradanse.com/temporary/bbc70554-b72c-4e8b-a70f-85dc9dbbc29b",
     "@type": [
       "http://schema.org/Event"
     ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/03/DoPhanHoi_Millepertuis_1.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-23"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-06-02"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g469840"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g469900"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://agoradanse.com/evenement/millepertuis/"
+      }
+    ],
     "http://schema.org/name": [
       {
-        "@value": "DNA – Danse Non Altérée 2025 - Ebnflōh"
+        "@language": "fr",
+        "@value": "Millepertuis - Sovann Rochon-Prom Tep"
       }
     ],
     "http://schema.org/description": [
       {
-        "@value": "Un grand événement de street dance à Montréal ! Venez assister à une pure expérience créative, haute en adrénaline !"
+        "@language": "fr",
+        "@value": "Millepertuis est une traversée. Ce solo met en scène le charisme et l’énergie débordante du danseur de street dance Walid Hammani."
       }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@language": "fr",
+        "@value": "T60M"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ]
+  },
+  {
+    "@id": "https://agoradanse.com/temporary/b78d6bcd-0662-42df-9ff4-6ae1c4dd6a64",
+    "@type": [
+      "http://schema.org/Event"
     ],
     "http://schema.org/image": [
       {
@@ -3832,17 +1757,29 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g479020"
+        "@id": "_:g474440"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g479080"
+        "@id": "_:g474500"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://agoradanse.com/evenement/dna-danse-non-alteree-2025/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "DNA – Danse Non Altérée 2025 - Ebnflōh"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Un grand événement de street dance à Montréal ! Venez assister à une pure expérience créative, haute en adrénaline !"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
