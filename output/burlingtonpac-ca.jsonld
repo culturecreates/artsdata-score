@@ -1,0 +1,5195 @@
+[
+  {
+    "@id": "https://burlingtonpac.ca/events/vtw-sequence/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://burlingtonpac.ca/events/vtw-sequence/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://burlingtonpac.ca/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://burlingtonpac.ca/events/vtw-sequence/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://burlingtonpac.ca/events/vtw-sequence/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2024/04/vtwsequence-2-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-04-25T14:00:37+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-19T14:07:04+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://burlingtonpac.ca/events/vtw-sequence/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g460240"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Village Theatre Waterdown: Sequence - The Burlington Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://burlingtonpac.ca/"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://burlingtonpac.ca/#organization"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g460260"
+      },
+      {
+        "@id": "_:g462280"
+      },
+      {
+        "@id": "_:g464200"
+      },
+      {
+        "@id": "_:g466120"
+      },
+      {
+        "@id": "_:g468060"
+      },
+      {
+        "@id": "_:g470360"
+      },
+      {
+        "@id": "_:g472420"
+      },
+      {
+        "@id": "_:g474340"
+      },
+      {
+        "@id": "_:g476300"
+      },
+      {
+        "@id": "_:g478360"
+      },
+      {
+        "@id": "_:g479980"
+      },
+      {
+        "@id": "_:g482060"
+      },
+      {
+        "@id": "_:g484020"
+      },
+      {
+        "@id": "_:g485980"
+      },
+      {
+        "@id": "_:g487960"
+      },
+      {
+        "@id": "_:g489580"
+      },
+      {
+        "@id": "_:g491540"
+      },
+      {
+        "@id": "_:g493500"
+      },
+      {
+        "@id": "_:g495420"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The Burlington Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Experiences That Inspire"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/vtw-sequence/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2024/04/vtwsequence-2-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2024/04/vtwsequence-2-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "800"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "500"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en-CA"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@value": "vtw sequence"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460240",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://burlingtonpac.ca/events/vtw-sequence/"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/#organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://burlingtonpac.ca/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://burlingtonpac.ca/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://burlingtonpac.ca/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/BurlingtonPAC"
+      },
+      {
+        "@id": "https://x.com/BurlingtonPAC"
+      },
+      {
+        "@id": "https://www.instagram.com/burlington_pac/"
+      },
+      {
+        "@id": "https://www.linkedin.com/company/the-burlington-performing-arts-centre/"
+      },
+      {
+        "@id": "https://www.youtube.com/user/BurlingtonPAC"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The Burlington Performing Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460260",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g460320"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g460340"
+      }
+    ]
+  },
+  {
+    "@id": "_:g462280",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g462340"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g462360"
+      }
+    ]
+  },
+  {
+    "@id": "_:g464200",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g464260"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g464280"
+      }
+    ]
+  },
+  {
+    "@id": "_:g466120",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g466180"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g466200"
+      }
+    ]
+  },
+  {
+    "@id": "_:g468060",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g468120"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g468140"
+      }
+    ]
+  },
+  {
+    "@id": "_:g470360",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g470420"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g470440"
+      }
+    ]
+  },
+  {
+    "@id": "_:g472420",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g472480"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g472500"
+      }
+    ]
+  },
+  {
+    "@id": "_:g474340",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g474400"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g474420"
+      }
+    ]
+  },
+  {
+    "@id": "_:g476300",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g476360"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g476380"
+      }
+    ]
+  },
+  {
+    "@id": "_:g478360",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g478420"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g478440"
+      }
+    ]
+  },
+  {
+    "@id": "_:g479980",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g480040"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g480060"
+      }
+    ]
+  },
+  {
+    "@id": "_:g482060",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g482120"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g482140"
+      }
+    ]
+  },
+  {
+    "@id": "_:g484020",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g484080"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g484100"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485980",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g486040"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g486060"
+      }
+    ]
+  },
+  {
+    "@id": "_:g487960",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g488020"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g488040"
+      }
+    ]
+  },
+  {
+    "@id": "_:g489580",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g489640"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g489660"
+      }
+    ]
+  },
+  {
+    "@id": "_:g491540",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g491600"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g491620"
+      }
+    ]
+  },
+  {
+    "@id": "_:g493500",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g493560"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g493580"
+      }
+    ]
+  },
+  {
+    "@id": "_:g495420",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g495480"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g495500"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/#/schema/logo/image/",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2018/09/Logo-620x320.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2018/09/Logo-620x320.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "620"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "320"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en-CA"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@value": "The Burlington Performing Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460320",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://burlingtonpac.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460340",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/vtw-sequence/#WebPage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://burlingtonpac.ca/events/vtw-sequence/"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@value": "2025-05-05T18:18:03.471-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.artsdata.ca/resource/K5-928",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K5-928#PostalAddress"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://kg.footlight.io/resource/6ab9d72f-142d-46dd-b9cb-0b8e39090111"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Village Theatre Waterdown"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.artsdata.ca/resource/K5-928#PostalAddress",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Waterdown"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "L0R 2H0"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "317 Dundas St E"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.footlight.io/resource/6ab9d72f-142d-46dd-b9cb-0b8e39090111",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/disambiguatingDescription": [
+      {
+        "@language": "en",
+        "@value": "route at Dundas St, Burlington, ON, Canada"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "http://kg.footlight.io/resource/6ab9d72f-142d-46dd-b9cb-0b8e39090111#PostalAddress"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Village Theatre Waterdown"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": "-79.8925044"
+      }
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@value": "43.3340478"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.footlight.io/resource/burlington-ca_vtw-sequence#Offer",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://secure1.tixhub.com/Burlington/online/b_otix.asp?cboPerformances=2313&cboEvent=1663&iEvents_id=1663"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/osyo-spring-dances/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://burlingtonpac.ca/events/osyo-spring-dances/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://burlingtonpac.ca/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://burlingtonpac.ca/events/osyo-spring-dances/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://burlingtonpac.ca/events/osyo-spring-dances/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2025/04/osyo-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-05-07T14:00:01+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-04-08T16:09:31+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://burlingtonpac.ca/events/osyo-spring-dances/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g462260"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Oakville Symphony Youth Orchestra: Spring Dances - The Burlington Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/osyo-spring-dances/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2025/04/osyo-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2025/04/osyo-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "800"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "500"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en-CA"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@value": "oakville symphony youth orchestra"
+      }
+    ]
+  },
+  {
+    "@id": "_:g462260",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://burlingtonpac.ca/events/osyo-spring-dances/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g462340",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://burlingtonpac.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g462360",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.footlight.io/resource/burlington-ca_osyo-spring-dances#Offer",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://secure1.tixhub.com/Burlington/online/b_otix.asp?cboPerformances=2327&cboEvent=1667&iEvents_id=1667"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.artsdata.ca/resource/K11-73",
+    "@type": [
+      "http://schema.org/Place",
+      "http://schema.org/PerformingArtsTheater"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-73#PostalAddress"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Burlington Performing Arts Centre - Main Theatre"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.artsdata.ca/resource/K11-73#PostalAddress",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Burlington"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "L7S 1T7"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "440 Locust Street"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/osyo-spring-dances/#WebPage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://burlingtonpac.ca/events/osyo-spring-dances/"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@value": "2025-05-05T18:18:22.936-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/tina-better-be-good-to-me/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://burlingtonpac.ca/events/tina-better-be-good-to-me/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://burlingtonpac.ca/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://burlingtonpac.ca/events/tina-better-be-good-to-me/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://burlingtonpac.ca/events/tina-better-be-good-to-me/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2023/10/tina-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-05-09T14:00:58+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-01-29T16:11:31+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://burlingtonpac.ca/events/tina-better-be-good-to-me/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g464180"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Icon Productions: Tina - Better Be Good To Me - The Burlington Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/tina-better-be-good-to-me/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2023/10/tina-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2023/10/tina-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "800"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "500"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en-CA"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@value": "Tina - Better Be Good to Me"
+      }
+    ]
+  },
+  {
+    "@id": "_:g464180",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://burlingtonpac.ca/events/tina-better-be-good-to-me/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g464260",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://burlingtonpac.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g464280",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.footlight.io/resource/burlington-ca_tina-better-be-good-to-me#Offer",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://secure1.tixhub.com/Burlington/online/b_otix.asp?cboPerformances=2300&cboEvent=1653&iEvents_id=1653"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/tina-better-be-good-to-me/#WebPage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://burlingtonpac.ca/events/tina-better-be-good-to-me/"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@value": "2025-05-05T18:18:07.056-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/sakura-festival/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://burlingtonpac.ca/events/sakura-festival/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://burlingtonpac.ca/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://burlingtonpac.ca/events/sakura-festival/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://burlingtonpac.ca/events/sakura-festival/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2025/05/sakura-festival-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-05-10T14:00:12+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-01T19:35:57+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://burlingtonpac.ca/events/sakura-festival/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g466100"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Sakura Festival - The Burlington Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/sakura-festival/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2025/05/sakura-festival-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2025/05/sakura-festival-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "800"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "500"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en-CA"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@value": "sakura festival"
+      }
+    ]
+  },
+  {
+    "@id": "_:g466100",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://burlingtonpac.ca/events/sakura-festival/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g466180",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://burlingtonpac.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g466200",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.footlight.io/resource/burlington-ca_sakura-festival#Offer",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "#"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/sakura-festival/#WebPage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://burlingtonpac.ca/events/sakura-festival/"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@value": "2025-05-05T18:18:25.291-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.artsdata.ca/resource/K11-74",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-74#PostalAddress"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Burlington Performing Arts Centre - Family Lobby"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.artsdata.ca/resource/K11-74#PostalAddress",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Burlington"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "L7S 1T7"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "440 Locust Street"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/solo-encore/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://burlingtonpac.ca/events/solo-encore/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://burlingtonpac.ca/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://burlingtonpac.ca/events/solo-encore/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://burlingtonpac.ca/events/solo-encore/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2024/03/solo-encore-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-05-10T14:00:15+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-04-24T19:23:07+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://burlingtonpac.ca/events/solo-encore/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g468040"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Southern Ontario Lyric Opera: Encore, An Evening With Gino Quilico - The Burlington Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/solo-encore/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2024/03/solo-encore-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2024/03/solo-encore-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "800"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "500"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en-CA"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@value": "solo encore"
+      }
+    ]
+  },
+  {
+    "@id": "_:g468040",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://burlingtonpac.ca/events/solo-encore/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g468120",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://burlingtonpac.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g468140",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.artsdata.ca/resource/K10-366",
+    "@type": [
+      "http://schema.org/Organization",
+      "http://schema.org/PerformingGroup"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/SouthernOntarioLyricOpera/"
+      },
+      {
+        "@id": "https://twitter.com/SOnLOpera"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://southernontariolyricopera.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Southern Ontario Lyric Opera"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.artsdata.ca/resource/K12-379",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2258316"
+      },
+      {
+        "@id": "https://en.wikipedia.org/wiki/Gino_Quilico"
+      },
+      {
+        "@id": "https://fr.wikipedia.org/wiki/Gino_Quilico"
+      },
+      {
+        "@id": "https://www.facebook.com/ginolquilico/"
+      },
+      {
+        "@id": "https://twitter.com/GinoQuilico"
+      },
+      {
+        "@id": "https://www.instagram.com/ginoquilico/"
+      },
+      {
+        "@id": "https://www.youtube.com/user/GQuilico"
+      },
+      {
+        "@id": "https://isni.org/isni/0000000114919825"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.ginoquilico.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Gino Quilico"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.footlight.io/resource/burlington-ca_solo-encore#Offer",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://secure1.tixhub.com/Burlington/online/b_otix.asp?cboPerformances=2325&cboEvent=1665&iEvents_id=1665"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/solo-encore/#WebPage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://burlingtonpac.ca/events/solo-encore/"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@value": "2025-05-05T18:18:10.561-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/bso-an-afternoon-at-the-opera/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://burlingtonpac.ca/events/bso-an-afternoon-at-the-opera/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://burlingtonpac.ca/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://burlingtonpac.ca/events/bso-an-afternoon-at-the-opera/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://burlingtonpac.ca/events/bso-an-afternoon-at-the-opera/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2023/10/BSO-Image-1-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-05-11T14:00:46+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-29T20:02:53+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://burlingtonpac.ca/events/bso-an-afternoon-at-the-opera/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g470340"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Burlington Symphony Orchestra: An Afternoon at the Opera - The Burlington Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/bso-an-afternoon-at-the-opera/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2023/10/BSO-Image-1-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2023/10/BSO-Image-1-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "800"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "500"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en-CA"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@value": "BSO"
+      }
+    ]
+  },
+  {
+    "@id": "_:g470340",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://burlingtonpac.ca/events/bso-an-afternoon-at-the-opera/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g470420",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://burlingtonpac.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g470440",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.artsdata.ca/resource/K10-216",
+    "@type": [
+      "http://schema.org/Organization",
+      "http://schema.org/MusicGroup"
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/burlingtonsymphonyorchestra"
+      },
+      {
+        "@id": "https://twitter.com/burlingtonSO"
+      },
+      {
+        "@id": "https://www.instagram.com/burlingtonsymphonyorchestra/"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://burlingtonsymphony.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Burlington Symphony Orchestra"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/bso-an-afternoon-at-the-opera/#WebPage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://burlingtonpac.ca/events/bso-an-afternoon-at-the-opera/"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@value": "2025-05-05T18:18:17.939-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.footlight.io/resource/burlington-ca_bso-an-afternoon-at-the-opera#Offer",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://secure1.tixhub.com/Burlington/online/b_otix.asp?cboPerformances=2152&cboEvent=1539&iEvents_id=1539"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/bst-evita/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://burlingtonpac.ca/events/bst-evita/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://burlingtonpac.ca/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://burlingtonpac.ca/events/bst-evita/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://burlingtonpac.ca/events/bst-evita/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2024/11/bst-evita-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-05-22T14:00:44+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-11-15T17:06:20+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://burlingtonpac.ca/events/bst-evita/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g472400"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "BURLINGTON STUDENT THEATRE: EVITA - The Burlington Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/bst-evita/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2024/11/bst-evita-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2024/11/bst-evita-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "800"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "500"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en-CA"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@value": "burlington student theatre evita"
+      }
+    ]
+  },
+  {
+    "@id": "_:g472400",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://burlingtonpac.ca/events/bst-evita/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g472480",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://burlingtonpac.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g472500",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.footlight.io/resource/burlington-ca_bst-evita#Offer",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://secure1.tixhub.com/Burlington/online/b_otix.asp?cboPerformances=2280&cboEvent=1638&iEvents_id=1638"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/bst-evita/#WebPage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://burlingtonpac.ca/events/bst-evita/"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@value": "2025-05-05T18:18:08.271-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/osyo-movie-magic/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://burlingtonpac.ca/events/osyo-movie-magic/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://burlingtonpac.ca/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://burlingtonpac.ca/events/osyo-movie-magic/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://burlingtonpac.ca/events/osyo-movie-magic/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2025/02/osyo-movie-magic-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-05-25T14:30:15+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-02-25T17:31:11+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://burlingtonpac.ca/events/osyo-movie-magic/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g474320"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Oakville Symphony Youth Orchestra: Movie Magic - The Burlington Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/osyo-movie-magic/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2025/02/osyo-movie-magic-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2025/02/osyo-movie-magic-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "800"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "500"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en-CA"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@value": "OSYO Movie Magic"
+      }
+    ]
+  },
+  {
+    "@id": "_:g474320",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://burlingtonpac.ca/events/osyo-movie-magic/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g474400",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://burlingtonpac.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g474420",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.footlight.io/resource/burlington-ca_osyo-movie-magic#Offer",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://secure1.tixhub.com/Burlington/online/b_otix.asp?cboPerformances=2309&cboEvent=1660&iEvents_id=1660"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/osyo-movie-magic/#WebPage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://burlingtonpac.ca/events/osyo-movie-magic/"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@value": "2025-05-05T18:18:20.421-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/mayors-speaker-series/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://burlingtonpac.ca/events/mayors-speaker-series/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://burlingtonpac.ca/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://burlingtonpac.ca/events/mayors-speaker-series/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://burlingtonpac.ca/events/mayors-speaker-series/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2023/11/speaker-series-v2-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-05-26T14:00:10+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-05T17:57:17+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://burlingtonpac.ca/events/mayors-speaker-series/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g476280"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Mayor of Burlington: Mayor's Speaker Series - The Burlington Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Mayor Meed Ward is hosting the second session of her Speaker Series, exploring themes of growth, development and affordable housing."
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/mayors-speaker-series/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2023/11/speaker-series-v2-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2023/11/speaker-series-v2-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "800"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "500"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en-CA"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@value": "mayor speaker series"
+      }
+    ]
+  },
+  {
+    "@id": "_:g476280",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://burlingtonpac.ca/events/mayors-speaker-series/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g476360",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://burlingtonpac.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g476380",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.footlight.io/resource/burlington-ca_mayors-speaker-series#Offer",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://secure1.tixhub.com/Burlington/online/b_otix.asp?cboPerformances=2331&cboEvent=1671&iEvents_id=1671"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/mayors-speaker-series/#WebPage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://burlingtonpac.ca/events/mayors-speaker-series/"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@value": "2025-05-05T18:21:43.062-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.artsdata.ca/resource/K2-5771",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K2-5771#PostalAddress"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q113856648"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Community Studio"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.artsdata.ca/resource/K2-5771#PostalAddress",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "ON"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.artsdata.ca/resource/K11-72",
+    "@type": [
+      "http://schema.org/Place",
+      "http://schema.org/PerformingArtsTheater"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-72#PostalAddress"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Burlington Performing Arts Centre - Community Studio Theatre"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.artsdata.ca/resource/K11-72#PostalAddress",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Burlington"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "L7S 1T7"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "440 Locust Street"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/25-26-season-launch/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://burlingtonpac.ca/events/25-26-season-launch/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://burlingtonpac.ca/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://burlingtonpac.ca/events/25-26-season-launch/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://burlingtonpac.ca/events/25-26-season-launch/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2025/04/Season-Launch-500x800-1-scaled.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-05-29T13:00:01+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-04-30T16:07:11+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://burlingtonpac.ca/events/25-26-season-launch/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g478340"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "BPAC Presents 25/26 Season Launch - The Burlington Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/25-26-season-launch/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2025/04/Season-Launch-500x800-1-scaled.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2025/04/Season-Launch-500x800-1-scaled.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2560"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1600"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en-CA"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@value": "25-26 Season Launch"
+      }
+    ]
+  },
+  {
+    "@id": "_:g478340",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://burlingtonpac.ca/events/25-26-season-launch/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g478420",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://burlingtonpac.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g478440",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/bach-to-piazzolla/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://burlingtonpac.ca/events/bach-to-piazzolla/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://burlingtonpac.ca/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://burlingtonpac.ca/events/bach-to-piazzolla/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://burlingtonpac.ca/events/bach-to-piazzolla/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2024/05/ensemble-vivant-2-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-05-30T13:30:45+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-10T20:03:24+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://burlingtonpac.ca/events/bach-to-piazzolla/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g479960"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "ENSEMBLE VIVANT: Bach to Piazzolla - The Burlington Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/bach-to-piazzolla/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2024/05/ensemble-vivant-2-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2024/05/ensemble-vivant-2-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "800"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "500"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en-CA"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@value": "ensemble vivant"
+      }
+    ]
+  },
+  {
+    "@id": "_:g479960",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://burlingtonpac.ca/events/bach-to-piazzolla/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g480040",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://burlingtonpac.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g480060",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.artsdata.ca/resource/K10-210",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@language": "en",
+        "@value": "The Burlington Performing Arts Centre"
+      },
+      {
+        "@value": "The Burlington Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://en.wikipedia.org/wiki/Burlington_Performing_Arts_Centre"
+      },
+      {
+        "@id": "https://twitter.com/BurlingtonPAC"
+      },
+      {
+        "@id": "https://www.facebook.com/BurlingtonPAC"
+      },
+      {
+        "@id": "https://www.instagram.com/burlington_pac/"
+      },
+      {
+        "@id": "https://www.youtube.com/user/BurlingtonPAC"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://burlingtonpac.ca"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Burlington Performing Arts Centre"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/bach-to-piazzolla/#WebPage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://burlingtonpac.ca/events/bach-to-piazzolla/"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@value": "2025-02-14T17:39:03.584-05:00"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.footlight.io/resource/burlington-ca_bach-to-piazzolla#Offer",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://secure1.tixhub.com/Burlington/online/b_otix.asp?cboPerformances=2200&cboEvent=1579&iEvents_id=1579"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/you-have-voice-male/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://burlingtonpac.ca/events/you-have-voice-male/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://burlingtonpac.ca/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://burlingtonpac.ca/events/you-have-voice-male/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://burlingtonpac.ca/events/you-have-voice-male/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2024/10/mens-chorus-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-05-31T14:00:22+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-12-06T13:35:31+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://burlingtonpac.ca/events/you-have-voice-male/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g482040"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Associated Male Choruses of Ontario - YOU HAVE VOICE-MALE! - The Burlington Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/you-have-voice-male/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2024/10/mens-chorus-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2024/10/mens-chorus-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "800"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "500"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en-CA"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@value": "Associated Male Chorus"
+      }
+    ]
+  },
+  {
+    "@id": "_:g482040",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://burlingtonpac.ca/events/you-have-voice-male/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g482120",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://burlingtonpac.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g482140",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/you-have-voice-male/#WebPage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://burlingtonpac.ca/events/you-have-voice-male/"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@value": "2025-05-05T18:18:15.674-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.footlight.io/resource/burlington-ca_you-have-voice-male#Offer",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://secure1.tixhub.com/Burlington/online/b_otix.asp?cboPerformances=2265&cboEvent=1626&iEvents_id=1626"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/premiere-dance/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://burlingtonpac.ca/events/premiere-dance/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://burlingtonpac.ca/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://burlingtonpac.ca/events/premiere-dance/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://burlingtonpac.ca/events/premiere-dance/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2025/04/premieredance-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-06-01T14:00:22+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-04-23T16:13:43+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://burlingtonpac.ca/events/premiere-dance/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g484000"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Premiere Dance Presents: An Evening with the Stars - The Burlington Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/premiere-dance/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2025/04/premieredance-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2025/04/premieredance-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "800"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "500"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en-CA"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@value": "premiere dance"
+      }
+    ]
+  },
+  {
+    "@id": "_:g484000",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://burlingtonpac.ca/events/premiere-dance/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g484080",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://burlingtonpac.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g484100",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.footlight.io/resource/burlington-ca_premiere-dance#Offer",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://secure1.tixhub.com/Burlington/online/b_otix.asp?cboPerformances=2329&cboEvent=1669&iEvents_id=1669"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/premiere-dance/#WebPage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://burlingtonpac.ca/events/premiere-dance/"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@value": "2025-05-05T18:18:05.904-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/motown-soul/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://burlingtonpac.ca/events/motown-soul/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://burlingtonpac.ca/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://burlingtonpac.ca/events/motown-soul/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://burlingtonpac.ca/events/motown-soul/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2023/09/Motown-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-06-05T14:00:25+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-04T19:28:27+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://burlingtonpac.ca/events/motown-soul/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g485960"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Paquette Productions: Motown Soul - The Burlington Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/motown-soul/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2023/09/Motown-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2023/09/Motown-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "800"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "500"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en-CA"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@value": "motown soul"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485960",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://burlingtonpac.ca/events/motown-soul/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g486040",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://burlingtonpac.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g486060",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.artsdata.ca/resource/K10-384",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@language": "en",
+        "@value": "Pete Paquette"
+      },
+      {
+        "@value": "Pete Paquette"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.paquetteproductions.com"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Paquette Productions"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.footlight.io/resource/burlington-ca_motown-soul#Offer",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://secure1.tixhub.com/Burlington/online/b_otix.asp?cboPerformances=2310&cboEvent=1661&iEvents_id=1661"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/motown-soul/#WebPage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://burlingtonpac.ca/events/motown-soul/"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@value": "2025-05-05T18:18:19.193-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/sound-of-music-festival-burlington/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://burlingtonpac.ca/events/sound-of-music-festival-burlington/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://burlingtonpac.ca/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://burlingtonpac.ca/events/sound-of-music-festival-burlington/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://burlingtonpac.ca/events/sound-of-music-festival-burlington/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2024/06/som-VIP-upgrade800x500.png"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-06-12T12:00:56+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-04-16T16:46:22+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://burlingtonpac.ca/events/sound-of-music-festival-burlington/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g487940"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The Sound of Music Festival - Burlington - The Burlington Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/sound-of-music-festival-burlington/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2024/06/som-VIP-upgrade800x500.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2024/06/som-VIP-upgrade800x500.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "800"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "500"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en-CA"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@value": "sound of music vip upgrade"
+      }
+    ]
+  },
+  {
+    "@id": "_:g487940",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://burlingtonpac.ca/events/sound-of-music-festival-burlington/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g488020",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://burlingtonpac.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g488040",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/burlington-footnotes/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://burlingtonpac.ca/events/burlington-footnotes/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://burlingtonpac.ca/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://burlingtonpac.ca/events/burlington-footnotes/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://burlingtonpac.ca/events/burlington-footnotes/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2024/08/footnotes-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-06-17T14:00:38+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-13T13:15:44+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://burlingtonpac.ca/events/burlington-footnotes/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g489560"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "BURLINGTON FOOTNOTES: Gotta SING, Gotta DANCE! - The Burlington Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/burlington-footnotes/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2024/08/footnotes-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2024/08/footnotes-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "800"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "500"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en-CA"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@value": "burlington footnotes"
+      }
+    ]
+  },
+  {
+    "@id": "_:g489560",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://burlingtonpac.ca/events/burlington-footnotes/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g489640",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://burlingtonpac.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g489660",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.footlight.io/resource/burlington-ca_burlington-footnotes#Offer",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://secure1.tixhub.com/Burlington/online/b_otix.asp?cboPerformances=2234&cboEvent=1609&iEvents_id=1609"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/burlington-footnotes/#WebPage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://burlingtonpac.ca/events/burlington-footnotes/"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@value": "2025-05-05T18:18:12.483-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/bst-fame/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://burlingtonpac.ca/events/bst-fame/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://burlingtonpac.ca/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://burlingtonpac.ca/events/bst-fame/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://burlingtonpac.ca/events/bst-fame/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2024/11/bst-fame-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-07-10T14:00:31+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-04-03T15:01:25+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://burlingtonpac.ca/events/bst-fame/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g491520"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "BURLINGTON STUDENT THEATRE: FAME - The Burlington Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "burlington student theatre performs fame at the burlington performing arts centre on thursday July 10 2025"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/bst-fame/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2024/11/bst-fame-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2024/11/bst-fame-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "800"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "500"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en-CA"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@value": "burlington student theatre fame"
+      }
+    ]
+  },
+  {
+    "@id": "_:g491520",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://burlingtonpac.ca/events/bst-fame/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g491600",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://burlingtonpac.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g491620",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.footlight.io/resource/burlington-ca_bst-fame#Offer",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://secure1.tixhub.com/Burlington/online/b_otix.asp?cboPerformances=2283&cboEvent=1640&iEvents_id=1640"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/bst-fame/#WebPage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://burlingtonpac.ca/events/bst-fame/"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@value": "2025-05-05T18:18:13.679-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/bst-footloose/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://burlingtonpac.ca/events/bst-footloose/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://burlingtonpac.ca/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://burlingtonpac.ca/events/bst-footloose/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://burlingtonpac.ca/events/bst-footloose/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2024/11/bst-footloose-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-07-24T14:00:45+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-04-03T14:59:36+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://burlingtonpac.ca/events/bst-footloose/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g493480"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "BURLINGTON STUDENT THEATRE: FOOTLOOSE - The Burlington Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Burlington student theatre performing arts camp performs footloose at the burlington performing arts centre on july 24th 2025"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/bst-footloose/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2024/11/bst-footloose-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2024/11/bst-footloose-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "800"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "500"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en-CA"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@value": "burlington student theatre footloose"
+      }
+    ]
+  },
+  {
+    "@id": "_:g493480",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://burlingtonpac.ca/events/bst-footloose/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g493560",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://burlingtonpac.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g493580",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/bst-footloose/#WebPage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://burlingtonpac.ca/events/bst-footloose/"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@value": "2025-05-05T18:18:09.363-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.footlight.io/resource/burlington-ca_bst-footloose#Offer",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://secure1.tixhub.com/Burlington/online/b_otix.asp?cboPerformances=2285&cboEvent=1641&iEvents_id=1641"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/icons/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://burlingtonpac.ca/events/icons/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://burlingtonpac.ca/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://burlingtonpac.ca/events/icons/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://burlingtonpac.ca/events/icons/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2024/10/Icons-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-17T14:00:55+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-04-15T16:28:19+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://burlingtonpac.ca/events/icons/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g495400"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "TVB Productions: ICONS - The Burlington Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/icons/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2024/10/Icons-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2024/10/Icons-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "800"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "500"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en-CA"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@value": "Icons"
+      }
+    ]
+  },
+  {
+    "@id": "_:g495400",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://burlingtonpac.ca/events/icons/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g495480",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://burlingtonpac.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g495500",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.footlight.io/resource/burlington-ca_icons#Offer",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://secure1.tixhub.com/Burlington/online/b_otix.asp?cboPerformances=2328&cboEvent=1668&iEvents_id=1668"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/icons/#WebPage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://burlingtonpac.ca/events/icons/"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@value": "2025-05-05T18:18:21.566-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/temporary/9eb2d468-7830-4cac-97ff-23b90ddcef86",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@value": "2025-04-25T20:00:00-04:00"
+      },
+      {
+        "@value": "2025-04-26T20:00:00-04:00"
+      },
+      {
+        "@value": "2025-04-27T14:00:00-04:00"
+      },
+      {
+        "@value": "2025-05-02T20:00:00-04:00"
+      },
+      {
+        "@value": "2025-05-03T20:00:00-04:00"
+      },
+      {
+        "@value": "2025-05-04T14:00:00-04:00"
+      },
+      {
+        "@value": "2025-05-08T20:00:00-04:00"
+      },
+      {
+        "@value": "2025-05-09T20:00:00-04:00"
+      },
+      {
+        "@value": "2025-05-10T20:00:00-04:00"
+      },
+      {
+        "@value": "2025-05-11T14:00:00-04:00"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://burlingtonpac.ca/events/vtw-sequence/#WebPage"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K5-928"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "http://kg.footlight.io/resource/burlington-ca_vtw-sequence#Offer"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Village Theatre Waterdown: Sequence - The Burlington Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Luck and science. Life or death. SEQUENCE BY ARUN LAKRA Director: Francesca Brugnano Stage Manager: Jodie Wilkinson Assistant Stage Manager: Sara Laux SYNOPSIS: Theo has been named Time Magazine’s Luckiest Man Alive and willing to risk millions on a coin toss. Stem-cell researcher and Professor Dr. Guzman is on the verge of a groundbreaking discovery. The two narratives intertwine like a double helix of DNA and play with the question of whether order matters in a chaotic world of science, faith and luck. CAST Theo: Adam Fleming Dr. Guzman: Christine Hopkins Mr. Adamson: Jeff Nguyen Cynthia: Theresa Walsh *Audience advisory: This show contains mature language and subject matter.* Day of performance tickets are available at the door, if the performance is not sold out. Please refer to villagetheatrewaterdown.ca for more information."
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://burlingtonpac.ca/events/vtw-sequence/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@value": "https://burlingtonpac.ca/wp-content/uploads/2024/04/vtwsequence-2-800x500-1.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/temporary/47602e12-b793-4009-836d-476512755305",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "http://kg.footlight.io/resource/burlington-ca_osyo-spring-dances#Offer"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-73"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://burlingtonpac.ca/events/osyo-spring-dances/#WebPage"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Oakville Symphony Youth Orchestra: Spring Dances - The Burlington Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Join the Oakville Symphony Youth Orchestra as they present, “Spring Dances”."
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://burlingtonpac.ca/events/osyo-spring-dances/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@value": "https://burlingtonpac.ca/wp-content/uploads/2025/04/osyo-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@value": "2025-05-07T19:00:00-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/temporary/722c56ef-f052-4075-92ac-63945a1bbe69",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "http://kg.footlight.io/resource/burlington-ca_tina-better-be-good-to-me#Offer"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://burlingtonpac.ca/events/tina-better-be-good-to-me/#WebPage"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-73"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Icon Productions: Tina - Better Be Good To Me - The Burlington Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "LONG LIVE THE QUEEN OF ROCK AND ROLL! In the 1980s, Tina Turner made a legendary comeback that redefined music history. TINA: Better Be Good to Me, starring the phenomenal Tiffany Deriveau, celebrates the electrifying rise of one of the greatest icons in music history. With nothing but 36 cents in her pocket, a Mobile credit card, and the last name TURNER, Tina broke free from her abusive marriage, and rebuilt her life and career. On her own independent terms she emerged from adversity and the world was introduced to a new era of music —fierce, unstoppable, and more powerful than ever. Today, Tina Turner reigns as the undisputed Queen of Rock and Roll, a Grammy Award winner, a Guinness World Record holder, and a Rock & Roll Hall of Famer. Her legacy shattered barriers and captivated millions. Now, Tiffany Deriveau brings this legendary journey to life with her own passion and energy, stepping into the spotlight to embody the heart and soul of Tina Turner. The moment Tiffany takes the stage, you’ll be transported into Tina’s world, filled with raw energy, unforgettable hits, and unstoppable power. TINA: Better Be Good to Me, makes its highly anticipated Canadian debut on May 9th, 2025, at the Burlington Performing Arts Centre. This is your chance to experience the thrill of Tina Turner’s music like never before—don’t miss the ultimate tribute to the Queen of Rock and Roll!"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://burlingtonpac.ca/events/tina-better-be-good-to-me/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@value": "https://burlingtonpac.ca/wp-content/uploads/2023/10/tina-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@value": "2025-05-09T20:00:00-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/temporary/89e64b56-5423-4e96-83a3-0e650871a299",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@value": "2025-05-30T13:00:00-04:00"
+      },
+      {
+        "@value": "2025-05-10"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "http://kg.footlight.io/resource/burlington-ca_sakura-festival#Offer"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://burlingtonpac.ca/events/sakura-festival/#WebPage"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-74"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Sakura Festival - The Burlington Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Celebrate the Sakura (Cherry Blossom) Festival and the 36th anniversary of the twinning agreement between Burlington and its twin city, Itabashi, Japan. Hosted by the Burlington Mundialization Committee. Featuring: Greetings from Mayor Marianne Meed Ward and Consul General of Japan MATSUNAGA Takeshi Opening performance by Burlington’s Do Kon Daiko Japanese drumming group Karate, aikido and iaido demonstrations A performance by the internationally renowned taiko group Nagata Shachu Suzuran odori (traditional dance) performances Closing with exhilarating yosakoi dance by Sakuramai Toronto. Artwork from elementary school children at Frontenac Public School and Fujimidai Public School. View the Sakura trees Cherry blossom trees are located at Spencer Smith Park. Take part in the centuries-old tradition of hanami, the Japanese term for flower viewing. Called sakura in Japan, these cherry blossom trees bloom at the end of April to early May. The event is non-ticketed/free to attend, and will take place in our lobby from 1:00pm-3:30pm on Saturday, May 10th."
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://burlingtonpac.ca/events/sakura-festival/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@value": "https://burlingtonpac.ca/wp-content/uploads/2025/05/sakura-festival-800x500-1.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/temporary/c5100a4f-7a1c-4b40-986e-fe3bd9cd5ec0",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K10-366"
+      },
+      {
+        "@id": "http://kg.artsdata.ca/resource/K12-379"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-73"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "http://kg.footlight.io/resource/burlington-ca_solo-encore#Offer"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://burlingtonpac.ca/events/solo-encore/#WebPage"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Southern Ontario Lyric Opera: Encore, An Evening With Gino Quilico - The Burlington Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "SOLO is very pleased to welcome World-renowned Grammy Award winner Canadian baritone Gino Quilico O.C. C.Q. Gino has sung in all the major opera houses of the world including The Met, La Scala, and Vienna State Opera. He will perform, along with SOLO’s Youth and Adult Chorus, and Orchestra, a mixed programme of Opera and Musical Theatre favourites and more! The perfect gift for Mother’s Day, at a GREAT price, only $25 for Seniors/Adult Tickets!!"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://burlingtonpac.ca/events/solo-encore/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@value": "https://burlingtonpac.ca/wp-content/uploads/2024/03/solo-encore-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@value": "2025-05-10T19:30:00-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/temporary/c5e7d057-59b4-42cf-a594-489aa534a25e",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K10-216"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://burlingtonpac.ca/events/bso-an-afternoon-at-the-opera/#WebPage"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-73"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "http://kg.footlight.io/resource/burlington-ca_bso-an-afternoon-at-the-opera#Offer"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Burlington Symphony Orchestra: An Afternoon at the Opera - The Burlington Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Photography by Dave O’Donnell A program of music from the world of opera. Exciting overtures and stunning arias will be performed featuring the full orchestra and some of the finest opera voices in the region."
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://burlingtonpac.ca/events/bso-an-afternoon-at-the-opera/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@value": "https://burlingtonpac.ca/wp-content/uploads/2023/10/BSO-Image-1-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@value": "2025-05-11T15:00:00-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/temporary/a72b25ff-7b16-4d70-9ef6-0bbef0a342fe",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@value": "2025-05-22T19:30:00-04:00"
+      },
+      {
+        "@value": "2025-05-23T11:00:00-04:00"
+      },
+      {
+        "@value": "2025-05-23T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "http://kg.footlight.io/resource/burlington-ca_bst-evita#Offer"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://burlingtonpac.ca/events/bst-evita/#WebPage"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-73"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "BURLINGTON STUDENT THEATRE: EVITA - The Burlington Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "EVITA Music by Andrew Lloyd Webber, Lyrics by Tim Rice “The true revolutionary is guided by feelings of great love” -Che Guevara Buenos Aires, Argentina, 1952. An announcement is made that Eva Peron has died. Flash back to 1934, where we begin the journey of the life of Eva Duarte, a young 15 year-old with stars in her eyes. We witness her rise to power as “Evita,” Argentina’s controversial First Lady, saint of the working class. And we watch with great sadness as Evita succumbs to illness which causes her untimely death at 33 years old. This production realized by the Senior Company of Burlington Student Theatre, who brought you CHICAGO, CRAZY FOR YOU and many other popular musicals. EVITA is sure not to disappoint."
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://burlingtonpac.ca/events/bst-evita/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@value": "https://burlingtonpac.ca/wp-content/uploads/2024/11/bst-evita-800x500-1.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/temporary/5d125ea0-723d-44f9-b6ac-733ca62f118e",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-73"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "http://kg.footlight.io/resource/burlington-ca_osyo-movie-magic#Offer"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://burlingtonpac.ca/events/osyo-movie-magic/#WebPage"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Oakville Symphony Youth Orchestra: Movie Magic - The Burlington Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Join the Oakville Symphony Youth Orchestra as they present, “Movie Magic”."
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://burlingtonpac.ca/events/osyo-movie-magic/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@value": "https://burlingtonpac.ca/wp-content/uploads/2025/02/osyo-movie-magic-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@value": "2025-05-25T15:00:00-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/temporary/dda6c9d5-277d-46f2-a62d-e4a55f62cb39",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@value": "2025-05-05T18:00:00-04:00"
+      },
+      {
+        "@value": "2025-05-30T19:00:00-04:00"
+      },
+      {
+        "@value": "2025-05-26"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "http://kg.footlight.io/resource/burlington-ca_mayors-speaker-series#Offer"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://burlingtonpac.ca/events/mayors-speaker-series/#WebPage"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K2-5771"
+      },
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-72"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Mayor of Burlington: Mayor's Speaker Series - The Burlington Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Join Mayor Meed Ward and Councillor Stolte, Deputy Mayor of Housing, for a timely discussion on how cities can stay focused on addressing the housing crisis despite rising economic uncertainty, shifting trade dynamics, and tariffs. This event brings together policy experts and industry leaders to explore strategies and practical solutions for keeping housing a top priority. Don’t miss this opportunity to learn and engage! This is a free event and everyone is welcome. Please register to reserve your seat."
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://burlingtonpac.ca/events/mayors-speaker-series/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@value": "https://burlingtonpac.ca/wp-content/uploads/2023/11/speaker-series-v2-800x500-1.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/temporary/386c5c74-6743-4074-bdf4-3c3ef423a313",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K10-210"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://burlingtonpac.ca/events/bach-to-piazzolla/#WebPage"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "http://kg.footlight.io/resource/burlington-ca_bach-to-piazzolla#Offer"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-72"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "ENSEMBLE VIVANT: Bach to Piazzolla - The Burlington Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "From Johann Sebastian Bach to Astor Piazzolla, from Classical to Ragtime, from the Great American Songbook to Latin and Jazz. The ever-versatile and genre-diverse Ensemble Vivant performs standouts and highlights of a stunningly beautiful repertoire. Pioneering tour-de-force Ensemble Vivant’s innovative genre-diverse programming is rich with passionate, deeply communicative playing that touches the hearts and souls of listeners of all ages. Ensemble Vivant has 15 internationally acclaimed albums heard on radio world-wide. Ensemble Vivant’s invaluable live and virtual programs for underserved schools and communities (endorsed by neuroscientists on music and the mind) are conducted through Euterpe Corporation (musicisthekey.org). Funding support has been awarded by Ontario Trillium Foundation; Canada Council for the Arts; Levante Foundation; Ross Mitchell Foundation and more. "
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://burlingtonpac.ca/events/bach-to-piazzolla/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@value": "https://burlingtonpac.ca/wp-content/uploads/2024/04/ensemble-vivant-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@value": "2025-02-16T16:00:00-05:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/temporary/895591e3-a2a7-4c7f-ba5b-f3a87701c1cd",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://burlingtonpac.ca/events/you-have-voice-male/#WebPage"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-73"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "http://kg.footlight.io/resource/burlington-ca_you-have-voice-male#Offer"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Associated Male Choruses of Ontario - YOU HAVE VOICE-MALE! - The Burlington Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "100+ Male Voices 6 Choruses 1 Concert to Remember! The Associated Male Choruses of Ontario gathers annually for our showcase event, Ontario Sings. Our 2025 performance, entitled “You Have Voice-Male!”, marks our first appearance at the Burlington Performing Arts Centre and takes place on Saturday May 31, 2025, at 7 p.m. Taking part are six long-established choruses from southern Ontario: Brant Men of Song Cambridge Male Chorus Guelph Male Choir Niagara Men’s Chorus The Schneider Male Chorus Men Aloud! (formerly The Queensmen of Toronto Male Chorus), presenting host. Come and enjoy the music you like to hear! Selections range from popular classics to classic pops and many in between, voiced by individual choruses, and the voices of over 100 men performing dynamic massed numbers. If you have not heard the powerful sound of many male voices singing together, don’t miss this opportunity to enjoy the experience!"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://burlingtonpac.ca/events/you-have-voice-male/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@value": "https://burlingtonpac.ca/wp-content/uploads/2024/10/mens-chorus-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@value": "2025-05-31T19:00:00-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/temporary/89525eff-3b58-41fa-9268-91f282bf9c9b",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "http://kg.footlight.io/resource/burlington-ca_premiere-dance#Offer"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://burlingtonpac.ca/events/premiere-dance/#WebPage"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-73"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Premiere Dance Presents: An Evening with the Stars - The Burlington Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "style=\"height:15px;\""
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://burlingtonpac.ca/events/premiere-dance/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@value": "https://burlingtonpac.ca/wp-content/uploads/2025/04/premieredance-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@value": "2025-06-01T18:30:00-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/temporary/712db803-78b0-472d-b722-f6657b37a628",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K10-384"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "http://kg.footlight.io/resource/burlington-ca_motown-soul#Offer"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://burlingtonpac.ca/events/motown-soul/#WebPage"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-73"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Paquette Productions: Motown Soul - The Burlington Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "style=\"height:30px;\" Motown Soul is a live concert experience celebrating some of the biggest names in music such as Diana Ross and The Supremes, The Temptations, Smokey Robinson, Marvin Gaye and soulful favourites such as Aretha Franklin and James Brown. This show brings you the exquisite vocal harmonies of our leading ladies, Cathy, Marlene, together known as The Tonettes, with guest performer Selena Evangeline, and performing alongside special guest performer from Las Vegas, Grady Harrell. This outstanding cast of performers will deliver a powerful and soulful performance as you have never heard or seen before, bringing you back in time to that special era from the 60s when music and soul came together. Don’t miss this highly captivating performance accompanied by a live band. With songs like “Stop In The Name Of Love”, “My Girl”, “You Can’t Hurry Love”, “Ain’t No Mountain High Enough”, “Natural Woman” and many others, you’ll be singing and dancing all night long to this timeless music. style=\"height:30px;\""
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://burlingtonpac.ca/events/motown-soul/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@value": "https://burlingtonpac.ca/wp-content/uploads/2023/09/Motown-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@value": "2025-06-05T19:00:00-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/temporary/b3027a0c-f85a-4fbe-bb3e-61ffdce7cd59",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@value": "2025-06-17T14:00:00-04:00"
+      },
+      {
+        "@value": "2025-06-17T19:00:00-04:00"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "http://kg.footlight.io/resource/burlington-ca_burlington-footnotes#Offer"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://burlingtonpac.ca/events/burlington-footnotes/#WebPage"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-73"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "BURLINGTON FOOTNOTES: Gotta SING, Gotta DANCE! - The Burlington Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "style=\"height:15px;\" Gotta SING, Gotta DANCE! is an exciting tribute to the art of staying young, showcasing music, comedy and dance. It’s a lavish production featuring a brand new line up of upbeat and fast paced entertainment presented by the inspiring talents of the Burlington Footnotes."
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://burlingtonpac.ca/events/burlington-footnotes/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@value": "https://burlingtonpac.ca/wp-content/uploads/2024/08/footnotes-800x500-1.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/temporary/ed9a0f8c-fcb9-418d-aeb2-e4d7e3066348",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@value": "2025-07-10T11:00:00-04:00"
+      },
+      {
+        "@value": "2025-07-10T14:30:00-04:00"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-73"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "http://kg.footlight.io/resource/burlington-ca_bst-fame#Offer"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://burlingtonpac.ca/events/bst-fame/#WebPage"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "BURLINGTON STUDENT THEATRE: FAME - The Burlington Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "FAME Music by Steve Margoshes, Lyrics by Jacques Levy, Book by Jose Fernandez “If they’ve really got what it takes, it’s going to take everything they’ve got.” Inspired by the Oscar winning movie, FAME the Musical is the inspirational story of a diverse group of talented students studying at the New York School for the Performing Arts during the early 1980’s. From auditions to graduation, you will follow the stories of the student, sharing their dreams and disappointments and join them in the quest for success. The show explores issues such as prejudice, identity, self-worth, literacy and perseverance. The highs and lows are too much for some but the kids’ determination to find greatness shines through."
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://burlingtonpac.ca/events/bst-fame/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@value": "https://burlingtonpac.ca/wp-content/uploads/2024/11/bst-fame-800x500-1.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/temporary/cc04017f-9875-4f95-b06c-d571bed99510",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@value": "2025-07-24T11:00:00-04:00"
+      },
+      {
+        "@value": "2025-07-24T14:30:00-04:00"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://burlingtonpac.ca/events/bst-footloose/#WebPage"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "http://kg.footlight.io/resource/burlington-ca_bst-footloose#Offer"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-73"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "BURLINGTON STUDENT THEATRE: FOOTLOOSE - The Burlington Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "FOOTLOOSE Music by Tom Snow, Lyrics by Dean Pitchford “DANCING IS NOT A CRIME” When Ren McCormack and his mother move from Chicago to Bomont, a small farming town he’s never heard of, Ren is prepared for the adjustment to his new high school. What he isn’t prepared for are the local laws – including a ban on dancing – which are the brainchild of Reverend Moore, a local preacher who is bent on exercising control over the town’s young people. When the Reverend’s rebellious daughter Ariel sets her heart on Ren, her boyfriend Chuck Cranston tries to sabotage Ren’s reputation and many of the locals are eager to believe the worst about the new kid. Will Ren be able to bring dance back to Bomont?"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://burlingtonpac.ca/events/bst-footloose/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@value": "https://burlingtonpac.ca/wp-content/uploads/2024/11/bst-footloose-800x500-1.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/temporary/ac47650e-d714-4c9f-802b-52e25627047b",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "http://kg.footlight.io/resource/burlington-ca_icons#Offer"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://burlingtonpac.ca/events/icons/#WebPage"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-73"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "TVB Productions: ICONS - The Burlington Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "One Stage. Five ICONS. One Unforgettable Night! Get ready to experience ICONS – a spectacular live concert event celebrating the unforgettable music of five of the most legendary voices of all time for one incredible night! Experience the magic of Elvis Presley, Roy Orbison, Frankie Valli, Neil Diamond, and Johnny Cash like never before – These aren’t just names – they’re ICONS. And now, the world’s most celebrated tribute artists unite on one stage to honour five of the most legendary voices in music history. This is more than a tribute. This is a revival. This is ICONS."
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://burlingtonpac.ca/events/icons/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@value": "https://burlingtonpac.ca/wp-content/uploads/2024/10/Icons-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@value": "2025-10-17T20:00:00-04:00"
+      }
+    ]
+  }
+]
