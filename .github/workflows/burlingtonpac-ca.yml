@@ -1,0 +1,14 @@
+name: Score burlingtonpac.ca Events
+
+on:
+  workflow_dispatch:
+      
+jobs:
+  call-workflow-to-fetch-data:
+    uses: ./.github/workflows/generate-report.yml
+    with:
+        page_url: "https://burlingtonpac.ca/events/"
+        entity_identifier: "h2.portfolio-entry-title.entry-title.wpex-mb-5 a"
+        file_name: "burlingtonpac-ca.jsonld"
+        is_paginated: "false"
+        headless: "true"
