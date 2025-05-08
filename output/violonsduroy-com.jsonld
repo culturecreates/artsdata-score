@@ -863,15 +863,18 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g475180"
+        "@id": "_:g475160"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "https://www.violonsduroy.com/media/rp4jfq0k/site-vdr-photo-concert-apéro-4.jpg"
+        "@id": "https://www.violonsduroy.com/media/3uwe0ddr/2025-05-21-22-satie.jpg"
       }
     ],
     "http://schema.org/performer": [
+      {
+        "@id": "_:g475200"
+      },
       {
         "@id": "_:g475220"
       },
@@ -889,14 +892,11 @@
       },
       {
         "@id": "_:g475320"
-      },
-      {
-        "@id": "_:g475340"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g475360"
+        "@id": "_:g475340"
       }
     ],
     "http://schema.org/additionalType": [
@@ -906,7 +906,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g475380"
+        "@id": "_:g475360"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -934,13 +934,13 @@
     ]
   },
   {
-    "@id": "_:g475180",
+    "@id": "_:g475160",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g475200"
+        "@id": "_:g475180"
       }
     ],
     "http://schema.org/name": [
@@ -951,7 +951,7 @@
     ]
   },
   {
-    "@id": "_:g475220",
+    "@id": "_:g475200",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -963,7 +963,7 @@
     ]
   },
   {
-    "@id": "_:g475240",
+    "@id": "_:g475220",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -975,7 +975,7 @@
     ]
   },
   {
-    "@id": "_:g475260",
+    "@id": "_:g475240",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -987,7 +987,7 @@
     ]
   },
   {
-    "@id": "_:g475280",
+    "@id": "_:g475260",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -999,7 +999,7 @@
     ]
   },
   {
-    "@id": "_:g475300",
+    "@id": "_:g475280",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -1011,7 +1011,7 @@
     ]
   },
   {
-    "@id": "_:g475320",
+    "@id": "_:g475300",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -1023,7 +1023,7 @@
     ]
   },
   {
-    "@id": "_:g475340",
+    "@id": "_:g475320",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -1035,7 +1035,7 @@
     ]
   },
   {
-    "@id": "_:g475360",
+    "@id": "_:g475340",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1057,7 +1057,7 @@
     ]
   },
   {
-    "@id": "_:g475380",
+    "@id": "_:g475360",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1068,7 +1068,7 @@
     ]
   },
   {
-    "@id": "_:g475200",
+    "@id": "_:g475180",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1164,7 +1164,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "https://www.violonsduroy.com/media/rp4jfq0k/site-vdr-photo-concert-apéro-4.jpg"
+        "@id": "https://www.violonsduroy.com/media/3uwe0ddr/2025-05-21-22-satie.jpg"
       }
     ],
     "http://schema.org/performer": [
@@ -1897,7 +1897,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g489940"
+        "@id": "_:g489960"
       }
     ],
     "http://schema.org/image": [
@@ -1907,15 +1907,15 @@
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g489980"
+        "@id": "_:g490000"
       },
       {
-        "@id": "_:g490000"
+        "@id": "_:g490020"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g490020"
+        "@id": "_:g490040"
       }
     ],
     "http://schema.org/additionalType": [
@@ -1925,7 +1925,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g490040"
+        "@id": "_:g490060"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1953,31 +1953,19 @@
     ]
   },
   {
-    "@id": "_:g489940",
+    "@id": "_:g489960",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g489960"
+        "@id": "_:g489980"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "fr",
         "@value": "Salle Bourgie"
-      }
-    ]
-  },
-  {
-    "@id": "_:g489980",
-    "@type": [
-      "http://schema.org/Thing"
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Nicolas Ellis"
       }
     ]
   },
@@ -1989,12 +1977,24 @@
     "http://schema.org/name": [
       {
         "@language": "fr",
-        "@value": "Raphaël Pidoux"
+        "@value": "Nicolas Ellis"
       }
     ]
   },
   {
     "@id": "_:g490020",
+    "@type": [
+      "http://schema.org/Thing"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Raphaël Pidoux"
+      }
+    ]
+  },
+  {
+    "@id": "_:g490040",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -2016,7 +2016,7 @@
     ]
   },
   {
-    "@id": "_:g490040",
+    "@id": "_:g490060",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2027,7 +2027,7 @@
     ]
   },
   {
-    "@id": "_:g489960",
+    "@id": "_:g489980",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2118,7 +2118,7 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g493480"
+        "@id": "_:g493500"
       }
     ],
     "http://schema.org/image": [
@@ -2128,12 +2128,12 @@
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g493520"
+        "@id": "_:g493540"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g493540"
+        "@id": "_:g493560"
       }
     ],
     "http://schema.org/additionalType": [
@@ -2143,7 +2143,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g493560"
+        "@id": "_:g493580"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -2171,13 +2171,13 @@
     ]
   },
   {
-    "@id": "_:g493480",
+    "@id": "_:g493500",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g493500"
+        "@id": "_:g493520"
       }
     ],
     "http://schema.org/name": [
@@ -2188,7 +2188,7 @@
     ]
   },
   {
-    "@id": "_:g493520",
+    "@id": "_:g493540",
     "@type": [
       "http://schema.org/Thing"
     ],
@@ -2200,7 +2200,7 @@
     ]
   },
   {
-    "@id": "_:g493540",
+    "@id": "_:g493560",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -2222,7 +2222,7 @@
     ]
   },
   {
-    "@id": "_:g493560",
+    "@id": "_:g493580",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2233,7 +2233,7 @@
     ]
   },
   {
-    "@id": "_:g493500",
+    "@id": "_:g493520",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
