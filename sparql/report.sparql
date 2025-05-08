@@ -3,9 +3,9 @@ PREFIX example: <http://example.org/>
 
 SELECT *
 WHERE {
-  ?event a schema:Event ;
+  ?event a ?event_type ;
          schema:name ?name .
-  
+  values ?event_type { schema:Event schema:TheaterEvent schema:MusicEvent schema:EventSeries}
   ?event example:score ?score .  
   filter(!isBLANK(?score))
        
