@@ -12,3 +12,4 @@ jobs:
         file_name: "sandersoncentre-ca.jsonld"
         is_paginated: "true"
         headless: "true"
+        custom_user_agent: "artsdata"
