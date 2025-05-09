@@ -23,6 +23,10 @@ on:
         description: "Run in headless mode? (true|false)"
         required: true
         type: string
+      custom_user_agent:
+        description: "Pass a custom user agent header to http requests"
+        required: false
+        type: string
   workflow_call: 
     inputs:
       page_url:
@@ -40,6 +44,10 @@ on:
       headless:
         required: true
         type: string
+      custom_user_agent:
+        description: "Pass a custom user agent header to http requests"
+        required: false
+        type: string
 
 jobs:
   call-reusable-workflow:
@@ -55,6 +63,7 @@ jobs:
           is-paginated: ${{ inputs.is_paginated }}
           headless: ${{ inputs.headless }}
           token: "${{ secrets.GITHUB_TOKEN }}"
+          custom-user-agent: ${{ inputs.custom_user_agent }}
   
   generate-report:
     runs-on: ubuntu-latest
