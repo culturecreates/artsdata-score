@@ -1,0 +1,14 @@
+name: Score thedancecentre.ca/calendar/ Events
+
+on:
+  workflow_dispatch:
+      
+jobs:
+  call-workflow-to-fetch-data:
+    uses: ./.github/workflows/generate-report.yml
+    with:
+        page_url: "https://thedancecentre.ca/calendar/"
+        entity_identifier: "a.url"
+        file_name: "thedancecentre-ca.jsonld"
+        is_paginated: "true"
+        headless: "false"
