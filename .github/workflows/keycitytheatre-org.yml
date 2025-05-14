@@ -8,7 +8,7 @@ jobs:
     uses: ./.github/workflows/generate-report.yml
     with:
         page_url: "https://www.keycitytheatre.com/all-shows"
-        entity_identifier: "a.eventlist-title-link"
+        entity_identifier: "a.eventlist-button sqs-editable-button.sqs-button-element--primary"
         file_name: "keycitytheatre-com.jsonld"
         is_paginated: "false"
         headless: "false"
