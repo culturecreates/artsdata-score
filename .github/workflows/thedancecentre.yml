@@ -1,4 +1,4 @@
-name: Score thedancecentre.ca/calendar/ Events
+name: Score thedancecentre.ca/performances-events/ Events
 
 on:
   workflow_dispatch:
@@ -7,8 +7,8 @@ jobs:
   call-workflow-to-fetch-data:
     uses: ./.github/workflows/generate-report.yml
     with:
-        page_url: "https://thedancecentre.ca/calendar/"
-        entity_identifier: "a.url"
+        page_url: "https://thedancecentre.ca/performances-events/"
+        entity_identifier: "a.btn-underline.btn-underline-color"
         file_name: "thedancecentre-ca.jsonld"
         is_paginated: "true"
         headless: "false"
