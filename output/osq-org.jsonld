@@ -1,0 +1,6428 @@
+[
+  {
+    "@id": "https://www.osq.org/concerts/kerson-leong-carmen-et-chevalier/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Kerson Leong, Carmen et le Chevalier | Orchestre symphonique de Québec"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Ouvrez la saison en grand avec Wagner, Chausson, Sarasate et Strauss! Un concert éclatant porté par Kerson Leong et l’Orchestre sous la direction de Clemens Schuldt."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.osq.org/concerts/kerson-leong-carmen-et-chevalier/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Orchestre symphonique de Québec"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.facebook.com/orchestresymphoniquedequebec/?ref=br_rs"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-04-16T16:56:51+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.osq.org/wp-content/uploads/2025/04/SW-Kerson-Leong-carre.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1140"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "1140"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.osq.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Kerson Leong, Carmen et le Chevalier"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/kerson-leong-carmen-et-chevalier/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/concerts/kerson-leong-carmen-et-chevalier/"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g461040"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-09-18T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g461080"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g461100"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.osq.org/concerts/kerson-leong-carmen-et-chevalier/#primaryimage"
+      },
+      {
+        "@id": "_:g461120"
+      },
+      {
+        "@id": "_:g461140"
+      },
+      {
+        "@id": "_:g461160"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.osq.org/concerts/kerson-leong-carmen-et-chevalier/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Kerson Leong, Carmen et le Chevalier"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Clemens Schuldt, chef\r\nKerson Leong*, violon\r\n\r\nWagner : Tannhäuser, ouverture\r\nChausson : Poème pour violon et orchestre\r\nSarasate : Fantaisie sur Carmen de Bizet\r\nStrauss : Le Chevalier à la rose, suite\r\n\r\nPour le premier concert de cette nouvelle saison, Clemens Schuldt nous invite à une vibrante célébration de l’Europe romantique, dont l’étourdissant crescendo amorçant l’ouverture de Tannhäuser annonce la couleur! L’Orchestre rutile en divulguant les leitmotive du sixième opéra de Wagner : un conflit universel entre l’érotisme et le devoir moral. L’étoile montante du violon au Canada, Kerson Leong, métamorphose cette intensité dramatique en intimité symboliste avec le Poème de Chausson, l’œuvre la plus emblématique du compositeur. La partition s’inspire d’une nouvelle fantastique de Tourgueniev, ou une mélodie jouée au violon crée un envoûtement.\r\n\r\nOn change de registre avec l’exubérante Fantaisie sur Carmen du violoniste virtuose et compositeur espagnol Sarasate, qui sublime en cinq mouvements les grands thèmes du célèbre drame de Bizet. Enfin, retour en Allemagne avec la richesse orchestrale de la Suite qui résume tout l’opéra de Richard Strauss, Le Chevalier à la rose : une romance explorant les thèmes de la jeunesse et du désir.\r\n\r\n* « Les solistes Hans-Jürgen Greif » : programme développé à l’initiative de l’écrivain, professeur et philanthrope Hans-Jürgen Greif. Sa vision et sa générosité rendent possible la venue de Kerson Leong."
+      }
+    ]
+  },
+  {
+    "@id": "_:g461040",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g461060"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Grand Théâtre de Québec"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461080",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "57"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461100",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Orchestre symphonique de Québec"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "generic"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/kerson-leong-carmen-et-chevalier/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/04/SW-Kerson-Leong-carre-1200x1200.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461120",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/04/SW-Kerson-Leong-carre-1200x900.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "900"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461140",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/04/SW-Kerson-Leong-carre-1200x675.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "675"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461160",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/04/SW-Kerson-Leong-carre.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1140"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "1140"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461060",
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org",
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Orchestre symphonique de Québec"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/",
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Concerts"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/la-monumentale-5e-de-mahler/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "La Monumentale 5e de Mahler | Orchestre symphonique de Québec"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Concert d'ouverture de saison : Le Concerto pour piano no 2 de Beethoven avec Alexandre Tharaud et la Symphonie no 5 de Mahler, sous la direction de Clemens Schuldt."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.osq.org/concerts/la-monumentale-5e-de-mahler/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Orchestre symphonique de Québec"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.facebook.com/orchestresymphoniquedequebec/?ref=br_rs"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-05-13T13:06:32+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.osq.org/wp-content/uploads/2024/04/SW-Alexandre-Tharaud-carre.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1140"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "1140"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.osq.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "La Monumentale 5e de Mahler"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/la-monumentale-5e-de-mahler/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/concerts/la-monumentale-5e-de-mahler/"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g466060"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-09-24T20:00:00-04:00"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g466100"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g466120"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.osq.org/concerts/la-monumentale-5e-de-mahler/#primaryimage"
+      },
+      {
+        "@id": "_:g466140"
+      },
+      {
+        "@id": "_:g466160"
+      },
+      {
+        "@id": "_:g466180"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.osq.org/concerts/la-monumentale-5e-de-mahler/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "La Monumentale 5e de Mahler"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Clemens Schuldt, chef\r\nAlexandre Tharaud, piano\r\nAvec la participation de 10 étudiants du Conservatoire de musique de Québec\r\n\r\nBeethoven : Concerto pour piano n° 2\r\nMahler : Symphonie n° 5 *\r\n\r\nLes vies intenses de Beethoven et de Mahler se révèlent dans ces deux œuvres du répertoire germanique. Le Deuxième concerto de Beethoven a été créé lors du premier grand concert public du compositeur à Vienne, à l’âge de 25 ans. Alexandre Tharaud, le plus célèbre des pianistes français d’aujourd’hui, restitue la force rythmique, le lyrisme et l’impétuosité enjouée de ce grand concerto. En deuxième partie, l’héritier spirituel de Beethoven offre avec sa Cinquième symphonie un monument de maîtrise orchestrale marqué par les thèmes de la mort, du conflit intérieur et de la victoire sur la maladie que venait de remporter Mahler. Rendu célèbre par le film Mort à Venise de Visconti, l’Adagietto est une vibrante déclaration d’amour du compositeur à sa femme Alma.\r\n\r\n* Seuls les 1er, 4e et 5e mouvements seront joués lors des Matins en musique CDPQ.\r\n\r\n&nbsp;\r\nLe concert du mercredi est présenté par\r\n\r\nPartenaire de la série des Matins en musique CDPQ\r\n\r\nPartenaire de services des Matins en musique CDPQ"
+      }
+    ]
+  },
+  {
+    "@id": "_:g466060",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g466080"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Grand Théâtre de Québec"
+      }
+    ]
+  },
+  {
+    "@id": "_:g466100",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "61"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "_:g466120",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Orchestre symphonique de Québec"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "generic"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/la-monumentale-5e-de-mahler/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2024/04/SW-Alexandre-Tharaud-carre-1200x1200.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ]
+  },
+  {
+    "@id": "_:g466140",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2024/04/SW-Alexandre-Tharaud-carre-1200x900.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "900"
+      }
+    ]
+  },
+  {
+    "@id": "_:g466160",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2024/04/SW-Alexandre-Tharaud-carre-1200x675.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "675"
+      }
+    ]
+  },
+  {
+    "@id": "_:g466180",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2024/04/SW-Alexandre-Tharaud-carre.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1140"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "1140"
+      }
+    ]
+  },
+  {
+    "@id": "_:g466080",
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/harry-potter-and-the-chamber-of-secrets-en-concert/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Harry Potter and the Chamber of Secrets™ en concert | Orchestre symphonique de Québec"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Redécouvrez les aventures de Harry, Ron et Hermione sur grand écran, accompagnées en direct par l’Orchestre symphonique de Québec. Une expérience ensorcelante à ne pas manquer!"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.osq.org/concerts/harry-potter-and-the-chamber-of-secrets-en-concert/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Orchestre symphonique de Québec"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.facebook.com/orchestresymphoniquedequebec/?ref=br_rs"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.osq.org/wp-content/uploads/2025/03/SW-Harry-Potter-2-carre.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1140"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "1140"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.osq.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Harry Potter and the Chamber of Secrets™ en concert"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/harry-potter-and-the-chamber-of-secrets-en-concert/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/concerts/harry-potter-and-the-chamber-of-secrets-en-concert/"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g471180"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-03T19:00:00-04:00"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g471220"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g471240"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.osq.org/concerts/harry-potter-and-the-chamber-of-secrets-en-concert/#primaryimage"
+      },
+      {
+        "@id": "_:g471260"
+      },
+      {
+        "@id": "_:g471280"
+      },
+      {
+        "@id": "_:g471300"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.osq.org/concerts/harry-potter-and-the-chamber-of-secrets-en-concert/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Harry Potter and the Chamber of Secrets™ en concert"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Notez que les billets au tarif 17-30 ans sont au coût de 60$ (quantité limitée).\r\nNotez que les billets au tarif 16 ans et moins sont au coût de 50$ (quantité limitée).\r\nUne rentrée tonitruante en voiture volante, un saule cogneur, un mystérieux elfe de maison… cette deuxième année à Poudlard™ s’annonce bien animée pour Harry Potter™!\r\n« La Chambre des secrets a été ouverte »; quand cette inscription tracée au sang apparaît sur les murs de l’école, c’est le signe que l’aventure et le danger sont imminents. Harry, Ron et Hermione vont devoir rassembler toutes leurs connaissances de la magie et leur courage pour sauver l’école des sorciers.\r\n\r\nCiné concert présenté en version originale anglaise, sous-titrée en français (V.O.A.S.-F.).\r\n\r\nEvan Mitchell, chef\r\nCiné concert\r\n\r\n\r\nAll related trademarks, characters, names, and indicia are © &amp; ™ Warner Bros. Entertainment Inc. Publishing Rights © JKR.\r\nHARRYPOTTERINCONCERT.COM\r\n#HarryPotterinConcert\r\nPartenaire du concert hors-série"
+      }
+    ]
+  },
+  {
+    "@id": "_:g471180",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g471200"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Grand Théâtre de Québec"
+      }
+    ]
+  },
+  {
+    "@id": "_:g471220",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "78"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "_:g471240",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Orchestre symphonique de Québec"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "generic"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/harry-potter-and-the-chamber-of-secrets-en-concert/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-Harry-Potter-2-carre-1200x1200.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ]
+  },
+  {
+    "@id": "_:g471260",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-Harry-Potter-2-carre-1200x900.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "900"
+      }
+    ]
+  },
+  {
+    "@id": "_:g471280",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-Harry-Potter-2-carre-1200x675.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "675"
+      }
+    ]
+  },
+  {
+    "@id": "_:g471300",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-Harry-Potter-2-carre.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1140"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "1140"
+      }
+    ]
+  },
+  {
+    "@id": "_:g471200",
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/pastorale-de-beethoven/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "La Pastorale de Beethoven | Orchestre symphonique de Québec"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Plongez au cœur du romantisme avec Dvořák, Bruch, Popper et Beethoven. Bryan Cheng et Christian Kluxen subliment ce programme aux couleurs légendaires et pastorales."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.osq.org/concerts/pastorale-de-beethoven/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Orchestre symphonique de Québec"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.facebook.com/orchestresymphoniquedequebec/?ref=br_rs"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-04-16T16:57:18+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.osq.org/wp-content/uploads/2025/03/SW-Bryan-Cheng-carre.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1140"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "1140"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.osq.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "La Pastorale de Beethoven"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/pastorale-de-beethoven/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/concerts/pastorale-de-beethoven/"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g476300"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-10-15T20:00:00-04:00"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g476340"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g476360"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.osq.org/concerts/pastorale-de-beethoven/#primaryimage"
+      },
+      {
+        "@id": "_:g476380"
+      },
+      {
+        "@id": "_:g476400"
+      },
+      {
+        "@id": "_:g476420"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.osq.org/concerts/pastorale-de-beethoven/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "La Pastorale de Beethoven"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Christian Kluxen, chef\r\nBryan Cheng*, violoncelle\r\n\r\nDvořák : La sorcière de midi\r\nBruch : Kol Nidrei\r\nDvořák : Rondo pour violoncelle et orchestre\r\nPopper : Rhapsodie hongroise\r\nBeethoven : Symphonie n° 6 « Pastorale »\r\n\r\nSous la direction du chef danois Christian Kluxen, nous pénétrons au cœur du romantisme et de ses sources d’inspiration les plus saisissantes. Le poème symphonique La sorcière de midi de Dvořák sublime les légendes tchèques liées aux esprits fabuleux. Il ouvre la voie aux riches émotions sonores dévoilées par le violoncelliste canadien multiprimé, Bryan Cheng. Nous restons en compagnie de Dvořák sous ses doigts, pour un Rondo au thème enjoué tout droit venu de Bohème, introduit par le pénétrant Kol Nidrei de Bruch, qui évoque avec intensité la prière hébraïque du Grand Pardon. Les rythmes hongrois de la Rhapsodie de Popper, violoncelliste et compositeur d’origine juive, concluent avec brio l’intervention passionnée de Bryan Cheng.\r\n\r\nEnfin, la Symphonie « Pastorale » de Beethoven convertit les sons en images : devenant sourd, le génie de la musique se réfugie dans la nature et s’inspire des paysages qu’il préfère pour nous ouvrir les portes de son monde intérieur. Sur sa partition où l’orage côtoie les bergers et les chants d’oiseaux, le compositeur a noté : « Plus qu’une peinture, l’expression d’un sentiment! »\r\n\r\n* « Les solistes Hans-Jürgen Greif » : programme développé à l’initiative de l’écrivain, professeur et philanthrope Hans-Jürgen Greif. Sa vision et sa générosité rendent possible la venue de Bryan Cheng."
+      }
+    ]
+  },
+  {
+    "@id": "_:g476300",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g476320"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Palais Montcalm"
+      }
+    ]
+  },
+  {
+    "@id": "_:g476340",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "57"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "_:g476360",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Orchestre symphonique de Québec"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "specified"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/pastorale-de-beethoven/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-Bryan-Cheng-carre-1200x1200.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ]
+  },
+  {
+    "@id": "_:g476380",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-Bryan-Cheng-carre-1200x900.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "900"
+      }
+    ]
+  },
+  {
+    "@id": "_:g476400",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-Bryan-Cheng-carre-1200x675.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "675"
+      }
+    ]
+  },
+  {
+    "@id": "_:g476420",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-Bryan-Cheng-carre.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1140"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "1140"
+      }
+    ]
+  },
+  {
+    "@id": "_:g476320",
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/lumieres-sur-les-planetes-de-holst/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Lumières sur les Planètes de Holst | Orchestre symphonique de Québec"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Plongez dans une odyssée musicale et visuelle avec Holst, Prokofiev et Tabakova, dirigée par Delyana Lazarova, où musique et astronomie se rencontrent!"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.osq.org/concerts/lumieres-sur-les-planetes-de-holst/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Orchestre symphonique de Québec"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.facebook.com/orchestresymphoniquedequebec/?ref=br_rs"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.osq.org/wp-content/uploads/2025/03/SW-Delyana-Lazarova-carre.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1140"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "1140"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.osq.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Lumières sur les Planètes de Holst"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/lumieres-sur-les-planetes-de-holst/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/concerts/lumieres-sur-les-planetes-de-holst/"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g481260"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-05T20:00:00-05:00"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g481300"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g481320"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.osq.org/concerts/lumieres-sur-les-planetes-de-holst/#primaryimage"
+      },
+      {
+        "@id": "_:g481340"
+      },
+      {
+        "@id": "_:g481360"
+      },
+      {
+        "@id": "_:g481380"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.osq.org/concerts/lumieres-sur-les-planetes-de-holst/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Lumières sur les Planètes de Holst"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Delyana Lazarova, cheffe\r\nClara-Jumi Kang, violon\r\nVoix de femmes du Choeur de l’Orchestre symphonique de Québec\r\nDavid Rompré, chef de chœur\r\nNyco Desmeules, concepteur-éclairagiste en résidence\r\nASTROLab Expérience vidéo\r\n\r\nTabakova : Orpheus' Comet\r\nProkofiev : Concerto pour violon n° 2\r\nHolst : Les Planètes\r\n\r\nDeux musiciennes bulgares hors du commun sont à l’affiche de ce concert au programme électrisant. La jeune cheffe Delyana Lazarova dirige la Comète d’Orphée de sa compatriote Dobrinka Tabakova. La violoniste allemande Clara-Jumi Kangnous entraîne dans une fabuleuse démonstration de virtuosité et de lyrisme avec le Deuxième concerto de Prokofiev. L’irrésistible mélodie de l’Andante assai ouvre un monde visuel dont on trouve des résonances dans les fascinantes Planètes de Gustav Holst. Ayant notamment inspiré John Williams dans la musique de Star Wars, cette partition unique s’inspire de l’astrologie pour dresser le portrait musical des planètes.\r\n\r\nL’Orchestre s’associe à L’ASTROLab dont l’équipe de communication scientifique a mis en images le chef-d’œuvre de Holst pour proposer une vision inédite des planètes de notre système solaire.\r\n\r\nBouclez votre ceinture pour une odyssée ou musique, images de l’ASTROLab et mise en lumière de Nyco Desmeules ne feront qu’un.\r\nCe concert est présenté par\r\n\r\nCe concert est réalisé en collaboration avec"
+      }
+    ]
+  },
+  {
+    "@id": "_:g481260",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g481280"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Grand Théâtre de Québec"
+      }
+    ]
+  },
+  {
+    "@id": "_:g481300",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "57"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "_:g481320",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Orchestre symphonique de Québec"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "generic"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/lumieres-sur-les-planetes-de-holst/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-Delyana-Lazarova-carre-1200x1200.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ]
+  },
+  {
+    "@id": "_:g481340",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-Delyana-Lazarova-carre-1200x900.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "900"
+      }
+    ]
+  },
+  {
+    "@id": "_:g481360",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-Delyana-Lazarova-carre-1200x675.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "675"
+      }
+    ]
+  },
+  {
+    "@id": "_:g481380",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-Delyana-Lazarova-carre.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1140"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "1140"
+      }
+    ]
+  },
+  {
+    "@id": "_:g481280",
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/la-mysterieuse-metamorphose-de-monsieur-et-madame-tacet/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "La mystérieuse métamorphose de Monsieur et Madame Tacet | Orchestre symphonique de Québec"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Monsieur et Madame Tacet découvrent un monde insoupçonné dans cette aventure musicale où les enfants explorent les familles d’instruments et savourent la musique symphonique."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.osq.org/concerts/la-mysterieuse-metamorphose-de-monsieur-et-madame-tacet/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Orchestre symphonique de Québec"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.facebook.com/orchestresymphoniquedequebec/?ref=br_rs"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-04-23T17:43:05+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.osq.org/wp-content/uploads/2024/04/SW-Monsieur-et-madame-Tacet-carre.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1140"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "1140"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.osq.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "La mystérieuse métamorphose de Monsieur et Madame Tacet"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/la-mysterieuse-metamorphose-de-monsieur-et-madame-tacet/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/concerts/la-mysterieuse-metamorphose-de-monsieur-et-madame-tacet/"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g486260"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-09T14:30:00-05:00"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g486300"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g486320"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.osq.org/concerts/la-mysterieuse-metamorphose-de-monsieur-et-madame-tacet/#primaryimage"
+      },
+      {
+        "@id": "_:g486340"
+      },
+      {
+        "@id": "_:g486360"
+      },
+      {
+        "@id": "_:g486380"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.osq.org/concerts/la-mysterieuse-metamorphose-de-monsieur-et-madame-tacet/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "La mystérieuse métamorphose de Monsieur et Madame Tacet"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Leandro Cardoso, assistant-chef en résidence\r\nVéronika Makdissi-Warren, metteure en scène\r\nPatrick Ouellet, interprète\r\nJocelyn Paré, interprète\r\nKarina Werneck Assis, interprète\r\nChristian Fontaine, décor et accessoires\r\nJulie Morel, costumes\r\n\r\nMonsieur et Madame Tacet mènent une vie bien rangée. Ils consacrent le plus clair de leur temps à la culture du seul légume qu’ils connaissent : la patate. Mais un beau jour, quelle n’est pas leur surprise de découvrir que de nouvelles variétés ont fait leur apparition dans leur jardin! S’ensuivront une explosion de saveurs et une ouverture sur un monde insoupçonné!\r\n\r\nCette allégorie farfelue propose une illustration musicale et ludique de notre résistance au changement, mais aussi de notre capacité à s’y adapter. Au son de la merveilleuse suite tirée de Peer Gynt de Grieg, les enfants découvriront les familles d’instruments et savoureront un véritable délice : la musique symphonique!\r\n\r\nPublic cible : 4 à 10 ans\r\nDurée : 45 minutes"
+      }
+    ]
+  },
+  {
+    "@id": "_:g486260",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g486280"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Grand Théâtre de Québec"
+      }
+    ]
+  },
+  {
+    "@id": "_:g486300",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "35"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "_:g486320",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Orchestre symphonique de Québec"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "generic"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/la-mysterieuse-metamorphose-de-monsieur-et-madame-tacet/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2024/04/SW-Monsieur-et-madame-Tacet-carre-1200x1200.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ]
+  },
+  {
+    "@id": "_:g486340",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2024/04/SW-Monsieur-et-madame-Tacet-carre-1200x900.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "900"
+      }
+    ]
+  },
+  {
+    "@id": "_:g486360",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2024/04/SW-Monsieur-et-madame-Tacet-carre-1200x675.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "675"
+      }
+    ]
+  },
+  {
+    "@id": "_:g486380",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2024/04/SW-Monsieur-et-madame-Tacet-carre.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1140"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "1140"
+      }
+    ]
+  },
+  {
+    "@id": "_:g486280",
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/concerto-violon-sibelius/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Le Concerto pour violon de Sibelius | Orchestre symphonique de Québec"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Un voyage musical entre Rachmaninov, Sibelius et Schumann, porté par la violoniste Eldbjørg Hemsing et l’Orchestre sous la direction de Clemens Schuldt."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.osq.org/concerts/concerto-violon-sibelius/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Orchestre symphonique de Québec"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.facebook.com/orchestresymphoniquedequebec/?ref=br_rs"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.osq.org/wp-content/uploads/2025/03/SW-Eldbjorg-Hemsing-carre.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1140"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "1140"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.osq.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Le Concerto pour violon de Sibelius"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/concerto-violon-sibelius/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/concerts/concerto-violon-sibelius/"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g491000"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-22T14:30:00-05:00"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g491040"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g491060"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.osq.org/concerts/concerto-violon-sibelius/#primaryimage"
+      },
+      {
+        "@id": "_:g491080"
+      },
+      {
+        "@id": "_:g491100"
+      },
+      {
+        "@id": "_:g491120"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.osq.org/concerts/concerto-violon-sibelius/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Le Concerto pour violon de Sibelius"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Une caméra placée devant Clemens Schuldt permettra d'apprécier toutes les subtilités de sa direction, sur écran géant.\r\nClemens Schuldt, chef\r\nEldbjørg Hemsing, violon\r\nKim Lévesque Lizotte, invitée carte blanche\r\n\r\nRachmaninov : Le Rocher, fantaisie\r\nSibelius : Concerto pour violon\r\nSchumann : Symphonie n° 3 « Rhénane »\r\n\r\nC’est à la majesté des éléments que Clemens Schuldt dédie ce concert riche en impressions musicales. Composé alors que Rachmaninov n’avait que 20 ans, son deuxième poème symphonique s’inspire d’un poème russe qui érige Le Rocher en un symbole de force et de permanence face aux aléas de la vie. Romantique par sa grandeur et impressionniste par ses effets de miroitement, la partition n’est pas lointaine aux paysages scandinaves, chers au Finlandais Jean Sibelius. La violoniste norvégienne Eldbjorg Hemsing défend avec éclat son Concerto pour violon, une des plus grandes œuvres concertantes du XXe siècle, écrite par un compositeur qui connaissait tous les secrets d’un instrument dont il jouait lui-même. Un premier mouvement rhapsodique, une poignante cantilène et un rondo bondissant précèdent la Symphonie « Rhénane » de Schumann. S’inspirant du Rhin qui traverse la ville de Düsseldorf dont Schumann dirigeait l’orchestre, sa Troisième symphonie exprime à l’orchestre toute la rondeur et la chaleur des paysages que sillonne le fleuve aux nombreuses légendes.\r\n\r\n&nbsp;"
+      }
+    ]
+  },
+  {
+    "@id": "_:g491000",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g491020"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Grand Théâtre de Québec"
+      }
+    ]
+  },
+  {
+    "@id": "_:g491040",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "57"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "_:g491060",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Orchestre symphonique de Québec"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "generic"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/concerto-violon-sibelius/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-Eldbjorg-Hemsing-carre-1200x1200.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ]
+  },
+  {
+    "@id": "_:g491080",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-Eldbjorg-Hemsing-carre-1200x900.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "900"
+      }
+    ]
+  },
+  {
+    "@id": "_:g491100",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-Eldbjorg-Hemsing-carre-1200x675.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "675"
+      }
+    ]
+  },
+  {
+    "@id": "_:g491120",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-Eldbjorg-Hemsing-carre.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1140"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "1140"
+      }
+    ]
+  },
+  {
+    "@id": "_:g491020",
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/deuxieme-concerto-rachmaninov/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Le Deuxième concerto de Rachmaninov | Orchestre symphonique de Québec"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Voyagez à travers le XXe siècle avec Hétu, Rachmaninov et Chostakovitch. Un concert intense porté par Lise de la Salle et l’Orchestre symphonique de Québec."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.osq.org/concerts/deuxieme-concerto-rachmaninov/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Orchestre symphonique de Québec"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.facebook.com/orchestresymphoniquedequebec/?ref=br_rs"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-04-16T17:17:09+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.osq.org/wp-content/uploads/2025/04/SW-Lise-de-la-Salle-carre.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1140"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "1140"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.osq.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Le Deuxième concerto de Rachmaninov"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/deuxieme-concerto-rachmaninov/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/concerts/deuxieme-concerto-rachmaninov/"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g495920"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-11-26T20:00:00-05:00"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g495960"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g495980"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.osq.org/concerts/deuxieme-concerto-rachmaninov/#primaryimage"
+      },
+      {
+        "@id": "_:g496000"
+      },
+      {
+        "@id": "_:g496020"
+      },
+      {
+        "@id": "_:g496040"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.osq.org/concerts/deuxieme-concerto-rachmaninov/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Le Deuxième concerto de Rachmaninov"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Clemens Schuldt, chef\r\nLise de la Salle, piano\r\n\r\nHétu : Le Tombeau de Nelligan *\r\nRachmaninov : Concerto pour piano n° 2\r\nChostakovitch : Symphonie n° 10 **\r\n\r\nUn fascinant voyage à travers les musiques du XXe siècle nous attend pour ce concert qui débute avec le troublant Tombeau de Nelligan du compositeur québécois Jacques Hétu. Commandée il y a un peu plus de 30 ans par l’Orchestre symphonique de Québec, la pièce rend hommage au poète Émile Nelligan qui a profondément marqué la littérature québécoise. On est transporté par le style mystérieux et exalté de la partition, qui introduit parfaitement le Deuxième concerto de Rachmaninov. Les thèmes russes et orientaux de ce monument du répertoire concertant donnent matière à une virtuosité effrénée. Un défi redouté même par les plus grands pianistes, ici relevé par la Française Lise de la Salle, une habituée de l’Orchestre, qui a enregistré une magnifique interprétation de ce concerto.\r\n\r\nEnfin, la Dixième symphonie de Chostakovitch affirme l’amour du compositeur pour son pays, la Russie, alors qu’il était très critiqué par le pouvoir soviétique. En pleine Guerre froide, le Kremlin rejetait toute audace stylistique. Créée quelques mois après la mort de Staline, cette symphonie spectaculaire déploie une inventivité débordante et se conclut par un éclatant finale, dont l’optimisme est sans doute attribuable à la disparition du dictateur.\r\n\r\n* Œuvre non-jouée lors des Matins en musique CDPQ.\r\n** Seuls les 2e, 3e et 4e mouvements seront joués lors des Matins en musique CDPQ.\r\n\r\n&nbsp;\r\nPartenaire de la série des Matins en musique CDPQ\r\n\r\nPartenaire de services des Matins en musique CDPQ"
+      }
+    ]
+  },
+  {
+    "@id": "_:g495920",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g495940"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Grand Théâtre de Québec"
+      }
+    ]
+  },
+  {
+    "@id": "_:g495960",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "57"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "_:g495980",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Orchestre symphonique de Québec"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "generic"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/deuxieme-concerto-rachmaninov/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/04/SW-Lise-de-la-Salle-carre-1200x1200.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ]
+  },
+  {
+    "@id": "_:g496000",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/04/SW-Lise-de-la-Salle-carre-1200x900.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "900"
+      }
+    ]
+  },
+  {
+    "@id": "_:g496020",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/04/SW-Lise-de-la-Salle-carre-1200x675.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "675"
+      }
+    ]
+  },
+  {
+    "@id": "_:g496040",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/04/SW-Lise-de-la-Salle-carre.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1140"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "1140"
+      }
+    ]
+  },
+  {
+    "@id": "_:g495940",
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/guylaine-tanguay-symphonique/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Guylaine Tanguay symphonique | Orchestre symphonique de Québec"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Guylaine Tanguay et l’Orchestre symphonique de Québec fusionnent country et classique, avec énergie, festivités et musique traditionnelle québécoise pour le Nouvel An."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.osq.org/concerts/guylaine-tanguay-symphonique/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Orchestre symphonique de Québec"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.facebook.com/orchestresymphoniquedequebec/?ref=br_rs"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.osq.org/wp-content/uploads/2025/03/SW-Guylaine-Tanguay-carre.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1140"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "1140"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.osq.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Guylaine Tanguay symphonique"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/guylaine-tanguay-symphonique/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/concerts/guylaine-tanguay-symphonique/"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g500980"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-12T20:00:00-05:00"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g501020"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g501040"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.osq.org/concerts/guylaine-tanguay-symphonique/#primaryimage"
+      },
+      {
+        "@id": "_:g501060"
+      },
+      {
+        "@id": "_:g501080"
+      },
+      {
+        "@id": "_:g501100"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.osq.org/concerts/guylaine-tanguay-symphonique/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Guylaine Tanguay symphonique"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Guylaine Tanguay, chanteuse\r\n\r\nLa fièvre du country de Guylaine Tanguay rencontre la majesté du classique de l’Orchestre symphonique de Québec. Avec son énergie contagieuse et son répertoire authentique, l’égérie du country québécois côtoie aussi les grands standards du genre, avec en prime une touche festive du temps des fêtes. À la veille des célébrations du Nouvel An, l’Orchestre se donne des airs de country aux couleurs et au rythme des musiques traditionnelles québécoises!"
+      }
+    ]
+  },
+  {
+    "@id": "_:g500980",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g501000"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Grand Théâtre de Québec"
+      }
+    ]
+  },
+  {
+    "@id": "_:g501020",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "57"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "_:g501040",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Orchestre symphonique de Québec"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "generic"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/guylaine-tanguay-symphonique/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-Guylaine-Tanguay-carre-1200x1200.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ]
+  },
+  {
+    "@id": "_:g501060",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-Guylaine-Tanguay-carre-1200x900.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "900"
+      }
+    ]
+  },
+  {
+    "@id": "_:g501080",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-Guylaine-Tanguay-carre-1200x675.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "675"
+      }
+    ]
+  },
+  {
+    "@id": "_:g501100",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-Guylaine-Tanguay-carre.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1140"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "1140"
+      }
+    ]
+  },
+  {
+    "@id": "_:g501000",
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/experience-nils-wanderer/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "L'expérience Nils Wanderer | Orchestre symphonique de Québec"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Un voyage musical entre baroque et modernité avec Bach, Brahms, Purcell, Cohen et Adèle. Nils Wanderer et Clemens Schuldt subliment ce programme audacieux et envoûtant."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.osq.org/concerts/experience-nils-wanderer/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Orchestre symphonique de Québec"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.facebook.com/orchestresymphoniquedequebec/?ref=br_rs"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.osq.org/wp-content/uploads/2025/03/SW-Nils-Wanderer-2-carre.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1140"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "1140"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.osq.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "L&#8217;expérience Nils Wanderer"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/experience-nils-wanderer/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/concerts/experience-nils-wanderer/"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g505880"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-01-28T20:00:00-05:00"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g505920"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g505940"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.osq.org/concerts/experience-nils-wanderer/#primaryimage"
+      },
+      {
+        "@id": "_:g505960"
+      },
+      {
+        "@id": "_:g505980"
+      },
+      {
+        "@id": "_:g506000"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.osq.org/concerts/experience-nils-wanderer/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "L&#8217;expérience Nils Wanderer"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Clemens Schuldt, chef\r\nNils Wanderer, contreténor\r\nNyco Desmeules, concepteur-éclairagiste en résidence\r\n\r\nBach : Sinfonia, extraite de Cantate n° 4, « Christ lag in Todesbanden »\r\nBrahms : Symphonie n° 4\r\nGabrieli : Canzon XVI\r\nPurcell : Dido’s Lament, « When I am laid in earth », extrait de Didon et Énée\r\nPurcell : What power art thou, « Cold song », extrait de King Arthur\r\nRameau : Contredanse en rondeau, extrait de Les Boréades\r\nHandel : Stille amare, extrait de Tolomeo\r\nHandel : Lascia ch’io pianga, extrait de Rinaldo\r\nVaughan Williams : Fantaisie sur Greensleeves\r\nDessner : Aheym (arr. C. Schuldt)\r\nCohen : Hallelujah\r\nAdele : Skyfall\r\n\r\nDepuis les compositeurs romantiques jusqu’aux musiciens actuels, la musique baroque demeure une source d’inspiration intarissable. Avec la complicité du contreténor allemand Nils Wanderer, Clemens Schuldt a conçu un programme aussi inattendu qu’inspirant. Au-delà du thème irrésistible de son premier mouvement, la quatrième et dernière symphonie de Brahms synthétise tout l’héritage musical du compositeur. Son finale est une passacaille qui s’inspire d’un thème emprunté à Bach, le « père des musiciens », dont une élégiaque Sinfonia ouvre le concert. Les pièces instrumentales de Gabrieli, Rameau et de Vaughan Williams — qui revisite l’air Greensleeves cher aux périodes de la Renaissance et baroque —, dialoguent avec les plus belles arias de Purcell et de Handel, sublimées par le timbre rare et suave de Nils Wanderer. Aheym de Bryce Dessner, guitariste du groupe The National, rend hommage, dans une écriture minimaliste décoiffante, aux immigrants juifs dont descend le musicien. La partition donne une résonance particulière à la chanson Hallelujah de Leonard Cohen. Enfin, le tube qu’Adèle a destiné au générique de Skyfall, le 23e James Bond, retrace par ses paroles tout le parcours de ce concert hors-norme, mis en lumière par Nyco Desmeules.\r\nCe concert est présenté par"
+      }
+    ]
+  },
+  {
+    "@id": "_:g505880",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g505900"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Palais Montcalm"
+      }
+    ]
+  },
+  {
+    "@id": "_:g505920",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "57"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "_:g505940",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Orchestre symphonique de Québec"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "specified"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/experience-nils-wanderer/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-Nils-Wanderer-2-carre-1200x1200.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ]
+  },
+  {
+    "@id": "_:g505960",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-Nils-Wanderer-2-carre-1200x900.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "900"
+      }
+    ]
+  },
+  {
+    "@id": "_:g505980",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-Nils-Wanderer-2-carre-1200x675.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "675"
+      }
+    ]
+  },
+  {
+    "@id": "_:g506000",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-Nils-Wanderer-2-carre.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1140"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "1140"
+      }
+    ]
+  },
+  {
+    "@id": "_:g505900",
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/james-ehnes-joue-brahms/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "James Ehnes joue Brahms | Orchestre symphonique de Québec"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Laissez-vous porter par Brahms, Sibelius et Morawetz dans un concert vibrant, avec le virtuose James Ehnes et l’Orchestre."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.osq.org/concerts/james-ehnes-joue-brahms/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Orchestre symphonique de Québec"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.facebook.com/orchestresymphoniquedequebec/?ref=br_rs"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-05-13T13:06:39+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.osq.org/wp-content/uploads/2025/03/SW-James-Ehnes-carre.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1140"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "1140"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.osq.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "James Ehnes joue Brahms"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/james-ehnes-joue-brahms/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/concerts/james-ehnes-joue-brahms/"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g510960"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-04T20:00:00-05:00"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g511000"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g511020"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.osq.org/concerts/james-ehnes-joue-brahms/#primaryimage"
+      },
+      {
+        "@id": "_:g511040"
+      },
+      {
+        "@id": "_:g511060"
+      },
+      {
+        "@id": "_:g511080"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.osq.org/concerts/james-ehnes-joue-brahms/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "James Ehnes joue Brahms"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Clemens Schuldt, chef\r\nJames Ehnes, violon\r\n\r\nMorawetz : Ouverture Carnaval * \r\nBrahms : Concerto pour violon\r\nSibelius : Symphonie n° 2 **\r\n\r\nPlace aux envolées romantiques, aux émotions inspirées par la nature et la danse pour ce programme exaltant qui commence avec la rare Ouverture Carnaval de Morawetz. D’origine tchèque, mais canadien d’adoption, le compositeur fait resplendir l’orchestre, bientôt rejoint par James Ehnes, un des plus grands violonistes canadiens, qui nous livre sa lecture du somptueux Concerto de Brahms. Le compositeur magnifie l’âme tour à tour poétique, lyrique et endiablée d’un instrument qui n’était pas le sien, mais qu’il a fini par « apprivoiser » grâce à son fidèle ami, le virtuose Joseph Joachim. Le concerto s’achève par un irrésistible finale aux accents tziganes qui précède une autre œuvre d’inspiration folklorique. Dans sa Deuxième symphonie, c’est aux paysages et aux musiques de sa Finlande natale que Sibelius prête sa voix. Il les sublime dans un langage très personnel : une partition dense et passionnée qui l’a révélé comme l’un des compositeurs les plus marquants de son temps.\r\n\r\n* *Œuvre non-jouée lors des Matins en musique CDPQ.\r\n** Seuls les 3e et 4e mouvements seront joués lors des Matins en musique CDPQ.\r\n\r\n&nbsp;\r\nLe concert du mercredi est présenté par\r\n\r\nPartenaire de la série des Matins en musique CDPQ\r\n\r\nPartenaire de services des Matins en musique CDPQ"
+      }
+    ]
+  },
+  {
+    "@id": "_:g510960",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g510980"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Grand Théâtre de Québec"
+      }
+    ]
+  },
+  {
+    "@id": "_:g511000",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "59"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "_:g511020",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Orchestre symphonique de Québec"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "generic"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/james-ehnes-joue-brahms/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-James-Ehnes-carre-1200x1200.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ]
+  },
+  {
+    "@id": "_:g511040",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-James-Ehnes-carre-1200x900.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "900"
+      }
+    ]
+  },
+  {
+    "@id": "_:g511060",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-James-Ehnes-carre-1200x675.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "675"
+      }
+    ]
+  },
+  {
+    "@id": "_:g511080",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-James-Ehnes-carre.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1140"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "1140"
+      }
+    ]
+  },
+  {
+    "@id": "_:g510980",
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/saint-valentin-romeo-et-juliette/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "La Saint-Valentin avec Roméo et Juliette | Orchestre symphonique de Québec"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Un voyage musical à travers l’Europe avec Puccini, Rodrigo, Mendelssohn et Tchaïkovski. Le guitariste Pablo Sainz-Villegas illumine ce programme aux accents féériques et romantiques."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.osq.org/concerts/saint-valentin-romeo-et-juliette/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Orchestre symphonique de Québec"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.facebook.com/orchestresymphoniquedequebec/?ref=br_rs"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.osq.org/wp-content/uploads/2025/03/SW-Pablo-Sainz-Villegas-carre.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1140"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "1140"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.osq.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "La Saint-Valentin avec Roméo et Juliette"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/saint-valentin-romeo-et-juliette/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/concerts/saint-valentin-romeo-et-juliette/"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g515920"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-14T14:30:00-05:00"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g515960"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g515980"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.osq.org/concerts/saint-valentin-romeo-et-juliette/#primaryimage"
+      },
+      {
+        "@id": "_:g516000"
+      },
+      {
+        "@id": "_:g516020"
+      },
+      {
+        "@id": "_:g516040"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.osq.org/concerts/saint-valentin-romeo-et-juliette/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "La Saint-Valentin avec Roméo et Juliette"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Nil Venditti, cheffe\r\nPablo Sainz-Villegas, guitare\r\nMylène Paquette, invitée carte blanche\r\n\r\nPuccini : Preludio sinfonico\r\nRodrigo : Concierto de Aranjuez\r\nMendelssohn : Songe d’une nuit d’été, extraits : Ouverture, Scherzo et Marche nuptiale\r\nTchaïkovski : Roméo et Juliette, Ouverture-fantaisie (version 1880)\r\n\r\nCe concert en forme de tour musical d’Europe débute en Italie avec le Preludio sinfonico que Puccini a composé alors qu’il étudiait au Conservatoire de Milan. Cette partition visionnaire et emportée annonce d’ailleurs de futurs chefs-d’œuvre. Pablo Sainz-Villegas, un des plus grands guitaristes de notre temps, poursuit le voyage en Espagne avec le fameux Concierto de Aranjuez de Rodrigo. Inspiré par les jardins royaux d’un pays qui, en 1939, sortait à peine de la guerre civile, ce concerto iconique précède un autre enchantement musical sur une toile de fond bucolique : le Songe d’une nuit d’été de Mendelssohn. La pièce de Shakespeare donne l’occasion au compositeur de déployer tout un univers féérique, ou la célébrissime Marche nuptiale honore le triomphe de l’amour.\r\n\r\nLe périple musical s’achève en Russie, avec une autre partition inspirée par le dramaturge anglais : Roméo et Juliette, de Tchaïkovski. L’Ouverture-fantaisie est en réalité un poème symphonique qui sublime les thèmes de la célèbre tragédie : on est bouleversé par l’intensité émotionnelle d’une des œuvres les plus emblématiques du romantisme."
+      }
+    ]
+  },
+  {
+    "@id": "_:g515920",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g515940"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Grand Théâtre de Québec"
+      }
+    ]
+  },
+  {
+    "@id": "_:g515960",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "57"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "_:g515980",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Orchestre symphonique de Québec"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "generic"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/saint-valentin-romeo-et-juliette/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-Pablo-Sainz-Villegas-carre-1200x1200.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ]
+  },
+  {
+    "@id": "_:g516000",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-Pablo-Sainz-Villegas-carre-1200x900.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "900"
+      }
+    ]
+  },
+  {
+    "@id": "_:g516020",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-Pablo-Sainz-Villegas-carre-1200x675.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "675"
+      }
+    ]
+  },
+  {
+    "@id": "_:g516040",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-Pablo-Sainz-Villegas-carre.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1140"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "1140"
+      }
+    ]
+  },
+  {
+    "@id": "_:g515940",
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/bouleversant-stabat-mater-dvorak/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Le bouleversant Stabat Mater de Dvořák | Orchestre symphonique de Québec"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Plongez dans l’émotion pure avec le Stabat Mater de Dvořák, porté par une distribution 100 % canadienne et le Chœur de l’Orchestre, sous une mise en lumière de Nyco Desmeules."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.osq.org/concerts/bouleversant-stabat-mater-dvorak/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Orchestre symphonique de Québec"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.facebook.com/orchestresymphoniquedequebec/?ref=br_rs"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.osq.org/wp-content/uploads/2025/03/SW-Stabat-Mater-carre.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1140"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "1140"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.osq.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Le bouleversant Stabat Mater de Dvořák"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/bouleversant-stabat-mater-dvorak/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/concerts/bouleversant-stabat-mater-dvorak/"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g520840"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-19T19:30:00-05:00"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g520880"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g520900"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.osq.org/concerts/bouleversant-stabat-mater-dvorak/#primaryimage"
+      },
+      {
+        "@id": "_:g520920"
+      },
+      {
+        "@id": "_:g520940"
+      },
+      {
+        "@id": "_:g520960"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.osq.org/concerts/bouleversant-stabat-mater-dvorak/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Le bouleversant Stabat Mater de Dvořák"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Clemens Schuldt, chef\r\nSarah Dufresne, soprano\r\nAllyson McHardy, mezzo-soprano\r\nÉric Laporte, ténor\r\nDaniel Okulitch, baryton-basse\r\nChœur de l’Orchestre symphonique de Québec\r\nDavid Rompré, chef de chœur\r\nNyco Desmeules, concepteur-éclairagiste en résidence\r\n\r\nDvořák : Stabat Mater\r\n\r\nDistribution 100 % canadienne, avec quatre solistes d’envergure et le Chœur de l’Orchestre, pour cette interprétation très attendue du Stabat Mater de Dvořák, mise en lumière par Nyco Desmeules. Dès sa création en 1880 à Prague, ce trésor incontournable de la musique sacrée romantique révéla le génie du compositeur sur la scène internationale. Dvořák acheva de mettre en musique le texte exprimant la douleur de la Vierge Marie au pied de la Croix alors qu’il venait de perdre successivement trois de ses enfants. Il livra dans sa partition tout ce que son être avait de plus profond. L’œuvre s’inscrit dans la tradition des grands Stabat Mater de Palestrina, Pergolese et Rossini, tout en portant la marque distinctive du romantisme tchèque. Son intensité émotionnelle et spirituelle met en lumière la maîtrise orchestrale et vocale de Dvořák, au service d’une œuvre-phare du répertoire choral."
+      }
+    ]
+  },
+  {
+    "@id": "_:g520840",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g520860"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Grand Théâtre de Québec"
+      }
+    ]
+  },
+  {
+    "@id": "_:g520880",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "57"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "_:g520900",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Orchestre symphonique de Québec"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "generic"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/bouleversant-stabat-mater-dvorak/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-Stabat-Mater-carre-1200x1200.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ]
+  },
+  {
+    "@id": "_:g520920",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-Stabat-Mater-carre-1200x900.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "900"
+      }
+    ]
+  },
+  {
+    "@id": "_:g520940",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-Stabat-Mater-carre-1200x675.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "675"
+      }
+    ]
+  },
+  {
+    "@id": "_:g520960",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-Stabat-Mater-carre.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1140"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "1140"
+      }
+    ]
+  },
+  {
+    "@id": "_:g520860",
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/hollywood-9/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Hollywood 9 | Orchestre symphonique de Québec"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "L’Orchestre symphonique de Québec explore les musiques de films d’horreur et de suspense, avec des classiques comme Les dents de la mer, Mission Impossible et Beetlejuice."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.osq.org/concerts/hollywood-9/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Orchestre symphonique de Québec"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.facebook.com/orchestresymphoniquedequebec/?ref=br_rs"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-05-13T13:07:23+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.osq.org/wp-content/uploads/2025/03/SW-Hollywood-9-carre.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1140"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "1140"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.osq.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Hollywood 9"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/hollywood-9/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/concerts/hollywood-9/"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g525880"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-26T19:30:00-05:00"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g525920"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g525940"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.osq.org/concerts/hollywood-9/#primaryimage"
+      },
+      {
+        "@id": "_:g525960"
+      },
+      {
+        "@id": "_:g525980"
+      },
+      {
+        "@id": "_:g526000"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.osq.org/concerts/hollywood-9/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Hollywood 9"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Jean-Sébastien Vallée, chef\r\nVéronika Makdissi-Warren, animatrice et conceptrice\r\nBertrand Alain, animateur et concepteur\r\nJanie Lavoie, scénographe\r\n\r\nPlongez dans l’univers envoûtant et troublant de la musique de films d’horreur ou d’épouvante. Laissez-vous emporter par des musiques de parodies savoureuses, telles que Beetlejuice, qui rendent hommage aux classiques du genre, tout en découvrant des œuvres contemporaines qui réinventent les codes de la peur ou encore du suspense avec Mission Impossible et Sherlock Holmes. Également au programme, une sélection audacieuse de compositions emblématiques qui ont marqué les esprits, comme Les dents de la mer qui nous ont donné la chair de poule.\r\n\r\nPréparez-vous à frissonner, à rêver et à être transporté au-delà des limites de l’imaginaire! Là où l’angoisse et l’émerveillement se côtoient grâce à de grands compositeurs, tels Bernard Herrmann, Danny Elfman et John Williams.\r\n\r\nUne soirée qui vous tiendra en haleine!"
+      }
+    ]
+  },
+  {
+    "@id": "_:g525880",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g525900"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Grand Théâtre de Québec"
+      }
+    ]
+  },
+  {
+    "@id": "_:g525920",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "60"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "_:g525940",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Orchestre symphonique de Québec"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "generic"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/hollywood-9/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-Hollywood-9-carre-1200x1200.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ]
+  },
+  {
+    "@id": "_:g525960",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-Hollywood-9-carre-1200x900.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "900"
+      }
+    ]
+  },
+  {
+    "@id": "_:g525980",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-Hollywood-9-carre-1200x675.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "675"
+      }
+    ]
+  },
+  {
+    "@id": "_:g526000",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-Hollywood-9-carre.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1140"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "1140"
+      }
+    ]
+  },
+  {
+    "@id": "_:g525900",
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/oiseau-de-feu-stravinski/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "L'Oiseau de feu de Stravinski | Orchestre symphonique de Québec"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Christoph Koncz et l’Orchestre symphonique de Québec avec Michelle Cann : une soirée envoûtante entre Wagner, Liszt, Moussa et Stravinski."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.osq.org/concerts/oiseau-de-feu-stravinski/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Orchestre symphonique de Québec"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.facebook.com/orchestresymphoniquedequebec/?ref=br_rs"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-05-13T13:06:56+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.osq.org/wp-content/uploads/2025/04/SW-Michelle-Cann-carre.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1140"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "1140"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.osq.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "L&#8217;Oiseau de feu de Stravinski"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/oiseau-de-feu-stravinski/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/concerts/oiseau-de-feu-stravinski/"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g530800"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-11T20:00:00-04:00"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g530840"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g530860"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.osq.org/concerts/oiseau-de-feu-stravinski/#primaryimage"
+      },
+      {
+        "@id": "_:g530880"
+      },
+      {
+        "@id": "_:g530900"
+      },
+      {
+        "@id": "_:g530920"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.osq.org/concerts/oiseau-de-feu-stravinski/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "L&#8217;Oiseau de feu de Stravinski"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Christoph Koncz, chef\r\nMichelle Cann, piano\r\n\r\nWagner : Les Maîtres chanteurs de Nuremberg, ouverture *\r\nLiszt : Concerto pour piano n° 1\r\nMoussa : Elysium *\r\nStravinski : L’Oiseau de feu, suite (version 1945)\r\n\r\nC’est à un festival d’images orchestrales que nous convie le chef autrichien Christoph Koncz. On commence avec l’ouverture des Maîtres chanteurs de Wagner, qui annonce tous les thèmes de l’opéra. Par son souffle romantique et sa majesté, elle célèbre la liberté de l’artiste face aux règles établies. Beau-père de Wagner, Liszt et son Premier concerto permettent à la pianiste américaine Michelle Cann — gagnante d’un Grammy en février 2025 — de nous éblouir par une éclatante démonstration de virtuosité. La richesse évocatrice et émotionnelle de la partition confère aussi une dimension universelle à ce pilier du répertoire pianistique.\r\n\r\nChangement d’atmosphère avec Elysium du compositeur montréalais Samy Moussa dans laquelle les glissements harmoniques dominés par une orchestration monumentale évoquent une vision utopique des Champs-Élysées. Enfin, place à Stravinski avec la suite qu’il a tirée de L’Oiseau de feu, œuvre de 1910 qui, grâce aux Ballets Russes, contribua à sa renommée. Inspirée des contes traditionnels de son pays, la partition nous ouvre les portes d’un univers où la danse est transcendée par l’imagination orchestrale.\r\n\r\n* Œuvres non-jouées lors des Matins en musique CDPQ.\r\n\r\n&nbsp;\r\nLe concert du mercredi est présenté par\r\n\r\nPartenaire de la série des Matins en musique CDPQ\r\n\r\nPartenaire de services des Matins en musique CDPQ"
+      }
+    ]
+  },
+  {
+    "@id": "_:g530800",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g530820"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Grand Théâtre de Québec"
+      }
+    ]
+  },
+  {
+    "@id": "_:g530840",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "59"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "_:g530860",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Orchestre symphonique de Québec"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "generic"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/oiseau-de-feu-stravinski/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/04/SW-Michelle-Cann-carre-1200x1200.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ]
+  },
+  {
+    "@id": "_:g530880",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/04/SW-Michelle-Cann-carre-1200x900.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "900"
+      }
+    ]
+  },
+  {
+    "@id": "_:g530900",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/04/SW-Michelle-Cann-carre-1200x675.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "675"
+      }
+    ]
+  },
+  {
+    "@id": "_:g530920",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/04/SW-Michelle-Cann-carre.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1140"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "1140"
+      }
+    ]
+  },
+  {
+    "@id": "_:g530820",
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/vikings-symphoniques/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Vikings symphoniques | Orchestre symphonique de Québec"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Une aventure musicale et théâtrale trépidante, où Vikings, dragons et héros improbables se mêlent pour dénoncer l’intimidation et célébrer la confiance en soi!"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.osq.org/concerts/vikings-symphoniques/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Orchestre symphonique de Québec"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.facebook.com/orchestresymphoniquedequebec/?ref=br_rs"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.osq.org/wp-content/uploads/2025/04/SW-Buzz-Cuivres-carre.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1140"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "1140"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.osq.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Vikings symphoniques"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/vikings-symphoniques/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/concerts/vikings-symphoniques/"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g535840"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-03-22T14:30:00-04:00"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g535880"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g535900"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.osq.org/concerts/vikings-symphoniques/#primaryimage"
+      },
+      {
+        "@id": "_:g535920"
+      },
+      {
+        "@id": "_:g535940"
+      },
+      {
+        "@id": "_:g535960"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.osq.org/concerts/vikings-symphoniques/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Vikings symphoniques"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Leandro Cardoso, assistant-chef en résidence\r\nSylvain Lapointe, trompette\r\nFrédéric Gagnon, trompette\r\nBlaise Margail, trombone\r\nSylvain Arseneau, trombone basse\r\nVincent Côté, comédien\r\nEnrico O. Dastous, musique\r\nPier-Luc Lasalle, texte\r\n\r\nLa légende scandinave du tueur de dragons est ici mise en scène en musique, en rires et en frissons! Elle comprend d’intrépides Vikings, un dragon à pourfendre et un héros improbable. Ce spectacle alliant musique et théâtre dénonce l’intimidation et souligne l’importance de l’apprentissage de la confiance en soi.\r\n\r\nAbsolument trépidante, la musique originale a été composée spécialement pour le spectacle à la manière de la trame sonore d’un film. Dans cette production pour toute la famille, retrouvez tout l’Orchestre sur scène, avec un comédien et les cuivres en vedette!\r\n\r\nPréparez-vous, car il y aura de l’action, de l’humour, de l’émotion, et bien sûr, des rebondissements. Quand l’orchestre symphonique se retrouve en plein cœur d’un conte viking, ça vous décoiffe la barbe et les tresses!\r\n\r\nPublic cible : 5 à 12 ans\r\nDurée : 60 minutes"
+      }
+    ]
+  },
+  {
+    "@id": "_:g535840",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g535860"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Grand Théâtre de Québec"
+      }
+    ]
+  },
+  {
+    "@id": "_:g535880",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "35"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "_:g535900",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Orchestre symphonique de Québec"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "generic"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/vikings-symphoniques/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/04/SW-Buzz-Cuivres-carre-1200x1200.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ]
+  },
+  {
+    "@id": "_:g535920",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/04/SW-Buzz-Cuivres-carre-1200x900.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "900"
+      }
+    ]
+  },
+  {
+    "@id": "_:g535940",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/04/SW-Buzz-Cuivres-carre-1200x675.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "675"
+      }
+    ]
+  },
+  {
+    "@id": "_:g535960",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/04/SW-Buzz-Cuivres-carre.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1140"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "1140"
+      }
+    ]
+  },
+  {
+    "@id": "_:g535860",
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/2freres-symphonique/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "2Frères, une première symphonique | Orchestre symphonique de Québec"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "2Frères et l'Orchestre symphonique de Québec fusionnent folk, rock et musique traditionnelle pour une soirée émouvante, entre succès et nouveaux arrangements orchestraux."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.osq.org/concerts/2freres-symphonique/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Orchestre symphonique de Québec"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.facebook.com/orchestresymphoniquedequebec/?ref=br_rs"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.osq.org/wp-content/uploads/2025/03/SW-2Freres-carre.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1140"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "1140"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.osq.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "2Frères, une première symphonique"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/2freres-symphonique/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/concerts/2freres-symphonique/"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g540480"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-09T20:00:00-04:00"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g540520"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g540540"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.osq.org/concerts/2freres-symphonique/#primaryimage"
+      },
+      {
+        "@id": "_:g540560"
+      },
+      {
+        "@id": "_:g540580"
+      },
+      {
+        "@id": "_:g540600"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.osq.org/concerts/2freres-symphonique/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "2Frères, une première symphonique"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Erik Caouette, auteur-compositeur-interprète\r\nSonny Caouette, auteur-compositeur-interprète\r\n\r\nConnus pour leurs textes sincères et leur engagement envers la société québécoise, 2Frères donnent une nouvelle couleur à leurs chansons avec une fusion parfaite entre la puissance de l’Orchestre et la sensibilité des mélodies. Entre folk, rock et influences de musique traditionnelle, leur répertoire prend une ampleur inédite dans ces arrangements orchestraux spécialement conçus pour l’occasion.\r\n\r\nRedécouvrez leurs plus grands succès — de Nous autres à Sous le même toit — ainsi que des pièces de leur dernier album Science humaine, où chaque chanson résonne avec les valeurs du Québec, apportant une profondeur et une dimension particulière à leurs airs rassembleurs. Une soirée sous le signe de la solidarité, de l’émotion et du partage!"
+      }
+    ]
+  },
+  {
+    "@id": "_:g540480",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g540500"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Grand Théâtre de Québec"
+      }
+    ]
+  },
+  {
+    "@id": "_:g540520",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "57"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "_:g540540",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Orchestre symphonique de Québec"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "generic"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/2freres-symphonique/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-2Freres-carre-1200x1200.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ]
+  },
+  {
+    "@id": "_:g540560",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-2Freres-carre-1200x900.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "900"
+      }
+    ]
+  },
+  {
+    "@id": "_:g540580",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-2Freres-carre-1200x675.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "675"
+      }
+    ]
+  },
+  {
+    "@id": "_:g540600",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-2Freres-carre.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1140"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "1140"
+      }
+    ]
+  },
+  {
+    "@id": "_:g540500",
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/la-folie-ophelie/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "La folie d'Ophélie | Orchestre symphonique de Québec"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Redécouvrez Ophélie à travers Tchaïkovski, Brahms et Chostakovitch. Une exploration poignante portée par Marie-Eve Munger, Marie Tifo et l’Orchestre."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.osq.org/concerts/la-folie-ophelie/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Orchestre symphonique de Québec"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.facebook.com/orchestresymphoniquedequebec/?ref=br_rs"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.osq.org/wp-content/uploads/2025/03/SW-Marie-Tifo-carre.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1140"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "1140"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.osq.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "La folie d&#8217;Ophélie"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/la-folie-ophelie/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/concerts/la-folie-ophelie/"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g545280"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-16T19:30:00-04:00"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g545320"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g545340"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.osq.org/concerts/la-folie-ophelie/#primaryimage"
+      },
+      {
+        "@id": "_:g545360"
+      },
+      {
+        "@id": "_:g545380"
+      },
+      {
+        "@id": "_:g545400"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.osq.org/concerts/la-folie-ophelie/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "La folie d&#8217;Ophélie"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Clemens Schuldt, chef\r\nMarie-Eve Munger, soprano\r\nMarie Tifo, comédienne\r\nJohn La Bouchardière, metteur en scène\r\nNyco Desmeules, concepteur-éclairagiste en résidence\r\n\r\nChostakovitch : Chanson d'Ophélie, extrait de Sept romances sur des poèmes d'Alexander Blok\r\nTchaïkovski : Hamlet, ouverture de la musique de scène d'après Shakespeare\r\nBrahms : Cinq chansons d'Ophélie\r\nBonis : Ophélie\r\nThomas : Scène de la folie, extrait de l'opéra Hamlet\r\nSibelius : Le Cygne de Tuonela\r\nAbrahamsen : I will go now, extrait de Let me tell you\r\n\r\n« Être ou ne pas être? » Cette question intemporelle, qui tourmentait Hamlet, continue de captiver les esprits. Ophélie cherchait elle aussi une réponse, bien que la sienne se soit dénouée tragiquement, culminant dans l’une des scènes de folie les plus obsédantes de la littérature. La pièce de Shakespeare — et la noyade fleurie d’Ophélie — ont inspiré d’innombrables œuvres d’art, mais c’est l’ambiguïté de son état mental, associée à son passage étonnant de la parole au chant, qui a particulièrement intrigué les compositeurs.\r\n\r\nDans la grande ouverture de Tchaïkovski, les luttes de pouvoir d’Elseneur menacent de tout engloutir, tandis qu’Ophélie trouve du réconfort dans la délicatesse des chansons de Brahms et de Chostakovitch. Le grand air de Thomas donne à la scène de folie un traitement pleinement opératique, tandis que Bonis et Abrahamsen élèvent le sujet dans un domaine presque éthéré. Dans un programme fait de contrastes, le sort d’Ophélie est exploré sous un angle nouveau.\r\n\r\nQuelle est la source de son mal-être? Pourquoi Ophélie implose-t-elle en chanson? Ces questions seront explorées par la soprano Marie-Eve Munger et la comédienne Marie Tifo dans une collaboration unique avec le metteur en scène britannique John La Bouchardiere. En plongeant dans l’expérience du monde d’Ophélie, sa lutte complexe et son désir d’apaisement seront dévoilés à travers une musique extraordinaire.\r\nCe concert est présenté par"
+      }
+    ]
+  },
+  {
+    "@id": "_:g545280",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g545300"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Grand Théâtre de Québec"
+      }
+    ]
+  },
+  {
+    "@id": "_:g545320",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "57"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "_:g545340",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Orchestre symphonique de Québec"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "generic"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/la-folie-ophelie/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-Marie-Tifo-carre-1200x1200.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ]
+  },
+  {
+    "@id": "_:g545360",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-Marie-Tifo-carre-1200x900.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "900"
+      }
+    ]
+  },
+  {
+    "@id": "_:g545380",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-Marie-Tifo-carre-1200x675.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "675"
+      }
+    ]
+  },
+  {
+    "@id": "_:g545400",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-Marie-Tifo-carre.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1140"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "1140"
+      }
+    ]
+  },
+  {
+    "@id": "_:g545300",
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/un-americain-a-paris/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Un Américain à Paris | Orchestre symphonique de Québec"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Un concert sans frontières avec Brahms, Gulda, Gershwin, Ortiz et Márquez! Rejoignez Clemens Schuldt et Julian Steckel pour une soirée électrisante et festive."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.osq.org/concerts/un-americain-a-paris/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Orchestre symphonique de Québec"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.facebook.com/orchestresymphoniquedequebec/?ref=br_rs"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-05-13T13:07:04+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.osq.org/wp-content/uploads/2025/03/SW-Clemens-Schuldt-MER6-carre.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1140"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "1140"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.osq.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Un Américain à Paris"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/un-americain-a-paris/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/concerts/un-americain-a-paris/"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g550260"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-22T20:00:00-04:00"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g550300"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g550320"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.osq.org/concerts/un-americain-a-paris/#primaryimage"
+      },
+      {
+        "@id": "_:g550340"
+      },
+      {
+        "@id": "_:g550360"
+      },
+      {
+        "@id": "_:g550380"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.osq.org/concerts/un-americain-a-paris/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Un Américain à Paris"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Clemens Schuldt, chef\r\nJulian Steckel, violoncelle\r\n\r\nBrahms : Ouverture pour une fête académique *\r\nGulda : Concerto pour violoncelle\r\nOrtiz : Kauyumari *\r\nGershwin : An American in Paris\r\nMárquez : Danzón n° 2\r\n\r\nClemens Schuldt nous invite à venir en « jeans » à ce concert sans frontières musicales, ou le classique s’ouvre à d’autres styles et s’adresse à tous! En préambule, Brahms transcende l’argument académique de son Ouverture op. 80, destinée à l’anniversaire de l’Université de Heidelberg, pour nous entraîner dans un univers romantique où se côtoient réjouissance et lyrisme. Le violoncelliste virtuose allemand, Julian Steckel, change radicalement de ton avec l’électrisant Concerto de Friedrich Gulda, un « concerto-rock » composé dans les « Seventies » à la demande de Rostropovitch.\r\n\r\nInfluences populaires et de jazz sont réunies dans l’indémodable American in Paris de Gershwin qui, porté à l’écran, valut à Gene Kelly un Oscar. Le concert se poursuit avec deux bijoux de la musique mexicaine contemporaine : Kauyumari, de Gabriela Ortiz — qui tire son titre d’un rite huichol évoquant un cerf bleu légendaire —, où trompettes mexicaines et rythmes indigènes obsessionnels sont au rendez-vous dans cette évocation des énergies spirituelles. L’irrésistible Danzón n° 2 de Márquez lui donne la réplique avec une romantique et élégante danse de salon interrompue par un emballement rythmique, dans un jeu d’alternance qui résume tout l’esprit de ce concert atypique au programme enivrant.\r\n\r\n* Œuvres non-jouées lors des Matins en musique CDPQ.\r\n\r\n&nbsp;\r\nPartenaire de la série des Matins en musique CDPQ\r\n\r\nPartenaire de services des Matins en musique CDPQ"
+      }
+    ]
+  },
+  {
+    "@id": "_:g550260",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g550280"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Grand Théâtre de Québec"
+      }
+    ]
+  },
+  {
+    "@id": "_:g550300",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "59"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "_:g550320",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Orchestre symphonique de Québec"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "generic"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/un-americain-a-paris/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-Clemens-Schuldt-MER6-carre-1200x1200.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ]
+  },
+  {
+    "@id": "_:g550340",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-Clemens-Schuldt-MER6-carre-1200x900.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "900"
+      }
+    ]
+  },
+  {
+    "@id": "_:g550360",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-Clemens-Schuldt-MER6-carre-1200x675.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "675"
+      }
+    ]
+  },
+  {
+    "@id": "_:g550380",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-Clemens-Schuldt-MER6-carre.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1140"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "1140"
+      }
+    ]
+  },
+  {
+    "@id": "_:g550280",
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/huitieme-symphonie-dvorak/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Rayonnante Huitième symphonie de Dvořák | Orchestre symphonique de Québec"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Un concert éclatant sous la direction de Gergely Madaras, où lumière et musique brillent à travers Dohnányi, Mendelssohn et Dvořák. Avec la talentueuse Élisabeth Pion au piano, laissez-vous porter par cette célébration radieuse!"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.osq.org/concerts/huitieme-symphonie-dvorak/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Orchestre symphonique de Québec"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.facebook.com/orchestresymphoniquedequebec/?ref=br_rs"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-04-16T16:57:49+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.osq.org/wp-content/uploads/2025/03/SW-Elisabeth-Pion-carre.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1140"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "1140"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.osq.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Rayonnante Huitième symphonie de Dvořák"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/huitieme-symphonie-dvorak/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/concerts/huitieme-symphonie-dvorak/"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g555260"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-06T20:00:00-04:00"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g555300"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g555320"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.osq.org/concerts/huitieme-symphonie-dvorak/#primaryimage"
+      },
+      {
+        "@id": "_:g555340"
+      },
+      {
+        "@id": "_:g555360"
+      },
+      {
+        "@id": "_:g555380"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.osq.org/concerts/huitieme-symphonie-dvorak/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Rayonnante Huitième symphonie de Dvořák"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Gergely Madaras, chef\r\nÉlisabeth Pion*, piano\r\n\r\nDohnányi : Symphonic Minutes\r\nMendelssohn : Concerto pour piano n° 1\r\nDvořák : Symphonie n° 8\r\n\r\nL’évocation musicale de la lumière est au cœur de ce programme imaginé par le chef hongrois Gergely Madaras, qui s’ouvre par les incandescentes Symphonic Minutes de son compatriote Ernst von Dohnányi. Trésor d’inventivité, ces miniatures orchestrales subtilement contrastées offrent une introduction captivante au Premier concerto pour piano de Mendelssohn. Sous les doigts de la pianiste Élisabeth Pion, jeune étoile montante québécoise récompensée par de nombreux prix internationaux, cette partition solaire est une déclaration d’amour à une jeune pianiste qui avait subjugué le compositeur. Son emportement communicatif précède la rayonnante Huitième symphonie de Dvořák, qui puise son inspiration dans les danses et les chants bohémiens. À l’époque de sa composition, le musicien vivait une existence paisible dans un village tchèque. Ce dernier lui inspira une partition pleine de joie et de poésie, que parachève une vertigineuse bacchanale qui ne laissera personne insensible.!\r\n\r\n* « Les solistes Hans-Jürgen Greif » : programme développé à l’initiative de l’écrivain, professeur et philanthrope Hans-Jürgen Greif. Sa vision et sa générosité rendent possible la venue d’Élisabeth Pion."
+      }
+    ]
+  },
+  {
+    "@id": "_:g555260",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g555280"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Palais Montcalm"
+      }
+    ]
+  },
+  {
+    "@id": "_:g555300",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "57"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "_:g555320",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Orchestre symphonique de Québec"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "specified"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/huitieme-symphonie-dvorak/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-Elisabeth-Pion-carre-1200x1200.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ]
+  },
+  {
+    "@id": "_:g555340",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-Elisabeth-Pion-carre-1200x900.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "900"
+      }
+    ]
+  },
+  {
+    "@id": "_:g555360",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-Elisabeth-Pion-carre-1200x675.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "675"
+      }
+    ]
+  },
+  {
+    "@id": "_:g555380",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/03/SW-Elisabeth-Pion-carre.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1140"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "1140"
+      }
+    ]
+  },
+  {
+    "@id": "_:g555280",
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "Canada"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/carmina-burana/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-fr",
+        "@value": "fr_FR"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-fr",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-fr",
+        "@value": "Carmina Burana | Orchestre symphonique de Québec"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-fr",
+        "@value": "Plongez dans l’univers envoûtant de Carmina Burana avec une distribution canadienne d’exception, précédé d’une création d'Éric Morin, inspirée de l'œuvre 1984 de George Orwell."
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.osq.org/concerts/carmina-burana/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-fr",
+        "@value": "Orchestre symphonique de Québec"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.facebook.com/orchestresymphoniquedequebec/?ref=br_rs"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-fr",
+        "@value": "2025-05-13T13:07:10+00:00"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-fr",
+        "@value": "https://www.osq.org/wp-content/uploads/2025/04/SW-Carmina-Burana-carre.jpg"
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-fr",
+        "@value": "1140"
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-fr",
+        "@value": "1140"
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-fr",
+        "@value": "image/jpeg"
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://www.osq.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Carmina Burana"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/carmina-burana/#event",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/concerts/carmina-burana/"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g560220"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-05-27T20:00:00-04:00"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g560260"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g560280"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.osq.org/concerts/carmina-burana/#primaryimage"
+      },
+      {
+        "@id": "_:g560300"
+      },
+      {
+        "@id": "_:g560320"
+      },
+      {
+        "@id": "_:g560340"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.osq.org/concerts/carmina-burana/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Carmina Burana"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": "Clemens Schuldt, chef\r\nClaire de Sévigné, soprano\r\nDaniel Taylor, contreténor\r\nHugo Laporte, baryton\r\nMaîtrise des petits Chanteurs de Québec\r\nAnne Gilbert, cheffe de chœur\r\nChœur de l’Orchestre symphonique de Québec\r\nDavid Rompré, chef de chœur\r\nConcert conjoint avec la participation des étudiants du Conservatoire de musique de Québec et de la Faculté de musique de l’Université Laval\r\n\r\nÉric Morin : Création (commande de l’Orchestre symphonique de Québec)\r\nOrff : Carmina Burana\r\n\r\nUne musique comme venue d’âges anciens, mue par des forces telluriques, des rythmes ancestraux, des chants originels aux résonances universelles : voici comment Carl Orff a imaginé ses Carmina Burana. Il choisit 24 poèmes profanes tirés d’un recueil du XIIIe siècle, découvert dans une abbaye bavaroise, pour composer une cantate scénique monumentale. L’œuvre s’ouvre et se conclut avec le célèbre O Fortuna, un chœur ensorcelant, puissant, tout simplement inoubliable. Une distribution canadienne de premier plan magnifie les thèmes du destin, de l’amour et de la fortune mis en relief par Orff par une utilisation saisissante des chœurs, de l’orchestre et des percussions : un concert qu’on ne sera pas près d’oublier!\r\n\r\nEn première partie, l’Orchestre interprète une création d’Éric Morin, compositeur québécois et professeur à l’Université Laval. Son œuvre s’inspire de la première partie du roman dystopique de George Orwell : 1984."
+      }
+    ]
+  },
+  {
+    "@id": "_:g560220",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g560240"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Grand Théâtre de Québec"
+      }
+    ]
+  },
+  {
+    "@id": "_:g560260",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/price": [
+      {
+        "@language": "fr",
+        "@value": "66"
+      }
+    ],
+    "http://schema.org/priceCurrency": [
+      {
+        "@language": "fr",
+        "@value": "CAD"
+      }
+    ]
+  },
+  {
+    "@id": "_:g560280",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Orchestre symphonique de Québec"
+      }
+    ],
+    "http://schema.org/telephone": [
+      {
+        "@language": "fr",
+        "@value": "generic"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osq.org/concerts/carmina-burana/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/04/SW-Carmina-Burana-carre-1200x1200.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ]
+  },
+  {
+    "@id": "_:g560300",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/04/SW-Carmina-Burana-carre-1200x900.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "900"
+      }
+    ]
+  },
+  {
+    "@id": "_:g560320",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/04/SW-Carmina-Burana-carre-1200x675.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1200"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "675"
+      }
+    ]
+  },
+  {
+    "@id": "_:g560340",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osq.org/wp-content/uploads/2025/04/SW-Carmina-Burana-carre.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@language": "fr",
+        "@value": "1140"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@language": "fr",
+        "@value": "1140"
+      }
+    ]
+  },
+  {
+    "@id": "_:g560240",
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "fr",
+        "@value": "Canada"
+      }
+    ]
+  }
+]
