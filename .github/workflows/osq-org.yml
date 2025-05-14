@@ -1,0 +1,14 @@
+name: Score osq.org/categorie-concerts/saison-2025-2026/ Events
+
+on:
+  workflow_dispatch:
+      
+jobs:
+  call-workflow-to-fetch-data:
+    uses: ./.github/workflows/generate-report.yml
+    with:
+        page_url: "https://www.osq.org/categorie-concerts/saison-2025-2026/"
+        entity_identifier: "a.concert-archive-block-btn"
+        file_name: "osq-org.jsonld"
+        is_paginated: "false"
+        headless: "false"
