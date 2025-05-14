@@ -1,0 +1,14 @@
+name: Score www.keycitytheatre.com/all-shows Events
+
+on:
+  workflow_dispatch:
+      
+jobs:
+  call-workflow-to-fetch-data:
+    uses: ./.github/workflows/generate-report.yml
+    with:
+        page_url: "https://www.keycitytheatre.com/all-shows"
+        entity_identifier: "a.eventlist-title-link"
+        file_name: "keycitytheatre-com.jsonld"
+        is_paginated: "false"
+        headless: "false"
