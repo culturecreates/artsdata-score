@@ -1,5 +1,49 @@
 [
   {
+    "@id": "http://kg.artsdata.ca/resource/K16-12",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/alternateName": [
+      {
+        "@language": "en",
+        "@value": "Laurier"
+      },
+      {
+        "@value": "Laurier"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q2166701"
+      },
+      {
+        "@id": "https://www.instagram.com/WilfridLaurierUni"
+      },
+      {
+        "@id": "https://www.facebook.com/WilfridLaurierUniversity"
+      },
+      {
+        "@id": "https://twitter.com/Laurier"
+      },
+      {
+        "@id": "https://en.wikipedia.org/wiki/Wilfrid_Laurier_University"
+      },
+      {
+        "@id": "https://fr.wikipedia.org/wiki/Universit%C3%A9_Wilfrid-Laurier"
+      },
+      {
+        "@id": "https://isni.org/isni/0000000121586280"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Wilfrid Laurier University"
+      }
+    ]
+  },
+  {
     "@id": "http://kg.artsdata.ca/resource/K10-499",
     "@type": [
       "http://schema.org/Organization"
@@ -22,6 +66,9 @@
       },
       {
         "@id": "https://www.instagram.com/sandersoncentrebrantford/"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q112669151"
       }
     ],
     "http://schema.org/url": [
@@ -37,7 +84,7 @@
     ]
   },
   {
-    "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-05-31-1830-25th-Anniversary-Spring-Recitals-LISAS-PARTY-MIX#Offer",
+    "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-06-03-1000-Laurier-Convocation#Offer",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -45,20 +92,10 @@
       {
         "@value": "InStock"
       }
-    ],
-    "http://schema.org/price": [
-      {
-        "@value": "32.00"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://tickets.sandersoncentre.ca/TheatreManager/1/online?performance=1905"
-      }
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-05-31-1830-25th-Anniversary-Spring-Recitals-LISAS-PARTY-MIX#WebPage",
+    "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-03-1000-Laurier-Convocation#WebPage",
     "@type": [
       "http://schema.org/WebPage"
     ],
@@ -69,12 +106,12 @@
     ],
     "http://schema.org/url": [
       {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-05-31-1830-25th-Anniversary-Spring-Recitals-LISAS-PARTY-MIX"
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-03-1000-Laurier-Convocation"
       }
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-07T16:15:02.114-04:00"
+        "@value": "2025-05-15T16:14:29.193-04:00"
       }
     ]
   },
@@ -141,166 +178,6 @@
     ]
   },
   {
-    "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-06-01-1000-First-Annual-Spring-Recital-Le-Jazz-Hot#Offer",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/availability": [
-      {
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@value": "32.00"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://tickets.sandersoncentre.ca/TheatreManager/1/online?performance=1907"
-      }
-    ]
-  },
-  {
-    "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-01-1000-First-Annual-Spring-Recital-Le-Jazz-Hot#WebPage",
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@value": "en"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-01-1000-First-Annual-Spring-Recital-Le-Jazz-Hot"
-      }
-    ],
-    "http://schema.org/lastReviewed": [
-      {
-        "@value": "2025-05-07T16:15:03.740-04:00"
-      }
-    ]
-  },
-  {
-    "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-06-01-1430-25th-Anniversary-Spring-Recitals-LISAS-PARTY-MIX#Offer",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/availability": [
-      {
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@value": "32.00"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://tickets.sandersoncentre.ca/TheatreManager/1/online?performance=1906"
-      }
-    ]
-  },
-  {
-    "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-01-1430-25th-Anniversary-Spring-Recitals-LISAS-PARTY-MIX#WebPage",
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@value": "en"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-01-1430-25th-Anniversary-Spring-Recitals-LISAS-PARTY-MIX"
-      }
-    ],
-    "http://schema.org/lastReviewed": [
-      {
-        "@value": "2025-05-07T16:15:05.404-04:00"
-      }
-    ]
-  },
-  {
-    "@id": "http://kg.artsdata.ca/resource/K16-12",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/alternateName": [
-      {
-        "@language": "en",
-        "@value": "Laurier"
-      },
-      {
-        "@value": "Laurier"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://www.wikidata.org/entity/Q2166701"
-      },
-      {
-        "@id": "https://www.instagram.com/WilfridLaurierUni"
-      },
-      {
-        "@id": "https://www.facebook.com/WilfridLaurierUniversity"
-      },
-      {
-        "@id": "https://twitter.com/Laurier"
-      },
-      {
-        "@id": "https://en.wikipedia.org/wiki/Wilfrid_Laurier_University"
-      },
-      {
-        "@id": "https://fr.wikipedia.org/wiki/Universit%C3%A9_Wilfrid-Laurier"
-      },
-      {
-        "@id": "https://isni.org/isni/0000000121586280"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Wilfrid Laurier University"
-      }
-    ]
-  },
-  {
-    "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-06-03-1000-Laurier-Convocation#Offer",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/availability": [
-      {
-        "@value": "InStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-03-1000-Laurier-Convocation#WebPage",
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@value": "en"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-03-1000-Laurier-Convocation"
-      }
-    ],
-    "http://schema.org/lastReviewed": [
-      {
-        "@value": "2025-05-07T16:14:47.903-04:00"
-      }
-    ]
-  },
-  {
     "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-06-03-1400-Laurier-Convocation#Offer",
     "@type": [
       "http://schema.org/Offer"
@@ -328,7 +205,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-07T16:14:49.324-04:00"
+        "@value": "2025-05-15T16:14:31.045-04:00"
       }
     ]
   },
@@ -370,7 +247,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-07T16:14:07.921-04:00"
+        "@value": "2025-05-15T16:13:53.274-04:00"
       }
     ]
   },
@@ -412,7 +289,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-07T16:14:06.024-04:00"
+        "@value": "2025-05-15T16:13:51.538-04:00"
       }
     ]
   },
@@ -454,7 +331,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-07T16:14:54.278-04:00"
+        "@value": "2025-05-15T16:14:36.589-04:00"
       }
     ]
   },
@@ -496,7 +373,154 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-07T16:13:25.175-04:00"
+        "@value": "2025-05-15T16:13:07.305-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-06-12-1730-Burford-Dancers-Year-End-Showcase#Offer",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "20.00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://tickets.sandersoncentre.ca/TheatreManager/1/online?performance=1926"
+      }
+    ]
+  },
+  {
+    "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-12-1730-Burford-Dancers-Year-End-Showcase#WebPage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-12-1730-Burford-Dancers-Year-End-Showcase"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@value": "2025-05-15T16:13:46.078-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-06-13-1730-Burford-Dancers-Year-End-Showcase#Offer",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "20.00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://tickets.sandersoncentre.ca/TheatreManager/1/online?performance=1927"
+      }
+    ]
+  },
+  {
+    "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-13-1730-Burford-Dancers-Year-End-Showcase#WebPage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-13-1730-Burford-Dancers-Year-End-Showcase"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@value": "2025-05-15T16:13:47.845-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-06-14-1400-Dance-Discovery-Presents-Its-The-Greatest-Show#Offer",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "28.00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://tickets.sandersoncentre.ca/TheatreManager/1/online?performance=1928"
+      }
+    ]
+  },
+  {
+    "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-14-1400-Dance-Discovery-Presents-Its-The-Greatest-Show#WebPage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-14-1400-Dance-Discovery-Presents-Its-The-Greatest-Show"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@value": "2025-05-15T16:15:31.495-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-06-15-1430-NLC-Dance-Company-Presents-Walking-the-Red-Carpet#Offer",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "44.75"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://tickets.sandersoncentre.ca/TheatreManager/1/online?performance=1892"
       }
     ]
   },
@@ -517,28 +541,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-07T16:13:22.964-04:00"
-      }
-    ]
-  },
-  {
-    "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-06-15-1430-NLC-Dance-Company-Presents-Walking-the-Red-Carpet#Offer",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/availability": [
-      {
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@value": "44.75"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://tickets.sandersoncentre.ca/TheatreManager/1/online?performance=1892"
+        "@value": "2025-05-15T16:13:02.602-04:00"
       }
     ]
   },
@@ -570,7 +573,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-07T16:14:51.259-04:00"
+        "@value": "2025-05-15T16:14:32.933-04:00"
       }
     ]
   },
@@ -651,7 +654,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-07T16:14:11.571-04:00"
+        "@value": "2025-05-15T16:13:56.561-04:00"
       }
     ]
   },
@@ -693,7 +696,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-07T16:13:54.507-04:00"
+        "@value": "2025-05-15T16:13:39.175-04:00"
       }
     ]
   },
@@ -730,7 +733,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-07T16:13:40.544-04:00"
+        "@value": "2025-05-15T16:13:27.685-04:00"
       }
     ]
   },
@@ -772,7 +775,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-07T16:13:44.444-04:00"
+        "@value": "2025-05-15T16:13:31.565-04:00"
       }
     ]
   },
@@ -814,7 +817,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-07T16:14:00.251-04:00"
+        "@value": "2025-05-15T16:13:42.623-04:00"
       }
     ]
   },
@@ -856,7 +859,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-07T16:14:19.324-04:00"
+        "@value": "2025-05-15T16:14:03.635-04:00"
       }
     ]
   },
@@ -898,7 +901,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-07T16:14:41.705-04:00"
+        "@value": "2025-05-15T16:14:22.827-04:00"
       }
     ]
   },
@@ -940,7 +943,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-07T16:13:52.674-04:00"
+        "@value": "2025-05-15T16:13:05.762-04:00"
       }
     ]
   },
@@ -982,7 +985,28 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-07T16:14:23.211-04:00"
+        "@value": "2025-05-15T16:14:06.970-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-07-23-1930-Golden-Girls-The-Laughs-Continue#WebPage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-07-23-1930-Golden-Girls-The-Laughs-Continue"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@value": "2025-05-15T16:13:33.588-04:00"
       }
     ]
   },
@@ -1004,27 +1028,6 @@
     "http://schema.org/url": [
       {
         "@value": "https://tickets.sandersoncentre.ca/TheatreManager/1/online?performance=1881"
-      }
-    ]
-  },
-  {
-    "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-07-23-1930-Golden-Girls-The-Laughs-Continue#WebPage",
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@value": "en"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-07-23-1930-Golden-Girls-The-Laughs-Continue"
-      }
-    ],
-    "http://schema.org/lastReviewed": [
-      {
-        "@value": "2025-05-07T16:13:46.848-04:00"
       }
     ]
   },
@@ -1066,7 +1069,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-07T16:14:13.108-04:00"
+        "@value": "2025-05-15T16:13:58.241-04:00"
       }
     ]
   },
@@ -1103,7 +1106,44 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-07T16:14:43.046-04:00"
+        "@value": "2025-05-15T16:14:24.357-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-08-09-1900-LIGHTHOUSE-at-South-Coast-Jazz-Festival#Offer",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "40.00"
+      }
+    ]
+  },
+  {
+    "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-08-09-1900-LIGHTHOUSE-at-South-Coast-Jazz-Festival#WebPage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-08-09-1900-LIGHTHOUSE-at-South-Coast-Jazz-Festival"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@value": "2025-05-15T16:15:26.049-04:00"
       }
     ]
   },
@@ -1145,7 +1185,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-07T16:13:42.524-04:00"
+        "@value": "2025-05-15T16:13:29.571-04:00"
       }
     ]
   },
@@ -1187,7 +1227,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-07T16:14:33.738-04:00"
+        "@value": "2025-05-15T16:14:14.086-04:00"
       }
     ]
   },
@@ -1208,7 +1248,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-07T16:14:28.579-04:00"
+        "@value": "2025-05-15T16:13:04.146-04:00"
       }
     ]
   },
@@ -1217,14 +1257,14 @@
     "@type": [
       "http://schema.org/Offer"
     ],
-    "http://schema.org/availability": [
-      {
-        "@value": "InStock"
-      }
-    ],
     "http://schema.org/price": [
       {
         "@value": "68.25"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "InStock"
       }
     ],
     "http://schema.org/url": [
@@ -1271,7 +1311,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-07T16:14:36.927-04:00"
+        "@value": "2025-05-15T16:14:17.926-04:00"
       }
     ]
   },
@@ -1313,7 +1353,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-07T16:14:35.274-04:00"
+        "@value": "2025-05-15T16:14:15.609-04:00"
       }
     ]
   },
@@ -1355,7 +1395,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-07T16:14:09.714-04:00"
+        "@value": "2025-05-15T16:13:54.944-04:00"
       }
     ]
   },
@@ -1397,7 +1437,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-07T16:13:48.882-04:00"
+        "@value": "2025-05-15T16:13:35.601-04:00"
       }
     ]
   },
@@ -1439,7 +1479,49 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-07T16:13:29.336-04:00"
+        "@value": "2025-05-15T16:13:10.474-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-10-11-1930-Ikons-of-Rock#Offer",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "79"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://tickets.sandersoncentre.ca/TheatreManager/1/online?performance=1925"
+      }
+    ]
+  },
+  {
+    "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-10-11-1930-Ikons-of-Rock#WebPage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-10-11-1930-Ikons-of-Rock"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@value": "2025-05-15T16:13:12.383-04:00"
       }
     ]
   },
@@ -1476,7 +1558,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-07T16:15:36.506-04:00"
+        "@value": "2025-05-15T16:13:08.853-04:00"
       }
     ]
   },
@@ -1518,7 +1600,28 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-07T16:14:04.283-04:00"
+        "@value": "2025-05-15T16:13:49.645-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-10-30-1930-Solitary-Man-Neil-Diamond-Tribute#WebPage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-10-30-1930-Solitary-Man-Neil-Diamond-Tribute"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@value": "2025-05-15T16:14:01.940-04:00"
       }
     ]
   },
@@ -1544,27 +1647,6 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-10-30-1930-Solitary-Man-Neil-Diamond-Tribute#WebPage",
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@value": "en"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-10-30-1930-Solitary-Man-Neil-Diamond-Tribute"
-      }
-    ],
-    "http://schema.org/lastReviewed": [
-      {
-        "@value": "2025-05-07T16:14:17.677-04:00"
-      }
-    ]
-  },
-  {
     "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-11-06-2000-ABBA-Revisited-The-Concert#WebPage",
     "@type": [
       "http://schema.org/WebPage"
@@ -1581,7 +1663,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-07T16:14:02.055-04:00"
+        "@value": "2025-05-15T16:13:44.471-04:00"
       }
     ]
   },
@@ -1607,22 +1689,6 @@
     ]
   },
   {
-    "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-11-07-1930-Practically-Petty-and-Fleetwood-Max#Offer",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/price": [
-      {
-        "@value": "50.00"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://tickets.sandersoncentre.ca/TheatreManager/1/online?performance=1845"
-      }
-    ]
-  },
-  {
     "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-11-07-1930-Practically-Petty-and-Fleetwood-Max#WebPage",
     "@type": [
       "http://schema.org/WebPage"
@@ -1639,7 +1705,23 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-07T16:14:38.514-04:00"
+        "@value": "2025-05-15T16:14:19.856-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-11-07-1930-Practically-Petty-and-Fleetwood-Max#Offer",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "50.00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://tickets.sandersoncentre.ca/TheatreManager/1/online?performance=1845"
       }
     ]
   },
@@ -1681,7 +1763,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-07T16:13:34.082-04:00"
+        "@value": "2025-05-15T16:13:23.471-04:00"
       }
     ]
   },
@@ -1702,7 +1784,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-07T16:13:36.285-04:00"
+        "@value": "2025-05-15T16:13:25.606-04:00"
       }
     ]
   },
@@ -1792,7 +1874,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-07T16:14:40.084-04:00"
+        "@value": "2025-05-15T16:14:21.323-04:00"
       }
     ]
   },
@@ -1834,7 +1916,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-07T16:14:31.975-04:00"
+        "@value": "2025-05-15T16:14:12.278-04:00"
       }
     ]
   },
@@ -1876,7 +1958,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-07T16:14:44.566-04:00"
+        "@value": "2025-05-15T16:14:25.931-04:00"
       }
     ]
   },
@@ -1918,7 +2000,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-07T16:13:56.806-04:00"
+        "@value": "2025-05-15T16:13:40.880-04:00"
       }
     ]
   },
@@ -1960,7 +2042,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-07T16:14:52.847-04:00"
+        "@value": "2025-05-15T16:14:34.684-04:00"
       }
     ]
   },
@@ -2002,7 +2084,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-07T16:14:25.248-04:00"
+        "@value": "2025-05-15T16:14:09.011-04:00"
       }
     ]
   },
@@ -2044,7 +2126,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-07T16:14:55.829-04:00"
+        "@value": "2025-05-15T16:14:38.272-04:00"
       }
     ]
   },
@@ -2086,7 +2168,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-07T16:14:57.424-04:00"
+        "@value": "2025-05-15T16:14:39.848-04:00"
       }
     ]
   },
@@ -2128,231 +2210,12 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-07T16:14:58.925-04:00"
+        "@value": "2025-05-15T16:14:41.354-04:00"
       }
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/5f3815cb-9a47-4e35-bbd4-341e5e85e490",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K10-499"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-05-31-1830-25th-Anniversary-Spring-Recitals-LISAS-PARTY-MIX#Offer"
-      }
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-05-31-1830-25th-Anniversary-Spring-Recitals-LISAS-PARTY-MIX#WebPage"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K11-192"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "25th Anniversary Spring Recitals LISA'S PARTY MIX"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Lisa Naves Dance Company 25th Anniversary Spring Recitals LISA'S PARTY MIX"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-05-31-1830-25th-Anniversary-Spring-Recitals-LISAS-PARTY-MIX"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-05-31-1830-25th-Anniversary-Spring-Recitals-LISAS-PARTY-MIX/b573aaad-0eab-4bd1-8166-b2ca0150b67e"
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@value": "PT7200S"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-05-31-1830-25th-Anniversary-Spring-Recitals-LISAS-PARTY-MIX"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@value": "2025-05-31T18:30:00-04:00"
-      }
-    ]
-  },
-  {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/1f0444eb-c9d7-433f-9eca-bbdc1672193e",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K10-499"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-06-01-1000-First-Annual-Spring-Recital-Le-Jazz-Hot#Offer"
-      }
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-01-1000-First-Annual-Spring-Recital-Le-Jazz-Hot#WebPage"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K11-192"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "First Annual Spring Recital – Le Jazz Hot"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Lisa Naves Dance Company First Annual Spring Recital Le Jazz Hot"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-01-1000-First-Annual-Spring-Recital-Le-Jazz-Hot"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-01-1000-First-Annual-Spring-Recital-Le-Jazz-Hot/b573aaad-0eab-4bd1-8166-b2ca0150b67e"
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@value": "PT7200S"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-01-1000-First-Annual-Spring-Recital-Le-Jazz-Hot"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@value": "2025-06-01T10:00:00-04:00"
-      }
-    ]
-  },
-  {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/a15078a5-0e89-4e5c-a041-175c2b80dd57",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K10-499"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-06-01-1430-25th-Anniversary-Spring-Recitals-LISAS-PARTY-MIX#Offer"
-      }
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-01-1430-25th-Anniversary-Spring-Recitals-LISAS-PARTY-MIX#WebPage"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K11-192"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "25th Anniversary Spring Recitals LISA'S PARTY MIX"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Lisa Naves Dance Company 25th Anniversary Spring Recitals LISA'S PARTY MIX"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-01-1430-25th-Anniversary-Spring-Recitals-LISAS-PARTY-MIX"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-01-1430-25th-Anniversary-Spring-Recitals-LISAS-PARTY-MIX/b573aaad-0eab-4bd1-8166-b2ca0150b67e"
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@value": "PT7200S"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-01-1430-25th-Anniversary-Spring-Recitals-LISAS-PARTY-MIX"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@value": "2025-06-01T14:30:00-04:00"
-      }
-    ]
-  },
-  {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/e4405a66-462d-4a45-a6ee-3f647549e723",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/b90ca1b9-ded6-43e5-872b-5772d4a4ecf7",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2425,7 +2288,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/cca58773-b4b9-4ffb-b0ff-162a282fe11a",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/097ddf38-0945-4529-9e92-11a9c610fcb4",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2498,7 +2361,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/e1f41bd8-8b86-48b9-a57e-66b170d90f46",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/38cef3e8-fe70-4743-a413-dca05cd514b9",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2571,7 +2434,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/01a1a675-e6df-4757-a05d-d316cf9b1ca3",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/2c77facb-931d-4d0f-9a89-70a652e470c0",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2644,13 +2507,18 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/107fca29-0a52-4947-9aa7-20c7d9c17d42",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/8bc7147c-8aff-4303-9243-f0b883006359",
     "@type": [
       "http://schema.org/Event"
     ],
     "http://schema.org/offers": [
       {
         "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-06-07-1600-We-Got-You-Covered#Offer"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
       }
     ],
     "http://schema.org/organizer": [
@@ -2661,11 +2529,6 @@
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
       }
     ],
     "http://schema.org/location": [
@@ -2717,7 +2580,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/d02f578a-5d56-4273-b937-e4813aba2dff",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/39d28523-07fb-4aa3-b321-728b03b7857f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2790,9 +2653,233 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/8e6bf71f-0a01-49b3-bcb9-3cbdf4970eec",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/4ef0d4d1-4a97-459c-9c26-a2338633192a",
     "@type": [
       "http://schema.org/Event"
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K10-499"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-06-12-1730-Burford-Dancers-Year-End-Showcase#Offer"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-12-1730-Burford-Dancers-Year-End-Showcase#WebPage"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-192"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Burford Dancers Year End Showcase"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Burford Dancers Year End Showcase"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-12-1730-Burford-Dancers-Year-End-Showcase"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-12-1730-Burford-Dancers-Year-End-Showcase/9ef31660-d840-455e-b66c-b2d500f63df1"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@value": "PT7200S"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-12-1730-Burford-Dancers-Year-End-Showcase"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@value": "2025-06-12T17:30:00-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://calendar.sandersoncentre.ca/temporary/cac0b60c-71cb-4c88-a7d0-1a88ecd39a28",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K10-499"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-06-13-1730-Burford-Dancers-Year-End-Showcase#Offer"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-13-1730-Burford-Dancers-Year-End-Showcase#WebPage"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-192"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Burford Dancers Year End Showcase"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Burford Dancers Year End Showcase"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-13-1730-Burford-Dancers-Year-End-Showcase"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-13-1730-Burford-Dancers-Year-End-Showcase/9ef31660-d840-455e-b66c-b2d500f63df1"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@value": "PT7200S"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-13-1730-Burford-Dancers-Year-End-Showcase"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@value": "2025-06-13T17:30:00-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://calendar.sandersoncentre.ca/temporary/30954656-f64d-4444-a784-eef75c80e063",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K10-499"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-06-14-1400-Dance-Discovery-Presents-Its-The-Greatest-Show#Offer"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-14-1400-Dance-Discovery-Presents-Its-The-Greatest-Show#WebPage"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-192"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Dance Discovery Presents It's The Greatest Show"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Dance Discovery is excited to showcase some amazing young talent from age 2 to adult. Dancers from the beginner to competitive levels performing all dance genres of jazz, tap, ballet, lyrical, contemporary, and hip hop."
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-14-1400-Dance-Discovery-Presents-Its-The-Greatest-Show"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-14-1400-Dance-Discovery-Presents-Its-The-Greatest-Show/c3cfc3b4-fe32-4302-82af-b2d500f41f31"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@value": "PT7200S"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-14-1400-Dance-Discovery-Presents-Its-The-Greatest-Show"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@value": "2025-06-14T14:00:00-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://calendar.sandersoncentre.ca/temporary/e7b55987-01b7-405c-bf75-844a31e2d39d",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-06-15-1430-NLC-Dance-Company-Presents-Walking-the-Red-Carpet#Offer"
+      }
     ],
     "http://schema.org/mainEntityOfPage": [
       {
@@ -2807,11 +2894,6 @@
     "http://schema.org/location": [
       {
         "@id": "http://kg.artsdata.ca/resource/K11-192"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-06-15-1430-NLC-Dance-Company-Presents-Walking-the-Red-Carpet#Offer"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -2863,7 +2945,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/e3812b02-622b-415b-8284-00f6021f90fa",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/d0a8f693-eccc-4b94-a7b3-10514b5b1497",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2931,7 +3013,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/f6b53c42-c258-4b41-823c-70ed45cd2df9",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/b3effa20-9c80-4840-8978-63a552eb687f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3009,7 +3091,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/1b785b66-3320-4d5b-9ba1-5da5733a9dab",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/d37429ee-45be-4aad-be36-f25c0c3ae8f3",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3082,7 +3164,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/591c86e8-6494-4468-bca1-59b05bb9af55",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/88a49d6e-ef5d-4bfa-953f-85520f9bc006",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3155,7 +3237,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/0b9a74e0-54d2-4a68-9a29-b742264ee78e",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/886001ca-d296-4860-9a9f-a1ab7731c15c",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3228,7 +3310,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/4e9d15c7-fbb1-44b9-b01c-a198aa885afd",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/084725ed-97ae-46aa-a25a-8ea14b8d5f5a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3301,7 +3383,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/8cb481a0-fa98-414b-ab80-5afaf697bdf1",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/45c21912-a227-4d58-a22f-7cf666f65bfe",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3374,9 +3456,19 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/2ed3afa0-4285-4af1-9dc8-f5cf6b00ebfa",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/41900a03-9c90-4dbc-9469-3892f452efd0",
     "@type": [
       "http://schema.org/Event"
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
     ],
     "http://schema.org/organizer": [
       {
@@ -3391,16 +3483,6 @@
     "http://schema.org/mainEntityOfPage": [
       {
         "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-07-12-2000-The-Box-Still-Alive-amp-Kicking#WebPage"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
       }
     ],
     "http://schema.org/location": [
@@ -3447,18 +3529,23 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/e0492745-adce-4b79-b24e-cb0846044ede",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/e70c3dd9-6da4-4b7f-9ea0-08919ff76f79",
     "@type": [
       "http://schema.org/Event"
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K10-499"
-      }
     ],
     "http://schema.org/offers": [
       {
         "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-07-18-1900-Playful-Fox-Productions-presents-Anne-of-Green-Gab#Offer"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-07-18-1900-Playful-Fox-Productions-presents-Anne-of-Green-Gab#WebPage"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K10-499"
       }
     ],
     "http://schema.org/location": [
@@ -3469,11 +3556,6 @@
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-07-18-1900-Playful-Fox-Productions-presents-Anne-of-Green-Gab#WebPage"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -3520,7 +3602,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/8bd39223-b9f6-450a-9702-6567a8eb7e2d",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/9544cc41-466b-4175-bde5-472c60cd2a4d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3593,18 +3675,13 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/f6b4e45f-9e0a-40db-9c8e-799c64a7e5a3",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/03ce7230-7949-4404-b1c9-2f1f4993495e",
     "@type": [
       "http://schema.org/Event"
     ],
     "http://schema.org/organizer": [
       {
         "@id": "http://kg.artsdata.ca/resource/K10-499"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-07-23-1930-Golden-Girls-The-Laughs-Continue#Offer"
       }
     ],
     "http://schema.org/location": [
@@ -3615,6 +3692,11 @@
     "http://schema.org/mainEntityOfPage": [
       {
         "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-07-23-1930-Golden-Girls-The-Laughs-Continue#WebPage"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-07-23-1930-Golden-Girls-The-Laughs-Continue#Offer"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -3666,7 +3748,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/3808cacb-5ad9-4f17-8738-98024f908764",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/bc554fad-1904-45c0-91cb-3af4e46f600b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3739,14 +3821,9 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/9dd9c347-36c1-40b6-906f-b36e7e62a0df",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/3c361761-2101-43d5-b683-95723dc19f14",
     "@type": [
       "http://schema.org/Event"
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K10-499"
-      }
     ],
     "http://schema.org/offers": [
       {
@@ -3766,6 +3843,11 @@
     "http://schema.org/eventAttendanceMode": [
       {
         "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K10-499"
       }
     ],
     "http://schema.org/location": [
@@ -3812,7 +3894,74 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/e54111dc-be8f-4a2b-ac02-c8b3b9ecae96",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/837d8e5c-0be2-4937-8648-0d5a8ac65c9b",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K10-499"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-08-09-1900-LIGHTHOUSE-at-South-Coast-Jazz-Festival#Offer"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-08-09-1900-LIGHTHOUSE-at-South-Coast-Jazz-Festival#WebPage"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-192"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "LIGHTHOUSE at South Coast Jazz Festival"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-08-09-1900-LIGHTHOUSE-at-South-Coast-Jazz-Festival"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-08-09-1900-LIGHTHOUSE-at-South-Coast-Jazz-Festival/1d0cc700-b1d5-4ae3-80ed-b2de0129a0ae"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@value": "PT7200S"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-08-09-1900-LIGHTHOUSE-at-South-Coast-Jazz-Festival"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@value": "2025-08-09T19:00:00-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://calendar.sandersoncentre.ca/temporary/532d3885-e453-486e-8deb-bb09679cc5f5",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3885,7 +4034,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/017f8a7d-abde-4348-a1a5-48ccdb4f30fd",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/e6073f98-fc2f-4513-8557-c83ef7cf0f28",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3958,7 +4107,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/143bcdc6-39f7-4d84-9bff-1c89d8d58656",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/f7d85801-c385-4f72-b655-cadbdc9ffa2b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3977,14 +4126,14 @@
         "@id": "http://schema.org/OfflineEventAttendanceMode"
       }
     ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K10-499"
-      }
-    ],
     "http://schema.org/offers": [
       {
         "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-09-13-1930-The-Worlds-Greatest-Tribute-To-The-Traveling-Wilbu#Offer"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K10-499"
       }
     ],
     "http://schema.org/location": [
@@ -4031,13 +4180,18 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/6436572a-6708-4889-a9d7-98acd4278c66",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/4b2588c2-b5f0-4ef5-8fb9-ae09eed97cda",
     "@type": [
       "http://schema.org/Event"
     ],
     "http://schema.org/offers": [
       {
         "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-09-20-2000-The-Ultimate-80s-Bash-with-the-Bomb-and-U2-Elevati#Offer"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -4048,11 +4202,6 @@
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
       }
     ],
     "http://schema.org/organizer": [
@@ -4082,14 +4231,14 @@
         "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-09-20-2000-The-Ultimate-80s-Bash-with-the-Bomb-and-U2-Elevati"
       }
     ],
-    "http://schema.org/duration": [
-      {
-        "@value": "PT7200S"
-      }
-    ],
     "http://schema.org/image": [
       {
         "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-09-20-2000-The-Ultimate-80s-Bash-with-the-Bomb-and-U2-Elevati/fc67a4c2-eec3-4c6a-bf1b-b26d011ca6df"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@value": "PT7200S"
       }
     ],
     "http://schema.org/url": [
@@ -4104,18 +4253,18 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/8c304f96-fee2-447c-bbf2-d5c681307df5",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/47b235a9-2a3b-4290-ae7f-5686c31158af",
     "@type": [
       "http://schema.org/Event"
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K10-499"
-      }
     ],
     "http://schema.org/offers": [
       {
         "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-09-25-1930-Luke-Combs-UK-Tribute-to-Luke-Combs#Offer"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-09-25-1930-Luke-Combs-UK-Tribute-to-Luke-Combs#WebPage"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -4123,14 +4272,14 @@
         "@id": "http://schema.org/EventScheduled"
       }
     ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K10-499"
+      }
+    ],
     "http://schema.org/location": [
       {
         "@id": "http://kg.artsdata.ca/resource/K11-192"
-      }
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-09-25-1930-Luke-Combs-UK-Tribute-to-Luke-Combs#WebPage"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -4171,7 +4320,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/9e8e0e18-c10f-4c16-a0e3-fc0c1ebd1704",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/60f40bd9-1c06-4e06-810c-f8f9c2570889",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4244,7 +4393,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/8738fef4-f5fc-4253-b51e-4c10b0d6fe9c",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/a29371fd-cde1-4c96-bd6a-7e0173b04dce",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4317,14 +4466,9 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/1f902126-de6b-469b-9b7a-f2fbdfaf8167",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/9c5b352c-7072-4d8f-8c3f-ea19e81eb1f3",
     "@type": [
       "http://schema.org/Event"
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
     ],
     "http://schema.org/organizer": [
       {
@@ -4339,6 +4483,11 @@
     "http://schema.org/location": [
       {
         "@id": "http://kg.artsdata.ca/resource/K11-192"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -4390,9 +4539,87 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/33df5122-6f84-4c63-85a7-9518f56c51a9",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/d6282c08-c49d-4107-b2b3-218a476427d2",
     "@type": [
       "http://schema.org/Event"
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K10-499"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-10-11-1930-Ikons-of-Rock#Offer"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-10-11-1930-Ikons-of-Rock#WebPage"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-192"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Ikons of Rock"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Direct from Las Vegas this amazing ROCK show is coming back home to tour across Canada They have earned rave reviews all over North America with their impeccable ability to impersonate rock stars musically and visually. And all in one ultimate performance! They perform in spectacular costumes, with an array of special effects with great audience interaction. It’s impeccable, they look like them, talk like them, walk like them and most importantly sing like them, with over the top theatrics. Ikons has an outstanding cast of male and female performances, to ensure an all encompassing, authentic 70s, 80s & 90’s classic arena rock-show experience. Originally from Winnipeg, several of the performers are proud to be past members of great Western Canadian classic rockers Harlequin, Kenny Shields and Streetheart. From these humble beginnings they have gone on to share concert stages across America with; The Beach Boys, Whitesnake, Starship, Cheap Trick, Night Ranger, Rick Springfield, The Guess Who, Blue Oyster Cult, Winger, Sebastian Bach, David Lee Roth, Slaughter, Great White, Warrant, Bret Michaels, Dee Snider, Ratt and many other notable groups. Ikons of Rock will be delivering hit after hit of artists as; Kiss, Ozzy Osbourne, Alice Cooper, Def Leppard, Van Halen, Joan Jett, Vixen, Heart, Queen, Lita Ford, Pat Benatar, Autograph, Rob Zombie, Cher and more. PROMOTIONAL VIDEO: https://www.youtube.com/watch?v=fijCr8EO9E8"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-10-11-1930-Ikons-of-Rock"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-10-11-1930-Ikons-of-Rock/b4839a93-e221-489f-ade6-b2d500f1e3f3"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@value": "PT7200S"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-10-11-1930-Ikons-of-Rock"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@value": "2025-10-11T19:30:00-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://calendar.sandersoncentre.ca/temporary/8f034502-474c-4b7f-9aaf-0ad35d8778d0",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
     ],
     "http://schema.org/organizer": [
       {
@@ -4412,11 +4639,6 @@
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
       }
     ],
     "http://schema.org/location": [
@@ -4463,7 +4685,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/b7a96e6d-b5f8-44d4-9fda-997ad3fe1a62",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/638d8375-6370-4813-8b4e-85fc3e45a855",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4536,18 +4758,23 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/7f8a4366-8f84-4894-983f-06ef2eedb323",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/97338791-1f6d-4178-bb8e-b98d87e6ee3a",
     "@type": [
       "http://schema.org/Event"
     ],
-    "http://schema.org/eventStatus": [
+    "http://schema.org/mainEntityOfPage": [
       {
-        "@id": "http://schema.org/EventScheduled"
+        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-10-30-1930-Solitary-Man-Neil-Diamond-Tribute#WebPage"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
       {
         "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
       }
     ],
     "http://schema.org/organizer": [
@@ -4558,11 +4785,6 @@
     "http://schema.org/offers": [
       {
         "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-10-30-1930-Solitary-Man-Neil-Diamond-Tribute#Offer"
-      }
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-10-30-1930-Solitary-Man-Neil-Diamond-Tribute#WebPage"
       }
     ],
     "http://schema.org/location": [
@@ -4609,7 +4831,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/6b912cfe-85fc-442a-ba82-a130ab97ac41",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/7677bbc1-b119-49fe-8cb9-25c840877d18",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4682,9 +4904,14 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/7a127002-bfe5-4a47-be7e-fa7a1d47eb13",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/e4facdcf-f80d-4f5c-9ae2-8ba85feea03b",
     "@type": [
       "http://schema.org/Event"
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-11-07-1930-Practically-Petty-and-Fleetwood-Max#WebPage"
+      }
     ],
     "http://schema.org/organizer": [
       {
@@ -4694,11 +4921,6 @@
     "http://schema.org/offers": [
       {
         "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-11-07-1930-Practically-Petty-and-Fleetwood-Max#Offer"
-      }
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-11-07-1930-Practically-Petty-and-Fleetwood-Max#WebPage"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -4755,7 +4977,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/7603bc00-3151-48aa-9811-0c23a44b5594",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/50d2a39d-02ef-4fcf-b841-a17a35eeac44",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4828,7 +5050,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/6716839c-9dc3-4975-8c04-56f8037fd0f9",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/7c18c53a-490d-453a-9e1a-eb895149b26d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4906,18 +5128,18 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/dd699c3e-0ac3-4736-83ee-d66546e17f82",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/7538d739-b5fa-4abb-9308-e28364361d1c",
     "@type": [
       "http://schema.org/Event"
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K10-499"
-      }
     ],
     "http://schema.org/offers": [
       {
         "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-11-14-2000-Jersey-Nights#Offer"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K10-499"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -4979,7 +5201,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/625d5943-e627-46f0-85bb-780d0134eaed",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/4dd58464-9b05-4427-9148-b580bc51c498",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5052,9 +5274,14 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/c879cf15-84fe-4e2f-9547-2b1cc4d57c94",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/c71635d0-d72d-4fe1-b237-8e025df1a860",
     "@type": [
       "http://schema.org/Event"
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
     ],
     "http://schema.org/organizer": [
       {
@@ -5074,11 +5301,6 @@
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
       }
     ],
     "http://schema.org/location": [
@@ -5125,7 +5347,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/c7b3ee99-5382-4bda-b2ae-3e762cf74765",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/ac46396d-49cc-44a3-8fa1-feb3657b8231",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5198,7 +5420,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/41fa65d7-56b6-4486-a611-8ba62202cedd",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/93ddf752-c7b9-4198-ba46-42da20625ca4",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5271,7 +5493,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/b5c7150e-0333-425a-8286-2341032c5d35",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/c8e37670-96fe-4e3b-acf1-c27f47897bd7",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5344,7 +5566,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/d1562e29-ce92-433e-9aab-ca5274278056",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/0700464f-67b3-4d26-b683-14dcc5daddd3",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5417,7 +5639,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/e97d5998-8e30-4a6c-ace7-289317472774",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/cd87dc56-39ed-4735-87fc-2b4ea3a7aa0c",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5490,7 +5712,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/6d438361-cdf6-431e-aa21-69cbac771793",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/f192882d-2565-4ee1-b3eb-dabf2ecdfe0b",
     "@type": [
       "http://schema.org/Event"
     ],
