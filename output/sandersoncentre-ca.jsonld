@@ -1,49 +1,5 @@
 [
   {
-    "@id": "http://kg.artsdata.ca/resource/K16-12",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/alternateName": [
-      {
-        "@language": "en",
-        "@value": "Laurier"
-      },
-      {
-        "@value": "Laurier"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "http://www.wikidata.org/entity/Q2166701"
-      },
-      {
-        "@id": "https://www.instagram.com/WilfridLaurierUni"
-      },
-      {
-        "@id": "https://www.facebook.com/WilfridLaurierUniversity"
-      },
-      {
-        "@id": "https://twitter.com/Laurier"
-      },
-      {
-        "@id": "https://en.wikipedia.org/wiki/Wilfrid_Laurier_University"
-      },
-      {
-        "@id": "https://fr.wikipedia.org/wiki/Universit%C3%A9_Wilfrid-Laurier"
-      },
-      {
-        "@id": "https://isni.org/isni/0000000121586280"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Wilfrid Laurier University"
-      }
-    ]
-  },
-  {
     "@id": "http://kg.artsdata.ca/resource/K10-499",
     "@type": [
       "http://schema.org/Organization"
@@ -84,34 +40,29 @@
     ]
   },
   {
-    "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-06-03-1000-Laurier-Convocation#Offer",
+    "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-06-07-1100-We-Got-You-Covered#Offer",
     "@type": [
       "http://schema.org/Offer"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Limit of 4 per Dancer until May 17"
+      }
     ],
     "http://schema.org/availability": [
       {
         "@value": "InStock"
       }
-    ]
-  },
-  {
-    "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-03-1000-Laurier-Convocation#WebPage",
-    "@type": [
-      "http://schema.org/WebPage"
     ],
-    "http://schema.org/inLanguage": [
+    "http://schema.org/price": [
       {
-        "@value": "en"
+        "@value": "23.00"
       }
     ],
     "http://schema.org/url": [
       {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-03-1000-Laurier-Convocation"
-      }
-    ],
-    "http://schema.org/lastReviewed": [
-      {
-        "@value": "2025-05-15T16:14:29.193-04:00"
+        "@value": "https://tickets.sandersoncentre.ca/TheatreManager/1/online?performance=1894"
       }
     ]
   },
@@ -178,101 +129,6 @@
     ]
   },
   {
-    "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-06-03-1400-Laurier-Convocation#Offer",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/availability": [
-      {
-        "@value": "InStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-03-1400-Laurier-Convocation#WebPage",
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@value": "en"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-03-1400-Laurier-Convocation"
-      }
-    ],
-    "http://schema.org/lastReviewed": [
-      {
-        "@value": "2025-05-15T16:14:31.045-04:00"
-      }
-    ]
-  },
-  {
-    "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-06-06-1800-We-Got-You-Covered#Offer",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/availability": [
-      {
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@value": "23.00"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://tickets.sandersoncentre.ca/TheatreManager/1/online?performance=1893"
-      }
-    ]
-  },
-  {
-    "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-06-1800-We-Got-You-Covered#WebPage",
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@value": "en"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-06-1800-We-Got-You-Covered"
-      }
-    ],
-    "http://schema.org/lastReviewed": [
-      {
-        "@value": "2025-05-15T16:13:53.274-04:00"
-      }
-    ]
-  },
-  {
-    "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-06-07-1100-We-Got-You-Covered#Offer",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/availability": [
-      {
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@value": "23.00"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://tickets.sandersoncentre.ca/TheatreManager/1/online?performance=1894"
-      }
-    ]
-  },
-  {
     "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-07-1100-We-Got-You-Covered#WebPage",
     "@type": [
       "http://schema.org/WebPage"
@@ -289,7 +145,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T16:13:51.538-04:00"
+        "@value": "2025-05-25T16:14:14.013-04:00"
       }
     ]
   },
@@ -297,6 +153,12 @@
     "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-06-07-1600-We-Got-You-Covered#Offer",
     "@type": [
       "http://schema.org/Offer"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Limit of 4 per Dancer until May 17"
+      }
     ],
     "http://schema.org/availability": [
       {
@@ -331,7 +193,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T16:14:36.589-04:00"
+        "@value": "2025-05-25T16:14:51.877-04:00"
       }
     ]
   },
@@ -373,7 +235,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T16:13:07.305-04:00"
+        "@value": "2025-05-25T16:13:43.755-04:00"
       }
     ]
   },
@@ -381,6 +243,12 @@
     "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-06-12-1730-Burford-Dancers-Year-End-Showcase#Offer",
     "@type": [
       "http://schema.org/Offer"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "General Admission"
+      }
     ],
     "http://schema.org/availability": [
       {
@@ -415,28 +283,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T16:13:46.078-04:00"
-      }
-    ]
-  },
-  {
-    "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-06-13-1730-Burford-Dancers-Year-End-Showcase#Offer",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/availability": [
-      {
-        "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@value": "20.00"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://tickets.sandersoncentre.ca/TheatreManager/1/online?performance=1927"
+        "@value": "2025-05-25T16:14:12.369-04:00"
       }
     ]
   },
@@ -457,7 +304,34 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T16:13:47.845-04:00"
+        "@value": "2025-05-25T16:14:05.752-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-06-13-1730-Burford-Dancers-Year-End-Showcase#Offer",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "General Admission"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "20.00"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://tickets.sandersoncentre.ca/TheatreManager/1/online?performance=1927"
       }
     ]
   },
@@ -499,7 +373,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T16:15:31.495-04:00"
+        "@value": "2025-05-25T16:14:25.697-04:00"
       }
     ]
   },
@@ -541,7 +415,91 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T16:13:02.602-04:00"
+        "@value": "2025-05-25T16:13:27.282-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-06-18-1830-Alice-in-Dynamicland-2025-Year-End-Recital#Offer",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "37.75"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://tickets.sandersoncentre.ca/TheatreManager/1/online?performance=1923"
+      }
+    ]
+  },
+  {
+    "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-18-1830-Alice-in-Dynamicland-2025-Year-End-Recital#WebPage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-18-1830-Alice-in-Dynamicland-2025-Year-End-Recital"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@value": "2025-05-25T16:15:28.687-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-06-22-1400-Studio-12-Dance-Company-Presents-Out-of-This-World#Offer",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "30.00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://tickets.sandersoncentre.ca/TheatreManager/1/online?performance=1924"
+      }
+    ]
+  },
+  {
+    "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-22-1400-Studio-12-Dance-Company-Presents-Out-of-This-World#WebPage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-22-1400-Studio-12-Dance-Company-Presents-Out-of-This-World"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@value": "2025-05-25T16:14:29.034-04:00"
       }
     ]
   },
@@ -573,7 +531,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T16:14:32.933-04:00"
+        "@value": "2025-05-25T16:14:47.259-04:00"
       }
     ]
   },
@@ -654,7 +612,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T16:13:56.561-04:00"
+        "@value": "2025-05-25T16:15:04.014-04:00"
       }
     ]
   },
@@ -696,7 +654,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T16:13:39.175-04:00"
+        "@value": "2025-05-25T16:13:57.770-04:00"
       }
     ]
   },
@@ -704,6 +662,17 @@
     "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-07-08-1930-TAYLOR-A-Tribute-to-the-Eras-of-Taylor-Swift#Offer",
     "@type": [
       "http://schema.org/Offer"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Rear Orchestra/Balcony"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "52.75"
+      }
     ],
     "http://schema.org/availability": [
       {
@@ -733,7 +702,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T16:13:27.685-04:00"
+        "@value": "2025-05-25T16:13:54.427-04:00"
       }
     ]
   },
@@ -742,14 +711,27 @@
     "@type": [
       "http://schema.org/Offer"
     ],
-    "http://schema.org/availability": [
+    "http://schema.org/name": [
       {
-        "@value": "InStock"
+        "@language": "en",
+        "@value": "Rear Orchestra/Balcony"
+      },
+      {
+        "@language": "en",
+        "@value": "Child"
       }
     ],
     "http://schema.org/price": [
       {
-        "@value": "72.25"
+        "@value": "62.25"
+      },
+      {
+        "@value": "43.25"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "InStock"
       }
     ],
     "http://schema.org/url": [
@@ -775,7 +757,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T16:13:31.565-04:00"
+        "@value": "2025-05-25T16:14:01.071-04:00"
       }
     ]
   },
@@ -817,7 +799,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T16:13:42.623-04:00"
+        "@value": "2025-05-25T16:14:07.348-04:00"
       }
     ]
   },
@@ -859,7 +841,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T16:14:03.635-04:00"
+        "@value": "2025-05-25T16:14:21.869-04:00"
       }
     ]
   },
@@ -901,7 +883,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T16:14:22.827-04:00"
+        "@value": "2025-05-25T16:14:38.860-04:00"
       }
     ]
   },
@@ -910,14 +892,23 @@
     "@type": [
       "http://schema.org/Offer"
     ],
-    "http://schema.org/availability": [
-      {
-        "@value": "InStock"
-      }
-    ],
     "http://schema.org/price": [
       {
         "@value": "44.00"
+      },
+      {
+        "@value": "35.00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "InStock"
       }
     ],
     "http://schema.org/url": [
@@ -943,7 +934,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T16:13:05.762-04:00"
+        "@value": "2025-05-25T16:13:49.137-04:00"
       }
     ]
   },
@@ -952,14 +943,23 @@
     "@type": [
       "http://schema.org/Offer"
     ],
-    "http://schema.org/availability": [
-      {
-        "@value": "InStock"
-      }
-    ],
     "http://schema.org/price": [
       {
         "@value": "44.00"
+      },
+      {
+        "@value": "35.00"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "InStock"
       }
     ],
     "http://schema.org/url": [
@@ -985,7 +985,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T16:14:06.970-04:00"
+        "@value": "2025-05-25T16:14:08.900-04:00"
       }
     ]
   },
@@ -1006,7 +1006,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T16:13:33.588-04:00"
+        "@value": "2025-05-25T16:13:41.934-04:00"
       }
     ]
   },
@@ -1015,14 +1015,27 @@
     "@type": [
       "http://schema.org/Offer"
     ],
+    "http://schema.org/price": [
+      {
+        "@value": "39.0"
+      },
+      {
+        "@value": "109"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Rear Orchestra/Balcony"
+      },
+      {
+        "@language": "en",
+        "@value": "VIP Meet &amp; Greet"
+      }
+    ],
     "http://schema.org/availability": [
       {
         "@value": "InStock"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@value": "74"
       }
     ],
     "http://schema.org/url": [
@@ -1069,7 +1082,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T16:13:58.241-04:00"
+        "@value": "2025-05-25T16:13:45.655-04:00"
       }
     ]
   },
@@ -1106,7 +1119,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T16:14:24.357-04:00"
+        "@value": "2025-05-25T16:14:40.440-04:00"
       }
     ]
   },
@@ -1114,6 +1127,12 @@
     "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-08-09-1900-LIGHTHOUSE-at-South-Coast-Jazz-Festival#Offer",
     "@type": [
       "http://schema.org/Offer"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "General Admisison"
+      }
     ],
     "http://schema.org/availability": [
       {
@@ -1123,6 +1142,11 @@
     "http://schema.org/price": [
       {
         "@value": "40.00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://tickets.sandersoncentre.ca/TheatreManager/1/online?performance=1938"
       }
     ]
   },
@@ -1143,7 +1167,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T16:15:26.049-04:00"
+        "@value": "2025-05-25T16:15:23.352-04:00"
       }
     ]
   },
@@ -1185,7 +1209,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T16:13:29.571-04:00"
+        "@value": "2025-05-25T16:13:39.919-04:00"
       }
     ]
   },
@@ -1194,6 +1218,12 @@
     "@type": [
       "http://schema.org/Offer"
     ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Child under 12"
+      }
+    ],
     "http://schema.org/availability": [
       {
         "@value": "InStock"
@@ -1201,7 +1231,7 @@
     ],
     "http://schema.org/price": [
       {
-        "@value": "53"
+        "@value": "38"
       }
     ],
     "http://schema.org/url": [
@@ -1227,7 +1257,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T16:14:14.086-04:00"
+        "@value": "2025-05-25T16:14:30.675-04:00"
       }
     ]
   },
@@ -1248,7 +1278,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T16:13:04.146-04:00"
+        "@value": "2025-05-25T16:13:29.498-04:00"
       }
     ]
   },
@@ -1311,7 +1341,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T16:14:17.926-04:00"
+        "@value": "2025-05-25T16:14:33.839-04:00"
       }
     ]
   },
@@ -1353,7 +1383,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T16:14:15.609-04:00"
+        "@value": "2025-05-25T16:14:32.247-04:00"
       }
     ]
   },
@@ -1395,7 +1425,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T16:13:54.944-04:00"
+        "@value": "2025-05-25T16:14:27.329-04:00"
       }
     ]
   },
@@ -1437,7 +1467,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T16:13:35.601-04:00"
+        "@value": "2025-05-25T16:13:52.700-04:00"
       }
     ]
   },
@@ -1479,7 +1509,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T16:13:10.474-04:00"
+        "@value": "2025-05-25T16:13:34.044-04:00"
       }
     ]
   },
@@ -1488,6 +1518,12 @@
     "@type": [
       "http://schema.org/Offer"
     ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Rear Orchestra/Balcony"
+      }
+    ],
     "http://schema.org/availability": [
       {
         "@value": "InStock"
@@ -1495,7 +1531,7 @@
     ],
     "http://schema.org/price": [
       {
-        "@value": "79"
+        "@value": "59.0"
       }
     ],
     "http://schema.org/url": [
@@ -1521,7 +1557,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T16:13:12.383-04:00"
+        "@value": "2025-05-25T16:13:35.969-04:00"
       }
     ]
   },
@@ -1530,9 +1566,20 @@
     "@type": [
       "http://schema.org/Offer"
     ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Rear Orchestra/Balcony"
+      }
+    ],
     "http://schema.org/availability": [
       {
         "@value": "InStock"
+      }
+    ],
+    "http://schema.org/price": [
+      {
+        "@value": "54.5"
       }
     ],
     "http://schema.org/url": [
@@ -1558,7 +1605,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T16:13:08.853-04:00"
+        "@value": "2025-05-25T16:13:31.747-04:00"
       }
     ]
   },
@@ -1600,7 +1647,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T16:13:49.645-04:00"
+        "@value": "2025-05-25T16:14:04.253-04:00"
       }
     ]
   },
@@ -1621,7 +1668,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T16:14:01.940-04:00"
+        "@value": "2025-05-25T16:14:20.356-04:00"
       }
     ]
   },
@@ -1663,7 +1710,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T16:13:44.471-04:00"
+        "@value": "2025-05-25T16:14:10.390-04:00"
       }
     ]
   },
@@ -1705,7 +1752,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T16:14:19.856-04:00"
+        "@value": "2025-05-25T16:14:35.536-04:00"
       }
     ]
   },
@@ -1763,7 +1810,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T16:13:23.471-04:00"
+        "@value": "2025-05-25T16:13:59.432-04:00"
       }
     ]
   },
@@ -1784,7 +1831,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T16:13:25.606-04:00"
+        "@value": "2025-05-25T16:13:47.384-04:00"
       }
     ]
   },
@@ -1874,7 +1921,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T16:14:21.323-04:00"
+        "@value": "2025-05-25T16:14:37.188-04:00"
       }
     ]
   },
@@ -1916,7 +1963,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T16:14:12.278-04:00"
+        "@value": "2025-05-25T16:14:17.171-04:00"
       }
     ]
   },
@@ -1958,7 +2005,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T16:14:25.931-04:00"
+        "@value": "2025-05-25T16:14:42.016-04:00"
       }
     ]
   },
@@ -2000,7 +2047,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T16:13:40.880-04:00"
+        "@value": "2025-05-25T16:14:02.747-04:00"
       }
     ]
   },
@@ -2042,7 +2089,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T16:14:34.684-04:00"
+        "@value": "2025-05-25T16:14:50.356-04:00"
       }
     ]
   },
@@ -2084,7 +2131,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T16:14:09.011-04:00"
+        "@value": "2025-05-25T16:14:48.823-04:00"
       }
     ]
   },
@@ -2126,7 +2173,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T16:14:38.272-04:00"
+        "@value": "2025-05-25T16:14:53.408-04:00"
       }
     ]
   },
@@ -2168,7 +2215,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T16:14:39.848-04:00"
+        "@value": "2025-05-25T16:14:54.843-04:00"
       }
     ]
   },
@@ -2210,231 +2257,12 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T16:14:41.354-04:00"
+        "@value": "2025-05-25T16:14:56.454-04:00"
       }
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/b90ca1b9-ded6-43e5-872b-5772d4a4ecf7",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K16-12"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K10-499"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-06-03-1000-Laurier-Convocation#Offer"
-      }
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-03-1000-Laurier-Convocation#WebPage"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K11-192"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Laurier Convocation"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Wilfrid Laurier University proudly celebrates the newest members of its alumni family: the graduating class of 2025 and honorary degree recipient Tom Jenkins.As these exceptional individuals step into the next chapter of their journeys, we recognize their hard work, dedication, and the lasting impact they’ve made on the Laurier Brantford community. Congratulations to all—we can’t wait to see what you’ll accomplish next!"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-03-1000-Laurier-Convocation"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-03-1000-Laurier-Convocation/63ff7313-d676-4e2e-9408-b2d000e07e12"
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@value": "PT7200S"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-03-1000-Laurier-Convocation"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@value": "2025-06-03T10:00:00-04:00"
-      }
-    ]
-  },
-  {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/097ddf38-0945-4529-9e92-11a9c610fcb4",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K16-12"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K10-499"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-06-03-1400-Laurier-Convocation#Offer"
-      }
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-03-1400-Laurier-Convocation#WebPage"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K11-192"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "Laurier Convocation"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "Wilfrid Laurier University proudly celebrates the newest members of its alumni family: the graduating class of 2025 and honorary degree recipient Tom Jenkins.As these exceptional individuals step into the next chapter of their journeys, we recognize their hard work, dedication, and the lasting impact they’ve made on the Laurier Brantford community. Congratulations to all—we can’t wait to see what you’ll accomplish next!"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-03-1400-Laurier-Convocation"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-03-1400-Laurier-Convocation/63ff7313-d676-4e2e-9408-b2d000e07e12"
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@value": "PT7200S"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-03-1400-Laurier-Convocation"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@value": "2025-06-03T14:00:00-04:00"
-      }
-    ]
-  },
-  {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/38cef3e8-fe70-4743-a413-dca05cd514b9",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K10-499"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-06-06-1800-We-Got-You-Covered#Offer"
-      }
-    ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-06-1800-We-Got-You-Covered#WebPage"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K11-192"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "en",
-        "@value": "We Got You Covered"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "en",
-        "@value": "This year’s dance recital features the theme \"Cover Songs,\" showcasing our talented dancers as they reimagine iconic hits through dynamic choreography. From classic tunes to modern anthems, each performance highlights their creativity and skill, offering a fresh twist on timeless tracks. Don’t miss this exciting celebration of music and movement!"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-06-1800-We-Got-You-Covered"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-06-1800-We-Got-You-Covered/c1598726-320b-43d8-b0a5-b2ba014952c3"
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@value": "PT7200S"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-06-1800-We-Got-You-Covered"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@value": "2025-06-06T18:00:00-04:00"
-      }
-    ]
-  },
-  {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/2c77facb-931d-4d0f-9a89-70a652e470c0",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/710a0da8-47b5-49ea-adc5-0242be8adaf5",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2507,7 +2335,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/8bc7147c-8aff-4303-9243-f0b883006359",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/326051e0-f2ea-4016-8b28-9ed32aae999a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2580,7 +2408,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/39d28523-07fb-4aa3-b321-728b03b7857f",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/e7919bc3-386f-45a9-804b-9ff992070eea",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2653,7 +2481,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/4ef0d4d1-4a97-459c-9c26-a2338633192a",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/a737e328-357b-4299-86c1-d44ef759e705",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2726,18 +2554,13 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/cac0b60c-71cb-4c88-a7d0-1a88ecd39a28",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/4703cb12-471f-4a04-9b2d-0cb96e98a1b4",
     "@type": [
       "http://schema.org/Event"
     ],
     "http://schema.org/organizer": [
       {
         "@id": "http://kg.artsdata.ca/resource/K10-499"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-06-13-1730-Burford-Dancers-Year-End-Showcase#Offer"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -2758,6 +2581,11 @@
     "http://schema.org/location": [
       {
         "@id": "http://kg.artsdata.ca/resource/K11-192"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-06-13-1730-Burford-Dancers-Year-End-Showcase#Offer"
       }
     ],
     "http://schema.org/name": [
@@ -2799,7 +2627,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/30954656-f64d-4444-a784-eef75c80e063",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/09301962-d0b7-4325-a91e-b550bebfac8d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2872,7 +2700,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/e7b55987-01b7-405c-bf75-844a31e2d39d",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/d24bcaa1-6a6c-4e62-8e14-76b001998778",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2945,7 +2773,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/d0a8f693-eccc-4b94-a7b3-10514b5b1497",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/31e1ec13-2f5a-494b-b030-c1a6e8d0a368",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2953,6 +2781,147 @@
       {
         "@id": "http://kg.artsdata.ca/resource/K10-499"
       }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-06-18-1830-Alice-in-Dynamicland-2025-Year-End-Recital#Offer"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-18-1830-Alice-in-Dynamicland-2025-Year-End-Recital#WebPage"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-192"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Alice in Dynamicland - 2025 Year End Recital"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Dynamic Dance Force proudly presents our 2025 year end recital: Alice in Dynamicland. Prepare to fall down the rabbit hole, quickly swrirling and land in a topsy-turvy world that will leave you whirling. Things will get \"curiouser and curiouser, as Alice follows the white rabbit, while he hops faster and furiouser! You will land in Dynamicland, where we've got it all. Potions and pastries that make you grow tall, castles and cards that can talk. Maddest of Hatters, the Cheshire Cat, magical cabins and lovely white rabbits with clocks. Nothing in Dynamicland is quite as it seems. You will not be sure if anything's real or a dream. The only thing sure from the start is the song that lives inside of your heart."
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-18-1830-Alice-in-Dynamicland-2025-Year-End-Recital"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-18-1830-Alice-in-Dynamicland-2025-Year-End-Recital/bf8148ee-264c-4715-a43a-b2e3011d181f"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@value": "PT7200S"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-18-1830-Alice-in-Dynamicland-2025-Year-End-Recital"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@value": "2025-06-18T18:30:00-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://calendar.sandersoncentre.ca/temporary/13190504-b352-40d1-b34d-dad62918fcef",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K10-499"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-06-22-1400-Studio-12-Dance-Company-Presents-Out-of-This-World#Offer"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-22-1400-Studio-12-Dance-Company-Presents-Out-of-This-World#WebPage"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-192"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Studio 12 Dance Company Presents: Out of This World"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "\"Out of This World\" is a journey through movement that inspires and uplifts. Everyone's invited to this performance filled with passion, positivity, and the kind of beauty that feels cosmic. Join us in supporting these incredible students while celebrating the art of dance."
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-22-1400-Studio-12-Dance-Company-Presents-Out-of-This-World"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-22-1400-Studio-12-Dance-Company-Presents-Out-of-This-World/96781cec-3f85-4d9e-9091-b2d100e44b27"
+      }
+    ],
+    "http://schema.org/duration": [
+      {
+        "@value": "PT7200S"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-06-22-1400-Studio-12-Dance-Company-Presents-Out-of-This-World"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@value": "2025-06-22T14:00:00-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://calendar.sandersoncentre.ca/temporary/6e46a0ba-20f3-4920-aba4-25974bf601ff",
+    "@type": [
+      "http://schema.org/Event"
     ],
     "http://schema.org/offers": [
       {
@@ -2967,6 +2936,11 @@
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K10-499"
       }
     ],
     "http://schema.org/location": [
@@ -3013,7 +2987,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/b3effa20-9c80-4840-8978-63a552eb687f",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/14dfc9c7-2506-41a1-af58-027f7d271053",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3091,7 +3065,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/d37429ee-45be-4aad-be36-f25c0c3ae8f3",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/0b6c3620-b2e6-4eee-8a67-2f1ece390f98",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3110,6 +3084,11 @@
         "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-07-06-1930-Brantford-Beatlemania#WebPage"
       }
     ],
+    "http://schema.org/location": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-192"
+      }
+    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
@@ -3118,11 +3097,6 @@
     "http://schema.org/eventAttendanceMode": [
       {
         "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K11-192"
       }
     ],
     "http://schema.org/name": [
@@ -3164,7 +3138,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/88a49d6e-ef5d-4bfa-953f-85520f9bc006",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/3f1cbe42-3648-44ea-a316-1c69d42f66a2",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3173,14 +3147,14 @@
         "@id": "http://kg.artsdata.ca/resource/K10-499"
       }
     ],
-    "http://schema.org/location": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K11-192"
-      }
-    ],
     "http://schema.org/offers": [
       {
         "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-07-08-1930-TAYLOR-A-Tribute-to-the-Eras-of-Taylor-Swift#Offer"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-192"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -3237,7 +3211,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/886001ca-d296-4860-9a9f-a1ab7731c15c",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/42e38f7b-df97-4e18-9879-de0a429154f8",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3310,23 +3284,18 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/084725ed-97ae-46aa-a25a-8ea14b8d5f5a",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/f012b90e-9a1b-4f34-ab7f-e653b8003137",
     "@type": [
       "http://schema.org/Event"
     ],
-    "http://schema.org/eventAttendanceMode": [
+    "http://schema.org/offers": [
       {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
+        "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-07-10-1930-Goddo-50th-Anniversary-Who-Cares#Offer"
       }
     ],
     "http://schema.org/organizer": [
       {
         "@id": "http://kg.artsdata.ca/resource/K10-499"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-07-10-1930-Goddo-50th-Anniversary-Who-Cares#Offer"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -3337,6 +3306,11 @@
     "http://schema.org/location": [
       {
         "@id": "http://kg.artsdata.ca/resource/K11-192"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -3383,7 +3357,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/45c21912-a227-4d58-a22f-7cf666f65bfe",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/4a621cd1-e908-4d7c-a7ea-f8850371ed09",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3456,7 +3430,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/41900a03-9c90-4dbc-9469-3892f452efd0",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/4f1eab5c-a109-4c46-87c6-8222bbac8312",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3529,7 +3503,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/e70c3dd9-6da4-4b7f-9ea0-08919ff76f79",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/f00a8563-8a66-49e9-b67b-d36783e3b9ec",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3602,7 +3576,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/9544cc41-466b-4175-bde5-472c60cd2a4d",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/a0a119ef-a982-49d1-a2c5-6daa3e709618",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3675,7 +3649,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/03ce7230-7949-4404-b1c9-2f1f4993495e",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/ec74ad70-7b92-461e-aff4-4d19f4e1bed6",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3748,7 +3722,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/bc554fad-1904-45c0-91cb-3af4e46f600b",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/e979fd06-0768-4b53-bf4a-96f30613860a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3799,14 +3773,14 @@
         "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-07-24-2000-An-Evening-with-Permanent-Waves-A-Show-of-Rush-and"
       }
     ],
-    "http://schema.org/image": [
-      {
-        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-07-24-2000-An-Evening-with-Permanent-Waves-A-Show-of-Rush-and/7209df60-2170-43c8-bf3e-b2cf010de907"
-      }
-    ],
     "http://schema.org/duration": [
       {
         "@value": "PT7200S"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@value": "https://calendar.sandersoncentre.ca/Default/Detail/2025-07-24-2000-An-Evening-with-Permanent-Waves-A-Show-of-Rush-and/7209df60-2170-43c8-bf3e-b2cf010de907"
       }
     ],
     "http://schema.org/url": [
@@ -3821,7 +3795,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/3c361761-2101-43d5-b683-95723dc19f14",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/7a47fc1c-22f5-4dfd-8f58-d89450644cac",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3894,7 +3868,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/837d8e5c-0be2-4937-8648-0d5a8ac65c9b",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/c6d34db9-15c7-4a8f-8167-4963f343c2df",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3934,6 +3908,12 @@
         "@value": "LIGHTHOUSE at South Coast Jazz Festival"
       }
     ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Legendary Canadian band LIGHTHOUSE hits the stage for an unforgettable evening of music. Lighthouse changed the game when they burst onto the scene in 1969, fusing rock, jazz, and classical into a sound that turned heads and filled stadiums. With four Juno Awards, four gold albums, and Canada’s first platinum album, their hits like “One Fine Morning”, “Sunny Days”, and “Pretty Lady” remain Canadian classics. Local favourites Dave Griffin and Avery Raquel will open the show, with a short appearance by Queen Mary The Artist and other surprise guests. See southcoastjazz.com for the full festival line up Aug 8-10th Brantford and Norfolk County."
+      }
+    ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-08-09-1900-LIGHTHOUSE-at-South-Coast-Jazz-Festival"
@@ -3961,7 +3941,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/532d3885-e453-486e-8deb-bb09679cc5f5",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/ffafa98c-ae6e-4029-ac45-eb7dea6980fd",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3973,6 +3953,11 @@
     "http://schema.org/location": [
       {
         "@id": "http://kg.artsdata.ca/resource/K11-192"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
       }
     ],
     "http://schema.org/offers": [
@@ -3988,11 +3973,6 @@
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
       }
     ],
     "http://schema.org/name": [
@@ -4034,7 +4014,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/e6073f98-fc2f-4513-8557-c83ef7cf0f28",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/409f6a9b-b59c-4647-9e44-1214123c90c1",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4107,7 +4087,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/f7d85801-c385-4f72-b655-cadbdc9ffa2b",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/843da96b-1e9a-43e4-9e0b-727924cc8308",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4180,7 +4160,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/4b2588c2-b5f0-4ef5-8fb9-ae09eed97cda",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/1ff95dc2-d824-4067-a5aa-f4bd717ed5ab",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4194,16 +4174,6 @@
         "@id": "http://schema.org/OfflineEventAttendanceMode"
       }
     ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-09-20-2000-The-Ultimate-80s-Bash-with-the-Bomb-and-U2-Elevati#WebPage"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ],
     "http://schema.org/organizer": [
       {
         "@id": "http://kg.artsdata.ca/resource/K10-499"
@@ -4212,6 +4182,16 @@
     "http://schema.org/location": [
       {
         "@id": "http://kg.artsdata.ca/resource/K11-192"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-09-20-2000-The-Ultimate-80s-Bash-with-the-Bomb-and-U2-Elevati#WebPage"
       }
     ],
     "http://schema.org/name": [
@@ -4253,7 +4233,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/47b235a9-2a3b-4290-ae7f-5686c31158af",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/d85ff1af-5395-40cb-a7ad-fb9269b5c6b9",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4320,7 +4300,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/60f40bd9-1c06-4e06-810c-f8f9c2570889",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/e6e7ceb6-5081-4baf-8d2c-c0192c7c5b5e",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4393,14 +4373,9 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/a29371fd-cde1-4c96-bd6a-7e0173b04dce",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/2e156f44-3fa8-4c25-8668-7d477c8135ec",
     "@type": [
       "http://schema.org/Event"
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
     ],
     "http://schema.org/organizer": [
       {
@@ -4420,6 +4395,11 @@
     "http://schema.org/mainEntityOfPage": [
       {
         "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-10-03-1930-Simply-Queen#WebPage"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -4466,7 +4446,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/9c5b352c-7072-4d8f-8c3f-ea19e81eb1f3",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/7d0a7ebd-1678-4118-8777-a66cb11deaf0",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4485,14 +4465,14 @@
         "@id": "http://kg.artsdata.ca/resource/K11-192"
       }
     ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ],
     "http://schema.org/eventAttendanceMode": [
       {
         "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
       }
     ],
     "http://schema.org/mainEntityOfPage": [
@@ -4539,7 +4519,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/d6282c08-c49d-4107-b2b3-218a476427d2",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/bf4f5457-c3f1-489f-9725-2c1dff392059",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4612,13 +4592,13 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/8f034502-474c-4b7f-9aaf-0ad35d8778d0",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/ee8440c8-0adb-482c-bd41-63d4cbfe905e",
     "@type": [
       "http://schema.org/Event"
     ],
-    "http://schema.org/eventAttendanceMode": [
+    "http://schema.org/eventStatus": [
       {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
+        "@id": "http://schema.org/EventScheduled"
       }
     ],
     "http://schema.org/organizer": [
@@ -4636,14 +4616,14 @@
         "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-10-15-1900-Swan-Lake-by-International-Ballet-Stars-Presented-#WebPage"
       }
     ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ],
     "http://schema.org/location": [
       {
         "@id": "http://kg.artsdata.ca/resource/K11-192"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
       }
     ],
     "http://schema.org/name": [
@@ -4685,7 +4665,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/638d8375-6370-4813-8b4e-85fc3e45a855",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/a0d64745-2d9b-4b97-9077-d3798bc5354f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4758,7 +4738,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/97338791-1f6d-4178-bb8e-b98d87e6ee3a",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/8927c346-433b-4a34-8739-e6761651fbc8",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4831,7 +4811,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/7677bbc1-b119-49fe-8cb9-25c840877d18",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/542ba161-2bfc-4f01-b736-45efe1278c2a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4855,14 +4835,14 @@
         "@id": "http://kg.artsdata.ca/resource/K10-499"
       }
     ],
-    "http://schema.org/offers": [
-      {
-        "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-11-06-2000-ABBA-Revisited-The-Concert#Offer"
-      }
-    ],
     "http://schema.org/location": [
       {
         "@id": "http://kg.artsdata.ca/resource/K11-192"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-11-06-2000-ABBA-Revisited-The-Concert#Offer"
       }
     ],
     "http://schema.org/name": [
@@ -4904,9 +4884,14 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/e4facdcf-f80d-4f5c-9ae2-8ba85feea03b",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/df9c37d4-65d4-40ed-8b6c-5e343d84f58f",
     "@type": [
       "http://schema.org/Event"
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
     ],
     "http://schema.org/mainEntityOfPage": [
       {
@@ -4926,11 +4911,6 @@
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
       }
     ],
     "http://schema.org/location": [
@@ -4977,7 +4957,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/50d2a39d-02ef-4fcf-b841-a17a35eeac44",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/9a1697f1-19b1-4f37-96be-7f1caf32a880",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5050,7 +5030,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/7c18c53a-490d-453a-9e1a-eb895149b26d",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/a298ae00-19e5-4c38-8806-3fd7a1a8d08f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5128,13 +5108,18 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/7538d739-b5fa-4abb-9308-e28364361d1c",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/56779754-5432-4af5-a5e2-685c67dc892b",
     "@type": [
       "http://schema.org/Event"
     ],
     "http://schema.org/offers": [
       {
         "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-11-14-2000-Jersey-Nights#Offer"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
       }
     ],
     "http://schema.org/organizer": [
@@ -5145,11 +5130,6 @@
     "http://schema.org/mainEntityOfPage": [
       {
         "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-11-14-2000-Jersey-Nights#WebPage"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
       }
     ],
     "http://schema.org/location": [
@@ -5201,7 +5181,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/4dd58464-9b05-4427-9148-b580bc51c498",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/3782d85f-6252-4162-8267-3c2d6bed747f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5274,7 +5254,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/c71635d0-d72d-4fe1-b237-8e025df1a860",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/6e428da7-3a66-423f-b092-159b221154fd",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5347,7 +5327,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/ac46396d-49cc-44a3-8fa1-feb3657b8231",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/ad051af8-2845-45d0-b854-67efb3a3a690",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5420,7 +5400,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/93ddf752-c7b9-4198-ba46-42da20625ca4",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/0203cecb-185f-43ef-8c6c-b231b8c882a3",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5439,14 +5419,14 @@
         "@id": "http://kg.footlight.io/resource/sandersoncentre-ca_2025-11-25-1930-Jay-Davis-A-Buble-Christmas#Offer"
       }
     ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-11-25-1930-Jay-Davis-A-Buble-Christmas#WebPage"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://calendar.sandersoncentre.ca/Default/Detail/2025-11-25-1930-Jay-Davis-A-Buble-Christmas#WebPage"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -5493,7 +5473,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/c8e37670-96fe-4e3b-acf1-c27f47897bd7",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/95a1a128-8854-4ecd-9293-304324f850d2",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5566,7 +5546,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/0700464f-67b3-4d26-b683-14dcc5daddd3",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/cd9e45a4-b029-4ff5-899a-43580cd73f3a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5639,7 +5619,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/cd87dc56-39ed-4735-87fc-2b4ea3a7aa0c",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/092923cf-f628-4018-9cb2-1c851f34323c",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5712,7 +5692,7 @@
     ]
   },
   {
-    "@id": "https://calendar.sandersoncentre.ca/temporary/f192882d-2565-4ee1-b3eb-dabf2ecdfe0b",
+    "@id": "https://calendar.sandersoncentre.ca/temporary/a17c6733-c791-409f-a206-ae6ca8674706",
     "@type": [
       "http://schema.org/Event"
     ],
