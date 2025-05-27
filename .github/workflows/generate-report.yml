@@ -59,7 +59,7 @@ jobs:
           mode: 'fetch'
           page-url: ${{ inputs.page_url }}
           entity-identifier: ${{ inputs.entity_identifier }}
-          downloadFile: ${{ inputs.file_name }}
+          downloadFile: 'output/${{ inputs.file_name }}'
           is-paginated: ${{ inputs.is_paginated }}
           headless: ${{ inputs.headless }}
           token: "${{ secrets.GITHUB_TOKEN }}"
