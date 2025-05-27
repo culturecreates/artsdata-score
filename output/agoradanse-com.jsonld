@@ -1,6 +1,6 @@
 [
   {
-    "@id": "https://agoradanse.com/evenement/chaque-jour-se-tenir-entre-les-trous/",
+    "@id": "https://agoradanse.com/evenement/millepertuis/",
     "http://ogp.me/ns#locale": [
       {
         "@language": "fr-fr",
@@ -16,19 +16,19 @@
     "http://ogp.me/ns#title": [
       {
         "@language": "fr-fr",
-        "@value": "Chaque jour se tenir entre les trous - Sylvie Cotton - Agora de la danse"
+        "@value": "Millepertuis - Sovann Rochon-Prom Tep - Agora de la danse"
       }
     ],
     "http://ogp.me/ns#description": [
       {
         "@language": "fr-fr",
-        "@value": "Sylvie Cotton, artiste visuel, explore la respiration en tant qu’expérience universelle par le récit, l’image, l’objet et le mouvement."
+        "@value": "Millepertuis est une traversée. Ce solo met en scène le charisme et l’énergie débordante du danseur de street dance Walid Hammani."
       }
     ],
     "http://ogp.me/ns#url": [
       {
         "@language": "fr-fr",
-        "@value": "https://agoradanse.com/evenement/chaque-jour-se-tenir-entre-les-trous/"
+        "@value": "https://agoradanse.com/evenement/millepertuis/"
       }
     ],
     "http://ogp.me/ns#site_name": [
@@ -46,13 +46,13 @@
     "article:modified_time": [
       {
         "@language": "fr-fr",
-        "@value": "2025-03-25T15:57:15+00:00"
+        "@value": "2025-05-21T14:34:22+00:00"
       }
     ],
     "http://ogp.me/ns#image": [
       {
         "@language": "fr-fr",
-        "@value": "https://agoradanse.com/wp-content/uploads/2024/11/chaque-jour_by_crobillard_1920_1-1.jpg"
+        "@value": "https://agoradanse.com/wp-content/uploads/2025/03/DoPhanHoi_Millepertuis_1.jpg"
       }
     ],
     "http://ogp.me/ns#image:width": [
@@ -78,7 +78,7 @@
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://agoradanse.com/evenement/chaque-jour-se-tenir-entre-les-trous/"
+        "@id": "https://agoradanse.com/evenement/millepertuis/"
       }
     ],
     "http://schema.org/isPartOf": [
@@ -88,34 +88,34 @@
     ],
     "http://schema.org/primaryImageOfPage": [
       {
-        "@id": "https://agoradanse.com/evenement/chaque-jour-se-tenir-entre-les-trous/#primaryimage"
+        "@id": "https://agoradanse.com/evenement/millepertuis/#primaryimage"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "https://agoradanse.com/evenement/chaque-jour-se-tenir-entre-les-trous/#primaryimage"
+        "@id": "https://agoradanse.com/evenement/millepertuis/#primaryimage"
       }
     ],
     "http://schema.org/thumbnailUrl": [
       {
-        "@id": "https://agoradanse.com/wp-content/uploads/2024/11/chaque-jour_by_crobillard_1920_1-1.jpg"
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/03/DoPhanHoi_Millepertuis_1.jpg"
       }
     ],
     "http://schema.org/datePublished": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2024-11-14T19:55:18+00:00"
+        "@value": "2025-03-19T15:39:37+00:00"
       }
     ],
     "http://schema.org/dateModified": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2025-03-25T15:57:15+00:00"
+        "@value": "2025-05-21T14:34:22+00:00"
       }
     ],
     "http://schema.org/breadcrumb": [
       {
-        "@id": "https://agoradanse.com/evenement/chaque-jour-se-tenir-entre-les-trous/#breadcrumb"
+        "@id": "https://agoradanse.com/evenement/millepertuis/#breadcrumb"
       }
     ],
     "http://schema.org/potentialAction": [
@@ -131,13 +131,13 @@
     "http://schema.org/name": [
       {
         "@language": "fr",
-        "@value": "Chaque jour se tenir entre les trous - Agora de la danse"
+        "@value": "Millepertuis - Agora de la danse"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Sylvie Cotton, artiste visuel, explore la respiration en tant qu’expérience universelle par le récit, l’image, l’objet et le mouvement."
+        "@value": "Millepertuis est une traversée. Ce solo met en scène le charisme et l’énergie débordante du danseur de street dance Walid Hammani."
       }
     ],
     "http://schema.org/inLanguage": [
@@ -168,12 +168,6 @@
       },
       {
         "@id": "_:g465180"
-      },
-      {
-        "@id": "_:g469780"
-      },
-      {
-        "@id": "_:g474380"
       }
     ],
     "http://schema.org/name": [
@@ -196,18 +190,18 @@
     ]
   },
   {
-    "@id": "https://agoradanse.com/evenement/chaque-jour-se-tenir-entre-les-trous/#primaryimage",
+    "@id": "https://agoradanse.com/evenement/millepertuis/#primaryimage",
     "@type": [
       "http://schema.org/ImageObject"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://agoradanse.com/wp-content/uploads/2024/11/chaque-jour_by_crobillard_1920_1-1.jpg"
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/03/DoPhanHoi_Millepertuis_1.jpg"
       }
     ],
     "http://schema.org/contentUrl": [
       {
-        "@id": "https://agoradanse.com/wp-content/uploads/2024/11/chaque-jour_by_crobillard_1920_1-1.jpg"
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/03/DoPhanHoi_Millepertuis_1.jpg"
       }
     ],
     "http://schema.org/width": [
@@ -231,7 +225,7 @@
     "http://schema.org/caption": [
       {
         "@language": "fr",
-        "@value": "©&#xfe0f; C. Robillard"
+        "@value": "©&#xfe0f; Do Phan Hoi"
       }
     ]
   },
@@ -243,7 +237,7 @@
     "http://schema.org/target": [
       {
         "@language": "fr",
-        "@value": "https://agoradanse.com/evenement/chaque-jour-se-tenir-entre-les-trous/"
+        "@value": "https://agoradanse.com/evenement/millepertuis/"
       }
     ]
   },
@@ -316,40 +310,6 @@
     "http://schema.org/target": [
       {
         "@id": "_:g465200"
-      }
-    ],
-    "http://schema.org/query-input": [
-      {
-        "@language": "fr",
-        "@value": "required name=search_term_string"
-      }
-    ]
-  },
-  {
-    "@id": "_:g469780",
-    "@type": [
-      "http://schema.org/SearchAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@id": "_:g469800"
-      }
-    ],
-    "http://schema.org/query-input": [
-      {
-        "@language": "fr",
-        "@value": "required name=search_term_string"
-      }
-    ]
-  },
-  {
-    "@id": "_:g474380",
-    "@type": [
-      "http://schema.org/SearchAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@id": "_:g474400"
       }
     ],
     "http://schema.org/query-input": [
@@ -490,74 +450,22 @@
   {
     "@id": "_:g460560",
     "@type": [
-      "http://schema.org/AggregateOffer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://agoradanse.tuxedobillet.com/main/chaque-jour-se-tenir-entre-les-trous"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-04-23"
-      }
-    ],
-    "http://schema.org/validThrough": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-04-26"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "fr",
-        "@value": "29.00"
-      }
-    ],
-    "http://schema.org/lowPrice": [
-      {
-        "@language": "fr",
-        "@value": "29.00"
-      }
-    ],
-    "http://schema.org/highPrice": [
-      {
-        "@language": "fr",
-        "@value": "35.00"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@id": "_:g460580",
-    "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/image": [
       {
-        "@id": "https://agoradanse.com/wp-content/uploads/2024/11/sylvie-cotton_by_jr-lecompte.jpg"
+        "@id": "https://agoradanse.com/wp-content/uploads/2025/03/SovannRochonPromTep_DoPhanHoi_1-1.jpg"
       }
     ],
     "http://schema.org/name": [
       {
         "@language": "fr",
-        "@value": "Sylvie Cotton"
+        "@value": "Sovann Rochon-Prom Tep"
       }
     ]
   },
   {
-    "@id": "https://agoradanse.com/evenement/tout-seffondre/",
+    "@id": "https://agoradanse.com/evenement/dna-danse-non-alteree-2025/",
     "http://ogp.me/ns#locale": [
       {
         "@language": "fr-fr",
@@ -573,19 +481,19 @@
     "http://ogp.me/ns#title": [
       {
         "@language": "fr-fr",
-        "@value": "Tout s’effondre - Helen Simard - Agora de la danse"
+        "@value": "DNA - Danse Non Altérée : Un grand événement de street dance à Montréal !"
       }
     ],
     "http://ogp.me/ns#description": [
       {
         "@language": "fr-fr",
-        "@value": "Tout s'effondre révèle la poésie des chutes et des renaissances, dans un spectacle où l'humanité se réinvente sans cesse."
+        "@value": "Un grand événement de street dance à Montréal ! Venez assister à une pure expérience créative, haute en adrénaline le 7 juin !"
       }
     ],
     "http://ogp.me/ns#url": [
       {
         "@language": "fr-fr",
-        "@value": "https://agoradanse.com/evenement/tout-seffondre/"
+        "@value": "https://agoradanse.com/evenement/dna-danse-non-alteree-2025/"
       }
     ],
     "http://ogp.me/ns#site_name": [
@@ -603,25 +511,25 @@
     "article:modified_time": [
       {
         "@language": "fr-fr",
-        "@value": "2024-12-04T18:13:37+00:00"
+        "@value": "2025-05-05T20:38:55+00:00"
       }
     ],
     "http://ogp.me/ns#image": [
       {
         "@language": "fr-fr",
-        "@value": "https://agoradanse.com/wp-content/uploads/2024/11/tout-seffondre_by_do-phan-hoi_1920_1.jpg"
+        "@value": "https://agoradanse.com/wp-content/uploads/2024/11/DNA_by_murielle-bien-aime_1-scaled.jpg"
       }
     ],
     "http://ogp.me/ns#image:width": [
       {
         "@language": "fr-fr",
-        "@value": "1920"
+        "@value": "2560"
       }
     ],
     "http://ogp.me/ns#image:height": [
       {
         "@language": "fr-fr",
-        "@value": "1080"
+        "@value": "1707"
       }
     ],
     "http://ogp.me/ns#image:type": [
@@ -635,7 +543,7 @@
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://agoradanse.com/evenement/tout-seffondre/"
+        "@id": "https://agoradanse.com/evenement/dna-danse-non-alteree-2025/"
       }
     ],
     "http://schema.org/isPartOf": [
@@ -645,34 +553,34 @@
     ],
     "http://schema.org/primaryImageOfPage": [
       {
-        "@id": "https://agoradanse.com/evenement/tout-seffondre/#primaryimage"
+        "@id": "https://agoradanse.com/evenement/dna-danse-non-alteree-2025/#primaryimage"
       }
     ],
     "http://schema.org/image": [
       {
-        "@id": "https://agoradanse.com/evenement/tout-seffondre/#primaryimage"
+        "@id": "https://agoradanse.com/evenement/dna-danse-non-alteree-2025/#primaryimage"
       }
     ],
     "http://schema.org/thumbnailUrl": [
       {
-        "@id": "https://agoradanse.com/wp-content/uploads/2024/11/tout-seffondre_by_do-phan-hoi_1920_1.jpg"
+        "@id": "https://agoradanse.com/wp-content/uploads/2024/11/DNA_by_murielle-bien-aime_1-scaled.jpg"
       }
     ],
     "http://schema.org/datePublished": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2024-11-14T20:48:33+00:00"
+        "@value": "2024-11-14T20:57:49+00:00"
       }
     ],
     "http://schema.org/dateModified": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2024-12-04T18:13:37+00:00"
+        "@value": "2025-05-05T20:38:55+00:00"
       }
     ],
     "http://schema.org/breadcrumb": [
       {
-        "@id": "https://agoradanse.com/evenement/tout-seffondre/#breadcrumb"
+        "@id": "https://agoradanse.com/evenement/dna-danse-non-alteree-2025/#breadcrumb"
       }
     ],
     "http://schema.org/potentialAction": [
@@ -688,13 +596,13 @@
     "http://schema.org/name": [
       {
         "@language": "fr",
-        "@value": "Tout s’effondre - Agora de la danse"
+        "@value": "DNA – Danse Non Altérée 2025 - Agora de la danse"
       }
     ],
     "http://schema.org/description": [
       {
         "@language": "fr",
-        "@value": "Tout s'effondre révèle la poésie des chutes et des renaissances, dans un spectacle où l'humanité se réinvente sans cesse."
+        "@value": "Un grand événement de street dance à Montréal ! Venez assister à une pure expérience créative, haute en adrénaline !"
       }
     ],
     "http://schema.org/inLanguage": [
@@ -705,30 +613,30 @@
     ]
   },
   {
-    "@id": "https://agoradanse.com/evenement/tout-seffondre/#primaryimage",
+    "@id": "https://agoradanse.com/evenement/dna-danse-non-alteree-2025/#primaryimage",
     "@type": [
       "http://schema.org/ImageObject"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://agoradanse.com/wp-content/uploads/2024/11/tout-seffondre_by_do-phan-hoi_1920_1.jpg"
+        "@id": "https://agoradanse.com/wp-content/uploads/2024/11/DNA_by_murielle-bien-aime_1-scaled.jpg"
       }
     ],
     "http://schema.org/contentUrl": [
       {
-        "@id": "https://agoradanse.com/wp-content/uploads/2024/11/tout-seffondre_by_do-phan-hoi_1920_1.jpg"
+        "@id": "https://agoradanse.com/wp-content/uploads/2024/11/DNA_by_murielle-bien-aime_1-scaled.jpg"
       }
     ],
     "http://schema.org/width": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1920"
+        "@value": "2560"
       }
     ],
     "http://schema.org/height": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1080"
+        "@value": "1707"
       }
     ],
     "http://schema.org/inLanguage": [
@@ -740,7 +648,7 @@
     "http://schema.org/caption": [
       {
         "@language": "fr",
-        "@value": "©&#xfe0f; Do Phan Hoi"
+        "@value": "©&#xfe0f; Murielle 'Truly' Bien-Aimé"
       }
     ]
   },
@@ -752,7 +660,7 @@
     "http://schema.org/target": [
       {
         "@language": "fr",
-        "@value": "https://agoradanse.com/evenement/tout-seffondre/"
+        "@value": "https://agoradanse.com/evenement/dna-danse-non-alteree-2025/"
       }
     ]
   },
@@ -834,668 +742,6 @@
     "http://schema.org/latitude": [
       {
         "@language": "fr",
-        "@value": "45.506783"
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@language": "fr",
-        "@value": "-73.5673573"
-      }
-    ]
-  },
-  {
-    "@id": "_:g465300",
-    "@type": [
-      "http://schema.org/AggregateOffer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://agoradanse.tuxedobillet.com/main/tout-seffondre"
-      }
-    ],
-    "http://schema.org/validFrom": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-05-07"
-      }
-    ],
-    "http://schema.org/validThrough": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-05-10"
-      }
-    ],
-    "http://schema.org/priceCurrency": [
-      {
-        "@language": "fr",
-        "@value": "CAD"
-      }
-    ],
-    "http://schema.org/price": [
-      {
-        "@language": "fr",
-        "@value": "29.00"
-      }
-    ],
-    "http://schema.org/lowPrice": [
-      {
-        "@language": "fr",
-        "@value": "29.00"
-      }
-    ],
-    "http://schema.org/highPrice": [
-      {
-        "@language": "fr",
-        "@value": "35.00"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@id": "http://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@id": "_:g465320",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://agoradanse.com/wp-content/uploads/2023/11/helensimard_by_rogerwhite.jpg"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Helen Simard"
-      }
-    ]
-  },
-  {
-    "@id": "https://agoradanse.com/evenement/millepertuis/",
-    "http://ogp.me/ns#locale": [
-      {
-        "@language": "fr-fr",
-        "@value": "fr_FR"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "fr-fr",
-        "@value": "article"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr-fr",
-        "@value": "Millepertuis - Sovann Rochon-Prom Tep - Agora de la danse"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "fr-fr",
-        "@value": "Millepertuis est une traversée. Ce solo met en scène le charisme et l’énergie débordante du danseur de street dance Walid Hammani."
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr-fr",
-        "@value": "https://agoradanse.com/evenement/millepertuis/"
-      }
-    ],
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr-fr",
-        "@value": "Agora de la danse"
-      }
-    ],
-    "article:publisher": [
-      {
-        "@language": "fr-fr",
-        "@value": "https://www.facebook.com/agoradeladanse"
-      }
-    ],
-    "article:modified_time": [
-      {
-        "@language": "fr-fr",
-        "@value": "2025-03-21T16:38:40+00:00"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr-fr",
-        "@value": "https://agoradanse.com/wp-content/uploads/2025/03/DoPhanHoi_Millepertuis_1.jpg"
-      }
-    ],
-    "http://ogp.me/ns#image:width": [
-      {
-        "@language": "fr-fr",
-        "@value": "1920"
-      }
-    ],
-    "http://ogp.me/ns#image:height": [
-      {
-        "@language": "fr-fr",
-        "@value": "1080"
-      }
-    ],
-    "http://ogp.me/ns#image:type": [
-      {
-        "@language": "fr-fr",
-        "@value": "image/jpeg"
-      }
-    ],
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://agoradanse.com/evenement/millepertuis/"
-      }
-    ],
-    "http://schema.org/isPartOf": [
-      {
-        "@id": "https://agoradanse.com/#website"
-      }
-    ],
-    "http://schema.org/primaryImageOfPage": [
-      {
-        "@id": "https://agoradanse.com/evenement/millepertuis/#primaryimage"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://agoradanse.com/evenement/millepertuis/#primaryimage"
-      }
-    ],
-    "http://schema.org/thumbnailUrl": [
-      {
-        "@id": "https://agoradanse.com/wp-content/uploads/2025/03/DoPhanHoi_Millepertuis_1.jpg"
-      }
-    ],
-    "http://schema.org/datePublished": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-03-19T15:39:37+00:00"
-      }
-    ],
-    "http://schema.org/dateModified": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-03-21T16:38:40+00:00"
-      }
-    ],
-    "http://schema.org/breadcrumb": [
-      {
-        "@id": "https://agoradanse.com/evenement/millepertuis/#breadcrumb"
-      }
-    ],
-    "http://schema.org/potentialAction": [
-      {
-        "@id": "_:g469700"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://agoradanse.com/wp-json/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Millepertuis - Agora de la danse"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "Millepertuis est une traversée. Ce solo met en scène le charisme et l’énergie débordante du danseur de street dance Walid Hammani."
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "fr",
-        "@value": "fr-FR"
-      }
-    ]
-  },
-  {
-    "@id": "https://agoradanse.com/evenement/millepertuis/#primaryimage",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://agoradanse.com/wp-content/uploads/2025/03/DoPhanHoi_Millepertuis_1.jpg"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://agoradanse.com/wp-content/uploads/2025/03/DoPhanHoi_Millepertuis_1.jpg"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1920"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1080"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "fr",
-        "@value": "fr-FR"
-      }
-    ],
-    "http://schema.org/caption": [
-      {
-        "@language": "fr",
-        "@value": "©&#xfe0f; Do Phan Hoi"
-      }
-    ]
-  },
-  {
-    "@id": "_:g469700",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@language": "fr",
-        "@value": "https://agoradanse.com/evenement/millepertuis/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g469800",
-    "@type": [
-      "http://schema.org/EntryPoint"
-    ],
-    "http://schema.org/urlTemplate": [
-      {
-        "@language": "fr",
-        "@value": "https://agoradanse.com/?s={search_term_string}"
-      }
-    ]
-  },
-  {
-    "@id": "_:g469840",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g469860"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "_:g469880"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "AGORA DE LA DANSE | ÉDIFICE WILDER"
-      }
-    ]
-  },
-  {
-    "@id": "_:g469860",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "fr",
-        "@value": "Montreal"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "fr",
-        "@value": "QC"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@language": "fr",
-        "@value": "Canada"
-      }
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "fr",
-        "@value": "1435, rue De Bleury"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@language": "fr",
-        "@value": "H3A 2H7"
-      }
-    ]
-  },
-  {
-    "@id": "_:g469880",
-    "@type": [
-      "http://schema.org/GeoCoordinates"
-    ],
-    "http://schema.org/latitude": [
-      {
-        "@language": "fr",
-        "@value": "45.506783"
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@language": "fr",
-        "@value": "-73.5673573"
-      }
-    ]
-  },
-  {
-    "@id": "_:g469900",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://agoradanse.com/wp-content/uploads/2025/03/SovannRochonPromTep_DoPhanHoi_1-1.jpg"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Sovann Rochon-Prom Tep"
-      }
-    ]
-  },
-  {
-    "@id": "https://agoradanse.com/evenement/dna-danse-non-alteree-2025/",
-    "http://ogp.me/ns#locale": [
-      {
-        "@language": "fr-fr",
-        "@value": "fr_FR"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "fr-fr",
-        "@value": "article"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "fr-fr",
-        "@value": "DNA - Danse Non Altérée : Un grand événement de street dance à Montréal !"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "fr-fr",
-        "@value": "Un grand événement de street dance à Montréal ! Venez assister à une pure expérience créative, haute en adrénaline le 7 juin !"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "fr-fr",
-        "@value": "https://agoradanse.com/evenement/dna-danse-non-alteree-2025/"
-      }
-    ],
-    "http://ogp.me/ns#site_name": [
-      {
-        "@language": "fr-fr",
-        "@value": "Agora de la danse"
-      }
-    ],
-    "article:publisher": [
-      {
-        "@language": "fr-fr",
-        "@value": "https://www.facebook.com/agoradeladanse"
-      }
-    ],
-    "article:modified_time": [
-      {
-        "@language": "fr-fr",
-        "@value": "2024-12-04T18:13:43+00:00"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "fr-fr",
-        "@value": "https://agoradanse.com/wp-content/uploads/2024/11/DNA_by_murielle-bien-aime_1-scaled.jpg"
-      }
-    ],
-    "http://ogp.me/ns#image:width": [
-      {
-        "@language": "fr-fr",
-        "@value": "2560"
-      }
-    ],
-    "http://ogp.me/ns#image:height": [
-      {
-        "@language": "fr-fr",
-        "@value": "1707"
-      }
-    ],
-    "http://ogp.me/ns#image:type": [
-      {
-        "@language": "fr-fr",
-        "@value": "image/jpeg"
-      }
-    ],
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://agoradanse.com/evenement/dna-danse-non-alteree-2025/"
-      }
-    ],
-    "http://schema.org/isPartOf": [
-      {
-        "@id": "https://agoradanse.com/#website"
-      }
-    ],
-    "http://schema.org/primaryImageOfPage": [
-      {
-        "@id": "https://agoradanse.com/evenement/dna-danse-non-alteree-2025/#primaryimage"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://agoradanse.com/evenement/dna-danse-non-alteree-2025/#primaryimage"
-      }
-    ],
-    "http://schema.org/thumbnailUrl": [
-      {
-        "@id": "https://agoradanse.com/wp-content/uploads/2024/11/DNA_by_murielle-bien-aime_1-scaled.jpg"
-      }
-    ],
-    "http://schema.org/datePublished": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-11-14T20:57:49+00:00"
-      }
-    ],
-    "http://schema.org/dateModified": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-12-04T18:13:43+00:00"
-      }
-    ],
-    "http://schema.org/breadcrumb": [
-      {
-        "@id": "https://agoradanse.com/evenement/dna-danse-non-alteree-2025/#breadcrumb"
-      }
-    ],
-    "http://schema.org/potentialAction": [
-      {
-        "@id": "_:g474300"
-      }
-    ],
-    "https://api.w.org/": [
-      {
-        "@id": "https://agoradanse.com/wp-json/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "DNA – Danse Non Altérée 2025 - Agora de la danse"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "Un grand événement de street dance à Montréal ! Venez assister à une pure expérience créative, haute en adrénaline !"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "fr",
-        "@value": "fr-FR"
-      }
-    ]
-  },
-  {
-    "@id": "https://agoradanse.com/evenement/dna-danse-non-alteree-2025/#primaryimage",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://agoradanse.com/wp-content/uploads/2024/11/DNA_by_murielle-bien-aime_1-scaled.jpg"
-      }
-    ],
-    "http://schema.org/contentUrl": [
-      {
-        "@id": "https://agoradanse.com/wp-content/uploads/2024/11/DNA_by_murielle-bien-aime_1-scaled.jpg"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "2560"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": "1707"
-      }
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@language": "fr",
-        "@value": "fr-FR"
-      }
-    ],
-    "http://schema.org/caption": [
-      {
-        "@language": "fr",
-        "@value": "©&#xfe0f; Murielle 'Truly' Bien-Aimé"
-      }
-    ]
-  },
-  {
-    "@id": "_:g474300",
-    "@type": [
-      "http://schema.org/ReadAction"
-    ],
-    "http://schema.org/target": [
-      {
-        "@language": "fr",
-        "@value": "https://agoradanse.com/evenement/dna-danse-non-alteree-2025/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g474400",
-    "@type": [
-      "http://schema.org/EntryPoint"
-    ],
-    "http://schema.org/urlTemplate": [
-      {
-        "@language": "fr",
-        "@value": "https://agoradanse.com/?s={search_term_string}"
-      }
-    ]
-  },
-  {
-    "@id": "_:g474440",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g474460"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "_:g474480"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "AGORA DE LA DANSE | ÉDIFICE WILDER"
-      }
-    ]
-  },
-  {
-    "@id": "_:g474460",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@language": "fr",
-        "@value": "Montreal"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@language": "fr",
-        "@value": "QC"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@language": "fr",
-        "@value": "Canada"
-      }
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@language": "fr",
-        "@value": "1435, rue De Bleury"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@language": "fr",
-        "@value": "H3A 2H7"
-      }
-    ]
-  },
-  {
-    "@id": "_:g474480",
-    "@type": [
-      "http://schema.org/GeoCoordinates"
-    ],
-    "http://schema.org/latitude": [
-      {
-        "@language": "fr",
         "@value": "45.5070822"
       }
     ],
@@ -1507,7 +753,7 @@
     ]
   },
   {
-    "@id": "_:g474500",
+    "@id": "_:g465300",
     "http://schema.org/sameAs": [
       {
         "@id": "https://ebnfloh.com/fr/"
@@ -1526,149 +772,7 @@
     ]
   },
   {
-    "@id": "https://agoradanse.com/temporary/accfa2d3-0427-4272-b937-f0c69417a082",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://agoradanse.com/wp-content/uploads/2024/11/chaque-jour_by_crobillard_1920_1-1.jpg"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-04-23"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-04-26"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g460500"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g460560"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g460580"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://agoradanse.com/evenement/chaque-jour-se-tenir-entre-les-trous/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Chaque jour se tenir entre les trous - Sylvie Cotton"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "Sylvie Cotton, artiste visuel, explore la respiration en tant qu’expérience universelle par le récit, l’image, l’objet et le mouvement."
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@language": "fr",
-        "@value": "T50M"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://agoradanse.com/temporary/b43ffb43-245d-4bb7-8e63-576dc4248dc7",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://agoradanse.com/wp-content/uploads/2024/11/tout-seffondre_by_do-phan-hoi_1920_1.jpg"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-05-07"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-05-10"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g465240"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g465300"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g465320"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://agoradanse.com/evenement/tout-seffondre/"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@language": "fr",
-        "@value": "Tout s’effondre - Helen Simard"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@language": "fr",
-        "@value": "Tout s'effondre révèle la poésie des chutes et des renaissances, dans un spectacle où l'humanité se réinvente sans cesse."
-      }
-    ],
-    "http://schema.org/duration": [
-      {
-        "@language": "fr",
-        "@value": "T60M"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ]
-  },
-  {
-    "@id": "https://agoradanse.com/temporary/bbc70554-b72c-4e8b-a70f-85dc9dbbc29b",
+    "@id": "https://agoradanse.com/temporary/6473db89-3672-4b76-8de5-7bf3c76bc1a2",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1691,12 +795,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g469840"
+        "@id": "_:g460500"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g469900"
+        "@id": "_:g460560"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -1734,7 +838,7 @@
     ]
   },
   {
-    "@id": "https://agoradanse.com/temporary/b78d6bcd-0662-42df-9ff4-6ae1c4dd6a64",
+    "@id": "https://agoradanse.com/temporary/868b593f-0ff1-4fb4-96e9-8498d7043a4c",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1757,12 +861,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g474440"
+        "@id": "_:g465240"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g474500"
+        "@id": "_:g465300"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
