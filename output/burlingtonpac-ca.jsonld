@@ -106,40 +106,49 @@
         "@id": "_:g476280"
       },
       {
-        "@id": "_:g478380"
+        "@id": "_:g478240"
       },
       {
-        "@id": "_:g480380"
+        "@id": "_:g480160"
       },
       {
-        "@id": "_:g482300"
+        "@id": "_:g482080"
       },
       {
-        "@id": "_:g484280"
+        "@id": "_:g484180"
       },
       {
-        "@id": "_:g486440"
+        "@id": "_:g486220"
       },
       {
-        "@id": "_:g488360"
+        "@id": "_:g488140"
       },
       {
-        "@id": "_:g490480"
+        "@id": "_:g490100"
       },
       {
-        "@id": "_:g492440"
+        "@id": "_:g492260"
       },
       {
-        "@id": "_:g494560"
+        "@id": "_:g494220"
       },
       {
-        "@id": "_:g496680"
+        "@id": "_:g496300"
       },
       {
-        "@id": "_:g498800"
+        "@id": "_:g498260"
       },
       {
-        "@id": "_:g500920"
+        "@id": "_:g500380"
+      },
+      {
+        "@id": "_:g502500"
+      },
+      {
+        "@id": "_:g504620"
+      },
+      {
+        "@id": "_:g506740"
       }
     ],
     "http://schema.org/name": [
@@ -395,194 +404,242 @@
     ]
   },
   {
-    "@id": "_:g478380",
+    "@id": "_:g478240",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g478440"
+        "@id": "_:g478300"
       }
     ],
     "http://schema.org/query-input": [
       {
-        "@id": "_:g478460"
+        "@id": "_:g478320"
       }
     ]
   },
   {
-    "@id": "_:g480380",
+    "@id": "_:g480160",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g480440"
+        "@id": "_:g480220"
       }
     ],
     "http://schema.org/query-input": [
       {
-        "@id": "_:g480460"
+        "@id": "_:g480240"
       }
     ]
   },
   {
-    "@id": "_:g482300",
+    "@id": "_:g482080",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g482360"
+        "@id": "_:g482140"
       }
     ],
     "http://schema.org/query-input": [
       {
-        "@id": "_:g482380"
+        "@id": "_:g482160"
       }
     ]
   },
   {
-    "@id": "_:g484280",
+    "@id": "_:g484180",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g484340"
+        "@id": "_:g484240"
       }
     ],
     "http://schema.org/query-input": [
       {
-        "@id": "_:g484360"
+        "@id": "_:g484260"
       }
     ]
   },
   {
-    "@id": "_:g486440",
+    "@id": "_:g486220",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g486500"
+        "@id": "_:g486280"
       }
     ],
     "http://schema.org/query-input": [
       {
-        "@id": "_:g486520"
+        "@id": "_:g486300"
       }
     ]
   },
   {
-    "@id": "_:g488360",
+    "@id": "_:g488140",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g488420"
+        "@id": "_:g488200"
       }
     ],
     "http://schema.org/query-input": [
       {
-        "@id": "_:g488440"
+        "@id": "_:g488220"
       }
     ]
   },
   {
-    "@id": "_:g490480",
+    "@id": "_:g490100",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g490540"
+        "@id": "_:g490160"
       }
     ],
     "http://schema.org/query-input": [
       {
-        "@id": "_:g490560"
+        "@id": "_:g490180"
       }
     ]
   },
   {
-    "@id": "_:g492440",
+    "@id": "_:g492260",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g492500"
+        "@id": "_:g492320"
       }
     ],
     "http://schema.org/query-input": [
       {
-        "@id": "_:g492520"
+        "@id": "_:g492340"
       }
     ]
   },
   {
-    "@id": "_:g494560",
+    "@id": "_:g494220",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g494620"
+        "@id": "_:g494280"
       }
     ],
     "http://schema.org/query-input": [
       {
-        "@id": "_:g494640"
+        "@id": "_:g494300"
       }
     ]
   },
   {
-    "@id": "_:g496680",
+    "@id": "_:g496300",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g496740"
+        "@id": "_:g496360"
       }
     ],
     "http://schema.org/query-input": [
       {
-        "@id": "_:g496760"
+        "@id": "_:g496380"
       }
     ]
   },
   {
-    "@id": "_:g498800",
+    "@id": "_:g498260",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g498860"
+        "@id": "_:g498320"
       }
     ],
     "http://schema.org/query-input": [
       {
-        "@id": "_:g498880"
+        "@id": "_:g498340"
       }
     ]
   },
   {
-    "@id": "_:g500920",
+    "@id": "_:g500380",
     "@type": [
       "http://schema.org/SearchAction"
     ],
     "http://schema.org/target": [
       {
-        "@id": "_:g500980"
+        "@id": "_:g500440"
       }
     ],
     "http://schema.org/query-input": [
       {
-        "@id": "_:g501000"
+        "@id": "_:g500460"
+      }
+    ]
+  },
+  {
+    "@id": "_:g502500",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g502560"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g502580"
+      }
+    ]
+  },
+  {
+    "@id": "_:g504620",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g504680"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g504700"
+      }
+    ]
+  },
+  {
+    "@id": "_:g506740",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g506800"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g506820"
       }
     ]
   },
@@ -680,7 +737,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T18:10:36.561-04:00"
+        "@value": "2025-05-21T18:10:24.107-04:00"
       }
     ]
   },
@@ -901,7 +958,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T18:11:03.026-04:00"
+        "@value": "2025-05-23T18:10:53.028-04:00"
       }
     ]
   },
@@ -1051,6 +1108,38 @@
     ]
   },
   {
+    "@id": "http://kg.footlight.io/resource/burlington-ca_mayors-speaker-series#Offer",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://secure1.tixhub.com/Burlington/online/b_otix.asp?cboPerformances=2331&cboEvent=1671&iEvents_id=1671"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/mayors-speaker-series/#WebPage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://burlingtonpac.ca/events/mayors-speaker-series/"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@value": "2025-05-25T18:10:35.933-04:00"
+      }
+    ]
+  },
+  {
     "@id": "http://kg.artsdata.ca/resource/K11-72",
     "@type": [
       "http://schema.org/Place",
@@ -1150,38 +1239,6 @@
     "http://schema.org/streetAddress": [
       {
         "@value": "345 Carlaw Avenue  ON"
-      }
-    ]
-  },
-  {
-    "@id": "http://kg.footlight.io/resource/burlington-ca_mayors-speaker-series#Offer",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://secure1.tixhub.com/Burlington/online/b_otix.asp?cboPerformances=2331&cboEvent=1671&iEvents_id=1671"
-      }
-    ]
-  },
-  {
-    "@id": "https://burlingtonpac.ca/events/mayors-speaker-series/#WebPage",
-    "@type": [
-      "http://schema.org/WebPage"
-    ],
-    "http://schema.org/inLanguage": [
-      {
-        "@value": "en"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://burlingtonpac.ca/events/mayors-speaker-series/"
-      }
-    ],
-    "http://schema.org/lastReviewed": [
-      {
-        "@value": "2025-05-15T18:10:52.852-04:00"
       }
     ]
   },
@@ -1342,7 +1399,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T18:10:59.064-04:00"
+        "@value": "2025-05-25T18:10:44.049-04:00"
       }
     ]
   },
@@ -1574,7 +1631,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T18:11:00.131-04:00"
+        "@value": "2025-05-25T18:10:45.217-04:00"
       }
     ]
   },
@@ -1735,7 +1792,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T18:10:56.717-04:00"
+        "@value": "2025-05-25T18:10:42.734-04:00"
       }
     ]
   },
@@ -1891,6 +1948,17 @@
     ]
   },
   {
+    "@id": "http://kg.footlight.io/resource/burlington-ca_premiere-dance#Offer",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://secure1.tixhub.com/Burlington/online/b_otix.asp?cboPerformances=2329&cboEvent=1669&iEvents_id=1669"
+      }
+    ]
+  },
+  {
     "@id": "https://burlingtonpac.ca/events/premiere-dance/#WebPage",
     "@type": [
       "http://schema.org/WebPage"
@@ -1907,18 +1975,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T18:10:35.450-04:00"
-      }
-    ]
-  },
-  {
-    "@id": "http://kg.footlight.io/resource/burlington-ca_premiere-dance#Offer",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@value": "https://secure1.tixhub.com/Burlington/online/b_otix.asp?cboPerformances=2329&cboEvent=1669&iEvents_id=1669"
+        "@value": "2025-05-25T18:10:21.217-04:00"
       }
     ]
   },
@@ -2116,7 +2173,523 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T18:10:57.840-04:00"
+        "@value": "2025-05-25T18:10:47.653-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/creative-edge-dance/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://burlingtonpac.ca/events/creative-edge-dance/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://burlingtonpac.ca/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://burlingtonpac.ca/events/creative-edge-dance/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://burlingtonpac.ca/events/creative-edge-dance/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2024/06/creative-edge-dance-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-06-06T14:00:42+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-22T18:03:09+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://burlingtonpac.ca/events/creative-edge-dance/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g476260"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Creative Edge Dance Studio Inc: Recital 2025 - 90's Hits - The Burlington Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/creative-edge-dance/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2024/06/creative-edge-dance-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2024/06/creative-edge-dance-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "800"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "500"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en-CA"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@value": "creative edge dance"
+      }
+    ]
+  },
+  {
+    "@id": "_:g476260",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://burlingtonpac.ca/events/creative-edge-dance/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g476340",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://burlingtonpac.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g476360",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.footlight.io/resource/burlington-ca_creative-edge-dance#Offer",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://secure1.tixhub.com/Burlington/online/b_otix.asp?cboPerformances=2385&cboEvent=1714&iEvents_id=1714"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/creative-edge-dance/#WebPage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://burlingtonpac.ca/events/creative-edge-dance/"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@value": "2025-05-25T18:10:49.919-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/dreams-in-motion/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://burlingtonpac.ca/events/dreams-in-motion/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://burlingtonpac.ca/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://burlingtonpac.ca/events/dreams-in-motion/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://burlingtonpac.ca/events/dreams-in-motion/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2025/05/DReams-in-Motion-500x800-1.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-06-08T14:00:08+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-20T18:01:03+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://burlingtonpac.ca/events/dreams-in-motion/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g478220"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Waterdown Dancers Inc: Dreams In Motion - The Burlington Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/dreams-in-motion/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2025/05/DReams-in-Motion-500x800-1.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2025/05/DReams-in-Motion-500x800-1.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "800"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "500"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en-CA"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@value": "dreams in motion"
+      }
+    ]
+  },
+  {
+    "@id": "_:g478220",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://burlingtonpac.ca/events/dreams-in-motion/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g478300",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://burlingtonpac.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g478320",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.footlight.io/resource/burlington-ca_dreams-in-motion#Offer",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://secure1.tixhub.com/Burlington/online/b_otix.asp?cboPerformances=2383&cboEvent=1713&iEvents_id=1713"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/dreams-in-motion/#WebPage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://burlingtonpac.ca/events/dreams-in-motion/"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@value": "2025-05-25T18:10:39.372-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/canadian-dance-company/",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://burlingtonpac.ca/events/canadian-dance-company/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://burlingtonpac.ca/#website"
+      }
+    ],
+    "http://schema.org/primaryImageOfPage": [
+      {
+        "@id": "https://burlingtonpac.ca/events/canadian-dance-company/#primaryimage"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://burlingtonpac.ca/events/canadian-dance-company/#primaryimage"
+      }
+    ],
+    "http://schema.org/thumbnailUrl": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2022/06/canadian-dance-co-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-06-09T14:00:11+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-05-20T16:01:19+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://burlingtonpac.ca/events/canadian-dance-company/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g480140"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Canadian Dance Company: Just Dance! A CDC Celebration - The Burlington Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/canadian-dance-company/#primaryimage",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2022/06/canadian-dance-co-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://burlingtonpac.ca/wp-content/uploads/2022/06/canadian-dance-co-800x500-1.jpg"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "800"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "500"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en-CA"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@value": "canadian dance company"
+      }
+    ]
+  },
+  {
+    "@id": "_:g480140",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@value": "https://burlingtonpac.ca/events/canadian-dance-company/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g480220",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@value": "https://burlingtonpac.ca/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g480240",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "http://kg.footlight.io/resource/burlington-ca_canadian-dance-company#Offer",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://secure1.tixhub.com/Burlington/online/b_otix.asp?cboPerformances=2378&cboEvent=1712&iEvents_id=1712"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/events/canadian-dance-company/#WebPage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "https://burlingtonpac.ca/events/canadian-dance-company/"
+      }
+    ],
+    "http://schema.org/lastReviewed": [
+      {
+        "@value": "2025-05-25T18:10:40.515-04:00"
       }
     ]
   },
@@ -2169,7 +2742,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g476260"
+        "@id": "_:g482060"
       }
     ],
     "http://schema.org/name": [
@@ -2222,7 +2795,7 @@
     ]
   },
   {
-    "@id": "_:g476260",
+    "@id": "_:g482060",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -2233,7 +2806,7 @@
     ]
   },
   {
-    "@id": "_:g476340",
+    "@id": "_:g482140",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -2244,7 +2817,7 @@
     ]
   },
   {
-    "@id": "_:g476360",
+    "@id": "_:g482160",
     "@type": [
       "http://schema.org/PropertyValueSpecification"
     ],
@@ -2350,7 +2923,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T18:10:32.911-04:00"
+        "@value": "2025-05-25T18:10:17.257-04:00"
       }
     ]
   },
@@ -2403,7 +2976,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g478360"
+        "@id": "_:g484160"
       }
     ],
     "http://schema.org/name": [
@@ -2456,7 +3029,7 @@
     ]
   },
   {
-    "@id": "_:g478360",
+    "@id": "_:g484160",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -2467,7 +3040,7 @@
     ]
   },
   {
-    "@id": "_:g478440",
+    "@id": "_:g484240",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -2478,7 +3051,7 @@
     ]
   },
   {
-    "@id": "_:g478460",
+    "@id": "_:g484260",
     "@type": [
       "http://schema.org/PropertyValueSpecification"
     ],
@@ -2540,7 +3113,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T18:10:54.134-04:00"
+        "@value": "2025-05-25T18:10:37.079-04:00"
       }
     ]
   },
@@ -2593,7 +3166,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g480360"
+        "@id": "_:g486200"
       }
     ],
     "http://schema.org/name": [
@@ -2651,7 +3224,7 @@
     ]
   },
   {
-    "@id": "_:g480360",
+    "@id": "_:g486200",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -2662,7 +3235,7 @@
     ]
   },
   {
-    "@id": "_:g480440",
+    "@id": "_:g486280",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -2673,7 +3246,7 @@
     ]
   },
   {
-    "@id": "_:g480460",
+    "@id": "_:g486300",
     "@type": [
       "http://schema.org/PropertyValueSpecification"
     ],
@@ -2717,7 +3290,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T18:10:55.479-04:00"
+        "@value": "2025-05-25T18:10:41.652-04:00"
       }
     ]
   },
@@ -2770,7 +3343,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g482280"
+        "@id": "_:g488120"
       }
     ],
     "http://schema.org/name": [
@@ -2828,7 +3401,7 @@
     ]
   },
   {
-    "@id": "_:g482280",
+    "@id": "_:g488120",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -2839,7 +3412,7 @@
     ]
   },
   {
-    "@id": "_:g482360",
+    "@id": "_:g488200",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -2850,7 +3423,7 @@
     ]
   },
   {
-    "@id": "_:g482380",
+    "@id": "_:g488220",
     "@type": [
       "http://schema.org/PropertyValueSpecification"
     ],
@@ -2883,7 +3456,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T18:10:38.098-04:00"
+        "@value": "2025-05-25T18:10:22.842-04:00"
       }
     ]
   },
@@ -2947,7 +3520,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g484260"
+        "@id": "_:g490080"
       }
     ],
     "http://schema.org/name": [
@@ -3000,7 +3573,7 @@
     ]
   },
   {
-    "@id": "_:g484260",
+    "@id": "_:g490080",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -3011,7 +3584,7 @@
     ]
   },
   {
-    "@id": "_:g484340",
+    "@id": "_:g490160",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -3022,7 +3595,7 @@
     ]
   },
   {
-    "@id": "_:g484360",
+    "@id": "_:g490180",
     "@type": [
       "http://schema.org/PropertyValueSpecification"
     ],
@@ -3115,7 +3688,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T18:10:39.764-04:00"
+        "@value": "2025-05-25T18:10:38.264-04:00"
       }
     ]
   },
@@ -3168,7 +3741,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g486420"
+        "@id": "_:g492240"
       }
     ],
     "http://schema.org/name": [
@@ -3221,7 +3794,7 @@
     ]
   },
   {
-    "@id": "_:g486420",
+    "@id": "_:g492240",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -3232,7 +3805,7 @@
     ]
   },
   {
-    "@id": "_:g486500",
+    "@id": "_:g492320",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -3243,7 +3816,7 @@
     ]
   },
   {
-    "@id": "_:g486520",
+    "@id": "_:g492340",
     "@type": [
       "http://schema.org/PropertyValueSpecification"
     ],
@@ -3287,7 +3860,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T18:11:04.230-04:00"
+        "@value": "2025-05-25T18:10:48.817-04:00"
       }
     ]
   },
@@ -3340,7 +3913,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g488340"
+        "@id": "_:g494200"
       }
     ],
     "http://schema.org/name": [
@@ -3393,7 +3966,7 @@
     ]
   },
   {
-    "@id": "_:g488340",
+    "@id": "_:g494200",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -3404,7 +3977,7 @@
     ]
   },
   {
-    "@id": "_:g488420",
+    "@id": "_:g494280",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -3415,7 +3988,7 @@
     ]
   },
   {
-    "@id": "_:g488440",
+    "@id": "_:g494300",
     "@type": [
       "http://schema.org/PropertyValueSpecification"
     ],
@@ -3459,7 +4032,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T18:10:44.167-04:00"
+        "@value": "2025-05-25T18:10:24.474-04:00"
       }
     ]
   },
@@ -3512,7 +4085,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g490460"
+        "@id": "_:g496280"
       }
     ],
     "http://schema.org/name": [
@@ -3565,7 +4138,7 @@
     ]
   },
   {
-    "@id": "_:g490460",
+    "@id": "_:g496280",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -3576,7 +4149,7 @@
     ]
   },
   {
-    "@id": "_:g490540",
+    "@id": "_:g496360",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -3587,7 +4160,7 @@
     ]
   },
   {
-    "@id": "_:g490560",
+    "@id": "_:g496380",
     "@type": [
       "http://schema.org/PropertyValueSpecification"
     ],
@@ -3631,7 +4204,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T18:10:34.074-04:00"
+        "@value": "2025-05-25T18:10:19.374-04:00"
       }
     ]
   },
@@ -3684,7 +4257,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g492420"
+        "@id": "_:g498240"
       }
     ],
     "http://schema.org/name": [
@@ -3737,7 +4310,7 @@
     ]
   },
   {
-    "@id": "_:g492420",
+    "@id": "_:g498240",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -3748,7 +4321,7 @@
     ]
   },
   {
-    "@id": "_:g492500",
+    "@id": "_:g498320",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -3759,7 +4332,7 @@
     ]
   },
   {
-    "@id": "_:g492520",
+    "@id": "_:g498340",
     "@type": [
       "http://schema.org/PropertyValueSpecification"
     ],
@@ -3803,7 +4376,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T18:11:01.482-04:00"
+        "@value": "2025-05-25T18:10:46.418-04:00"
       }
     ]
   },
@@ -3856,7 +4429,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g494540"
+        "@id": "_:g500360"
       }
     ],
     "http://schema.org/name": [
@@ -3909,7 +4482,7 @@
     ]
   },
   {
-    "@id": "_:g494540",
+    "@id": "_:g500360",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -3920,7 +4493,7 @@
     ]
   },
   {
-    "@id": "_:g494620",
+    "@id": "_:g500440",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -3931,7 +4504,7 @@
     ]
   },
   {
-    "@id": "_:g494640",
+    "@id": "_:g500460",
     "@type": [
       "http://schema.org/PropertyValueSpecification"
     ],
@@ -3975,7 +4548,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T18:10:48.076-04:00"
+        "@value": "2025-05-25T18:10:30.420-04:00"
       }
     ]
   },
@@ -4028,7 +4601,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g496660"
+        "@id": "_:g502480"
       }
     ],
     "http://schema.org/name": [
@@ -4081,7 +4654,7 @@
     ]
   },
   {
-    "@id": "_:g496660",
+    "@id": "_:g502480",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -4092,7 +4665,7 @@
     ]
   },
   {
-    "@id": "_:g496740",
+    "@id": "_:g502560",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -4103,7 +4676,7 @@
     ]
   },
   {
-    "@id": "_:g496760",
+    "@id": "_:g502580",
     "@type": [
       "http://schema.org/PropertyValueSpecification"
     ],
@@ -4147,7 +4720,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T18:10:49.483-04:00"
+        "@value": "2025-05-25T18:10:32.156-04:00"
       }
     ]
   },
@@ -4200,7 +4773,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g498780"
+        "@id": "_:g504600"
       }
     ],
     "http://schema.org/name": [
@@ -4253,7 +4826,7 @@
     ]
   },
   {
-    "@id": "_:g498780",
+    "@id": "_:g504600",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -4264,7 +4837,7 @@
     ]
   },
   {
-    "@id": "_:g498860",
+    "@id": "_:g504680",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -4275,7 +4848,7 @@
     ]
   },
   {
-    "@id": "_:g498880",
+    "@id": "_:g504700",
     "@type": [
       "http://schema.org/PropertyValueSpecification"
     ],
@@ -4319,7 +4892,7 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T18:10:50.647-04:00"
+        "@value": "2025-05-25T18:10:33.526-04:00"
       }
     ]
   },
@@ -4372,7 +4945,7 @@
     ],
     "http://schema.org/potentialAction": [
       {
-        "@id": "_:g500900"
+        "@id": "_:g506720"
       }
     ],
     "http://schema.org/name": [
@@ -4425,7 +4998,7 @@
     ]
   },
   {
-    "@id": "_:g500900",
+    "@id": "_:g506720",
     "@type": [
       "http://schema.org/ReadAction"
     ],
@@ -4436,7 +5009,7 @@
     ]
   },
   {
-    "@id": "_:g500980",
+    "@id": "_:g506800",
     "@type": [
       "http://schema.org/EntryPoint"
     ],
@@ -4447,7 +5020,7 @@
     ]
   },
   {
-    "@id": "_:g501000",
+    "@id": "_:g506820",
     "@type": [
       "http://schema.org/PropertyValueSpecification"
     ],
@@ -4491,12 +5064,12 @@
     ],
     "http://schema.org/lastReviewed": [
       {
-        "@value": "2025-05-15T18:10:51.742-04:00"
+        "@value": "2025-05-25T18:10:34.700-04:00"
       }
     ]
   },
   {
-    "@id": "https://burlingtonpac.ca/temporary/9e92fb37-014c-4df3-818f-524fecadddbc",
+    "@id": "https://burlingtonpac.ca/temporary/d4b7d8d7-2503-4025-a279-9e7b5a88892a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4560,7 +5133,7 @@
     ]
   },
   {
-    "@id": "https://burlingtonpac.ca/temporary/9904722c-6409-4f4d-bba8-a47c935f6dda",
+    "@id": "https://burlingtonpac.ca/temporary/a2a2afdd-9093-43bc-b037-2efb5e39f68d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4618,21 +5191,13 @@
     ]
   },
   {
-    "@id": "https://burlingtonpac.ca/temporary/b0cb73c7-b474-48b8-ad55-f7c146ce777e",
+    "@id": "https://burlingtonpac.ca/temporary/6df9e14e-3d12-422d-82dc-7a20fb5c1b58",
     "@type": [
       "http://schema.org/Event"
     ],
-    "http://schema.org/location": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K11-72"
-      },
-      {
-        "@id": "http://kg.artsdata.ca/resource/K11-204"
-      }
-    ],
     "http://schema.org/startDate": [
       {
-        "@value": "2025-05-15T18:00:00-04:00"
+        "@value": "2025-05-25T18:00:00-04:00"
       },
       {
         "@value": "2025-05-30T19:00:00-04:00"
@@ -4661,6 +5226,14 @@
         "@id": "http://schema.org/OfflineEventAttendanceMode"
       }
     ],
+    "http://schema.org/location": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-72"
+      },
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-204"
+      }
+    ],
     "http://schema.org/name": [
       {
         "@language": "en",
@@ -4685,7 +5258,7 @@
     ]
   },
   {
-    "@id": "https://burlingtonpac.ca/temporary/df57f0fa-d42a-4f5d-993f-b3bf476417fe",
+    "@id": "https://burlingtonpac.ca/temporary/7e798963-367e-4e8d-879e-13b31e11a9e0",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4743,7 +5316,7 @@
     ]
   },
   {
-    "@id": "https://burlingtonpac.ca/temporary/f5df3768-b2a0-43f3-bdc1-6a1dfb3fc4ae",
+    "@id": "https://burlingtonpac.ca/temporary/aad0b756-2483-4773-a440-fec06c5cc0e4",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4809,7 +5382,7 @@
     ]
   },
   {
-    "@id": "https://burlingtonpac.ca/temporary/66e55cd7-2245-4c02-92a3-c2084d2df8da",
+    "@id": "https://burlingtonpac.ca/temporary/869d0f4f-ca8b-46c3-8d5b-961127545915",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4867,9 +5440,19 @@
     ]
   },
   {
-    "@id": "https://burlingtonpac.ca/temporary/650f0b56-13e3-4458-b66e-5f151c7333c1",
+    "@id": "https://burlingtonpac.ca/temporary/724df15d-0e13-433b-a611-8d5e045565a7",
     "@type": [
       "http://schema.org/Event"
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "http://kg.footlight.io/resource/burlington-ca_premiere-dance#Offer"
+      }
     ],
     "http://schema.org/mainEntityOfPage": [
       {
@@ -4884,16 +5467,6 @@
     "http://schema.org/location": [
       {
         "@id": "http://kg.artsdata.ca/resource/K11-73"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@id": "http://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "http://kg.footlight.io/resource/burlington-ca_premiere-dance#Offer"
       }
     ],
     "http://schema.org/name": [
@@ -4925,7 +5498,7 @@
     ]
   },
   {
-    "@id": "https://burlingtonpac.ca/temporary/5ce85a57-4bd0-4d78-92c4-1e9ea03efe39",
+    "@id": "https://burlingtonpac.ca/temporary/b305014d-ae78-4eab-bd24-86a8951ae6fb",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4944,6 +5517,11 @@
         "@id": "https://burlingtonpac.ca/events/motown-soul/#WebPage"
       }
     ],
+    "http://schema.org/location": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-73"
+      }
+    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
@@ -4952,11 +5530,6 @@
     "http://schema.org/eventAttendanceMode": [
       {
         "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K11-73"
       }
     ],
     "http://schema.org/name": [
@@ -4988,7 +5561,199 @@
     ]
   },
   {
-    "@id": "https://burlingtonpac.ca/temporary/e7b9617d-8f07-4cb4-8a23-2fe646293210",
+    "@id": "https://burlingtonpac.ca/temporary/56054103-8a25-4b9c-a1b9-0b8be31feadc",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@value": "2025-06-06T18:00:00-04:00"
+      },
+      {
+        "@value": "2025-06-07T13:30:00-04:00"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "http://kg.footlight.io/resource/burlington-ca_creative-edge-dance#Offer"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://burlingtonpac.ca/events/creative-edge-dance/#WebPage"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-73"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Creative Edge Dance Studio Inc: Recital 2025 - 90's Hits - The Burlington Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "style=\"height:15px;\" Creative Edge Dance Studio Inc. presents CE Recital 2025 featuring recreational, part-time competitive and full-time competitive dancers!"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://burlingtonpac.ca/events/creative-edge-dance/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@value": "https://burlingtonpac.ca/wp-content/uploads/2024/06/creative-edge-dance-800x500-1.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/temporary/6b9c198f-77d2-4c74-9df2-ad32baf1f735",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "http://kg.footlight.io/resource/burlington-ca_dreams-in-motion#Offer"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://burlingtonpac.ca/events/dreams-in-motion/#WebPage"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-73"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Waterdown Dancers Inc: Dreams In Motion - The Burlington Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "style=\"height:15px;\" Dreams In Motion is Waterdown Dancers Inc.’s 28th dance recital! Join us on Sunday June 8th to experience dreams as they become reality on the Burlington Performing Arts Centre stage!"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://burlingtonpac.ca/events/dreams-in-motion/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@value": "https://burlingtonpac.ca/wp-content/uploads/2025/05/DReams-in-Motion-500x800-1.jpg"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@value": "2025-06-08T13:00:00-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/temporary/2cbab9a9-3adf-4934-ab6a-44cc4ba90b7a",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@value": "2025-05-21T12:00:00-04:00"
+      },
+      {
+        "@value": "2025-06-09T17:00:00-04:00"
+      },
+      {
+        "@value": "2025-06-09T19:30:00-04:00"
+      },
+      {
+        "@value": "2025-06-10T17:00:00-04:00"
+      },
+      {
+        "@value": "2025-06-10T19:30:00-04:00"
+      },
+      {
+        "@value": "2025-06-11T18:00:00-04:00"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "http://kg.footlight.io/resource/burlington-ca_canadian-dance-company#Offer"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://burlingtonpac.ca/events/canadian-dance-company/#WebPage"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-73"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Canadian Dance Company: Just Dance! A CDC Celebration - The Burlington Performing Arts Centre"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "style=\"height:15px;\" Just Dance! A CDC Celebration is our vibrant year-end recital that showcases the passion, progress, and pure joy of dance from our incredible CDC Burlington students. From our tiniest tots to our most seasoned performers, each dancer takes the stage to share what they’ve learned, express their individuality, and celebrate a season of hard work and growth. This energetic showcase spans a wide range of styles, featuring inspiring choreography, dazzling costumes, and heartwarming moments that capture the spirit of community and creativity at Canadian Dance Company. Come cheer, clap, and—of course—just dance with us as we celebrate another unforgettable year!"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://burlingtonpac.ca/events/canadian-dance-company/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@value": "https://burlingtonpac.ca/wp-content/uploads/2022/06/canadian-dance-co-800x500-1.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "https://burlingtonpac.ca/temporary/46a7def4-a361-4680-b078-8e241af38cf7",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5021,14 +5786,14 @@
         "@id": "http://kg.footlight.io/resource/burlington-ca_sound-of-music-festival-burlington#Offer"
       }
     ],
-    "http://schema.org/mainEntityOfPage": [
-      {
-        "@id": "https://burlingtonpac.ca/events/sound-of-music-festival-burlington/#WebPage"
-      }
-    ],
     "http://schema.org/eventAttendanceMode": [
       {
         "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/mainEntityOfPage": [
+      {
+        "@id": "https://burlingtonpac.ca/events/sound-of-music-festival-burlington/#WebPage"
       }
     ],
     "http://schema.org/name": [
@@ -5055,7 +5820,7 @@
     ]
   },
   {
-    "@id": "https://burlingtonpac.ca/temporary/d8055a3a-ad25-491c-b5a4-597eb54c7cdd",
+    "@id": "https://burlingtonpac.ca/temporary/83e7a7f3-ae41-4f76-960f-f1ab7773b229",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5121,7 +5886,7 @@
     ]
   },
   {
-    "@id": "https://burlingtonpac.ca/temporary/d84ee99f-0930-4611-bb3a-cb0ef6d7dfb0",
+    "@id": "https://burlingtonpac.ca/temporary/51618da8-a998-4e41-9ba6-e12653fff580",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5182,7 +5947,7 @@
     ]
   },
   {
-    "@id": "https://burlingtonpac.ca/temporary/c9b39f5b-b312-4192-8ee8-48bbe4539aa2",
+    "@id": "https://burlingtonpac.ca/temporary/6fca7849-9ddd-47e0-af3b-2a36c35dff51",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5199,14 +5964,14 @@
         "@id": "https://burlingtonpac.ca/events/bst-footloose/#WebPage"
       }
     ],
-    "http://schema.org/offers": [
-      {
-        "@id": "http://kg.footlight.io/resource/burlington-ca_bst-footloose#Offer"
-      }
-    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "http://kg.footlight.io/resource/burlington-ca_bst-footloose#Offer"
       }
     ],
     "http://schema.org/location": [
@@ -5243,7 +6008,7 @@
     ]
   },
   {
-    "@id": "https://burlingtonpac.ca/temporary/1fc01960-7c5c-415e-b984-c0bae2f49571",
+    "@id": "https://burlingtonpac.ca/temporary/3ce463dc-33c6-48e3-b6d3-57f0714650e3",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5270,14 +6035,14 @@
         "@id": "http://schema.org/EventScheduled"
       }
     ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
     "http://schema.org/location": [
       {
         "@id": "http://kg.artsdata.ca/resource/K11-73"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
       }
     ],
     "http://schema.org/name": [
@@ -5309,7 +6074,7 @@
     ]
   },
   {
-    "@id": "https://burlingtonpac.ca/temporary/fc4a3f76-038c-4e06-ae58-a48252894081",
+    "@id": "https://burlingtonpac.ca/temporary/648a0189-c45f-4266-bf29-4d78576be6e7",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5328,14 +6093,14 @@
         "@id": "http://schema.org/EventScheduled"
       }
     ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
     "http://schema.org/location": [
       {
         "@id": "http://kg.artsdata.ca/resource/K11-73"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
       }
     ],
     "http://schema.org/name": [
@@ -5367,7 +6132,7 @@
     ]
   },
   {
-    "@id": "https://burlingtonpac.ca/temporary/d45eb163-827c-4f6d-bdc8-c5d23e6ae7a5",
+    "@id": "https://burlingtonpac.ca/temporary/26850f32-cfb3-44b0-8622-d4d9507c2dea",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5386,6 +6151,11 @@
         "@id": "https://burlingtonpac.ca/events/bso-ravel/#WebPage"
       }
     ],
+    "http://schema.org/location": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/K11-73"
+      }
+    ],
     "http://schema.org/eventStatus": [
       {
         "@id": "http://schema.org/EventScheduled"
@@ -5394,11 +6164,6 @@
     "http://schema.org/eventAttendanceMode": [
       {
         "@id": "http://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/K11-73"
       }
     ],
     "http://schema.org/name": [
@@ -5430,7 +6195,7 @@
     ]
   },
   {
-    "@id": "https://burlingtonpac.ca/temporary/04aff077-63b1-47b5-bf52-1992443eb22a",
+    "@id": "https://burlingtonpac.ca/temporary/bcd16480-c31a-464f-81b6-7adb12de9282",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5488,7 +6253,7 @@
     ]
   },
   {
-    "@id": "https://burlingtonpac.ca/temporary/5663c57b-6508-424e-9ca5-e559ba8af876",
+    "@id": "https://burlingtonpac.ca/temporary/e6ff2c69-9f54-40b5-b1ad-056bf0e636d4",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5551,7 +6316,7 @@
     ]
   },
   {
-    "@id": "https://burlingtonpac.ca/temporary/df095122-3a65-435b-aeef-e0d1323f9089",
+    "@id": "https://burlingtonpac.ca/temporary/76ee3d9a-f26a-4b06-83f0-7c9b6d42c2fe",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5614,7 +6379,7 @@
     ]
   },
   {
-    "@id": "https://burlingtonpac.ca/temporary/2610bba4-88f4-42f3-9c78-bbff0f683096",
+    "@id": "https://burlingtonpac.ca/temporary/234e10ce-fdf2-4462-b1a4-155a4afd8f56",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5677,7 +6442,7 @@
     ]
   },
   {
-    "@id": "https://burlingtonpac.ca/temporary/1604a64e-4764-4e75-a956-7f4ecbbddd70",
+    "@id": "https://burlingtonpac.ca/temporary/44ef361d-62f8-475a-9b9b-3c816362d867",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5740,7 +6505,7 @@
     ]
   },
   {
-    "@id": "https://burlingtonpac.ca/temporary/7552708d-a486-43e1-8ba9-40f123e5c05c",
+    "@id": "https://burlingtonpac.ca/temporary/b1c64884-4ba6-43a6-9d2b-16c17ca08f8e",
     "@type": [
       "http://schema.org/Event"
     ],
