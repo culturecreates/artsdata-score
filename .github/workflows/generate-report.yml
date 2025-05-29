@@ -27,6 +27,10 @@ on:
         description: "Pass a custom user agent header to http requests"
         required: false
         type: string
+      report_callback_url:
+        description: "Webhook to report results"
+        required: false
+        type: string
   workflow_call: 
     inputs:
       page_url:
@@ -48,6 +52,10 @@ on:
         description: "Pass a custom user agent header to http requests"
         required: false
         type: string
+      report_callback_url:
+        description: "Webhook to report results"
+        required: false
+        type: string
 
 jobs:
   call-reusable-workflow:
@@ -64,6 +72,7 @@ jobs:
           headless: ${{ inputs.headless }}
           token: "${{ secrets.GITHUB_TOKEN }}"
           custom-user-agent: ${{ inputs.custom_user_agent }}
+          report-callback-url:  ${{ inputs.report_callback_url }}
   
   generate-report:
     runs-on: ubuntu-latest
