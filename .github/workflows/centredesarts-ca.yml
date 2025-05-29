@@ -12,4 +12,3 @@ jobs:
         file_name: "centredesarts-ca.jsonld"
         is_paginated: "false"
         headless: "false"
-        report_callback_url: "https://webhook.site/ffa29c57-3a09-4815-bfd3-2dc20bd4e0c7"
