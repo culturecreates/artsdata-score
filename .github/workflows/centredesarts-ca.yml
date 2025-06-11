@@ -7,8 +7,8 @@ jobs:
   call-workflow-to-fetch-data:
     uses: ./.github/workflows/generate-report.yml
     with:
-        page_url: "https://www.centredesarts.ca/sitemap.xml"
-        entity_identifier: "loc"
+        page_url: "https://www.centredesarts.ca/programmation/"
+        entity_identifier: "div.portfolio-text-title a"
         file_name: "centredesarts-ca.jsonld"
         is_paginated: "false"
         headless: "false"
