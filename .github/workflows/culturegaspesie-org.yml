@@ -1,0 +1,15 @@
+name: Score culturegaspesie.org Events
+
+on:
+  workflow_dispatch:
+ 
+jobs:
+  call-workflow-to-fetch-data:
+    uses: ./.github/workflows/generate-report.yml
+    with:
+        page_url: "https://culturegaspesie.org/event-sitemap.xml"
+        entity_identifier: "loc"
+        file_name: "culturegaspesie-org.jsonld"
+        is_paginated: "false"
+        headless: "false"
+        custom_user_agent: "artsdata"
