@@ -1,0 +1,377 @@
+[
+  {
+    "@id": "https://petittheatre.org/",
+    "http://ogp.me/ns#locale": [
+      {
+        "@language": "fr-ca",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "fr-ca",
+        "@value": "website"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "fr-ca",
+        "@value": "Accueil - Le Petit Théatre du Vieux Noranda"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://petittheatre.org/"
+      }
+    ],
+    "http://ogp.me/ns#site_name": [
+      {
+        "@language": "fr-ca",
+        "@value": "Le Petit Théatre du Vieux Noranda"
+      }
+    ],
+    "article:publisher": [
+      {
+        "@language": "fr-ca",
+        "@value": "https://www.facebook.com/petittheatreduvieuxnoranda"
+      }
+    ],
+    "article:modified_time": [
+      {
+        "@language": "fr-ca",
+        "@value": "2025-01-06T21:07:59+00:00"
+      }
+    ],
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://petittheatre.org/#website"
+      }
+    ],
+    "http://schema.org/about": [
+      {
+        "@id": "https://petittheatre.org/#organization"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-05-30T13:37:52+00:00"
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-01-06T21:07:59+00:00"
+      }
+    ],
+    "http://schema.org/breadcrumb": [
+      {
+        "@id": "https://petittheatre.org/#breadcrumb"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g460600"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "fr-ca",
+        "@value": "Tous les événements Tous les événements        \n\nà propos de nous \n\nà propos de nous \n\nLe Petit Théâtre du Vieux Noranda est un lieu de création, de diffusion et de transmission des savoirs multidisciplinaires dans les arts vivants"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "fr-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#image:width": [
+      {
+        "@language": "fr-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#image:height": [
+      {
+        "@language": "fr-ca",
+        "@value": ""
+      }
+    ],
+    "http://ogp.me/ns#image:type": [
+      {
+        "@language": "fr-ca",
+        "@value": ""
+      }
+    ],
+    "https://api.w.org/": [
+      {
+        "@id": "https://petittheatre.org/wp-json/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Accueil - Le Petit Théatre du Vieux Noranda"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://petittheatre.org/#organization"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g460640"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Le Petit Théatre du Vieux Noranda"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "fr",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/#organization",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://petittheatre.org/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://petittheatre.org/#/schema/logo/image/"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/petittheatreduvieuxnoranda"
+      },
+      {
+        "@id": "https://www.instagram.com/petit_theatre_vieux_noranda"
+      },
+      {
+        "@id": "https://bsky.app/profile/petittheatreduvn.bsky.social"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Le Petit Théatre du Vieux Noranda"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460600",
+    "@type": [
+      "http://schema.org/ReadAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://petittheatre.org/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460640",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@id": "_:g460660"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@id": "_:g460680"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org/#/schema/logo/image/",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2024/09/ptvn-logo-e1726184918951.webp"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://petittheatre.org/wp-content/uploads/2024/09/ptvn-logo-e1726184918951.webp"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "216"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "190"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr-CA"
+      }
+    ],
+    "http://schema.org/caption": [
+      {
+        "@language": "fr",
+        "@value": "Le Petit Théatre du Vieux Noranda"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460660",
+    "@type": [
+      "http://schema.org/EntryPoint"
+    ],
+    "http://schema.org/urlTemplate": [
+      {
+        "@language": "fr",
+        "@value": "https://petittheatre.org/?s={search_term_string}"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460680",
+    "@type": [
+      "http://schema.org/PropertyValueSpecification"
+    ],
+    "http://schema.org/valueRequired": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://schema.org/valueName": [
+      {
+        "@language": "fr",
+        "@value": "search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org#website",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org"
+      }
+    ],
+    "http://schema.org/potentialAction": [
+      {
+        "@id": "_:g460800"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://petittheatre.org/"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@language": "fr",
+        "@value": "fr_CA"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Le Petit Théâtre du Vieux Noranda"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460800",
+    "@type": [
+      "http://schema.org/SearchAction"
+    ],
+    "http://schema.org/target": [
+      {
+        "@language": "fr",
+        "@value": "https://petittheatre.org/?s={search_term_string}"
+      }
+    ],
+    "http://schema.org/query-input": [
+      {
+        "@language": "fr",
+        "@value": "required name=search_term_string"
+      }
+    ]
+  },
+  {
+    "@id": "https://petittheatre.org#webpage",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://petittheatre.org"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "fr",
+        "@value": "Blog"
+      }
+    ]
+  }
+]
